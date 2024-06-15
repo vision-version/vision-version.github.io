@@ -11,13 +11,13 @@ To address these problems, this paper proposes a novel approach, Vision, to accu
 
 This section contains the ground truth data we used.
 
-To learn more about how the dataset was constructed as described in the paper, please visit the [1.groundtruth]() folder.
+To learn more about how the dataset was constructed as described in the paper, please visit the [1.groundtruth](https://github.com/vision-version/vision-version.github.io/tree/main/Vision/1.groundtruth) folder.
 
 ## 2. Methodology
 
 This section details the main modules of our Vision framework, which include critical method selection, slicing, taint analysis, IPDG construction, and graph similarity calculations. 
 
-For a deeper understanding of our methodology, please visit the [2.methodology]() folder.
+For a deeper understanding of our methodology, please visit the [2.methodology](https://github.com/vision-version/vision-version.github.io/tree/main/Vision/2.methodology) folder.
 
 ## 3. Baseline
 
@@ -25,7 +25,7 @@ The baseline section comprises patched-based methods such as Verjava (not open s
 
 As outlined in our paper, some approaches primarily target C/C++ and GitHub environments, but we have adapted them for Java and Maven.
 
-For additional details, please visit the [3.baseline]() folder.
+For additional details, please visit the [3.baseline](https://github.com/vision-version/vision-version.github.io/tree/main/Vision/3.baseline) folder.
 
 ## 4. JAR Files
 
@@ -37,4 +37,4 @@ The 'tool' folder contains tree-sitter, an AST (Abstract Syntax Tree) tool used 
 
 ## 6. Evaluation
 
-This section corresponds to the 'Evaluation' section of our paper. You can replicate our results by visiting the [6.evaluate]() folder.
+This section corresponds to the 'Evaluation' section of our paper. You can replicate our results by visiting the [6.evaluate](https://github.com/vision-version/vision-version.github.io/tree/main/Vision/6.evaluate) folder.
