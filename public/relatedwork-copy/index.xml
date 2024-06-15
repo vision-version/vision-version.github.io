@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/relatedwork-copy/</link>
+      <atom:link href="http://localhost:1313/relatedwork-copy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/relatedwork-copy/</link>
+    </image>
+    
+    <item>
+      <title>V-SZZ: automatic identification of version ranges affected by CVE vulnerabilities</title>
+      <link>http://localhost:1313/relatedwork-copy/v-szz/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/relatedwork-copy/v-szz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VERJava: Vulnerable Version Identification for Java OSS with a Two-Stage Analysis</title>
+      <link>http://localhost:1313/relatedwork-copy/verjava/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/relatedwork-copy/verjava/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>{MVP}: Detecting vulnerabilities using {Patch-Enhanced} vulnerability signatures</title>
+      <link>http://localhost:1313/relatedwork-copy/mvp/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/relatedwork-copy/mvp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>{V0Finder}: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities</title>
+      <link>http://localhost:1313/relatedwork-copy/v0finder/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/relatedwork-copy/v0finder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vuddy: A scalable approach for vulnerable code clone discovery</title>
+      <link>http://localhost:1313/relatedwork-copy/vuddy/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/relatedwork-copy/vuddy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub Advisory</title>
+      <link>http://localhost:1313/relatedwork-copy/github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/relatedwork-copy/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitLab Advisory</title>
+      <link>http://localhost:1313/relatedwork-copy/gitlab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/relatedwork-copy/gitlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NVD</title>
+      <link>http://localhost:1313/relatedwork-copy/nvd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/relatedwork-copy/nvd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snyk Vulnerability Database</title>
+      <link>http://localhost:1313/relatedwork-copy/snyk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/relatedwork-copy/snyk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veracode Vulnerability Database</title>
+      <link>http://localhost:1313/relatedwork-copy/veracode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/relatedwork-copy/veracode/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

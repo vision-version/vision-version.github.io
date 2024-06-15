@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graph Edit Distance | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/graph-edit-distance/</link>
+      <atom:link href="http://localhost:1313/tags/graph-edit-distance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graph Edit Distance</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Graph Edit Distance</title>
+      <link>http://localhost:1313/tags/graph-edit-distance/</link>
+    </image>
+    
+    <item>
+      <title>Affected Library Versions Detection</title>
+      <link>http://localhost:1313/modules/affected-library-versions-detection/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/modules/affected-library-versions-detection/</guid>
+      <description>&lt;p&gt;Similarity Calculation. VIsION compares the similarity of the weighted PDGs between Sx and Sx&amp;rsquo;, SP and SP&amp;rsquo; to identify ALVs.&lt;/p&gt;
+&lt;p&gt;You can access to the module in &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/2.methodology/graph_sim&#34;&gt;Code&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Before start, you can read the &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/blob/main/Vision/2.methodology/README.md&#34;&gt;ReadMe&lt;/a&gt; to acquire the detailed implementation of this module.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>groundtruth | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/groundtruth/</link>
+      <atom:link href="http://localhost:1313/groundtruth/index.xml" rel="self" type="application/rss+xml" />
+    <description>groundtruth</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>groundtruth</title>
+      <link>http://localhost:1313/groundtruth/</link>
+    </image>
+    
+    <item>
+      <title>CVE and PoC collecting</title>
+      <link>http://localhost:1313/groundtruth/cve-and-poc-collecting/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/groundtruth/cve-and-poc-collecting/</guid>
+      <description>&lt;h2 id=&#34;collecting-vulnerabilities&#34;&gt;Collecting Vulnerabilities&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Collecting Vulnerabilities. We collected CVEs with their patch (e.g., GitHub commits) in their references from January 1999 to May 2024 from NVD. It covered existing datasets of V-SZZ and VerJava. We obtained &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/blob/main/Vision/1.groundtruth/PatchCollect.json&#34;&gt;1,083 CVEs with its patch&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collecting-test-casesproof-of-concepts-and-creating-test-cases&#34;&gt;Collecting Test Cases/Proof-of-Concepts and Creating Test Cases&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Collecting Test Cases/Proof-of-Concepts and Creating Test Cases. We manually inspected test cases included in the patches. If not present, we searched for patch commits in GitHub repositories using CVE IDs and websites containing vulnerability “exploits” or “proof-of-concepts (PoCs)”. We analyzed their triggering logic and transformed them into JUnit test cases. &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/1.groundtruth/testcase-trigger/testcase-trigger&#34;&gt;We obtained 102 CVEs with test cases&lt;/a&gt;, each with an assertion of the trigger status.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Prove and Human Prove</title>
+      <link>http://localhost:1313/groundtruth/dynamic-prove/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/groundtruth/dynamic-prove/</guid>
+      <description>&lt;h2 id=&#34;running-test-cases-across-library-versions&#34;&gt;Running Test Cases across Library Versions&lt;/h2&gt;
+&lt;p&gt;Running Test Cases across Library Versions. We automatically changed the library versions from Maven and executed the test cases to verify the triggering status of the vulnerabilities. &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/1.groundtruth/testcase-trigger/auto-trigger&#34;&gt;We manually inspected unsuccessful test case runs and modified the code for compatibility with the corresponding version.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Human Prove</title>
+      <link>http://localhost:1313/groundtruth/human-prove/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/groundtruth/human-prove/</guid>
+      <description>&lt;h2 id=&#34;manual-inspection&#34;&gt;Manual Inspection.&lt;/h2&gt;
+&lt;p&gt;Manual Inspection. We conducted manual inspections on the remaining library versions that were not successfully executed by the test cases. We determined if the vulnerability existed by checking the presence of vulnerable or fixing methods and statements in the remaining library versions. Finally, &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/blob/main/Vision/1.groundtruth/trueresult.json&#34;&gt;we get our ground truth&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

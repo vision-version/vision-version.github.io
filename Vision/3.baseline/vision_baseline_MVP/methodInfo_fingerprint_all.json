@@ -1,0 +1,5 @@
+CVE-2019-17359 ['org.bouncycastle.asn1.ASN1Integer.longValueExact()', 'org.bouncycastle.asn1.ASN1Integer.longValue(byte[] bytes, int start, int signExt)'] 2 [] 0 []0
+CVE-2016-1000343 [] 0 [] 0 []0
+CVE-2016-1000342 [] 0 [] 0 []0
+CVE-2020-28052 [] 0 [] 0 []0
+CVE-2016-1000340 [] 0 [] 0 []0

@@ -1,0 +1,13 @@
+numpy==1.26.4
+packaging==24.0
+pandas==2.2.2
+pexpect==4.9.0
+portalocker==2.8.2
+ptyprocess==0.7.0
+python-tlsh==4.5.0
+tqdm
+tree-sitter==0.22.0
+tree-sitter-c==0.21.1
+tree-sitter-cpp==0.22.0
+tree-sitter-java==0.21.0
+tree-sitter-languages==1.10.2

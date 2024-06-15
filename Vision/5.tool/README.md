@@ -1,0 +1,1 @@
+The 'tool' folder contains tree-sitter, an AST (Abstract Syntax Tree) tool used in our Vision framework.

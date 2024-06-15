@@ -1,0 +1,18 @@
+diff --git a/github_diff/CVE-2019-10755/oldfiles/CommonHelper.java b/github_diff/CVE-2019-10755/newfiles/CommonHelper.java
+index 6f3c817..472a88a 100644
+--- a/github_diff/CVE-2019-10755/oldfiles/CommonHelper.java
++++ b/github_diff/CVE-2019-10755/newfiles/CommonHelper.java
+@@ -132,7 +132,12 @@ public final class CommonHelper {
+     }
+     
+     public static String randomString(final int size) {
+-        return java.util.UUID.randomUUID().toString().replace("-", "").substring(0, size);
++        StringBuffer sb = new StringBuffer("");
++        while (sb.length() < size) {
++            sb.append(java.util.UUID.randomUUID().toString().replace("-", ""));
++        }
++        
++        return sb.toString().substring(0, size);
+     }
+     
+     public static Date newDate(final Date original) {

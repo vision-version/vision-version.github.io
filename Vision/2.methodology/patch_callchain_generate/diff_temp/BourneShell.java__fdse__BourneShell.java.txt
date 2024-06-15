@@ -1,0 +1,64 @@
+diff --git a/github_diff/CVE-2022-29599/oldfiles/BourneShell.java b/github_diff/CVE-2022-29599/newfiles/BourneShell.java
+index c52da01..004cb9e 100644
+--- a/github_diff/CVE-2022-29599/oldfiles/BourneShell.java
++++ b/github_diff/CVE-2022-29599/newfiles/BourneShell.java
+@@ -2,14 +2,12 @@ package org.apache.maven.shared.utils.cli.shell;
+ import java.util.ArrayList;
+ import java.util.List;
+ import org.apache.maven.shared.utils.Os;
+-import org.apache.maven.shared.utils.StringUtils;
+ public class BourneShell extends Shell {
+-    private static final char DOUBLE_QUOTATION = '"';
+-    private static final char[] BASH_QUOTING_TRIGGER_CHARS = { ' ', '$', ';', '&', '|', '<', '>', '*', '?', '(', ')', '[', ']', '{', '}', '`', '#' };
+     public BourneShell() {
++        setUnconditionalQuoting( true );
+         setShellCommand( "/bin/sh" );
+-        setArgumentQuoteDelimiter( DOUBLE_QUOTATION );
+-        setExecutableQuoteDelimiter( DOUBLE_QUOTATION );
++        setArgumentQuoteDelimiter( '\'' );
++        setExecutableQuoteDelimiter( '\'' );
+         setSingleQuotedArgumentEscaped( true );
+         setSingleQuotedExecutableEscaped( false );
+         setQuotedExecutableEnabled( true );
+@@ -20,7 +18,7 @@ public class BourneShell extends Shell {
+             return super.getExecutable();
+         }
+         
+-        return unifyQuotes( super.getExecutable() );
++        return quoteOneItem( super.getExecutable(), true );
+     }
+     
+     public List<String> getShellArgsList() {
+@@ -58,25 +56,21 @@ public class BourneShell extends Shell {
+         String dir = getWorkingDirectoryAsString();
+         StringBuilder sb = new StringBuilder();
+         sb.append( "cd " );
+-        sb.append( unifyQuotes( dir ) );
++        sb.append( quoteOneItem( dir, false ) );
+         sb.append( " && " );
+         return sb.toString();
+     }
+     
+-    protected char[] getQuotingTriggerChars() {
+-        return BASH_QUOTING_TRIGGER_CHARS;
+-    }
+-    
+-    private static String unifyQuotes( String path ) {
++    protected String quoteOneItem( String path, boolean isExecutable ) {
+         if ( path == null ){
+             return null;
+         }
+         
+-        if ( path.indexOf( ' ' ) == -1 && path.indexOf( '\'' ) != -1 && path.indexOf( '"' ) == -1 ){
+-            return StringUtils.escape( path );
+-        }
+-        
+-        return StringUtils.quoteAndEscape( path, '\"', BASH_QUOTING_TRIGGER_CHARS );
++        StringBuilder sb = new StringBuilder();
++        sb.append( "'" );
++        sb.append( path.replace( "'", "'\"'\"'" ) );
++        sb.append( "'" );
++        return sb.toString();
+     }
+     
+ }

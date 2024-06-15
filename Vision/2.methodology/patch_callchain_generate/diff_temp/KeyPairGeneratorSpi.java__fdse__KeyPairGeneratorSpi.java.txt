@@ -1,0 +1,90 @@
+diff --git a/github_diff/CVE-2016-1000343/oldfiles/KeyPairGeneratorSpi.java b/github_diff/CVE-2016-1000343/newfiles/KeyPairGeneratorSpi.java
+index de54bf9..77c6b6f 100644
+--- a/github_diff/CVE-2016-1000343/oldfiles/KeyPairGeneratorSpi.java
++++ b/github_diff/CVE-2016-1000343/newfiles/KeyPairGeneratorSpi.java
+@@ -5,14 +5,21 @@ import java.security.KeyPair;
+ import java.security.SecureRandom;
+ import java.security.spec.AlgorithmParameterSpec;
+ import java.security.spec.DSAParameterSpec;
++import java.util.Hashtable;
+ import org.bouncycastle.crypto.AsymmetricCipherKeyPair;
++import org.bouncycastle.crypto.digests.SHA256Digest;
+ import org.bouncycastle.crypto.generators.DSAKeyPairGenerator;
+ import org.bouncycastle.crypto.generators.DSAParametersGenerator;
+ import org.bouncycastle.crypto.params.DSAKeyGenerationParameters;
++import org.bouncycastle.crypto.params.DSAParameterGenerationParameters;
+ import org.bouncycastle.crypto.params.DSAParameters;
+ import org.bouncycastle.crypto.params.DSAPrivateKeyParameters;
+ import org.bouncycastle.crypto.params.DSAPublicKeyParameters;
++import org.bouncycastle.util.Integers;
++import org.bouncycastle.util.Properties;
+ public class KeyPairGeneratorSpi extends java.security.KeyPairGenerator {
++    private static Hashtable params = new Hashtable();
++    private static Object    lock = new Object();
+     DSAKeyGenerationParameters param;
+     DSAKeyPairGenerator engine = new DSAKeyPairGenerator();
+     int strength = 1024;
+@@ -30,6 +37,7 @@ public class KeyPairGeneratorSpi extends java.security.KeyPairGenerator {
+         
+         this.strength = strength;
+         this.random = random;
++        this.initialised = false;
+     }
+     
+     public void initialize( AlgorithmParameterSpec params, SecureRandom random) throws InvalidAlgorithmParameterException {
+@@ -45,9 +53,52 @@ public class KeyPairGeneratorSpi extends java.security.KeyPairGenerator {
+     
+     public KeyPair generateKeyPair() {
+         if (!initialised){
+-            DSAParametersGenerator pGen = new DSAParametersGenerator();
+-            pGen.init(strength, certainty, random);
+-            param = new DSAKeyGenerationParameters(random, pGen.generateParameters());
++            Integer paramStrength = Integers.valueOf(strength);
++            if (params.containsKey(paramStrength)){
++                param = (DSAKeyGenerationParameters)params.get(paramStrength);
++            }
++            
++            else{
++                synchronized (lock) {
++                    if (params.containsKey(paramStrength)){
++                        param = (DSAKeyGenerationParameters)params.get(paramStrength);
++                    }
++                    
++                    else{
++                        DSAParametersGenerator pGen;
++                        DSAParameterGenerationParameters dsaParams;
++                        if (strength == 1024){
++                            pGen = new DSAParametersGenerator();
++                            if (Properties.isOverrideSet("org.bouncycastle.dsa.FIPS186-2for1024bits")){
++                                pGen.init(strength, certainty, random);
++                            }
++                            
++                            else{
++                                dsaParams = new DSAParameterGenerationParameters(1024, 160, certainty, random);
++                                pGen.init(dsaParams);
++                            }
++                            
++                        }
++                        
++                        else if (strength > 1024){
++                            dsaParams = new DSAParameterGenerationParameters(strength, 256, certainty, random);
++                            pGen = new DSAParametersGenerator(new SHA256Digest());
++                            pGen.init(dsaParams);
++                        }
++                        
++                        else{
++                            pGen = new DSAParametersGenerator();
++                            pGen.init(strength, certainty, random);
++                        }
++                        
++                        param = new DSAKeyGenerationParameters(random, pGen.generateParameters());
++                        params.put(paramStrength, param);
++                    }
++                    
++                }
++                
++            }
++            
+             engine.init(param);
+             initialised = true;
+         }

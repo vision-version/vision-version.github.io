@@ -1,0 +1,570 @@
+{
+    "CVE-2022-29599": {
+        "patch": "https://github.com/apache/maven-shared-utils/commit/f751e614c09df8de1a080dc1153931f3f68991c9",
+        "local_repo": "GithubCache/apache__split__maven-shared-utils"
+    },
+    "CVE-2022-22976": {
+        "patch": "https://github.com/spring-projects/spring-security/commit/a40f73521c0dd88b879ff6165d280e78bdf8154f",
+        "local_repo": "GithubCache/spring-projects__split__spring-security"
+    },
+    "CVE-2019-10755": {
+        "patch": "https://github.com/pac4j/pac4j/commit/34d5b1028a2db201ee81ec51b52a782fe073f609",
+        "local_repo": "GithubCache/pac4j__split__pac4j"
+    },
+    "CVE-2022-22969": {
+        "patch": "https://github.com/spring-projects/spring-security-oauth/commit/3379a36e64c13e4118c7e179f3a874a64de5f5a2",
+        "local_repo": "GithubCache/spring-projects__split__spring-security-oauth"
+    },
+    "CVE-2019-20445": {
+        "patch": "https://github.com/netty/netty/commit/8494b046ec7e4f28dbd44bc699cc4c4c92251729",
+        "local_repo": "GithubCache/netty__split__netty"
+    },
+    "CVE-2015-2156": {
+        "patch": "https://github.com/netty/netty/commit/31815598a2af37f0b71ea94eada70d6659c23752",
+        "local_repo": "GithubCache/netty__split__netty"
+    },
+    "CVE-2016-1000338": {
+        "patch": "https://github.com/bcgit/bc-java/commit/44f1ea41be8f0ea309724f35d687c1be13a845eb",
+        "local_repo": "GithubCache/bcgit__split__bc-java"
+    },
+    "CVE-2018-1000632": {
+        "patch": "https://github.com/dom4j/dom4j/commit/c2a99d7dee8ce7a4e5bef134bb781a6672bd8a0f",
+        "local_repo": "GithubCache/dom4j__split__dom4j"
+    },
+    "CVE-2017-7957": {
+        "patch": "https://github.com/x-stream/xstream/commit/b3570be2f39234e61f99f9a20640756ea71b1b4",
+        "local_repo": "GithubCache/x-stream__split__xstream"
+    },
+    "CVE-2020-13973": {
+        "patch": "https://github.com/OWASP/json-sanitizer/commit/f3512bab078af3f5c533dacc2d410add8c0c1124",
+        "local_repo": "GithubCache/OWASP__split__json-sanitizer"
+    },
+    "CVE-2022-23596": {
+        "patch": "https://github.com/junrar/junrar/commit/7b16b3d90b91445fd6af0adfed22c07413d4fab7",
+        "local_repo": "GithubCache/junrar__split__junrar"
+    },
+    "CVE-2021-43797": {
+        "patch": "https://github.com/netty/netty/commit/07aa6b5938a8b6ed7a6586e066400e2643897323",
+        "local_repo": "GithubCache/netty__split__netty"
+    },
+    "CVE-2020-28052": {
+        "patch": "https://github.com/bcgit/bc-java/commit/2a6e67d5b1e4e06dbd6f17d834af4c57a92fd34a",
+        "local_repo": "GithubCache/bcgit__split__bc-java"
+    },
+    "CVE-2020-11988": {
+        "patch": "https://github.com/apache/xmlgraphics-commons/commit/57393912eb87b994c7fed39ddf30fb778a275183",
+        "local_repo": "GithubCache/apache__split__xmlgraphics-commons"
+    },
+    "CVE-2016-1000342": {
+        "patch": "https://github.com/bcgit/bc-java/commit/b2880ac036393776c954ffd61a9b0137e1dce0e0",
+        "local_repo": "GithubCache/bcgit__split__bc-java"
+    },
+    "CVE-2022-24197": {
+        "patch": "https://github.com/itext/itext7/commit/88c9cb7ec7befa096d83206419506ec5c7664912",
+        "local_repo": "GithubCache/itext__split__itext7"
+    },
+    "CVE-2022-24816": {
+        "patch": "https://github.com/geosolutions-it/jai-ext/commit/cb1d6565d38954676b0a366da4f965fef38da1cb",
+        "local_repo": "GithubCache/geosolutions-it__split__jai-ext"
+    },
+    "CVE-2021-43859": {
+        "patch": "https://github.com/x-stream/xstream/commit/e8e88621ba1c85ac3b8620337dd672e0c0c3a846",
+        "local_repo": "GithubCache/x-stream__split__xstream"
+    },
+    "CVE-2021-27568": {
+        "patch": "https://github.com/netplex/json-smart-v2/commit/c8133d2d1cdeddd602b5c25b89dea2db9d8a1a5f",
+        "local_repo": "GithubCache/netplex__split__json-smart-v2"
+    },
+    "CVE-2019-10086": {
+        "patch": "https://github.com/apache/commons-beanutils/commit/dd48f4e589462a8cdb1f29bbbccb35d6b0291d58",
+        "local_repo": "GithubCache/apache__split__commons-beanutils"
+    },
+    "CVE-2018-1002201": {
+        "patch": "https://github.com/zeroturnaround/zt-zip/commit/759b72f33bc8f4d69f84f09fcb7f010ad45d6fff",
+        "local_repo": "GithubCache/zeroturnaround__split__zt-zip"
+    },
+    "CVE-2021-23899": {
+        "patch": "https://github.com/OWASP/json-sanitizer/commit/64dd9502708c25782abc54f1941b21bac711d3da",
+        "local_repo": "GithubCache/OWASP__split__json-sanitizer"
+    },
+    "CVE-2016-1000340": {
+        "patch": "https://github.com/bcgit/bc-java/commit/1b31ec6f2aa6b7199f03feb33d5be6c942fdf724",
+        "local_repo": "GithubCache/bcgit__split__bc-java"
+    },
+    "CVE-2020-7238": {
+        "patch": "https://github.com/netty/netty/commit/ac76a24ff6d3cd0f59a2833c2f83eb82184ecaeb",
+        "local_repo": "GithubCache/netty__split__netty"
+    },
+    "CVE-2022-25845": {
+        "patch": "https://github.com/alibaba/fastjson/commit/8f3410f81cbd437f7c459f8868445d50ad301f15",
+        "local_repo": "GithubCache/alibaba__split__fastjson"
+    },
+    "CVE-2016-1000343": {
+        "patch": "https://github.com/bcgit/bc-java/commit/706c05786e28eb47aee71391d724e3b1d0a88116",
+        "local_repo": "GithubCache/bcgit__split__bc-java"
+    },
+    "CVE-2019-20444": {
+        "patch": "https://github.com/netty/netty/commit/745814b382e828c344aeff2ab4fd9530fbb7cdfe",
+        "local_repo": "GithubCache/netty__split__netty"
+    },
+    "CVE-2022-26336": {
+        "patch": "https://github.com/apache/poi/commit/6622d9badb3590cb6190d912730548635a359dc0",
+        "local_repo": "GithubCache/apache__split__poi"
+    },
+    "CVE-2021-23900": {
+        "patch": "https://github.com/OWASP/json-sanitizer/commit/64dd9502708c25782abc54f1941b21bac711d3da",
+        "local_repo": "GithubCache/OWASP__split__json-sanitizer"
+    },
+    "CVE-2018-20227": {
+        "patch": "https://github.com/eclipse/rdf4j/commit/df15a4d7a8f2789c043b27c9eafe1b30316cfa79",
+        "local_repo": "GithubCache/eclipse__split__rdf4j"
+    },
+    "CVE-2020-26217": {
+        "patch": "https://github.com/x-stream/xstream/commit/0fec095d534126931c99fd38e9c6d41f5c685c1a",
+        "local_repo": "GithubCache/x-stream__split__xstream"
+    },
+    "CVE-2019-17359": {
+        "patch": "https://github.com/bcgit/bc-java/commit/ea6777cb3c667361d72d9048ace24d126f0ac2bc",
+        "local_repo": "GithubCache/bcgit__split__bc-java"
+    },
+    "CVE-2014-0050": {
+        "patch": "https://github.com/apache/commons-fileupload/commit/c61ff05b3241cb14d989b67209e57aa71540417a",
+        "local_repo": "GithubCache/apache__split__commons-fileupload"
+    },
+    "CVE-2017-7525": {
+        "patch": "https://github.com/FasterXML/jackson-databind/commit/60d459cedcf079c6106ae7da2ac562bc32dcabe1",
+        "local_repo": "GithubCache/FasterXML__split__jackson-databind"
+    },
+    "CVE-2018-1274": {
+        "patch": "https://github.com/spring-projects/spring-data-commons/commit/06b0dab536963da78dadf2ba407e5937d81c348a",
+        "local_repo": "GithubCache/spring-projects__split__spring-data-commons"
+    },
+    "CVE-2019-16869": {
+        "patch": "https://github.com/netty/netty/commit/39cafcb05c99f2aa9fce7e6597664c9ed6a63a95",
+        "local_repo": "GithubCache/netty__split__netty"
+    },
+    "CVE-2016-1000031": {
+        "patch": "https://github.com/apache/commons-fileupload/commit/388e824518697c2c8f9f83fd964621d9c2f8fc4c",
+        "local_repo": "GithubCache/apache__split__commons-fileupload"
+    },
+    "CVE-2020-13956": {
+        "patch": "https://github.com/apache/httpcomponents-client/commit/e628b4c5c464c2fa346385596cc78e035a91a62e",
+        "local_repo": "GithubCache/apache__split__httpcomponents-client"
+    },
+    "CVE-2023-34454": {
+        "patch": "https://github.com/xerial/snappy-java/commit/d0042551e4a3509a725038eb9b2ad1f683674d94",
+        "local_repo": "GithubCache/xerial__split__snappy-java"
+    },
+    "CVE-2022-42004": {
+        "patch": "https://github.com/FasterXML/jackson-databind/commit/063183589218fec19a9293ed2f17ec53ea80ba88",
+        "local_repo": "GithubCache/FasterXML__split__jackson-databind"
+    },
+    "CVE-2017-1000487": {
+        "patch": "https://github.com/codehaus-plexus/plexus-utils/commit/b38a1b3a4352303e4312b2bb601a0d7ec6e28f41",
+        "local_repo": "GithubCache/codehaus-plexus__split__plexus-utils"
+    },
+    "CVE-2020-13692": {
+        "patch": "https://github.com/spring-projects/spring-security/commit/a40f73521c0dd88b879ff6165d280e78bdf8154f",
+        "local_repo": "GithubCache/spring-projects__split__spring-security"
+    },
+    "CVE-2022-31197": {
+        "patch": "https://github.com/pgjdbc/pgjdbc/commit/739e599d52ad80f8dcd6efedc6157859b1a9d637",
+        "local_repo": "GithubCache/pgjdbc__split__pgjdbc"
+    },
+    "CVE-2020-8929": {
+        "patch": "https://github.com/google/tink/commit/93d839a5865b9d950dffdc9d0bc99b71280a8899",
+        "local_repo": "GithubCache/google__split__tink"
+    },
+    "CVE-2022-29567": {
+        "patch": "https://github.com/vaadin/flow-components/commit/8fe08611e304779df01ecd6306d478a9c0edced0",
+        "local_repo": "GithubCache/vaadin__split__flow-components"
+    },
+    "CVE-2020-5245": {
+        "patch": "https://github.com/dropwizard/dropwizard/commit/d87d1e4f8e20f6494c0232bf8560c961b46db634",
+        "local_repo": "GithubCache/dropwizard__split__dropwizard"
+    },
+    "CVE-2020-11002": {
+        "patch": "https://github.com/dropwizard/dropwizard/commit/d5a512f7abf965275f2a6b913ac4fe778e424242",
+        "local_repo": "GithubCache/dropwizard__split__dropwizard"
+    },
+    "CVE-2019-10219": {
+        "patch": "https://github.com/hibernate/hibernate-validator/commit/124b7dd6d9a4ad24d4d49f74701f05a13e56ceee",
+        "local_repo": "GithubCache/hibernate__split__hibernate-validator"
+    },
+    "CVE-2020-36320": {
+        "patch": "https://github.com/vaadin/framework/commit/17f5c1b6693892e00a4c2379d621043ef077f24e",
+        "local_repo": "GithubCache/vaadin__split__framework"
+    },
+    "CVE-2022-41966": {
+        "patch": "https://github.com/x-stream/xstream/commit/ae25463743b00d05264b2b4970e593faa82f63ee",
+        "local_repo": "GithubCache/x-stream__split__xstream"
+    },
+    "CVE-2021-30468": {
+        "patch": "https://github.com/apache/cxf/commit/5ac22a447d4d141b849e2b49f1a73db1576adc43",
+        "local_repo": "GithubCache/apache__split__cxf"
+    },
+    "CVE-2022-24615": {
+        "patch": "https://github.com/srikanth-lingala/zip4j/commit/35122fd19b3f1fae531d9e20d54e8dc894414dab",
+        "local_repo": "GithubCache/srikanth-lingala__split__zip4j"
+    },
+    "CVE-2023-43642": {
+        "patch": "https://github.com/xerial/snappy-java/commit/9f8c3cf74223ed0a8a834134be9c917b9f10ceb5",
+        "local_repo": "GithubCache/xerial__split__snappy-java"
+    },
+    "CVE-2023-1370": {
+        "patch": "https://github.com/netplex/json-smart-v2/commit/e2791ae506a57491bc856b439d706c81e45adcf8",
+        "local_repo": "GithubCache/netplex__split__json-smart-v2"
+    },
+    "CVE-2020-5408": {
+        "patch": "https://github.com/spring-projects/spring-security/commit/d1909ec9c8844cfa6b63bab5c2591f14d714ef6b",
+        "local_repo": "GithubCache/spring-projects__split__spring-security"
+    },
+    "CVE-2023-34453": {
+        "patch": "https://github.com/xerial/snappy-java/commit/820e2e074c58748b41dbd547f4edba9e108ad905",
+        "local_repo": "GithubCache/xerial__split__snappy-java"
+    },
+    "CVE-2018-20000": {
+        "patch": "https://github.com/Bedework/bw-webdav/commit/ccb87c2757bab531c53faf0637ee342a378caa7f",
+        "local_repo": "GithubCache/Bedework__split__bw-webdav"
+    },
+    "CVE-2022-23082": {
+        "patch": "https://github.com/whitesource/CureKit/commit/af35e870ed09411d2f1fae6db1b04598cd1a31b6",
+        "local_repo": "GithubCache/whitesource__split__CureKit"
+    },
+    "CVE-2021-44228": {
+        "patch": "https://github.com/apache/logging-log4j2/commit/f819c83804152cb6ed94cb408302e36b21b65053",
+        "local_repo": "GithubCache/apache__split__logging-log4j2"
+    },
+    "CVE-2021-44832": {
+        "patch": "https://github.com/apache/logging-log4j2/commit/bf8ba18f63ab9f9ffd54387c5c527ecc7a681037",
+        "local_repo": "GithubCache/apache__split__logging-log4j2"
+    },
+    "CVE-2021-41973": {
+        "patch": "https://github.com/apache/mina/commit/3bca0bcc3e4615ea234879350c08fd4c4c3fbd20",
+        "local_repo": "GithubCache/apache__split__mina"
+    },
+    "CVE-2013-2055": {
+        "patch": "https://github.com/apache/wicket/commit/4c437fef16e9c8705cd79246eae67993077490f4",
+        "local_repo": "GithubCache/apache__split__wicket"
+    },
+    "CVE-2022-29546": {
+        "patch": "https://github.com/HtmlUnit/htmlunit-neko/commit/9d2aecd69223469e40c12ca3edddda09009110cc",
+        "local_repo": "GithubCache/HtmlUnit__split__htmlunit-neko"
+    },
+    "CVE-2021-33813": {
+        "patch": "https://github.com/hunterhacker/jdom/commit/2a25ee409d09fb3eed75a4272ab8540c5261f960",
+        "local_repo": "GithubCache/hunterhacker__split__jdom"
+    },
+    "CVE-2019-16771": {
+        "patch": "https://github.com/line/armeria/commit/b597f7a865a527a84ee3d6937075cfbb4470ed20",
+        "local_repo": "GithubCache/line__split__armeria"
+    },
+    "CVE-2021-43795": {
+        "patch": "https://github.com/line/armeria/commit/e2697a575e9df6692b423e02d731f293c1313284",
+        "local_repo": "GithubCache/line__split__armeria"
+    },
+    "CVE-2020-11974": {
+        "patch": "https://github.com/apache/dolphinscheduler/commit/86f4276f0fd8d3d42ce9bcc13463eb015232b56f",
+        "local_repo": "GithubCache/apache__split__dolphinscheduler"
+    },
+    "CVE-2021-21234": {
+        "patch": "https://github.com/lukashinsch/spring-boot-actuator-logview/commit/760acbb939a8d1f7d1a7dfcd51ca848eea04e772",
+        "local_repo": "GithubCache/lukashinsch__split__spring-boot-actuator-logview"
+    },
+    "CVE-2022-22978": {
+        "patch": "https://github.com/spring-projects/spring-security/commit/c6461d61babfcf92febfd0a85785623e53190a8f",
+        "local_repo": "GithubCache/spring-projects__split__spring-security"
+    },
+    "CVE-2014-0097": {
+        "patch": "https://github.com/spring-projects/spring-security/commit/7dbb8e777ece8675f3333a1ef1cb4d6b9be80395",
+        "local_repo": "GithubCache/spring-projects__split__spring-security"
+    },
+    "CVE-2011-2732": {
+        "patch": "https://github.com/spring-projects/spring-security/commit/5238ba0e2615ef733a906b264c6c06a4446a886b",
+        "local_repo": "GithubCache/spring-projects__split__spring-security"
+    },
+    "CVE-2012-5055": {
+        "patch": "https://github.com/spring-projects/spring-security/commit/f5fc94e1be40f3a62dd5a8687e4cfd5fe2130dea",
+        "local_repo": "GithubCache/spring-projects__split__spring-security"
+    },
+    "CVE-2016-9879": {
+        "patch": "https://github.com/spring-projects/spring-security/commit/6d30da2e1f166ceac339899295e1b8a8ff2f08c4",
+        "local_repo": "GithubCache/spring-projects__split__spring-security"
+    },
+    "CVE-2017-4995": {
+        "patch": "https://github.com/spring-projects/spring-security/commit/947d11f433b78294942cb5ea56e8aa5c3a0ca439",
+        "local_repo": "GithubCache/spring-projects__split__spring-security"
+    },
+    "CVE-2019-11272": {
+        "patch": "https://github.com/spring-projects/spring-security/commit/b2d4fec3617c497c5a8eb9c7e5270e0c7db293ee",
+        "local_repo": "GithubCache/spring-projects__split__spring-security"
+    },
+    "CVE-2019-11343": {
+        "patch": "https://github.com/xjodoin/torpedoquery/commit/3c20b874fba9cc2a78b9ace10208de1602b56c3f",
+        "local_repo": "GithubCache/xjodoin__split__torpedoquery"
+    },
+    "CVE-2015-6748": {
+        "patch": "https://github.com/jhy/jsoup/commit/4edb78991f8d0bf87dafde5e01ccd8922065c9b2",
+        "local_repo": "GithubCache/jhy__split__jsoup"
+    },
+    "CVE-2022-24897": {
+        "patch": "https://github.com/xwiki/xwiki-commons/commit/d6dc35da44c32f582d76fa0bbf096c8d0e1313d4",
+        "local_repo": "GithubCache/xwiki__split__xwiki-commons"
+    },
+    "CVE-2020-15250": {
+        "patch": "https://github.com/junit-team/junit4/commit/610155b8c22138329f0723eec22521627dbc52ae",
+        "local_repo": "GithubCache/junit-team__split__junit4"
+    },
+    "CVE-2022-22980": {
+        "patch": "https://github.com/spring-projects/spring-data-mongodb/commit/5e241c6ea55939c9587fad5058a07d7b3f0ccbd3",
+        "local_repo": "GithubCache/spring-projects__split__spring-data-mongodb"
+    },
+    "CVE-2018-1000844": {
+        "patch": "https://github.com/square/retrofit/commit/4a693c5aeeef2be6c7ecf80e7b5ec79f6ab59437",
+        "local_repo": "GithubCache/square__split__retrofit"
+    },
+    "CVE-2016-6652": {
+        "patch": "https://github.com/spring-projects/spring-data-jpa/commit/edd497b9c93b4f364ffc78ca302a05938d499271",
+        "local_repo": "GithubCache/spring-projects__split__spring-data-jpa"
+    },
+    "CVE-2022-29631": {
+        "patch": "https://github.com/oblac/jodd-http/commit/e50f573c8f6a39212ade68c6eb1256b2889fa8a6",
+        "local_repo": "GithubCache/oblac__split__jodd-http"
+    },
+    "CVE-2018-8009": {
+        "patch": "https://github.com/apache/hadoop/commit/65e55097da2bb3f2fbdf9ba1946da25fe58bec9",
+        "local_repo": "GithubCache/apache__split__hadoop"
+    },
+    "CVE-2022-1848": {
+        "patch": "https://github.com/erudika/para/commit/fa677c629842df60099daa9c23bd802bc41b48d1",
+        "local_repo": "GithubCache/erudika__split__para"
+    },
+    "CVE-2021-31412": {
+        "patch": "https://github.com/vaadin/flow/commit/16a5f20a80a3c271270d522198779046fd27f201",
+        "local_repo": "GithubCache/vaadin__split__flow"
+    },
+    "CVE-2021-40111": {
+        "patch": "https://github.com/apache/james-project/commit/3cd79b23ed190ac2d51dd88fc0ce419f0daa4ac8",
+        "local_repo": "GithubCache/apache__split__james-project"
+    },
+    "CVE-2021-40110": {
+        "patch": "https://github.com/apache/james-project/commit/90ec73f3138e272896d110575eeb063f6eef1d9c",
+        "local_repo": "GithubCache/apache__split__james-project"
+    },
+    "CVE-2014-0114": {
+        "patch": "https://github.com/apache/commons-beanutils/commit/62e82ad92cf4818709d6044aaf257b73d42659a4",
+        "local_repo": "GithubCache/apache__split__commons-beanutils"
+    },
+    "CVE-2022-32549": {
+        "patch": "https://github.com/apache/sling-org-apache-sling-api/commit/8754cd20cb047498e1cf53fde1e5c0357232e6b9",
+        "local_repo": "GithubCache/apache__split__sling-org-apache-sling-api"
+    },
+    "CVE-2021-22095": {
+        "patch": "https://github.com/spring-projects/spring-amqp/commit/bde294d62a8b7f3f1d5a9f50f862c6f0782efb9d",
+        "local_repo": "GithubCache/spring-projects__split__spring-amqp"
+    },
+    "CVE-2017-8045": {
+        "patch": "https://github.com/spring-projects/spring-amqp/commit/ed824637cc922356b44409827722c4628340b7c8",
+        "local_repo": "GithubCache/spring-projects__split__spring-amqp"
+    },
+    "CVE-2022-25867": {
+        "patch": "https://github.com/socketio/socket.io-client-java/commit/e8ffe9d1383736f6a21090ab959a2f4fa5a41284",
+        "local_repo": "GithubCache/socketio__split__socket.io-client-java"
+    },
+    "CVE-2022-24898": {
+        "patch": "https://github.com/xwiki/xwiki-commons/commit/abe79aaa31d4e8d8caaadfb7454227fb92ed7b18",
+        "local_repo": "GithubCache/xwiki__split__xwiki-commons"
+    },
+    "CVE-2022-24827": {
+        "patch": "https://github.com/yahoo/elide/commit/aec37097a746370ff66b4f61179b6e6934be4d32",
+        "local_repo": "GithubCache/yahoo__split__elide"
+    },
+    "CVE-2022-22979": {
+        "patch": "https://github.com/spring-cloud/spring-cloud-function/commit/0576b6c6ce736415cb3aa3bd85aaceb5b1320e2d",
+        "local_repo": "GithubCache/spring-cloud__split__spring-cloud-function"
+    },
+    "CVE-2020-1953": {
+        "patch": "https://github.com/apache/commons-configuration/commit/add7375cf37fd316d4838c6c56b054fc293b4641",
+        "local_repo": "GithubCache/apache__split__commons-configuration"
+    },
+    "CVE-2021-33609": {
+        "patch": "https://github.com/vaadin/framework/commit/2fc98eaf9c0e2cd42cf4a66fb6d2cd2e9f0a08a9",
+        "local_repo": "GithubCache/vaadin__split__framework"
+    },
+    "CVE-2019-10241": {
+        "patch": "https://github.com/eclipse/jetty.project/commit/ca77bd384a2970cabbbdab25cf6251c6fb76cd21",
+        "local_repo": "GithubCache/eclipse__split__jetty.project"
+    },
+    "CVE-2014-3584": {
+        "patch": "https://github.com/apache/cxf/commit/0b3894f57388b9955f2c33b2295223f2835cd7b3",
+        "local_repo": "GithubCache/apache__split__cxf"
+    },
+    "CVE-2016-4465": {
+        "patch": "https://github.com/apache/struts/commit/eccc31ebce5430f9e91b9684c63eaaf885e603f9",
+        "local_repo": "GithubCache/apache__split__struts"
+    },
+    "CVE-2018-1260": {
+        "patch": "https://github.com/spring-projects/spring-security-oauth/commit/70e5ba84ca98b7ab42c1900bdd9fa51b393d611f",
+        "local_repo": "GithubCache/spring-projects__split__spring-security-oauth"
+    },
+    "CVE-2019-11269": {
+        "patch": "https://github.com/spring-projects/spring-security-oauth/commit/cb714f4cee45ce2807320ded38ed0bee846f2397",
+        "local_repo": "GithubCache/spring-projects__split__spring-security-oauth"
+    },
+    "CVE-2016-7051": {
+        "patch": "https://github.com/FasterXML/jackson-dataformat-xml/commit/eeff2c312e9d4caa8c9f27b8f740c7529d00524a",
+        "local_repo": "GithubCache/FasterXML__split__jackson-dataformat-xml"
+    },
+    "CVE-2017-8046": {
+        "patch": "https://github.com/spring-projects/spring-data-rest/commit/f5bfe5358864de1a15566110de7ad7e5ffb48e99",
+        "local_repo": "GithubCache/spring-projects__split__spring-data-rest"
+    },
+    "CVE-2018-11771": {
+        "patch": "https://github.com/apache/commons-compress/commit/a41ce6892cb0590b2e658704434ac0dbcb6834c8",
+        "local_repo": "GithubCache/apache__split__commons-compress"
+    },
+    "CVE-2018-1259": {
+        "patch": "https://github.com/spring-projects/spring-data-commons/commit/b8974a292ab463a304eda987632be4d9c145f5f8",
+        "local_repo": "GithubCache/spring-projects__split__spring-data-commons"
+    },
+    "CVE-2018-1261": {
+        "patch": "https://github.com/spring-projects/spring-integration-extensions/commit/a5573eb232ff85199ff9bb28993df715d9a19a25",
+        "local_repo": "GithubCache/spring-projects__split__spring-integration-extensions"
+    },
+    "CVE-2018-1263": {
+        "patch": "https://github.com/spring-projects/spring-integration-extensions/commit/d10f537283d90eabd28af57ac97f860a3913bf9b",
+        "local_repo": "GithubCache/spring-projects__split__spring-integration-extensions"
+    },
+    "CVE-2024-31860": {
+        "patch": "https://github.com/apache/zeppelin/commit/f025a697c1d1d0264064d5adf6cb0b20d85041b6",
+        "local_repo": "GithubCache/apache__split__zeppelin"
+    },
+    "CVE-2016-6814": {
+        "patch": "https://github.com/apache/groovy/commit/4df8b652aa018a5d5d1cda8fba938bf3422db31c",
+        "local_repo": "GithubCache/apache__split__groovy"
+    },
+    "CVE-2024-29131": {
+        "patch": "https://github.com/apache/commons-configuration/commit/56b5c4dcdffbde27870df5a3105d6a5f9b22f554",
+        "local_repo": "GithubCache/apache__split__commons-configuration"
+    },
+    "CVE-2024-22257": {
+        "patch": "https://github.com/spring-projects/spring-security/commit/5a7f12f1a9fdb4edaab6f61495f1d781a7273b61",
+        "local_repo": "GithubCache/spring-projects__split__spring-security"
+    },
+    "CVE-2024-21742": {
+        "patch": "https://github.com/apache/james-mime4j/commit/9dec5df2a588fed8027839815daefa79ee66efd1",
+        "local_repo": "GithubCache/apache__split__james-mime4j"
+    },
+    "CVE-2021-27807": {
+        "patch": "https://github.com/apache/pdfbox/commit/5c5a837140fbb4ef78bb5ef9f29ad537c872c83e",
+        "local_repo": "GithubCache/apache__split__pdfbox"
+    },
+    "CVE-2021-35043": {
+        "patch": "https://github.com/nahsra/antisamy/commit/be6a42b2a3e2600c774d91f9fb830c44bfc217fc",
+        "local_repo": "GithubCache/nahsra__split__antisamy"
+    },
+    "CVE-2014-4172": {
+        "patch": "https://github.com/apereo/java-cas-client/commit/ae37092100c8eaec610dab6d83e5e05a8ee58814",
+        "local_repo": "GithubCache/apereo__split__java-cas-client"
+    },
+    "CVE-2019-12402": {
+        "patch": "https://github.com/apache/commons-compress/commit/4ad5d80a6272e007f64a6ac66829ca189a8093b9",
+        "local_repo": "GithubCache/apache__split__commons-compress"
+    },
+    "CVE-2016-4977": {
+        "patch": "https://github.com/spring-attic/spring-security-oauth/commit/fff77d3fea477b566bcacfbfc95f85821a2bdc2d",
+        "local_repo": "GithubCache/spring-attic__split__spring-security-oauth"
+    },
+    "CVE-2023-49250": {
+        "patch": "https://github.com/apache/dolphinscheduler/commit/a0bc778bafc29d2d65bc9ed66db0fa51e6860809",
+        "local_repo": "GithubCache/apache__split__dolphinscheduler"
+    },
+    "CVE-2022-34662": {
+        "patch": "https://github.com/apache/dolphinscheduler/commit/23fae510dfdde1753e0a161f747c30ae5171fba1",
+        "local_repo": "GithubCache/apache__split__dolphinscheduler"
+    },
+    "CVE-2024-1597": {
+        "patch": "https://github.com/pgjdbc/pgjdbc/commit/93b0fcb2711d9c1e3a2a03134369738a02a58b40",
+        "local_repo": "GithubCache/pgjdbc__split__pgjdbc"
+    },
+    "CVE-2024-25125": {
+        "patch": "https://github.com/treasure-data/digdag/commit/eae89b0daf6c62f12309d8c7194454dfb18cc5c3",
+        "local_repo": "GithubCache/treasure-data__split__digdag"
+    },
+    "CVE-2024-23833": {
+        "patch": "https://github.com/OpenRefine/OpenRefine/commit/41ccf574847d856e22488a7c0987ad8efa12a84a",
+        "local_repo": "GithubCache/OpenRefine__split__OpenRefine"
+    },
+    "CVE-2024-24569": {
+        "patch": "https://github.com/pixee/java-security-toolkit/commit/b885b03c9cfae53d62d239037f9654d973dd54d9",
+        "local_repo": "GithubCache/pixee__split__java-security-toolkit"
+    },
+    "CVE-2023-51074": {
+        "patch": "https://github.com/json-path/JsonPath/commit/71a09c1193726c010917f1157ecbb069ad6c3e3b",
+        "local_repo": "GithubCache/json-path__split__JsonPath"
+    },
+    "CVE-2023-51075": {
+        "patch": "https://github.com/dromara/hutool/commit/32f2d0bd55defecb869fbf64d940bcc05642accc",
+        "local_repo": "GithubCache/dromara__split__hutool"
+    },
+    "CVE-2023-51080": {
+        "patch": "https://github.com/dromara/hutool/commit/f341b9ed7a83a54e2a08d4635540ab0a8b159c4f",
+        "local_repo": "GithubCache/dromara__split__hutool"
+    },
+    "CVE-2023-42276": {
+        "patch": "https://github.com/dromara/hutool/commit/9ba8f9ca5dd32441f2e0f150cb22fa178bb771d3",
+        "local_repo": "GithubCache/dromara__split__hutool"
+    },
+    "CVE-2018-17297": {
+        "patch": "https://github.com/dromara/hutool/commit/8d7d0b7fb5ea4f7447b40131bffc1ec506a6528e",
+        "local_repo": "GithubCache/dromara__split__hutool"
+    },
+    "CVE-2013-6430": {
+        "patch": "https://github.com/spring-projects/spring-framework/commit/7a7df6637478607bef0277bf52a4e0a03e20a248",
+        "local_repo": "GithubCache/spring-projects__split__spring-framework"
+    },
+    "CVE-2022-22968": {
+        "patch": "https://github.com/spring-projects/spring-framework/commit/833e750175349ab4fd502109a8b41af77e25cdea",
+        "local_repo": "GithubCache/spring-projects__split__spring-framework"
+    },
+    "CVE-2022-22970": {
+        "patch": "https://github.com/spring-projects/spring-framework/commit/83186b689f11f5e6efe7ccc08fdeb92f66fcd583",
+        "local_repo": "GithubCache/spring-projects__split__spring-framework"
+    },
+    "CVE-2020-5421": {
+        "patch": "https://github.com/spring-projects/spring-framework/commit/dd011c991ce801660ec2be7979f3fc6462f29289",
+        "local_repo": "GithubCache/spring-projects__split__spring-framework"
+    },
+    "CVE-2014-3625": {
+        "patch": "https://github.com/spring-projects/spring-framework/commit/3f68cd633f03370d33c2603a6496e81273782601",
+        "local_repo": "GithubCache/spring-projects__split__spring-framework"
+    },
+    "CVE-2014-0225": {
+        "patch": "https://github.com/spring-projects/spring-framework/commit/44ee51a6c9c3734b3fcf9a20817117e86047d753",
+        "local_repo": "GithubCache/spring-projects__split__spring-framework"
+    },
+    "CVE-2014-3578": {
+        "patch": "https://github.com/spring-projects/spring-framework/commit/8ee465103850a3dca018273fe5952e40d5c45a66",
+        "local_repo": "GithubCache/spring-projects__split__spring-framework"
+    },
+    "CVE-2016-9878": {
+        "patch": "https://github.com/spring-projects/spring-framework/commit/e2d6e709c3c65a4951eb096843ee75d5200cfcad",
+        "local_repo": "GithubCache/spring-projects__split__spring-framework"
+    },
+    "CVE-2018-11039": {
+        "patch": "https://github.com/spring-projects/spring-framework/commit/dac97f1b7dac3e70ff603fb6fc9f205b95dd6b01",
+        "local_repo": "GithubCache/spring-projects__split__spring-framework"
+    },
+    "CVE-2018-11040": {
+        "patch": "https://github.com/spring-projects/spring-framework/commit/b80c13b722bb207ddf43f53a007ee3ddc1dd2e26",
+        "local_repo": "GithubCache/spring-projects__split__spring-framework"
+    },
+    "CVE-2018-15756": {
+        "patch": "https://github.com/spring-projects/spring-framework/commit/423aa28ed584b4ff6e5bad218c09beef5e91951e",
+        "local_repo": "GithubCache/spring-projects__split__spring-framework"
+    },
+    "CVE-2020-5398": {
+        "patch": "https://github.com/spring-projects/spring-framework/commit/6ce19ff86138a9dd284588fb62c73af5bc97ec66",
+        "local_repo": "GithubCache/spring-projects__split__spring-framework"
+    }
+}

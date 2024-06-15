@@ -1,0 +1,1349 @@
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DefaultFileItemFactory.java" startline="7" endline="7">
+public DefaultFileItemFactory () {
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DefaultFileItemFactory.java" startline="9" endline="11">
+public DefaultFileItemFactory (int sizeThreshold, File repository) {
+    super (sizeThreshold, repository);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DefaultFileItemFactory.java" startline="13" endline="15">
+public FileItem createItem (String fieldName, String contentType, boolean isFormField, String fileName) {
+    return new DefaultFileItem (fieldName, contentType, isFormField, fileName, getSizeThreshold (), getRepository ());
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DefaultFileItem.java" startline="7" endline="9">
+public DefaultFileItem (String fieldName, String contentType, boolean isFormField, String fileName, int sizeThreshold, File repository) {
+    super (fieldName, contentType, isFormField, fileName, sizeThreshold, repository);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="19" endline="21">
+private boolean hasChar () {
+    return (this.pos < this.len);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="23" endline="37">
+private String getToken (boolean quoted) {
+    while (this.i1 < this.i2 && Character.isWhitespace (this.chars [this.i1])) this.i1 ++;
+    while (this.i2 > this.i1 && Character.isWhitespace (this.chars [this.i2 - 1])) this.i2 --;
+    if (quoted && this.i2 - this.i1 >= 2 && this.chars [this.i1] == '"' && this.chars [this.i2 - 1] == '"') {
+        this.i1 ++;
+        this.i2 --;
+    }
+    String result = null;
+    if (this.i2 > this.i1) result = new String (this.chars, this.i1, this.i2 - this.i1);
+    return result;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="39" endline="48">
+private boolean isOneOf (char ch, char [] charray) {
+    boolean result = false;
+    for (int i = 0; i < charray.length; i ++) {
+        if (ch == charray [i]) {
+            result = true;
+            break;
+        }
+    }
+    return result;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="50" endline="61">
+private String parseToken (char [] terminators) {
+    this.i1 = this.pos;
+    this.i2 = this.pos;
+    while (hasChar ()) {
+        char ch = this.chars [this.pos];
+        if (isOneOf (ch, terminators)) break;
+        this.i2 ++;
+        this.pos ++;
+    }
+    return getToken (false);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="63" endline="79">
+private String parseQuotedToken (char [] terminators) {
+    this.i1 = this.pos;
+    this.i2 = this.pos;
+    boolean quoted = false;
+    boolean charEscaped = false;
+    while (hasChar ()) {
+        char ch = this.chars [this.pos];
+        if (! quoted && isOneOf (ch, terminators)) break;
+        if (! charEscaped && ch == '"') quoted = ! quoted;
+        charEscaped = (! charEscaped && ch == '\\');
+        this.i2 ++;
+        this.pos ++;
+    }
+    return getToken (true);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="81" endline="83">
+public boolean isLowerCaseNames () {
+    return this.lowerCaseNames;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="85" endline="87">
+public void setLowerCaseNames (boolean b) {
+    this.lowerCaseNames = b;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="89" endline="93">
+public Map parse (String str, char separator) {
+    if (str == null) return new HashMap ();
+    return parse (str.toCharArray (), separator);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="95" endline="99">
+public Map parse (char [] chars, char separator) {
+    if (chars == null) return new HashMap ();
+    return parse (chars, 0, chars.length, separator);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="101" endline="126">
+public Map parse (char [] chars, int offset, int length, char separator) {
+    if (chars == null) return new HashMap ();
+    HashMap params = new HashMap ();
+    this.chars = chars;
+    this.pos = offset;
+    this.len = length;
+    String paramName = null;
+    String paramValue = null;
+    while (hasChar ()) {
+        paramName = parseToken (new char [] {'=', separator});
+        paramValue = null;
+        if (hasChar () && chars [this.pos] == '=') {
+            this.pos ++;
+            paramValue = parseQuotedToken (new char [] {separator});
+        }
+        if (hasChar () && chars [this.pos] == separator) this.pos ++;
+        if (paramName != null && paramName.length () > 0) {
+            if (this.lowerCaseNames) paramName = paramName.toLowerCase ();
+            params.put (paramName, paramValue);
+        }
+    }
+    return params;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="31" endline="38">
+public static final boolean isMultipartContent (RequestContext ctx) {
+    String contentType = ctx.getContentType ();
+    if (contentType == null) return false;
+    if (contentType.toLowerCase ().startsWith ("multipart/")) return true;
+    return false;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="40" endline="49">
+public static final boolean isMultipartContent (HttpServletRequest req) {
+    if (! "post".equals (req.getMethod ().toLowerCase ())) return false;
+    String contentType = req.getContentType ();
+    if (contentType == null) return false;
+    if (contentType.toLowerCase ().startsWith ("multipart/")) return true;
+    return false;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="59" endline="61">
+public long getSizeMax () {
+    return this.sizeMax;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="63" endline="65">
+public void setSizeMax (long sizeMax) {
+    this.sizeMax = sizeMax;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69">
+public String getHeaderEncoding () {
+    return this.headerEncoding;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="71" endline="73">
+public void setHeaderEncoding (String encoding) {
+    this.headerEncoding = encoding;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="75" endline="77">
+public List parseRequest (HttpServletRequest req) throws FileUploadException {
+    return parseRequest (new ServletRequestContext (req));
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="79" endline="147">
+public List parseRequest (RequestContext ctx) throws FileUploadException {
+    if (ctx == null) throw new NullPointerException ("ctx parameter");
+    ArrayList items = new ArrayList ();
+    String contentType = ctx.getContentType ();
+    if (null == contentType || ! contentType.toLowerCase ().startsWith ("multipart/")) throw new InvalidContentTypeException ("the request doesn't contain a multipart/form-data or multipart/mixed stream, content type header is " + contentType);
+    int requestSize = ctx.getContentLength ();
+    if (requestSize == - 1) throw new UnknownSizeException ("the request was rejected because its size is unknown");
+    if (this.sizeMax >= 0L && requestSize > this.sizeMax) throw new SizeLimitExceededException ("the request was rejected because its size (" + requestSize + ") exceeds the configured maximum (" + this.sizeMax + ")", requestSize, this.sizeMax);
+    String charEncoding = this.headerEncoding;
+    if (charEncoding == null) charEncoding = ctx.getCharacterEncoding ();
+    try {
+        byte [] boundary = getBoundary (contentType);
+        if (boundary == null) throw new FileUploadException ("the request was rejected because no multipart boundary was found");
+        InputStream input = ctx.getInputStream ();
+        MultipartStream multi = new MultipartStream (input, boundary);
+        multi.setHeaderEncoding (charEncoding);
+        boolean nextPart = multi.skipPreamble ();
+        while (nextPart) {
+            Map headers = parseHeaders (multi.readHeaders ());
+            String fieldName = getFieldName (headers);
+            if (fieldName != null) {
+                String subContentType = getHeader (headers, "Content-type");
+                if (subContentType != null && subContentType.toLowerCase ().startsWith ("multipart/mixed")) {
+                    byte [] subBoundary = getBoundary (subContentType);
+                    multi.setBoundary (subBoundary);
+                    boolean nextSubPart = multi.skipPreamble ();
+                    while (nextSubPart) {
+                        headers = parseHeaders (multi.readHeaders ());
+                        if (getFileName (headers) != null) {
+                            FileItem item = createItem (headers, false);
+                            OutputStream os = item.getOutputStream ();
+                            try {
+                                multi.readBodyData (os);
+                            } finally {
+                                os.close ();
+                            }
+                            items.add (item);
+                        }
+                        else {
+                            multi.discardBodyData ();
+                        }
+                        nextSubPart = multi.readBoundary ();
+                    }
+                    multi.setBoundary (boundary);
+                }
+                else {
+                    FileItem item = createItem (headers, (getFileName (headers) == null));
+                    OutputStream os = item.getOutputStream ();
+                    try {
+                        multi.readBodyData (os);
+                    } finally {
+                        os.close ();
+                    }
+                    items.add (item);
+                }
+            }
+            else {
+                multi.discardBodyData ();
+            }
+            nextPart = multi.readBoundary ();
+        }
+    } catch (IOException e) {
+        throw new FileUploadException ("Processing of multipart/form-data request failed. " + e.getMessage ());
+    }
+    return items;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="149" endline="163">
+protected byte [] getBoundary (String contentType) {
+    byte [] boundary;
+    ParameterParser parser = new ParameterParser ();
+    parser.setLowerCaseNames (true);
+    Map params = parser.parse (contentType, ';');
+    String boundaryStr = (String) params.get ("boundary");
+    if (boundaryStr == null) return null;
+    try {
+        boundary = boundaryStr.getBytes ("ISO-8859-1");
+    } catch (UnsupportedEncodingException e) {
+        boundary = boundaryStr.getBytes ();
+    }
+    return boundary;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="165" endline="185">
+protected String getFileName (Map headers) {
+    String fileName = null;
+    String cd = getHeader (headers, "Content-disposition");
+    if (cd != null) {
+        String cdl = cd.toLowerCase ();
+        if (cdl.startsWith ("form-data") || cdl.startsWith ("attachment")) {
+            ParameterParser parser = new ParameterParser ();
+            parser.setLowerCaseNames (true);
+            Map params = parser.parse (cd, ';');
+            if (params.containsKey ("filename")) {
+                fileName = (String) params.get ("filename");
+                if (fileName != null) {
+                    fileName = fileName.trim ();
+                }
+                else {
+                    fileName = "";
+                }
+            }
+        }
+    }
+    return fileName;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="187" endline="199">
+protected String getFieldName (Map headers) {
+    String fieldName = null;
+    String cd = getHeader (headers, "Content-disposition");
+    if (cd != null && cd.toLowerCase ().startsWith ("form-data")) {
+        ParameterParser parser = new ParameterParser ();
+        parser.setLowerCaseNames (true);
+        Map params = parser.parse (cd, ';');
+        fieldName = (String) params.get ("name");
+        if (fieldName != null) fieldName = fieldName.trim ();
+    }
+    return fieldName;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="201" endline="203">
+protected FileItem createItem (Map headers, boolean isFormField) throws FileUploadException {
+    return getFileItemFactory ().createItem (getFieldName (headers), getHeader (headers, "Content-type"), isFormField, getFileName (headers));
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="205" endline="232">
+protected Map parseHeaders (String headerPart) {
+    Map headers = new HashMap ();
+    char [] buffer = new char [1024];
+    boolean done = false;
+    int j = 0;
+    try {
+        while (! done) {
+            int i = 0;
+            while (i < 2 || buffer [i - 2] != '\r' || buffer [i - 1] != '\n') buffer [i ++] = headerPart.charAt (j ++);
+            String header = new String (buffer, 0, i - 2);
+            if (header.equals ("")) {
+                done = true;
+                continue;
+            }
+            if (header.indexOf (':') == - 1) continue;
+            String headerName = header.substring (0, header.indexOf (':')).trim ().toLowerCase ();
+            String headerValue = header.substring (header.indexOf (':') + 1).trim ();
+            if (getHeader (headers, headerName) != null) {
+                headers.put (headerName, getHeader (headers, headerName) + ',' + headerValue);
+                continue;
+            }
+            headers.put (headerName, headerValue);
+        }
+    } catch (IndexOutOfBoundsException e) {
+    }
+    return headers;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="234" endline="236">
+protected final String getHeader (Map headers, String name) {
+    return (String) headers.get (name.toLowerCase ());
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="239" endline="239">
+public InvalidContentTypeException () {
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="241" endline="243">
+public InvalidContentTypeException (String message) {
+    super (message);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="247" endline="247">
+public UnknownSizeException () {
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="249" endline="251">
+public UnknownSizeException (String message) {
+    super (message);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="259" endline="259">
+public SizeLimitExceededException () {
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="261" endline="263">
+public SizeLimitExceededException (String message) {
+    super (message);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="265" endline="269">
+public SizeLimitExceededException (String message, long actual, long permitted) {
+    super (message);
+    this.actual = actual;
+    this.permitted = permitted;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="271" endline="273">
+public long getActualSize () {
+    return this.actual;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="275" endline="277">
+public long getPermittedSize () {
+    return this.permitted;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="51" endline="58">
+public DiskFileItem (String fieldName, String contentType, boolean isFormField, String fileName, int sizeThreshold, File repository) {
+    this.fieldName = fieldName;
+    this.contentType = contentType;
+    this.isFormField = isFormField;
+    this.fileName = fileName;
+    this.sizeThreshold = sizeThreshold;
+    this.repository = repository;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="60" endline="66">
+public InputStream getInputStream () throws IOException {
+    if (! isInMemory ()) return new FileInputStream (this.dfos.getFile ());
+    if (this.cachedContent == null) this.cachedContent = this.dfos.getData ();
+    return new ByteArrayInputStream (this.cachedContent);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70">
+public String getContentType () {
+    return this.contentType;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="72" endline="77">
+public String getCharSet () {
+    ParameterParser parser = new ParameterParser ();
+    parser.setLowerCaseNames (true);
+    Map params = parser.parse (getContentType (), ';');
+    return (String) params.get ("charset");
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81">
+public String getName () {
+    return this.fileName;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="83" endline="87">
+public boolean isInMemory () {
+    if (this.cachedContent != null) return true;
+    return this.dfos.isInMemory ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="89" endline="97">
+public long getSize () {
+    if (this.size >= 0L) return this.size;
+    if (this.cachedContent != null) return this.cachedContent.length;
+    if (this.dfos.isInMemory ()) return (this.dfos.getData ()).length;
+    return this.dfos.getFile ().length ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="99" endline="119">
+public byte [] get () {
+    if (isInMemory ()) {
+        if (this.cachedContent == null) this.cachedContent = this.dfos.getData ();
+        return this.cachedContent;
+    }
+    byte [] fileData = new byte [(int) getSize ()];
+    FileInputStream fis = null;
+    try {
+        fis = new FileInputStream (this.dfos.getFile ());
+        fis.read (fileData);
+    } catch (IOException e) {
+        fileData = null;
+    } finally {
+        if (fis != null) try {
+            fis.close ();
+        } catch (IOException e) {
+        }
+    }
+    return fileData;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="121" endline="123">
+public String getString (String charset) throws UnsupportedEncodingException {
+    return new String (get (), charset);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="125" endline="135">
+public String getString () {
+    byte [] rawdata = get ();
+    String charset = getCharSet ();
+    if (charset == null) charset = "ISO-8859-1";
+    try {
+        return new String (rawdata, charset);
+    } catch (UnsupportedEncodingException e) {
+        return new String (rawdata);
+    }
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="137" endline="173">
+public void write (File file) throws Exception {
+    if (isInMemory ()) {
+        FileOutputStream fout = null;
+        try {
+            fout = new FileOutputStream (file);
+            fout.write (get ());
+        } finally {
+            if (fout != null) fout.close ();
+        }
+    }
+    else {
+        File outputFile = getStoreLocation ();
+        if (outputFile != null) {
+            this.size = outputFile.length ();
+            if (! outputFile.renameTo (file)) {
+                BufferedInputStream in = null;
+                BufferedOutputStream out = null;
+                try {
+                    in = new BufferedInputStream (new FileInputStream (outputFile));
+                    out = new BufferedOutputStream (new FileOutputStream (file));
+                    IOUtils.copy (in, out);
+                } finally {
+                    if (in != null) try {
+                        in.close ();
+                    } catch (IOException e) {
+                    }
+                    if (out != null) try {
+                        out.close ();
+                    } catch (IOException e) {
+                    }
+                }
+            }
+        }
+        else {
+            throw new FileUploadException ("Cannot write uploaded file to disk!");
+        }
+    }
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="175" endline="180">
+public void delete () {
+    this.cachedContent = null;
+    File outputFile = getStoreLocation ();
+    if (outputFile != null && outputFile.exists ()) outputFile.delete ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184">
+public String getFieldName () {
+    return this.fieldName;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="186" endline="188">
+public void setFieldName (String fieldName) {
+    this.fieldName = fieldName;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="190" endline="192">
+public boolean isFormField () {
+    return this.isFormField;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="194" endline="196">
+public void setFormField (boolean state) {
+    this.isFormField = state;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="198" endline="204">
+public OutputStream getOutputStream () throws IOException {
+    if (this.dfos == null) {
+        File outputFile = getTempFile ();
+        this.dfos = new DeferredFileOutputStream (this.sizeThreshold, outputFile);
+    }
+    return (OutputStream) this.dfos;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208">
+public File getStoreLocation () {
+    return this.dfos.getFile ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="210" endline="214">
+protected void finalize () {
+    File outputFile = this.dfos.getFile ();
+    if (outputFile != null && outputFile.exists ()) outputFile.delete ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="216" endline="224">
+protected File getTempFile () {
+    File tempDir = this.repository;
+    if (tempDir == null) tempDir = new File (System.getProperty ("java.io.tmpdir"));
+    String fileName = "upload_" + UID + "_" + getUniqueId () + ".tmp";
+    File f = new File (tempDir, fileName);
+    FileCleaner.track (f, this);
+    return f;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="226" endline="235">
+private static String getUniqueId () {
+    int current, limit = 100000000;
+    synchronized (DiskFileItem.class) {
+        current = counter ++;
+    }
+    String id = Integer.toString (current);
+    if (current < 100000000) id = ("00000000" + id).substring (id.length ());
+    return id;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239">
+public String toString () {
+    return "name=" + getName () + ", StoreLocation=" + String.valueOf (getStoreLocation ()) + ", size=" + getSize () + "bytes, " + "isFormField=" + isFormField () + ", FieldName=" + getFieldName ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="241" endline="249">
+private void writeObject (ObjectOutputStream out) throws IOException {
+    if (this.dfos.isInMemory ()) {
+        this.cachedContent = get ();
+    }
+    else {
+        this.cachedContent = null;
+        this.dfosFile = this.dfos.getFile ();
+    }
+    out.defaultWriteObject ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="251" endline="264">
+private void readObject (ObjectInputStream in) throws IOException, ClassNotFoundException {
+    in.defaultReadObject ();
+    OutputStream output = getOutputStream ();
+    if (this.cachedContent != null) {
+        output.write (this.cachedContent);
+    }
+    else {
+        FileInputStream input = new FileInputStream (this.dfosFile);
+        IOUtils.copy (input, output);
+        this.dfosFile.delete ();
+        this.dfosFile = null;
+    }
+    output.close ();
+    this.cachedContent = null;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="14" endline="14">
+public DiskFileItemFactory () {
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="16" endline="19">
+public DiskFileItemFactory (int sizeThreshold, File repository) {
+    this.sizeThreshold = sizeThreshold;
+    this.repository = repository;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23">
+public File getRepository () {
+    return this.repository;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="25" endline="27">
+public void setRepository (File repository) {
+    this.repository = repository;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="29" endline="31">
+public int getSizeThreshold () {
+    return this.sizeThreshold;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="33" endline="35">
+public void setSizeThreshold (int sizeThreshold) {
+    this.sizeThreshold = sizeThreshold;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="37" endline="39">
+public FileItem createItem (String fieldName, String contentType, boolean isFormField, String fileName) {
+    return new DiskFileItem (fieldName, contentType, isFormField, fileName, this.sizeThreshold, this.repository);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadException.java" startline="4" endline="4">
+public FileUploadException () {
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadException.java" startline="6" endline="8">
+public FileUploadException (String msg) {
+    super (msg);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="10" endline="12">
+public DiskFileUpload () {
+    this.fileItemFactory = new DefaultFileItemFactory ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16">
+public DiskFileUpload (DefaultFileItemFactory fileItemFactory) {
+    this.fileItemFactory = fileItemFactory;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20">
+public FileItemFactory getFileItemFactory () {
+    return this.fileItemFactory;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="22" endline="24">
+public void setFileItemFactory (FileItemFactory factory) {
+    this.fileItemFactory = (DefaultFileItemFactory) factory;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="26" endline="28">
+public int getSizeThreshold () {
+    return this.fileItemFactory.getSizeThreshold ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="30" endline="32">
+public void setSizeThreshold (int sizeThreshold) {
+    this.fileItemFactory.setSizeThreshold (sizeThreshold);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36">
+public String getRepositoryPath () {
+    return this.fileItemFactory.getRepository ().getPath ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="38" endline="40">
+public void setRepositoryPath (String repositoryPath) {
+    this.fileItemFactory.setRepository (new File (repositoryPath));
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="42" endline="47">
+public List parseRequest (HttpServletRequest req, int sizeThreshold, long sizeMax, String path) throws FileUploadException {
+    setSizeThreshold (sizeThreshold);
+    setSizeMax (sizeMax);
+    setRepositoryPath (path);
+    return parseRequest (req);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="6" endline="6">
+public FileUpload () {
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10">
+public FileUpload (FileItemFactory fileItemFactory) {
+    this.fileItemFactory = fileItemFactory;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14">
+public FileItemFactory getFileItemFactory () {
+    return this.fileItemFactory;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="16" endline="18">
+public void setFileItemFactory (FileItemFactory factory) {
+    this.fileItemFactory = factory;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletFileUpload.java" startline="11" endline="13">
+public static final boolean isMultipartContent (ActionRequest request) {
+    return FileUploadBase.isMultipartContent (new PortletRequestContext (request));
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletFileUpload.java" startline="15" endline="15">
+public PortletFileUpload () {
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletFileUpload.java" startline="17" endline="19">
+public PortletFileUpload (FileItemFactory fileItemFactory) {
+    super (fileItemFactory);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletFileUpload.java" startline="21" endline="23">
+public List parseRequest (ActionRequest request) throws FileUploadException {
+    return parseRequest (new PortletRequestContext (request));
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13">
+public PortletRequestContext (ActionRequest request) {
+    this.request = request;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17">
+public String getCharacterEncoding () {
+    return this.request.getCharacterEncoding ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21">
+public String getContentType () {
+    return this.request.getContentType ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="23" endline="25">
+public int getContentLength () {
+    return this.request.getContentLength ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="27" endline="29">
+public InputStream getInputStream () throws IOException {
+    return this.request.getPortletInputStream ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33">
+public String toString () {
+    return "ContentLength=" + getContentLength () + ", ContentType=" + getContentType ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="48" endline="48">
+public MultipartStream () {
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="50" endline="61">
+public MultipartStream (InputStream input, byte [] boundary, int bufSize) {
+    this.input = input;
+    this.bufSize = bufSize;
+    this.buffer = new byte [bufSize];
+    this.boundary = new byte [boundary.length + BOUNDARY_PREFIX.length];
+    this.boundaryLength = boundary.length + BOUNDARY_PREFIX.length;
+    this.keepRegion = boundary.length + 3;
+    System.arraycopy (BOUNDARY_PREFIX, 0, this.boundary, 0, BOUNDARY_PREFIX.length);
+    System.arraycopy (boundary, 0, this.boundary, BOUNDARY_PREFIX.length, boundary.length);
+    this.head = 0;
+    this.tail = 0;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="63" endline="65">
+public MultipartStream (InputStream input, byte [] boundary) throws IOException {
+    this (input, boundary, 4096);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69">
+public String getHeaderEncoding () {
+    return this.headerEncoding;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="71" endline="73">
+public void setHeaderEncoding (String encoding) {
+    this.headerEncoding = encoding;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="75" endline="83">
+public byte readByte () throws IOException {
+    if (this.head == this.tail) {
+        this.head = 0;
+        this.tail = this.input.read (this.buffer, this.head, this.bufSize);
+        if (this.tail == - 1) throw new IOException ("No more data is available");
+    }
+    return this.buffer [this.head ++];
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="85" endline="105">
+public boolean readBoundary () throws MalformedStreamException {
+    byte [] marker = new byte [2];
+    boolean nextChunk = false;
+    this.head += this.boundaryLength;
+    try {
+        marker [0] = readByte ();
+        if (marker [0] == 10) return true;
+        marker [1] = readByte ();
+        if (arrayequals (marker, STREAM_TERMINATOR, 2)) {
+            nextChunk = false;
+        }
+        else if (arrayequals (marker, FIELD_SEPARATOR, 2)) {
+            nextChunk = true;
+        }
+        else {
+            throw new MalformedStreamException ("Unexpected characters follow a boundary");
+        }
+    } catch (IOException e) {
+        throw new MalformedStreamException ("Stream ended unexpectedly");
+    }
+    return nextChunk;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="107" endline="111">
+public void setBoundary (byte [] boundary) throws IllegalBoundaryException {
+    if (boundary.length != this.boundaryLength - BOUNDARY_PREFIX.length) throw new IllegalBoundaryException ("The length of a boundary token can not be changed");
+    System.arraycopy (boundary, 0, this.boundary, BOUNDARY_PREFIX.length, boundary.length);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="113" endline="145">
+public String readHeaders () throws MalformedStreamException {
+    int i = 0;
+    byte [] b = new byte [1];
+    ByteArrayOutputStream baos = new ByteArrayOutputStream ();
+    int sizeMax = 10240;
+    int size = 0;
+    while (i < HEADER_SEPARATOR.length) {
+        try {
+            b [0] = readByte ();
+        } catch (IOException e) {
+            throw new MalformedStreamException ("Stream ended unexpectedly");
+        }
+        size ++;
+        if (b [0] == HEADER_SEPARATOR [i]) {
+            i ++;
+        }
+        else {
+            i = 0;
+        }
+        if (size <= sizeMax) baos.write (b [0]);
+    }
+    String headers = null;
+    if (this.headerEncoding != null) {
+        try {
+            headers = baos.toString (this.headerEncoding);
+        } catch (UnsupportedEncodingException e) {
+            headers = baos.toString ();
+        }
+    }
+    else {
+        headers = baos.toString ();
+    }
+    return headers;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="147" endline="180">
+public int readBodyData (OutputStream output) throws MalformedStreamException, IOException {
+    boolean done = false;
+    int total = 0;
+    while (! done) {
+        int pad, pos = findSeparator ();
+        if (pos != - 1) {
+            output.write (this.buffer, this.head, pos - this.head);
+            total += pos - this.head;
+            this.head = pos;
+            done = true;
+            continue;
+        }
+        if (this.tail - this.head > this.keepRegion) {
+            pad = this.keepRegion;
+        }
+        else {
+            pad = this.tail - this.head;
+        }
+        output.write (this.buffer, this.head, this.tail - this.head - pad);
+        total += this.tail - this.head - pad;
+        System.arraycopy (this.buffer, this.tail - pad, this.buffer, 0, pad);
+        this.head = 0;
+        int bytesRead = this.input.read (this.buffer, pad, this.bufSize - pad);
+        if (bytesRead != - 1) {
+            this.tail = pad + bytesRead;
+            continue;
+        }
+        output.write (this.buffer, 0, pad);
+        output.flush ();
+        total += pad;
+        throw new MalformedStreamException ("Stream ended unexpectedly");
+    }
+    output.flush ();
+    return total;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="182" endline="210">
+public int discardBodyData () throws MalformedStreamException, IOException {
+    boolean done = false;
+    int total = 0;
+    while (! done) {
+        int pad, pos = findSeparator ();
+        if (pos != - 1) {
+            total += pos - this.head;
+            this.head = pos;
+            done = true;
+            continue;
+        }
+        if (this.tail - this.head > this.keepRegion) {
+            pad = this.keepRegion;
+        }
+        else {
+            pad = this.tail - this.head;
+        }
+        total += this.tail - this.head - pad;
+        System.arraycopy (this.buffer, this.tail - pad, this.buffer, 0, pad);
+        this.head = 0;
+        int bytesRead = this.input.read (this.buffer, pad, this.bufSize - pad);
+        if (bytesRead != - 1) {
+            this.tail = pad + bytesRead;
+            continue;
+        }
+        total += pad;
+        throw new MalformedStreamException ("Stream ended unexpectedly");
+    }
+    return total;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="212" endline="226">
+public boolean skipPreamble () throws IOException {
+    System.arraycopy (this.boundary, 2, this.boundary, 0, this.boundary.length - 2);
+    this.boundaryLength = this.boundary.length - 2;
+    try {
+        discardBodyData ();
+        return readBoundary ();
+    } catch (MalformedStreamException e) {
+        return false;
+    } finally {
+        System.arraycopy (this.boundary, 0, this.boundary, 2, this.boundary.length - 2);
+        this.boundaryLength = this.boundary.length;
+        this.boundary [0] = 13;
+        this.boundary [1] = 10;
+    }
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="228" endline="234">
+public static boolean arrayequals (byte [] a, byte [] b, int count) {
+    for (int i = 0; i < count; i ++) {
+        if (a [i] != b [i]) return false;
+    }
+    return true;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="236" endline="242">
+protected int findByte (byte value, int pos) {
+    for (int i = pos; i < this.tail; i ++) {
+        if (this.buffer [i] == value) return i;
+    }
+    return - 1;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="244" endline="259">
+protected int findSeparator () {
+    int match = 0;
+    int maxpos = this.tail - this.boundaryLength;
+    int first = this.head;
+    for (; first <= maxpos && match != this.boundaryLength; first ++) {
+        first = findByte (this.boundary [0], first);
+        if (first == - 1 || first > maxpos) return - 1;
+        for (match = 1; match < this.boundaryLength && this.buffer [first + match] == this.boundary [match]; match ++);
+    }
+    if (match == this.boundaryLength) return first - 1;
+    return - 1;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="261" endline="268">
+public String toString () {
+    StringBuffer sbTemp = new StringBuffer ();
+    sbTemp.append ("boundary='");
+    sbTemp.append (String.valueOf (this.boundary));
+    sbTemp.append ("'\nbufSize=");
+    sbTemp.append (this.bufSize);
+    return sbTemp.toString ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="271" endline="271">
+public MalformedStreamException () {
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="273" endline="275">
+public MalformedStreamException (String message) {
+    super (message);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="279" endline="279">
+public IllegalBoundaryException () {
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="281" endline="283">
+public IllegalBoundaryException (String message) {
+    super (message);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletFileUpload.java" startline="10" endline="10">
+public ServletFileUpload () {
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletFileUpload.java" startline="12" endline="14">
+public ServletFileUpload (FileItemFactory fileItemFactory) {
+    super (fileItemFactory);
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletFileUpload.java" startline="16" endline="18">
+public List parseRequest (HttpServletRequest request) throws FileUploadException {
+    return parseRequest (new ServletRequestContext (request));
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13">
+public ServletRequestContext (HttpServletRequest request) {
+    this.request = request;
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17">
+public String getCharacterEncoding () {
+    return this.request.getCharacterEncoding ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21">
+public String getContentType () {
+    return this.request.getContentType ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="23" endline="25">
+public int getContentLength () {
+    return this.request.getContentLength ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="27" endline="29">
+public InputStream getInputStream () throws IOException {
+    return (InputStream) this.request.getInputStream ();
+}
+</source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33">
+public String toString () {
+    return "ContentLength=" + getContentLength () + ", ContentType=" + getContentType ();
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="196" endline="205">
+public DiskFileItem (String fieldName, String contentType, boolean isFormField, String fileName, int sizeThreshold, File repository) {
+    this.fieldName = fieldName;
+    this.contentType = contentType;
+    this.isFormField = isFormField;
+    this.fileName = fileName;
+    this.sizeThreshold = sizeThreshold;
+    this.repository = repository;
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="218" endline="228">
+public InputStream getInputStream () throws IOException {
+    if (! isInMemory ()) {
+        return new FileInputStream (dfos.getFile ());
+    }
+    if (cachedContent == null) {
+        cachedContent = dfos.getData ();
+    }
+    return new ByteArrayInputStream (cachedContent);
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239">
+public String getContentType () {
+    return contentType;
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="248" endline="254">
+public String getCharSet () {
+    ParameterParser parser = new ParameterParser ();
+    parser.setLowerCaseNames (true);
+    Map < String, String > params = parser.parse (getContentType (), ';');
+    return params.get ("charset");
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267">
+public String getName () {
+    return Streams.checkFileName (fileName);
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="278" endline="283">
+public boolean isInMemory () {
+    if (cachedContent != null) {
+        return true;
+    }
+    return dfos.isInMemory ();
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="290" endline="300">
+public long getSize () {
+    if (size >= 0) {
+        return size;
+    }
+    else if (cachedContent != null) {
+        return cachedContent.length;
+    }
+    else if (dfos.isInMemory ()) {
+        return dfos.getData ().length;
+    }
+    else {
+        return dfos.getFile ().length ();
+    }
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="309" endline="336">
+public byte [] get () {
+    if (isInMemory ()) {
+        if (cachedContent == null) {
+            cachedContent = dfos.getData ();
+        }
+        return cachedContent;
+    }
+    byte [] fileData = new byte [(int) getSize ()];
+    InputStream fis = null;
+    try {
+        fis = new BufferedInputStream (new FileInputStream (dfos.getFile ()));
+        fis.read (fileData);
+    } catch (IOException e) {
+        fileData = null;
+    } finally {
+        if (fis != null) {
+            try {
+                fis.close ();
+            } catch (IOException e) {
+            }
+        }
+    }
+    return fileData;
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="350" endline="353">
+public String getString (final String charset) throws UnsupportedEncodingException {
+    return new String (get (), charset);
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="364" endline="375">
+public String getString () {
+    byte [] rawdata = get ();
+    String charset = getCharSet ();
+    if (charset == null) {
+        charset = DEFAULT_CHARSET;
+    }
+    try {
+        return new String (rawdata, charset);
+    } catch (UnsupportedEncodingException e) {
+        return new String (rawdata);
+    }
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="397" endline="453">
+public void write (File file) throws Exception {
+    if (isInMemory ()) {
+        FileOutputStream fout = null;
+        try {
+            fout = new FileOutputStream (file);
+            fout.write (get ());
+        } finally {
+            if (fout != null) {
+                fout.close ();
+            }
+        }
+    }
+    else {
+        File outputFile = getStoreLocation ();
+        if (outputFile != null) {
+            size = outputFile.length ();
+            if (! outputFile.renameTo (file)) {
+                BufferedInputStream in = null;
+                BufferedOutputStream out = null;
+                try {
+                    in = new BufferedInputStream (new FileInputStream (outputFile));
+                    out = new BufferedOutputStream (new FileOutputStream (file));
+                    IOUtils.copy (in, out);
+                } finally {
+                    if (in != null) {
+                        try {
+                            in.close ();
+                        } catch (IOException e) {
+                        }
+                    }
+                    if (out != null) {
+                        try {
+                            out.close ();
+                        } catch (IOException e) {
+                        }
+                    }
+                }
+            }
+        }
+        else {
+            throw new FileUploadException ("Cannot write uploaded file to disk!");
+        }
+    }
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="462" endline="468">
+public void delete () {
+    cachedContent = null;
+    File outputFile = getStoreLocation ();
+    if (outputFile != null && outputFile.exists ()) {
+        outputFile.delete ();
+    }
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481">
+public String getFieldName () {
+    return fieldName;
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="491" endline="493">
+public void setFieldName (String fieldName) {
+    this.fieldName = fieldName;
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="505" endline="507">
+public boolean isFormField () {
+    return isFormField;
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="519" endline="521">
+public void setFormField (boolean state) {
+    isFormField = state;
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="532" endline="539">
+public OutputStream getOutputStream () throws IOException {
+    if (dfos == null) {
+        File outputFile = getTempFile ();
+        dfos = new DeferredFileOutputStream (sizeThreshold, outputFile);
+    }
+    return dfos;
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="556" endline="561">
+public File getStoreLocation () {
+    if (dfos == null) {
+        return null;
+    }
+    return dfos.getFile ();
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="569" endline="575">
+protected void finalize () {
+    File outputFile = dfos.getFile ();
+    if (outputFile != null && outputFile.exists ()) {
+        outputFile.delete ();
+    }
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="585" endline="597">
+protected File getTempFile () {
+    if (tempFile == null) {
+        File tempDir = repository;
+        if (tempDir == null) {
+            tempDir = new File (System.getProperty ("java.io.tmpdir"));
+        }
+        String tempFileName = format ("upload_%s_%s.tmp", UID, getUniqueId ());
+        tempFile = new File (tempDir, tempFileName);
+    }
+    return tempFile;
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="607" endline="618">
+private static String getUniqueId () {
+    final int limit = 100000000;
+    int current = COUNTER.getAndIncrement ();
+    String id = Integer.toString (current);
+    if (current < limit) {
+        id = ("00000000" + id).substring (id.length ());
+    }
+    return id;
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630">
+public String toString () {
+    return format ("name=%s, StoreLocation=%s, size=%s bytes, isFormField=%s, FieldName=%s", getName (), getStoreLocation (), Long.valueOf (getSize ()), Boolean.valueOf (isFormField ()), getFieldName ());
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="641" endline="652">
+private void writeObject (ObjectOutputStream out) throws IOException {
+    if (dfos.isInMemory ()) {
+        cachedContent = get ();
+    }
+    else {
+        cachedContent = null;
+        dfosFile = dfos.getFile ();
+    }
+    out.defaultWriteObject ();
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="662" endline="703">
+private void readObject (ObjectInputStream in) throws IOException, ClassNotFoundException {
+    if (! Boolean.getBoolean (SERIALIZABLE_PROPERTY)) {
+        throw new IllegalStateException ("Property " + SERIALIZABLE_PROPERTY + " is not true, rejecting to deserialize a DiskFileItem.");
+    }
+    in.defaultReadObject ();
+    if (repository != null) {
+        if (repository.isDirectory ()) {
+            if (repository.getPath ().contains ("\0")) {
+                throw new IOException (format ("The repository [%s] contains a null character", repository.getPath ()));
+            }
+        }
+        else {
+            throw new IOException (format ("The repository [%s] is not a directory", repository.getAbsolutePath ()));
+        }
+    }
+    OutputStream output = getOutputStream ();
+    if (cachedContent != null) {
+        output.write (cachedContent);
+    }
+    else {
+        FileInputStream input = new FileInputStream (dfosFile);
+        IOUtils.copy (input, output);
+        dfosFile.delete ();
+        dfosFile = null;
+    }
+    output.close ();
+    cachedContent = null;
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711">
+public FileItemHeaders getHeaders () {
+    return headers;
+}
+</source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="717" endline="719">
+public void setHeaders (FileItemHeaders pHeaders) {
+    headers = pHeaders;
+}
+</source>

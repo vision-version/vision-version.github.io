@@ -4,24 +4,31 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Bio
-    url: /
-    weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
-  - name: Talks
-    url: /#talks
-    weight: 12
   - name: News
     url: /#news
+    weight: 1
+  - name: Intro
+    url: /#intro
+    weight: 5
+  - name: Modules
+    url: /#modules
+    weight: 10
+  - name: GroundTruth
+    url: /#groundtruth
+    weight: 11
+  - name: SOTA Approaches
+    url: /#approach
+    weight: 12
+  - name: SOTA Vul Databases
+    url: /#vuldb
+    weight: 12
+  - name: Evaluation
+    url: /#evaluation
     weight: 13
-  - name: Experience
-    url: experience/
-    weight: 20
-  - name: Projects
-    url: projects/
-    weight: 30
-  - name: Teaching
-    url: teaching/
-    weight: 40
+
+  # - name: Projects
+  #   url: projects/
+  #   weight: 30
+  # - name: Teaching
+  #   url: teaching/
+  #   weight: 40

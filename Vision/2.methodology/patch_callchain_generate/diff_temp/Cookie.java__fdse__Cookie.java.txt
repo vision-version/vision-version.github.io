@@ -1,0 +1,15 @@
+diff --git a/github_diff/CVE-2015-2156/oldfiles/Cookie.java b/github_diff/CVE-2015-2156/newfiles/Cookie.java
+index 43c5cfe..b853c60 100644
+--- a/github_diff/CVE-2015-2156/oldfiles/Cookie.java
++++ b/github_diff/CVE-2015-2156/newfiles/Cookie.java
+@@ -9,8 +9,8 @@ public interface Cookie extends Comparable<Cookie> {
+     void setDomain(String domain);
+     String path();
+     void setPath(String path);
+-    long maxAge();
+-    void setMaxAge(long maxAge);
++    int maxAge();
++    void setMaxAge(int maxAge);
+     boolean isSecure();
+     void setSecure(boolean secure);
+     boolean isHttpOnly();

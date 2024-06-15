@@ -1,0 +1,13 @@
+diff --git a/github_diff/CVE-2020-28052/oldfiles/OpenBSDBCrypt.java b/github_diff/CVE-2020-28052/newfiles/OpenBSDBCrypt.java
+index 2518a35..80b32c9 100644
+--- a/github_diff/CVE-2020-28052/oldfiles/OpenBSDBCrypt.java
++++ b/github_diff/CVE-2020-28052/newfiles/OpenBSDBCrypt.java
+@@ -137,7 +137,7 @@ public class OpenBSDBCrypt {
+         String newBcryptString = doGenerate(version, password, salt, cost);
+         boolean isEqual = sLength == newBcryptString.length();
+         for (int i = 0; i != sLength; i++){
+-            isEqual &= (bcryptString.indexOf(i) == newBcryptString.indexOf(i));
++            isEqual &= (bcryptString.charAt(i) == newBcryptString.charAt(i));
+         }
+         
+         return isEqual;

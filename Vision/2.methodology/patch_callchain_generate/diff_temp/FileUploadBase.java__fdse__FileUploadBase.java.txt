@@ -1,0 +1,37 @@
+diff --git a/github_diff/CVE-2014-0050/oldfiles/FileUploadBase.java b/github_diff/CVE-2014-0050/newfiles/FileUploadBase.java
+index 576f6cd..27ea338 100644
+--- a/github_diff/CVE-2014-0050/oldfiles/FileUploadBase.java
++++ b/github_diff/CVE-2014-0050/newfiles/FileUploadBase.java
+@@ -471,7 +471,13 @@ public abstract class FileUploadBase {
+             }
+             
+             notifier = new MultipartStream.ProgressNotifier(listener, requestSize);
+-            multi = new MultipartStream(input, boundary, notifier);
++            try {
++                multi = new MultipartStream(input, boundary, notifier);
++            }
++             catch (IllegalArgumentException iae) {
++                throw new InvalidContentTypeException( format("The boundary specified in the %s header is too long", CONTENT_TYPE), iae);
++            }
++            
+             multi.setHeaderEncoding(charEncoding);
+             skipPreamble = true;
+             findNextItem();
+@@ -602,12 +608,17 @@ public abstract class FileUploadBase {
+     public static class InvalidContentTypeException extends FileUploadException {
+         private static final long serialVersionUID = -9073026332015646668L;
+         public InvalidContentTypeException() {
++            super();
+         }
+         
+         public InvalidContentTypeException(String message) {
+             super(message);
+         }
+         
++        public InvalidContentTypeException(String msg, Throwable cause) {
++            super(msg, cause);
++        }
++        
+     }
+     
+     public static class IOFileUploadException extends FileUploadException {

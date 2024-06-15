@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/relatedwork/</link>
+      <atom:link href="http://localhost:1313/relatedwork/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/relatedwork/</link>
+    </image>
+    
+    <item>
+      <title>V-SZZ: automatic identification of version ranges affected by CVE vulnerabilities</title>
+      <link>http://localhost:1313/relatedwork/v-szz/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/relatedwork/v-szz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VERJava: Vulnerable Version Identification for Java OSS with a Two-Stage Analysis</title>
+      <link>http://localhost:1313/relatedwork/verjava/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/relatedwork/verjava/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MVP: Detecting vulnerabilities using Patch-Enhanced vulnerability signatures</title>
+      <link>http://localhost:1313/relatedwork/mvp/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/relatedwork/mvp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V0Finder: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities</title>
+      <link>http://localhost:1313/relatedwork/v0finder/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/relatedwork/v0finder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vuddy: A scalable approach for vulnerable code clone discovery</title>
+      <link>http://localhost:1313/relatedwork/vuddy/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/relatedwork/vuddy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

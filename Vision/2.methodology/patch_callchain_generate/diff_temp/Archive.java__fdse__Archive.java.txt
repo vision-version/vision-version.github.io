@@ -1,0 +1,23 @@
+diff --git a/github_diff/CVE-2022-23596/oldfiles/Archive.java b/github_diff/CVE-2022-23596/newfiles/Archive.java
+index 4e48f5b..fec3d2f 100644
+--- a/github_diff/CVE-2022-23596/oldfiles/Archive.java
++++ b/github_diff/CVE-2022-23596/newfiles/Archive.java
+@@ -26,6 +26,7 @@ import com.github.junrar.rarfile.ProtectHeader;
+ import com.github.junrar.rarfile.RARVersion;
+ import com.github.junrar.rarfile.SignHeader;
+ import com.github.junrar.rarfile.SubBlockHeader;
++import com.github.junrar.rarfile.SubBlockHeaderType;
+ import com.github.junrar.rarfile.UnixOwnersHeader;
+ import com.github.junrar.rarfile.UnrarHeadertype;
+ import com.github.junrar.unpack.ComprDataIO;
+@@ -365,7 +366,9 @@ public class Archive implements Closeable, Iterable<FileHeader> {
+                             rawData.readFully(subHeadbuffer, subHeadbuffer.length);
+                             final SubBlockHeader subHead = new SubBlockHeader(blockHead, subHeadbuffer);
+                             subHead.print();
+-                            switch (subHead.getSubType()) {
++                            SubBlockHeaderType subType = subHead.getSubType();
++                            if (subType == null) break;
++                            switch (subType) {
+                                 case MAC_HEAD: {
+                                     final byte[] macHeaderbuffer = safelyAllocate(MacInfoHeader.MacInfoHeaderSize, MAX_HEADER_SIZE);
+                                     rawData.readFully(macHeaderbuffer, macHeaderbuffer.length);

@@ -1,0 +1,31 @@
+diff --git a/github_diff/CVE-2018-20227/oldfiles/ZipUtil.java b/github_diff/CVE-2018-20227/newfiles/ZipUtil.java
+index 616b6e4..9452c88 100644
+--- a/github_diff/CVE-2018-20227/oldfiles/ZipUtil.java
++++ b/github_diff/CVE-2018-20227/newfiles/ZipUtil.java
+@@ -8,7 +8,7 @@ import java.util.zip.ZipEntry;
+ import java.util.zip.ZipFile;
+ public class ZipUtil {
+ 	 private final static byte MAGIC_NUMBER[] = { (byte)0x50, (byte)0x4B, (byte)0x03, (byte)0x04 };
+-	public static boolean isZipStream(InputStream in) throws IOException {
++	 public static boolean isZipStream(InputStream in) throws IOException {
+ 		in.mark(MAGIC_NUMBER.length);
+ 		byte[] fileHeader = IOUtil.readBytes(in, MAGIC_NUMBER.length);
+ 		in.reset();
+@@ -34,11 +34,14 @@ public class ZipUtil {
+ 	
+ 	 public static void writeEntry(ZipFile zipFile, ZipEntry entry, File destDir) throws IOException {
+ 		File outFile = new File(destDir, entry.getName());
+-		if (entry.isDirectory()) {
+-			outFile.mkdirs();
++		if (! outFile.getCanonicalFile().toPath().startsWith(destDir.toPath())) {
++			throw new IOException("Zip entry outside destination directory: " + entry.getName());
+ 		}
+ 		
+-		else {
++				 if (entry.isDirectory()) {
++			outFile.mkdirs();
++		}
++		 else {
+ 			outFile.getParentFile().mkdirs();
+ 			try (InputStream in = zipFile.getInputStream(entry)) {
+ 				IOUtil.writeStream(in, outFile);

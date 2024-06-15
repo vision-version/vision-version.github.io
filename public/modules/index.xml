@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/modules/</link>
+      <atom:link href="http://localhost:1313/modules/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/modules/</link>
+    </image>
+    
+    <item>
+      <title>Critical Method Selection</title>
+      <link>http://localhost:1313/modules/critical-method-selection/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/modules/critical-method-selection/</guid>
+      <description>&lt;p&gt;This work is driven by the link analysis algorithm &lt;a href=&#34;https://en.wikipedia.org/wiki/HITS_algorithm&#34;&gt;HITS&lt;/a&gt; on Hyperlink-Induced Topic Search.&lt;/p&gt;
+&lt;p&gt;Before start, you can read the &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/blob/main/Vision/2.methodology/README.md&#34;&gt;ReadMe&lt;/a&gt; to acquire the detailed implementation of this module.&lt;/p&gt;
+&lt;p&gt;You can access to the module in &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/2.methodology/patch_callchain_generate&#34;&gt;Code&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vulnerability and Patch Signature Generation - CDG DDG</title>
+      <link>http://localhost:1313/modules/vulnerability-and-patch-signature-generation---cdg-ddg/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/modules/vulnerability-and-patch-signature-generation---cdg-ddg/</guid>
+      <description>&lt;p&gt;This work is driven by the &lt;a href=&#34;&#34;&gt;MVP&lt;/a&gt;. Vision generates the PDG using Joern. Then, Vision performs forward and backward program slicing using the changed statements.&lt;/p&gt;
+&lt;p&gt;Before start, you can read the &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/blob/main/Vision/2.methodology/README.md&#34;&gt;ReadMe&lt;/a&gt; to acquire the detailed implementation of this module.&lt;/p&gt;
+&lt;p&gt;You can access to the module in &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/2.methodology/patch_featuregraph_generate&#34;&gt;Code&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vulnerability and Patch Signature Generation - Taint Analysis</title>
+      <link>http://localhost:1313/modules/vulnerability-and-patch-signature-generation---taint-analysis/</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/modules/vulnerability-and-patch-signature-generation---taint-analysis/</guid>
+      <description>&lt;p&gt;Critical Statement Selection. VISION first identifies critical variables within the changed methods, and then applies taint analysis to select the critical statements over the critical variables.&lt;/p&gt;
+&lt;p&gt;You can access to the module in &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/2.methodology/taint_analysis&#34;&gt;Code&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Before start, you can read the &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/blob/main/Vision/2.methodology/README.md&#34;&gt;ReadMe&lt;/a&gt; to acquire the detailed implementation of this module.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vulnerability-Specific and Patch-Specific Version Signature Generation</title>
+      <link>http://localhost:1313/modules/vulnerability-specific-and-patch-specific-version-signature-generation/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/modules/vulnerability-specific-and-patch-specific-version-signature-generation/</guid>
+      <description>&lt;p&gt;You can access to the module in &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/2.methodology/patch_featuregraph_generate&#34;&gt;Code&lt;/a&gt; and &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/2.methodology/jar_statement_locate&#34;&gt;Code&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Before start, you can read the &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/blob/main/Vision/2.methodology/README.md&#34;&gt;ReadMe&lt;/a&gt; to acquire the detailed implementation of this module.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Affected Library Versions Detection</title>
+      <link>http://localhost:1313/modules/affected-library-versions-detection/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/modules/affected-library-versions-detection/</guid>
+      <description>&lt;p&gt;Similarity Calculation. VIsION compares the similarity of the weighted PDGs between Sx and Sx&amp;rsquo;, SP and SP&amp;rsquo; to identify ALVs.&lt;/p&gt;
+&lt;p&gt;You can access to the module in &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/2.methodology/graph_sim&#34;&gt;Code&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Before start, you can read the &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/blob/main/Vision/2.methodology/README.md&#34;&gt;ReadMe&lt;/a&gt; to acquire the detailed implementation of this module.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

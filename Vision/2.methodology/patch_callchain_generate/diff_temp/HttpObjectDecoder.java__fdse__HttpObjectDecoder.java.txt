@@ -1,0 +1,13 @@
+diff --git a/github_diff/CVE-2019-16869/oldfiles/HttpObjectDecoder.java b/github_diff/CVE-2019-16869/newfiles/HttpObjectDecoder.java
+index ecfb0b4..1a25590 100644
+--- a/github_diff/CVE-2019-16869/oldfiles/HttpObjectDecoder.java
++++ b/github_diff/CVE-2019-16869/newfiles/HttpObjectDecoder.java
+@@ -559,7 +559,7 @@ public abstract class HttpObjectDecoder extends ByteToMessageDecoder {
+         nameStart = findNonWhitespace(sb, 0);
+         for (nameEnd = nameStart; nameEnd < length; nameEnd ++) {
+             char ch = sb.charAtUnsafe(nameEnd);
+-            if (ch == ':' || Character.isWhitespace(ch)) {
++            if (ch == ':' || (!isDecodingRequest() && Character.isWhitespace(ch))) {
+                 break;
+             }
+             

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slice | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/slice/</link>
+      <atom:link href="http://localhost:1313/tags/slice/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slice</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Slice</title>
+      <link>http://localhost:1313/tags/slice/</link>
+    </image>
+    
+    <item>
+      <title>Vulnerability and Patch Signature Generation - Taint Analysis</title>
+      <link>http://localhost:1313/modules/taint-analysis/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/modules/taint-analysis/</guid>
+      <description>&lt;p&gt;You can access to the module in &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/2.methodology/taint_analysis&#34;&gt;Code&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Before start, you can read the &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/blob/main/Vision/2.methodology/README.md&#34;&gt;ReadMe&lt;/a&gt; to acquire the detailed implementation of this module.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

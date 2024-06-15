@@ -1,0 +1,26 @@
+diff --git a/github_diff/CVE-2021-43797/oldfiles/DefaultHttpHeaders.java b/github_diff/CVE-2021-43797/newfiles/DefaultHttpHeaders.java
+index 8226339..995541c 100644
+--- a/github_diff/CVE-2021-43797/oldfiles/DefaultHttpHeaders.java
++++ b/github_diff/CVE-2021-43797/newfiles/DefaultHttpHeaders.java
+@@ -341,6 +341,10 @@ public class DefaultHttpHeaders extends HttpHeaders {
+     
+     private static void validateHeaderNameElement(byte value) {
+         switch (value) {
++        case 0x1c:
++        case 0x1d:
++        case 0x1e:
++        case 0x1f:
+         case 0x00:
+         case '\t':
+         case '\n':
+@@ -363,6 +367,10 @@ public class DefaultHttpHeaders extends HttpHeaders {
+     
+     private static void validateHeaderNameElement(char value) {
+         switch (value) {
++        case 0x1c:
++        case 0x1d:
++        case 0x1e:
++        case 0x1f:
+         case 0x00:
+         case '\t':
+         case '\n':

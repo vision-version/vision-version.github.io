@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RQ4 | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/rq4/</link>
+      <atom:link href="http://localhost:1313/tags/rq4/index.xml" rel="self" type="application/rss+xml" />
+    <description>RQ4</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>RQ4</title>
+      <link>http://localhost:1313/tags/rq4/</link>
+    </image>
+    
+    <item>
+      <title>RQ4 Parameter Sensitivity Study</title>
+      <link>http://localhost:1313/evaluation/rq4/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/evaluation/rq4/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;folder of efficiency: RQ4
+&lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/blob/main/Vision/6.evaluate/efficiency/efficiency.csv&#34;&gt;efficiency.csv&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

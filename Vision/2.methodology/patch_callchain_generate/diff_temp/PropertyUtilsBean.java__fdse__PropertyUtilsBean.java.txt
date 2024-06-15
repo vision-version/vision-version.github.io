@@ -1,0 +1,12 @@
+diff --git a/github_diff/CVE-2019-10086/oldfiles/PropertyUtilsBean.java b/github_diff/CVE-2019-10086/newfiles/PropertyUtilsBean.java
+index 759a719..1f7175e 100644
+--- a/github_diff/CVE-2019-10086/oldfiles/PropertyUtilsBean.java
++++ b/github_diff/CVE-2019-10086/newfiles/PropertyUtilsBean.java
+@@ -52,6 +52,7 @@ public class PropertyUtilsBean {
+     public final void resetBeanIntrospectors() {
+         introspectors.clear();
+         introspectors.add(DefaultBeanIntrospector.INSTANCE);
++        introspectors.add(SuppressPropertiesBeanIntrospector.SUPPRESS_CLASS);
+     }
+     
+     public void addBeanIntrospector(final BeanIntrospector introspector) {

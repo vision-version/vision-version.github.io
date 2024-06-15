@@ -1,0 +1,14 @@
+diff --git a/github_diff/CVE-2018-1000632/oldfiles/QNameCache.java b/github_diff/CVE-2018-1000632/newfiles/QNameCache.java
+index 09a4ee1..f7e91b8 100644
+--- a/github_diff/CVE-2018-1000632/oldfiles/QNameCache.java
++++ b/github_diff/CVE-2018-1000632/newfiles/QNameCache.java
+@@ -84,6 +84,9 @@ public class QNameCache {
+         int index = qualifiedName.indexOf(':');
+         if (index < 0) {
+             return get(qualifiedName, Namespace.get(uri));
++        }
++         else if (index == 0){
++            throw new IllegalArgumentException("Qualified name cannot start with ':'.");
+         }
+          else {
+             String name = qualifiedName.substring(index + 1);

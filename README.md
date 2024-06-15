@@ -1,52 +1,40 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+## All code, dataset, SOTA approaches and Vul DB for Vision
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
+Vulnerability reports play a crucial role in mitigating open-source software risks. Typically, the vulnerability report contains affected versions of a software. However, despite the validation by security expert who discovers and vendors who review, the affected versions are not always accurate. Especially, the complexity of maintaining its accuracy increases significantly when dealing with multiple versions and their differences. Several advances have been made to identify affected versions. However, they still face limitations.
+First, some existing approaches identify affected versions based on repository-hosting platforms (i.e., GitHub), but these versions are not always consistent with those in package registries (i.e., Maven). Second, existing approaches fail to distinguish the importance of
+different vulnerable methods and patched statements in face of vulnerabilities with multiple methods and change hunks.
 
-The Hugo **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+To address these problems, this paper proposes a novel approach, Vision, to accurately identify affected library versions (ALVs) for vulnerabilities. Vision uses library versions from the package registry as inputs. To distinguish the importance of vulnerable methods and patched statements, Vision performs critical method selection and critical statement selection to prioritize important changes and their context. Furthermore, the vulnerability signature is represented by weighted inter-procedural program dependency graphs that incorporate critical methods and statements. Vision determines ALVs based on the similarities between these weighted graphs. Our evaluation demonstrates that Vision outperforms state-of-the-art approaches, achieving a precision of 0.91 and a recall of 0.94. Additionally, our evaluation shows the practical usefulness of Vision in correcting affected versions in existing vulnerability databases
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, Hugo Blox Builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+## 1. Ground Truth
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+This section contains the ground truth data we used.
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://hugoblox.com/creators/).
+To learn more about how the dataset was constructed as described in the paper, please visit the [1.groundtruth](https://github.com/vision-version/vision-version.github.io/tree/main/Vision/1.groundtruth) folder.
 
-The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+## 2. Methodology
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 💡 [Suggest an improvement](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+This section details the main modules of our Vision framework, which include critical method selection, slicing, taint analysis, IPDG construction, and graph similarity calculations. 
 
-## We ask you, humbly, to support this open source movement
+For a deeper understanding of our methodology, please visit the [2.methodology](https://github.com/vision-version/vision-version.github.io/tree/main/Vision/2.methodology) folder.
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+## 3. Baseline
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+The baseline section comprises patched-based methods such as Verjava (not open sourced), V-SZZ (open sourced), and clone-based methods including V0Finder (open sourced), MVP (not open sourced), and Vuddy (open sourced).
 
-### [❤️ Click here to become a Sponsor, unlocking awesome perks such as _exclusive academic templates and blocks_](https://hugoblox.com/sponsor/)
+As outlined in our paper, some approaches primarily target C/C++ and GitHub environments, but we have adapted them for Java and Maven.
 
-<!--
-<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
--->
+For additional details, please visit the [3.baseline](https://github.com/vision-version/vision-version.github.io/tree/main/Vision/3.baseline) folder.
 
-## Demo image credits
+## 4. JAR Files
 
-- [Unsplash](https://unsplash.com)
+All JAR files used in our project are available on [Kaggle](https://www.kaggle.com/datasets/visionversion/all-jar-and-decompiled-script-for-vision). You can access and download the dataset directly from this platform.
 
-## Latest news
+## 5. Tool
 
-<!--START_SECTION:news-->
+The 'tool' folder contains tree-sitter, an AST (Abstract Syntax Tree) tool used in our Vision framework.
 
-- [Easily make an academic CV website to get more cites and grow your audience 🚀](https://hugoblox.com/blog/easily-make-academic-website/)
-- [What&#39;s new in v5.2?](https://hugoblox.com/blog/whats-new-in-v5.2/)
-- [What&#39;s new in v5.1?](https://hugoblox.com/blog/whats-new-in-v5.1/)
-- [Version 5.0 (February 2021)](https://hugoblox.com/blog/version-5.0-february-2021/)
-- [Version 5.0 Beta 3 (February 2021)](https://hugoblox.com/blog/version-5.0-beta-3-february-2021/)
-<!--END_SECTION:news-->
+## 6. Evaluation
+
+This section corresponds to the 'Evaluation' section of our paper. You can replicate our results by visiting the [6.evaluate](https://github.com/vision-version/vision-version.github.io/tree/main/Vision/6.evaluate) folder.

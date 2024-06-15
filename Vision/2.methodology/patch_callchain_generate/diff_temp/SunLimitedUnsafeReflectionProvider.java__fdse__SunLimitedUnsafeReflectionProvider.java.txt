@@ -1,0 +1,38 @@
+diff --git a/github_diff/CVE-2017-7957/oldfiles/SunLimitedUnsafeReflectionProvider.java b/github_diff/CVE-2017-7957/newfiles/SunLimitedUnsafeReflectionProvider.java
+index 622df0f..9b1cdb1 100644
+--- a/github_diff/CVE-2017-7957/oldfiles/SunLimitedUnsafeReflectionProvider.java
++++ b/github_diff/CVE-2017-7957/newfiles/SunLimitedUnsafeReflectionProvider.java
+@@ -48,17 +48,23 @@ public class SunLimitedUnsafeReflectionProvider extends PureJavaReflectionProvid
+         }
+         
+         ErrorWritingException ex = null;
+-        try {
+-            return unsafe.allocateInstance(type);
+-        }
+-         catch (final SecurityException e) {
+-            ex = new ObjectAccessException("Cannot construct type", e);
++        if (type == void.class || type == Void.class) {
++            ex = new ConversionException("Type void cannot have an instance");
+         }
+-         catch (final InstantiationException e) {
+-            ex = new ConversionException("Cannot construct type", e);
+-        }
+-         catch (final IllegalArgumentException e) {
+-            ex = new ObjectAccessException("Cannot construct type", e);
++         else {
++            try {
++                return unsafe.allocateInstance(type);
++            }
++             catch (final SecurityException e) {
++                ex = new ObjectAccessException("Cannot construct type", e);
++            }
++             catch (final InstantiationException e) {
++                ex = new ConversionException("Cannot construct type", e);
++            }
++             catch (final IllegalArgumentException e) {
++                ex = new ObjectAccessException("Cannot construct type", e);
++            }
++            
+         }
+         
+         ex.add("construction-type", type.getName());

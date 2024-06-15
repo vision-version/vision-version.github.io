@@ -1,0 +1,106 @@
+diff --git a/github_diff/CVE-2020-13956/oldfiles/URIUtils.java b/github_diff/CVE-2020-13956/newfiles/URIUtils.java
+index dfc8b68..5ce3479 100644
+--- a/github_diff/CVE-2020-13956/oldfiles/URIUtils.java
++++ b/github_diff/CVE-2020-13956/newfiles/URIUtils.java
+@@ -234,70 +234,52 @@ public class URIUtils {
+             return null;
+         }
+         
+-        HttpHost target = null;
+         if (uri.isAbsolute()) {
+-            int port = uri.getPort(); 
+-            String host = uri.getHost();
+-            if (host == null) { 
+-                host = uri.getAuthority();
+-                if (host != null) {
+-                    final int at = host.indexOf('@');
+-                    if (at >= 0) {
+-                        if (host.length() > at+1 ) {
+-                            host = host.substring(at+1);
++            if (uri.getHost() == null) { 
++                if (uri.getAuthority() != null) {
++                    String content = uri.getAuthority();
++                    int at = content.indexOf('@');
++                    if (at != -1) {
++                        content = content.substring(at + 1);
++                    }
++                    
++                    final String scheme = uri.getScheme();
++                    final String hostname;
++                    final int port;
++                    at = content.indexOf(":");
++                    if (at != -1) {
++                        hostname = content.substring(0, at);
++                        try {
++                            final String portText = content.substring(at + 1);
++                            port = !TextUtils.isEmpty(portText) ? Integer.parseInt(portText) : -1;
+                         }
+-                         else {
+-                            host = null; 
++                         catch (final NumberFormatException ex) {
++                            return null;
+                         }
+                         
++                    }
++                     else {
++                        hostname = content;
++                        port = -1;
+                     }
+                     
+-                    if (host != null) {
+-                        final int colon = host.indexOf(':');
+-                        if (colon >= 0) {
+-                            final int pos = colon + 1;
+-                            int len = 0;
+-                            for (int i = pos; i < host.length(); i++) {
+-                                if (Character.isDigit(host.charAt(i))) {
+-                                    len++;
+-                                }
+-                                 else {
+-                                    break;
+-                                }
+-                                
+-                            }
+-                            
+-                            if (len > 0) {
+-                                try {
+-                                    port = Integer.parseInt(host.substring(pos, pos + len));
+-                                }
+-                                 catch (final NumberFormatException ex) {
+-                                }
+-                                
+-                            }
+-                            
+-                            host = host.substring(0, colon);
+-                        }
+-                        
++                    try {
++                        return new HttpHost(hostname, port, scheme);
++                    }
++                     catch (final IllegalArgumentException ex) {
++                        return null;
+                     }
+                     
+                 }
+                 
+             }
+-            
+-            final String scheme = uri.getScheme();
+-            if (!TextUtils.isBlank(host)) {
+-                try {
+-                    target = new HttpHost(host, port, scheme);
+-                }
+-                 catch (final IllegalArgumentException ignore) {
+-                }
+-                
++             else {
++                return new HttpHost(uri.getHost(), uri.getPort(), uri.getScheme());
+             }
+             
+         }
+         
+-        return target;
++        return null;
+     }
+     
+     public static URI resolve( final URI originalURI, final HttpHost target, final List<URI> redirects) throws URISyntaxException {

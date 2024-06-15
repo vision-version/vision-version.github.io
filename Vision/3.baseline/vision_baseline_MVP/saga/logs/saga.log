@@ -1,0 +1,119 @@
+ INFO [main] 2024-06-14 07:25:56,058 (Pipeline.java:27): loading file list...
+ INFO [main] 2024-06-14 07:25:56,078 (Pipeline.java:50): 290 files have been loaded
+ INFO [main] 2024-06-14 07:25:56,078 (Pipeline.java:57): loading state...
+ INFO [main] 2024-06-14 07:25:56,085 (Tokenizer.java:71): ==========================================
+ INFO [main] 2024-06-14 07:25:56,085 (Tokenizer.java:72):                  tokenize                 
+ INFO [main] 2024-06-14 07:25:56,085 (Tokenizer.java:73): ==========================================
+ INFO [main] 2024-06-14 07:25:56,127 (Tokenizer.java:124): 1%
+ INFO [main] 2024-06-14 07:25:56,129 (Tokenizer.java:124): 2%
+ INFO [main] 2024-06-14 07:25:56,133 (Tokenizer.java:124): 3%
+ INFO [main] 2024-06-14 07:25:56,136 (Tokenizer.java:124): 4%
+ INFO [main] 2024-06-14 07:25:56,139 (Tokenizer.java:124): 5%
+ INFO [main] 2024-06-14 07:25:56,141 (Tokenizer.java:124): 6%
+ INFO [main] 2024-06-14 07:25:56,143 (Tokenizer.java:124): 7%
+ INFO [main] 2024-06-14 07:25:56,148 (Tokenizer.java:124): 8%
+ INFO [main] 2024-06-14 07:25:56,149 (Tokenizer.java:124): 9%
+ INFO [main] 2024-06-14 07:25:56,149 (Tokenizer.java:124): 10%
+ INFO [main] 2024-06-14 07:25:56,152 (Tokenizer.java:124): 11%
+ INFO [main] 2024-06-14 07:25:56,160 (Tokenizer.java:124): 12%
+ INFO [main] 2024-06-14 07:25:56,162 (Tokenizer.java:124): 13%
+ INFO [main] 2024-06-14 07:25:56,169 (Tokenizer.java:124): 14%
+ INFO [main] 2024-06-14 07:25:56,177 (Tokenizer.java:124): 15%
+ INFO [main] 2024-06-14 07:25:56,190 (Tokenizer.java:124): 16%
+ INFO [main] 2024-06-14 07:25:56,196 (Tokenizer.java:124): 17%
+ INFO [main] 2024-06-14 07:25:56,207 (Tokenizer.java:124): 18%
+ INFO [main] 2024-06-14 07:25:56,208 (Tokenizer.java:124): 19%
+ INFO [main] 2024-06-14 07:25:56,209 (Tokenizer.java:124): 20%
+ INFO [main] 2024-06-14 07:25:56,213 (Tokenizer.java:124): 21%
+ INFO [main] 2024-06-14 07:25:56,216 (Tokenizer.java:124): 22%
+ INFO [main] 2024-06-14 07:25:56,220 (Tokenizer.java:124): 23%
+ INFO [main] 2024-06-14 07:25:56,223 (Tokenizer.java:124): 24%
+ INFO [main] 2024-06-14 07:25:56,229 (Tokenizer.java:124): 25%
+ INFO [main] 2024-06-14 07:25:56,237 (Tokenizer.java:124): 26%
+ INFO [main] 2024-06-14 07:25:56,244 (Tokenizer.java:124): 27%
+ INFO [main] 2024-06-14 07:25:56,251 (Tokenizer.java:124): 28%
+ INFO [main] 2024-06-14 07:25:56,254 (Tokenizer.java:124): 29%
+ INFO [main] 2024-06-14 07:25:56,255 (Tokenizer.java:124): 30%
+ INFO [main] 2024-06-14 07:25:56,260 (Tokenizer.java:124): 31%
+ INFO [main] 2024-06-14 07:25:56,263 (Tokenizer.java:124): 32%
+ INFO [main] 2024-06-14 07:25:56,269 (Tokenizer.java:124): 33%
+ INFO [main] 2024-06-14 07:25:56,270 (Tokenizer.java:124): 34%
+ INFO [main] 2024-06-14 07:25:56,289 (Tokenizer.java:124): 35%
+ INFO [main] 2024-06-14 07:25:56,315 (Tokenizer.java:124): 36%
+ INFO [main] 2024-06-14 07:25:56,321 (Tokenizer.java:124): 37%
+ INFO [main] 2024-06-14 07:25:56,338 (Tokenizer.java:124): 38%
+ INFO [main] 2024-06-14 07:25:56,343 (Tokenizer.java:124): 39%
+ INFO [main] 2024-06-14 07:25:56,345 (Tokenizer.java:124): 40%
+ INFO [main] 2024-06-14 07:25:56,360 (Tokenizer.java:124): 41%
+ INFO [main] 2024-06-14 07:25:56,370 (Tokenizer.java:124): 42%
+ INFO [main] 2024-06-14 07:25:56,373 (Tokenizer.java:124): 43%
+ INFO [main] 2024-06-14 07:25:56,389 (Tokenizer.java:124): 44%
+ INFO [main] 2024-06-14 07:25:56,396 (Tokenizer.java:124): 45%
+ INFO [main] 2024-06-14 07:25:56,401 (Tokenizer.java:124): 46%
+ INFO [main] 2024-06-14 07:25:56,407 (Tokenizer.java:124): 47%
+ INFO [main] 2024-06-14 07:25:56,433 (Tokenizer.java:124): 48%
+ INFO [main] 2024-06-14 07:25:56,453 (Tokenizer.java:124): 49%
+ INFO [main] 2024-06-14 07:25:56,461 (Tokenizer.java:124): 50%
+ INFO [main] 2024-06-14 07:25:56,462 (Tokenizer.java:124): 51%
+ INFO [main] 2024-06-14 07:25:56,464 (Tokenizer.java:124): 52%
+ INFO [main] 2024-06-14 07:25:56,468 (Tokenizer.java:124): 53%
+ INFO [main] 2024-06-14 07:25:56,471 (Tokenizer.java:124): 54%
+ INFO [main] 2024-06-14 07:25:56,474 (Tokenizer.java:124): 55%
+ INFO [main] 2024-06-14 07:25:56,491 (Tokenizer.java:124): 56%
+ INFO [main] 2024-06-14 07:25:56,500 (Tokenizer.java:124): 57%
+ INFO [main] 2024-06-14 07:25:56,505 (Tokenizer.java:124): 58%
+ INFO [main] 2024-06-14 07:25:56,508 (Tokenizer.java:124): 59%
+ INFO [main] 2024-06-14 07:25:56,512 (Tokenizer.java:124): 60%
+ INFO [main] 2024-06-14 07:25:56,513 (Tokenizer.java:124): 61%
+ INFO [main] 2024-06-14 07:25:56,523 (Tokenizer.java:124): 62%
+ INFO [main] 2024-06-14 07:25:56,526 (Tokenizer.java:124): 63%
+ INFO [main] 2024-06-14 07:25:56,529 (Tokenizer.java:124): 64%
+ INFO [main] 2024-06-14 07:25:56,550 (Tokenizer.java:124): 65%
+ INFO [main] 2024-06-14 07:25:56,557 (Tokenizer.java:124): 66%
+ INFO [main] 2024-06-14 07:25:56,559 (Tokenizer.java:124): 67%
+ INFO [main] 2024-06-14 07:25:56,563 (Tokenizer.java:124): 68%
+ INFO [main] 2024-06-14 07:25:56,565 (Tokenizer.java:124): 69%
+ INFO [main] 2024-06-14 07:25:56,566 (Tokenizer.java:124): 70%
+ INFO [main] 2024-06-14 07:25:56,568 (Tokenizer.java:124): 71%
+ INFO [main] 2024-06-14 07:25:56,569 (Tokenizer.java:124): 72%
+ INFO [main] 2024-06-14 07:25:56,570 (Tokenizer.java:124): 73%
+ INFO [main] 2024-06-14 07:25:56,576 (Tokenizer.java:124): 74%
+ INFO [main] 2024-06-14 07:25:56,582 (Tokenizer.java:124): 75%
+ INFO [main] 2024-06-14 07:25:56,585 (Tokenizer.java:124): 76%
+ INFO [main] 2024-06-14 07:25:56,588 (Tokenizer.java:124): 77%
+ INFO [main] 2024-06-14 07:25:56,591 (Tokenizer.java:124): 78%
+ INFO [main] 2024-06-14 07:25:56,595 (Tokenizer.java:124): 79%
+ INFO [main] 2024-06-14 07:25:56,596 (Tokenizer.java:124): 80%
+ INFO [main] 2024-06-14 07:25:56,603 (Tokenizer.java:124): 81%
+ INFO [main] 2024-06-14 07:25:56,617 (Tokenizer.java:124): 82%
+ INFO [main] 2024-06-14 07:25:56,620 (Tokenizer.java:124): 83%
+ INFO [main] 2024-06-14 07:25:56,630 (Tokenizer.java:124): 84%
+ INFO [main] 2024-06-14 07:25:56,633 (Tokenizer.java:124): 85%
+ INFO [main] 2024-06-14 07:25:56,636 (Tokenizer.java:124): 86%
+ INFO [main] 2024-06-14 07:25:56,638 (Tokenizer.java:124): 87%
+ INFO [main] 2024-06-14 07:25:56,651 (Tokenizer.java:124): 88%
+ INFO [main] 2024-06-14 07:25:56,678 (Tokenizer.java:124): 89%
+ INFO [main] 2024-06-14 07:25:56,679 (Tokenizer.java:124): 90%
+ INFO [main] 2024-06-14 07:25:56,685 (Tokenizer.java:124): 91%
+ INFO [main] 2024-06-14 07:25:56,686 (Tokenizer.java:124): 92%
+ INFO [main] 2024-06-14 07:25:56,688 (Tokenizer.java:124): 93%
+ INFO [main] 2024-06-14 07:25:56,691 (Tokenizer.java:124): 94%
+ INFO [main] 2024-06-14 07:25:56,699 (Tokenizer.java:124): 95%
+ INFO [main] 2024-06-14 07:25:56,707 (Tokenizer.java:124): 96%
+ INFO [main] 2024-06-14 07:25:56,719 (Tokenizer.java:124): 97%
+ INFO [main] 2024-06-14 07:25:56,728 (Tokenizer.java:124): 98%
+ INFO [main] 2024-06-14 07:25:56,732 (Tokenizer.java:124): 99%
+ INFO [main] 2024-06-14 07:25:56,792 (Tokenizer.java:170): tokenIndexList: [-2147483647]
+ INFO [main] 2024-06-14 07:25:56,792 (Tokenizer.java:171): total token num is: 390747
+ INFO [main] 2024-06-14 07:25:56,792 (Tokenizer.java:172): total measure num is: 5949
+ INFO [main] 2024-06-14 07:25:56,792 (Tokenizer.java:173): total line is: 88548
+ INFO [main] 2024-06-14 07:25:56,825 (SuffixArrayBuilder.java:20): ==========================================
+ INFO [main] 2024-06-14 07:25:56,826 (SuffixArrayBuilder.java:21):                   build                   
+ INFO [main] 2024-06-14 07:25:56,826 (SuffixArrayBuilder.java:22): ==========================================
+ INFO [main] 2024-06-14 07:25:56,826 (SuffixArrayBuilder.java:36): data trunk size:390747 0
+ INFO [main] 2024-06-14 07:25:56,826 (SuffixArrayBuilder.java:42): ./executable/executable_cpu_linux 0 -1 -2147483647 0 1 1 10 8
+ INFO [main] 2024-06-14 07:25:57,878 (SnippetParser.java:46): ==========================================
+ INFO [main] 2024-06-14 07:25:57,878 (SnippetParser.java:47):                   parse                   
+ INFO [main] 2024-06-14 07:25:57,878 (SnippetParser.java:48): ==========================================
+ INFO [main] 2024-06-14 07:25:58,407 (SnippetParser.java:81): result group: 6854
+ INFO [main] 2024-06-14 07:25:58,407 (Pipeline.java:146): total time cost: PT2.35S

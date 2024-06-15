@@ -1,0 +1,30 @@
+diff --git a/github_diff/CVE-2022-22969/oldfiles/DefaultOAuth2ClientContext.java b/github_diff/CVE-2022-22969/newfiles/DefaultOAuth2ClientContext.java
+index 18cddac..4c7428d 100644
+--- a/github_diff/CVE-2022-22969/oldfiles/DefaultOAuth2ClientContext.java
++++ b/github_diff/CVE-2022-22969/newfiles/DefaultOAuth2ClientContext.java
+@@ -1,7 +1,7 @@
+ package org.springframework.security.oauth2.client;
+ import java.io.Serializable;
+-import java.util.HashMap;
+ import java.util.Map;
++import java.util.concurrent.ConcurrentHashMap;
+ import org.springframework.security.oauth2.client.token.AccessTokenRequest;
+ import org.springframework.security.oauth2.client.token.DefaultAccessTokenRequest;
+ import org.springframework.security.oauth2.common.OAuth2AccessToken;
+@@ -10,7 +10,7 @@ public class DefaultOAuth2ClientContext implements OAuth2ClientContext, Serializ
+ 	private static final long serialVersionUID = 914967629530462926L;
+ 	private OAuth2AccessToken accessToken;
+ 	private AccessTokenRequest accessTokenRequest;
+-	private Map<String, Object> state = new HashMap<String, Object>();
++	private Map<String, Object> state = new ConcurrentHashMap<String, Object>();
+ 	public DefaultOAuth2ClientContext() {
+ 		this(new DefaultAccessTokenRequest());
+ 	}
+@@ -38,6 +38,7 @@ public class DefaultOAuth2ClientContext implements OAuth2ClientContext, Serializ
+ 	}
+ 	
+ 	public void setPreservedState(String stateKey, Object preservedState) {
++		state.clear();
+ 		state.put(stateKey, preservedState);
+ 	}
+ 	

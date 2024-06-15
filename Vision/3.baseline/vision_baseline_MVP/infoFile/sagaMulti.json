@@ -1,0 +1,2022 @@
+{
+    "CVE-2019-17359": {
+        "0de5fbb2d-ASN1StreamParser.java": {
+            "org.bouncycastle.asn1.ASN1StreamParser.readObject()":{
+                "lineStart": 88,
+                "lineEnd": 156
+            }
+        },
+        "f247b11f0-ConstructedOctetStream.java": {
+            "org.bouncycastle.asn1.ConstructedOctetStream.read(byte[] b, int off, int len)": {
+                "lineStart": 12,
+                "lineEnd": 50
+            }
+        }
+    },
+    "CVE-2016-1000343": {
+        "ebdb7d628-KeyPairGeneratorSpi.java": {
+            "org.bouncycastle.jcajce.provider.asymmetric.dsa.KeyPairGeneratorSpi.generateKeyPair()": {
+                "lineStart": 46,
+                "lineEnd": 59
+            }
+        }
+    },
+    "CVE-2016-1000342": {
+        "deb660167-ASN1Enumerated.java": {
+            "org.bouncycastle.asn1.ASN1Enumerated.<init>(byte[] bytes)": {
+                "lineStart": 46,
+                "lineEnd": 48
+            }
+        },
+        "c3c3f9cf0-ASN1Integer.java": {
+            "org.bouncycastle.asn1.ASN1Integer.<init>(byte[] bytes, boolean clone)": {
+                "lineStart": 50,
+                "lineEnd": 52  
+            }
+        },
+        "0138efcf8-DSASigner.java": {
+            "org.bouncycastle.jcajce.provider.asymmetric.dsa.DSASigner.derDecode(byte[] encoding)": {
+                "lineStart": 114,
+                "lineEnd": 121  
+            }
+        },
+        "d2daa580e-SignatureSpi.java": {
+            "org.bouncycastle.jcajce.provider.asymmetric.ec.SignatureSpi$StdDSAEncoder.decode(byte[] encoding)": {
+                "lineStart": 281,
+                "lineEnd": 287  
+            }
+        }
+    },
+    "CVE-2020-28052": {
+        "64391ea03-OpenBSDBCrypt.java": {
+            "org.bouncycastle.crypto.generators.OpenBSDBCrypt.doCheckPassword(String bcryptString, byte[] password)": {
+                "lineStart": 103,
+                "lineEnd": 144
+            }
+        }
+    },
+    "CVE-2016-1000340": {
+        "8d621c171-Nat128.java": {
+            "org.bouncycastle.math.raw.Nat128.square(int[] x, int[] zz)": {
+                "lineStart": 530,
+                "lineEnd": 597
+            },
+            "org.bouncycastle.math.raw.Nat128.square(int[] x, int xOff, int[] zz, int zzOff)": {
+                "lineStart": 599,
+                "lineEnd": 665
+            }
+        },
+        "55010dc37-Nat160.java": {
+            "org.bouncycastle.math.raw.Nat160.square(int[] x, int[] zz)": {
+                "lineStart": 511,
+                "lineEnd": 595
+            },
+            "org.bouncycastle.math.raw.Nat160.square(int[] x, int xOff, int[] zz, int zzOff)": {
+                "lineStart": 597,
+                "lineEnd": 681
+            }
+        },
+        "421883e02-Nat192.java": {
+            "org.bouncycastle.math.raw.Nat192.square(int[] x, int[] zz)": {
+                "lineStart": 612,
+                "lineEnd": 716
+            },
+            "org.bouncycastle.math.raw.Nat192.square(int[] x, int xOff, int[] zz, int zzOff)": {
+                "lineStart": 718,
+                "lineEnd": 822
+            }
+        },
+        "bbe81caaa-Nat224.java": {
+            "org.bouncycastle.math.raw.Nat224.square(int[] x, int[] zz)": {
+                "lineStart": 696,
+                "lineEnd": 822
+            },
+            "org.bouncycastle.math.raw.Nat224.square(int[] x, int xOff, int[] zz, int zzOff)": {
+                "lineStart": 824,
+                "lineEnd": 950
+            }
+        },
+        "db1daac00-Nat256.java": {
+            "org.bouncycastle.math.raw.Nat256.square(int[] x, int[] zz)": {
+                "lineStart": 821,
+                "lineEnd": 971
+            },
+            "org.bouncycastle.math.raw.Nat256.square(int[] x, int xOff, int[] zz, int zzOff)": {
+                "lineStart": 973,
+                "lineEnd": 1123
+            }
+        }
+    },
+    "CVE-2016-1000338": {
+        "877b0aa51-DSASigner.java": {
+            "org.bouncycastle.jcajce.provider.asymmetric.dsa.DSASigner.derDecode(byte[] encoding)": {
+                "lineStart": 117,
+                "lineEnd": 120
+            }
+        }
+    },
+    "CVE-2022-22969": {
+        "a4ab6e0a-DefaultOAuth2ClientContext.java": {
+            "org.springframework.security.oauth2.client.DefaultOAuth2ClientContext.setPreservedState(String stateKey, Object preservedState)": {
+                "lineStart": 39,
+                "lineEnd": 41
+            }
+        }
+    },
+    "CVE-2016-4977": {
+        "996be819-SpelView.java": {
+            "org.springframework.security.oauth2.provider.endpoint.SpelView.<init>(String template)": {
+                "lineStart": 20,
+                "lineEnd": 30
+            },
+            "org.springframework.security.oauth2.provider.endpoint.SpelView.render(Map<String, ?> model, HttpServletRequest request, HttpServletResponse response)": {
+                "lineStart": 36,
+                "lineEnd": 44
+            }
+        }
+    },
+    "CVE-2018-1260": {
+        "fa825e1d-DefaultOAuth2RequestAuthenticator.java": {
+            "org.springframework.security.oauth2.client.DefaultOAuth2RequestAuthenticator.authenticate(OAuth2ProtectedResourceDetails resource, OAuth2ClientContext clientContext, ClientHttpRequest request)": {
+                "lineStart": 8,
+                "lineEnd": 20
+            }
+        }
+    },
+    "CVE-2018-1000632": {
+        "fd123b9-Namespace.java": {
+            "org.dom4j.Namespace.<init>(String prefix, String uri)": {
+                "lineStart": 17,
+                "lineEnd": 19  
+            }
+        },
+        "9ac0d4d-QName.java": {
+            "org.dom4j.QName.<init>(String name, Namespace namespace)": {
+                "lineStart": 46,
+                "lineEnd": 49  
+            },
+            "org.dom4j.QName.<init>(String name, Namespace namespace, String qualifiedName)": {
+                "lineStart": 51,
+                "lineEnd": 55  
+            }
+        },
+        "330f379-QNameCache.java": {
+            "org.dom4j.tree.QNameCache.get(String qualifiedName, String uri)": {
+                "lineStart": 83,
+                "lineEnd": 94 
+            }
+        }
+    },
+    "CVE-2024-31860": {
+        "2e9803183-NotebookService.java": {
+            "org.apache.zeppelin.service.NotebookService.normalizeNotePath(String notePath)": {
+                "lineStart": 152,
+                "lineEnd": 172
+            }
+        }
+    },
+    "CVE-2021-31412": {
+        "646af1429f-RouteNotFoundError.java": {
+            "com.vaadin.flow.router.RouteNotFoundError.setErrorParameter(BeforeEnterEvent event, ErrorParameter<NotFoundException> parameter)": {
+                "lineStart": 18,
+                "lineEnd": 37
+            }
+        }
+    },
+    "CVE-2021-44228": {
+        "ad57358ac8-JmsManager.java": {
+            "org.apache.logging.log4j.core.appender.mom.JmsManager$JmsManagerFactory.createManager(final String name, final JmsManagerConfiguration data)": {
+                "lineStart": 88,
+                "lineEnd": 97
+            }
+        },
+        "2670857884-JndiManager.java": {
+            "org.apache.logging.log4j.core.net.JndiManager.lookup(final String name)": {
+                "lineStart": 79,
+                "lineEnd": 81
+            },
+            "org.apache.logging.log4j.core.net.JndiManager$JndiManagerFactory.createManager(final String name, final Properties data)": {
+                "lineStart": 84,
+                "lineEnd": 93
+            }
+        }
+    },
+    "CVE-2021-44832": {
+        "e85871fa7e-AbstractManager.java": {
+            "org.apache.logging.log4j.core.appender.AbstractManager.getManager(final String name, final ManagerFactory<M, T> factory, final T data)": {
+                "lineStart": 50,
+                "lineEnd": 74
+            }
+        },
+        "c9f105be16-JmsManager.java": {
+            "org.apache.logging.log4j.core.appender.mom.JmsManager$JmsManagerFactory.createManager(final String name, final JmsManagerConfiguration data)": {
+                "lineStart": 88,
+                "lineEnd": 104
+            }
+        },
+        "c8409ab564-Interpolator.java": {
+            "org.apache.logging.log4j.core.lookup.Interpolator.<init>(final StrLookup defaultLookup, final List<String> pluginPackages)": {
+                "lineStart": 28,
+                "lineEnd": 47
+            }
+        },
+        "bd19e54304-JndiLookup.java": {
+            "org.apache.logging.log4j.core.lookup.JndiLookup.lookup(final LogEvent event, final String key)": {
+                "lineStart": 10,
+                "lineEnd": 13
+            }
+        },
+        "06e279309a-JndiManager.java": {
+            "org.apache.logging.log4j.core.net.JndiManager.isJndiEnabled()": {
+                "lineStart": 16,
+                "lineEnd": 18
+            },
+            "org.apache.logging.log4j.core.net.JndiManager.lookup(final String name)": {
+                "lineStart": 86,
+                "lineEnd": 104
+            },
+            "org.apache.logging.log4j.core.net.JndiManager$JndiManagerFactory.createManager(final String name, final Properties data)": {
+                "lineStart": 107,
+                "lineEnd": 122
+            }
+        },
+        "81ec3f37d3-JndiContextSelector.java": {
+            "org.apache.logging.log4j.core.selector.JndiContextSelector.<init>()": {
+                "lineStart": 19,
+                "lineEnd": 24
+            }
+        }
+    },
+    "CVE-2018-20227": {
+        "19e1a4c523-ZipUtil.java": {
+            "org.eclipse.rdf4j.common.io.ZipUtil.writeEntry(ZipFile zipFile, ZipEntry entry, File destDir)": {
+                "lineStart": 35,
+                "lineEnd": 49
+            }
+        }
+    },
+    "CVE-2022-22968": {
+        "ffa441d299-DataBinder.java": {
+            "org.springframework.validation.DataBinder.setDisallowedFields(@Nullable String... disallowedFields)": {
+                "lineStart": 196,
+                "lineEnd": 198
+            },
+            "org.springframework.validation.DataBinder.isAllowed(String field)": {
+                "lineStart": 376,
+                "lineEnd": 380
+            }
+        }
+    },
+    "CVE-2021-22095": {
+        "8b3edeb4-Message.java": {
+            "org.springframework.amqp.core.Message.getBodyContentAsString()": {
+                "lineStart": 48,
+                "lineEnd": 71
+            }
+        }
+    },
+    "CVE-2017-8045": {
+        "15e9c6c7-Message.java": {
+            "org.springframework.amqp.core.Message.addAllowedListPatterns(String... patterns)": {
+                "lineStart": 29,
+                "lineEnd": 32
+            },
+            "org.springframework.amqp.core.Message.getBodyContentAsString()": {
+                "lineStart": 56,
+                "lineEnd": 74
+            }
+        }
+    },
+    "CVE-2017-7957": {
+        "7ef870b4-SunLimitedUnsafeReflectionProvider.java": {
+            "com.thoughtworks.xstream.converters.reflection.SunLimitedUnsafeReflectionProvider.newInstance(final Class<?> type)": {
+                "lineStart": 42,
+                "lineEnd": 65
+            }
+        },
+        "42d54b76-PrimitiveTypePermission.java": {
+            "com.thoughtworks.xstream.security.PrimitiveTypePermission.allows(Class<?> type)": {
+                "lineStart": 5,
+                "lineEnd": 7
+            }
+        }
+    },
+    "CVE-2021-43859": {
+        "7d90dc7f-XStream.java": {
+            "com.thoughtworks.xstream.XStream.unmarshal(HierarchicalStreamReader reader, Object root, DataHolder dataHolder)": {
+                "lineStart": 927,
+                "lineEnd": 938
+            },
+            "com.thoughtworks.xstream.XStream.createObjectInputStream(final HierarchicalStreamReader reader, final DataHolder dataHolder)": {
+                "lineStart": 1220,
+                "lineEnd": 1247
+            }
+        },
+        "94474193-CollectionConverter.java": {
+            "com.thoughtworks.xstream.converters.collections.CollectionConverter.addCurrentElementToCollection(HierarchicalStreamReader reader, UnmarshallingContext context, Collection collection, Collection target)": {
+                "lineStart": 65,
+                "lineEnd": 68
+            }
+        },
+        "af007f95-MapConverter.java": {
+            "com.thoughtworks.xstream.converters.collections.MapConverter.putCurrentEntryIntoMap(HierarchicalStreamReader reader, UnmarshallingContext context, Map map, Map target)": {
+                "lineStart": 67,
+                "lineEnd": 71
+            }
+        },
+        "4c5ec9cf-NamedMapConverter.java": {
+            "com.thoughtworks.xstream.converters.extended.NamedMapConverter.populateMap(HierarchicalStreamReader reader, UnmarshallingContext context, Map map, Map target)": {
+                "lineStart": 132,
+                "lineEnd": 200
+            }
+        },
+        "a17363f4-TreeUnmarshaller.java": {
+            "com.thoughtworks.xstream.core.TreeUnmarshaller.convert(Object parent, Class type, Converter converter)": {
+                "lineStart": 53,
+                "lineEnd": 71
+            }
+        }
+    },
+    "CVE-2020-26217": {
+        "93901026-XStream.java": {
+            "com.thoughtworks.xstream.XStream.setupSecurity()": {
+                "lineStart": 338,
+                "lineEnd": 348
+            }
+        }
+    },
+    "CVE-2016-4465": {
+        "767416deb-URLValidator.java": {
+            "com.opensymphony.xwork2.validator.validators.URLValidator.getUrlRegex()": {
+                "lineStart": 21,
+                "lineEnd": 32
+            }
+        }
+    },
+    "CVE-2022-29546": {
+        "c8b2d27-HTMLScanner.java": {
+            "net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanPI()": {
+                "lineStart": 2075,
+                "lineEnd": 2218
+            }
+        }
+    },
+    "CVE-2022-1848": {
+        "10a3dc20-ValidationUtils.java": {
+            "com.erudika.para.core.validation.ValidationUtils.validateObject(ParaObject content)": {
+                "lineStart": 72,
+                "lineEnd": 90
+            }
+        }
+    },
+    "CVE-2020-5408": {
+        "c59246320d-BCryptPasswordEncoder.java": {
+            "org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder.encode(CharSequence rawPassword)": {
+                "lineStart": 48,
+                "lineEnd": 58
+            },
+            "org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder.matches(CharSequence rawPassword, String encodedPassword)": {
+                "lineStart": 60,
+                "lineEnd": 72
+            }
+        }
+    },
+    "CVE-2019-11272": {
+        "b1e546a138-PlaintextPasswordEncoder.java": {
+            "org.springframework.security.authentication.encoding.PlaintextPasswordEncoder.isPasswordValid(String encPass, String rawPass, Object salt)": {
+                "lineStart": 13,
+                "lineEnd": 22
+            }
+        }
+    },
+    "CVE-2024-22257": {
+        "eec33f2d53-AuthenticatedVoter.java": {
+            "org.springframework.security.access.vote.AuthenticatedVoter.isFullyAuthenticated(Authentication authentication)": {
+                "lineStart": 14,
+                "lineEnd": 16
+            }
+        }
+    },
+    "CVE-2016-9878": {
+        "c8155e290e-ResourceServlet.java": {
+            "org.springframework.web.servlet.ResourceServlet.doInclude(HttpServletRequest request, HttpServletResponse response, String resourceUrl)": {
+                "lineStart": 95,
+                "lineEnd": 114
+            }
+        }
+    },
+    "CVE-2014-3625": {
+        "cdb0453ed8-ResourceHttpRequestHandler.java": {
+            "org.springframework.web.servlet.resource.ResourceHttpRequestHandler.isInvalidPath(String path)": {
+                "lineStart": 127,
+                "lineEnd": 129
+            }
+        }
+    },
+    "CVE-2020-15250": {
+        "1a6a7706-TemporaryFolder.java": {
+            "org.junit.rules.TemporaryFolder.createTemporaryFolderIn(File parentFolder)": {
+                "lineStart": 122,
+                "lineEnd": 139
+            }
+        }
+    },
+    "CVE-2014-0225": {
+        "ae9a0af5ee-Jaxb2Marshaller.java": {
+            "org.springframework.oxm.jaxb.Jaxb2Marshaller.processSource(Source source)": {
+                "lineStart": 573,
+                "lineEnd": 616
+            }
+        },
+        "8ab7424860-AbstractMarshaller.java": {
+            "org.springframework.oxm.support.AbstractMarshaller.createXmlReader()": {
+                "lineStart": 82,
+                "lineEnd": 86
+            }
+        },
+        "81fb9373e3-Jaxb2CollectionHttpMessageConverter.java": {
+            "org.springframework.http.converter.xml.Jaxb2CollectionHttpMessageConverter.createXmlInputFactory()": {
+                "lineStart": 167,
+                "lineEnd": 171
+            }
+        },
+        "6c1b0c7913-Jaxb2RootElementHttpMessageConverter.java": {
+            "org.springframework.http.converter.xml.Jaxb2RootElementHttpMessageConverter.processSource(Source source)": {
+                "lineStart": 70,
+                "lineEnd": 92
+            }
+        },
+        "ec7daec5fc-SourceHttpMessageConverter.java": {
+            "org.springframework.http.converter.xml.SourceHttpMessageConverter.readDOMSource(InputStream body)": {
+                "lineStart": 88,
+                "lineEnd": 106
+            },
+            "org.springframework.http.converter.xml.SourceHttpMessageConverter.readSAXSource(InputStream body)": {
+                "lineStart": 108,
+                "lineEnd": 120
+            },
+            "org.springframework.http.converter.xml.SourceHttpMessageConverter.readStAXSource(InputStream body)": {
+                "lineStart": 122,
+                "lineEnd": 134
+            }
+        }
+    },
+    "CVE-2020-5398": {
+        "93e3bd4cb8-ContentDisposition.java": {
+            "org.springframework.http.ContentDisposition.toString()": {
+                "lineStart": 92,
+                "lineEnd": 140
+            },
+            "org.springframework.http.ContentDisposition.parse(String contentDisposition)": {
+                "lineStart": 150,
+                "lineEnd": 223
+            },
+            "org.springframework.http.ContentDisposition.decodeHeaderFieldParam(String input)": {
+                "lineStart": 270,
+                "lineEnd": 303
+            },
+            "org.springframework.http.ContentDisposition.encodeHeaderFieldParam(String input, Charset charset)": {
+                "lineStart": 309,
+                "lineEnd": 338
+            }
+        }
+    },
+    "CVE-2013-6430": {
+        "b28d398687-JavaScriptUtils.java": {
+            "org.springframework.web.util.JavaScriptUtils.javaScriptEscape(String input)": {
+                "lineStart": 3,
+                "lineEnd": 56
+            }
+        }
+    },
+    "CVE-2018-15756": {
+        "3bd2485f3c-HttpRange.java": {
+            "org.springframework.http.HttpRange.toResourceRegion(Resource resource)": {
+                "lineStart": 18,
+                "lineEnd": 32
+            }
+        }
+    },
+    "CVE-2020-5421": {
+        "b9c4a4c301-ForwardedHeaderFilter": {
+            "org.springframework.web.filter.ForwardedHeaderFilter$ForwardedHeaderExtractingRequest.<init>(HttpServletRequest request)":{
+                "lineStart": 127,
+                "lineEnd": 139
+            },
+            "org.springframework.web.filter.ForwardedHeaderFilter$ForwardedPrefixExtractor.initForwardedPrefix(HttpServletRequest request)": {
+                "lineStart": 187,
+                "lineEnd": 206
+            },
+            "org.springframework.web.filter.ForwardedHeaderFilter$ForwardedPrefixExtractor.getContextPath()": {
+                "lineStart": 220,
+                "lineEnd": 222
+            }
+        },
+        "8e6118c1a5-UrlPathHelper.java": {
+            "org.springframework.web.util.UrlPathHelper.getLookupPathForRequest(HttpServletRequest request)": {
+                "lineStart": 66,
+                "lineEnd": 81
+            },
+            "org.springframework.web.util.UrlPathHelper.decodePathVariables(HttpServletRequest request, Map<String, String> vars)": {
+                "lineStart": 335,
+                "lineEnd": 346
+            }
+        }
+    },
+    "CVE-2021-23899": {
+        "7e8cb7c-JsonSanitizer.java": {
+            "com.google.json.JsonSanitizer.sanitizeString(int start, int end)": {
+                "lineStart": 280,
+                "lineEnd": 447
+            },
+            "com.google.json.JsonSanitizer.isOctAt(int i)": {
+                "lineStart": 833,
+                "lineEnd": 836
+            },
+            "com.google.json.JsonSanitizer.isHexAt(int i)": {
+                "lineStart": 838,
+                "lineEnd": 846
+            }
+        }
+    },
+    "CVE-2020-13973": {
+        "26fcf1d-JsonSanitizer.java": {
+            "com.google.json.JsonSanitizer.sanitizeString(int start, int end)": {
+                "lineStart": 279,
+                "lineEnd": 417
+            }
+        }
+    },
+    "CVE-2021-23900": {
+        "7e8cb7c-JsonSanitizer.java": {
+            "com.google.json.JsonSanitizer.sanitizeString(int start, int end)": {
+                "lineStart": 280,
+                "lineEnd": 447
+            },
+            "com.google.json.JsonSanitizer.isOctAt(int i)": {
+                "lineStart": 833,
+                "lineEnd": 836
+            },
+            "com.google.json.JsonSanitizer.isHexAt(int i)": {
+                "lineStart": 838,
+                "lineEnd": 846
+            }
+        }
+    },
+    "CVE-2022-25867": {
+        "74222bc-Manager.java": {
+            "io.socket.client.Manager.onopen()": {
+                "lineStart": 276,
+                "lineEnd": 321
+            },
+            "io.socket.client.Manager.ondata(String data)": {
+                "lineStart": 323,
+                "lineEnd": 331
+            },
+            "io.socket.client.Manager.ondata(byte[] data)": {
+                "lineStart": 333,
+                "lineEnd": 341
+            }
+        },
+        "b6a959c-IOParser.java": {
+            "io.socket.parser.IOParser$Decoder.decodeString(String str)": {
+                "lineStart": 117,
+                "lineEnd": 195
+            }
+        }
+    },
+    "CVE-2020-8929": {
+        "86b59b664-PrimitiveSet.java": {
+            "com.google.crypto.tink.PrimitiveSet.getPrimitive(final byte[] identifier)": {
+                "lineStart": 66,
+                "lineEnd": 69
+            },
+            "com.google.crypto.tink.PrimitiveSet.addPrimitive(final P primitive, Keyset.Key key)": {
+                "lineStart": 107,
+                "lineEnd": 125
+            }
+        }
+    },
+    "CVE-2022-23596": {
+        "7af74a57-Archive.java": {
+            "com.github.junrar.Archive.readHeaders(final long fileLength)": {
+                "lineStart": 214,
+                "lineEnd": 418
+            }
+        }
+    },
+    "CVE-2022-29631": {
+        "544dd86-HttpRequest.java": {
+            "jodd.http.HttpRequest.path(String path)": {
+                "lineStart": 195,
+                "lineEnd": 225
+            }
+        }
+    },
+    "CVE-2020-13956": {
+        "8eb7667e3-URIUtils.java": {
+            "org.apache.http.client.utils.URIUtils.extractHost(final URI uri)": {
+                "lineStart": 230,
+                "lineEnd": 299
+            }
+        }
+    },
+    "CVE-2021-27807": {
+        "fa589396d-RandomAccessBuffer.java": {
+            "org.apache.pdfbox.io.RandomAccessBuffer.read(byte[] b, int offset, int length)": {
+                "lineStart": 148,
+                "lineEnd": 164
+            },
+            "org.apache.pdfbox.io.RandomAccessBuffer.readRemainingBytes(byte[] b, int offset, int length)": {
+                "lineStart": 166,
+                "lineEnd": 191
+            },
+            "org.apache.pdfbox.io.RandomAccessBuffer.readFully(int length)": {
+                "lineStart": 329,
+                "lineEnd": 337
+            }
+        },
+        "4957d9ca5-RandomAccessBufferedFileInputStream.java": {
+            "org.apache.pdfbox.io.RandomAccessBufferedFileInputStream.readFully(int length)": {
+                "lineStart": 208,
+                "lineEnd": 216
+            }
+        },
+        "c076798aa-ScratchFileBuffer.java": {
+            "org.apache.pdfbox.io.ScratchFileBuffer.readFully(int len)": {
+                "lineStart": 194,
+                "lineEnd": 207
+            }
+        },
+        "7eb06441b-InputStreamSource.java": {
+            "org.apache.pdfbox.pdfparser.InputStreamSource.readFully(int length)": {
+                "lineStart": 73,
+                "lineEnd": 91
+            }
+        }
+    },
+    "CVE-2021-33609": {
+        "0c1dafe09e-DataCommunicator.java": {
+            "com.vaadin.data.provider.DataCommunicator.onRequestRows(int firstRowIndex, int numberOfRows, int firstCachedRowIndex, int cacheSize)": {
+                "lineStart": 142,
+                "lineEnd": 145
+            }
+        }
+    },
+    "CVE-2020-36320": {
+        "63cd0211a2-EmailValidator.java": {
+            "com.vaadin.data.validator.EmailValidator.<init>(String errorMessage)": {
+                "lineStart": 3,
+                "lineEnd": 5
+            }
+        }
+    },
+    "CVE-2021-40111": {
+        "9aa23fedac-ImapRequestLineReader.java": {
+            "org.apache.james.imap.decode.ImapRequestLineReader.flagList()": {
+                "lineStart": 330,
+                "lineEnd": 351
+            }
+        }
+    },
+    "CVE-2019-10219": {
+        "89dd07f43-SafeHtmlValidator.java": {
+            "org.hibernate.validator.internal.constraintvalidators.hv.SafeHtmlValidator.getFragmentAsDocument(CharSequence value)": {
+                "lineStart": 62,
+                "lineEnd": 71
+            }
+        }
+    },
+    "CVE-2024-29131": {
+        "9ddd57e8-ListDelimiterHandler.java": {
+            "org.apache.commons.configuration2.convert.ListDelimiterHandler.flatten(final Object value, final int limit)": {
+                "lineStart": 13,
+                "lineEnd": 39
+            }
+        }
+    },
+    "CVE-2020-1953": {
+        "1593d122-YAMLConfiguration.java": {
+            "org.apache.commons.configuration2.YAMLConfiguration.read(final Reader in)": {
+                "lineStart": 22,
+                "lineEnd": 33
+            },
+            "org.apache.commons.configuration2.YAMLConfiguration.read(final Reader in, final LoaderOptions options)": {
+                "lineStart": 35,
+                "lineEnd": 46
+            },
+            "org.apache.commons.configuration2.YAMLConfiguration.read(final InputStream in)": {
+                "lineStart": 59,
+                "lineEnd": 70
+            },
+            "org.apache.commons.configuration2.YAMLConfiguration.read(final InputStream in, final LoaderOptions options)": {
+                "lineStart": 72,
+                "lineEnd": 83
+            }
+        }
+    },
+    "CVE-2022-25845": {
+        "0c5150d29-ParserConfig.java": {
+            "com.alibaba.fastjson.parser.ParserConfig.checkAutoType(String typeName, Class<?> expectClass, int features)": {
+                "lineStart": 1033,
+                "lineEnd": 1251
+            }
+        }
+    },
+    "CVE-2020-5245": {
+        "69cf5e63d-ViolationCollector.java": {
+            "io.dropwizard.validation.selfvalidating.ViolationCollector.addViolation(String msg)": {
+                "lineStart": 10,
+                "lineEnd": 13
+            }
+        }
+    },
+    "CVE-2020-11002": {
+        "7ea7d34b7-SelfValidatingValidator.java": {
+            "io.dropwizard.validation.selfvalidating.SelfValidatingValidator.isValid(Object value, ConstraintValidatorContext context)": {
+                "lineStart": 28,
+                "lineEnd": 37
+            }
+        },
+        "5c0005cb7-ViolationCollector.java": {
+            "io.dropwizard.validation.selfvalidating.ViolationCollector.<init>(ConstraintValidatorContext context)": {
+                "lineStart": 10,
+                "lineEnd": 12
+            },
+            "io.dropwizard.validation.selfvalidating.ViolationCollector.addViolation(String message)": {
+                "lineStart": 14,
+                "lineEnd": 18
+            },
+            "io.dropwizard.validation.selfvalidating.ViolationCollector.addViolation(String propertyName, String message)": {
+                "lineStart": 20,
+                "lineEnd": 24
+            },
+            "io.dropwizard.validation.selfvalidating.ViolationCollector.addViolation(String propertyName, Integer index, String message)": {
+                "lineStart": 26,
+                "lineEnd": 30
+            },
+            "io.dropwizard.validation.selfvalidating.ViolationCollector.addViolation(String propertyName, String key, String message)": {
+                "lineStart": 32,
+                "lineEnd": 36
+            },
+            "io.dropwizard.validation.selfvalidating.ViolationCollector.escapeEl(@Nullable String s)": {
+                "lineStart": 38,
+                "lineEnd": 51
+            },
+            "io.dropwizard.validation.selfvalidating.ViolationCollector.getContext()": {
+                "lineStart": 53,
+                "lineEnd": 55
+            }
+        }
+    },
+    "CVE-2023-34453": {
+        "fa62347-BitShuffle.java": {
+            "org.xerial.snappy.BitShuffle.shuffle(short[] input)": {
+                "lineStart": 43,
+                "lineEnd": 48
+            },
+            "org.xerial.snappy.BitShuffle.shuffle(int[] input)": {
+                "lineStart": 50,
+                "lineEnd": 55
+            },
+            "org.xerial.snappy.BitShuffle.shuffle(long[] input)": {
+                "lineStart": 57,
+                "lineEnd": 62
+            },
+            "org.xerial.snappy.BitShuffle.shuffle(float[] input)": {
+                "lineStart": 64,
+                "lineEnd": 69
+            },
+            "org.xerial.snappy.BitShuffle.shuffle(double[] input)": {
+                "lineStart": 71,
+                "lineEnd": 76
+            }
+        }
+    },
+    "CVE-2023-34454": {
+        "5263e94-Snappy.java": {
+            "org.xerial.snappy.Snappy.compress(char[] input)": {
+                "lineStart": 61,
+                "lineEnd": 63
+            },
+            "org.xerial.snappy.Snappy.compress(double[] input)": {
+                "lineStart": 65,
+                "lineEnd": 67
+            },
+            "org.xerial.snappy.Snappy.compress(float[] input)": {
+                "lineStart": 69,
+                "lineEnd": 71
+            },
+            "org.xerial.snappy.Snappy.compress(int[] input)": {
+                "lineStart": 73,
+                "lineEnd": 75
+            },
+            "org.xerial.snappy.Snappy.compress(long[] input)": {
+                "lineStart": 77,
+                "lineEnd": 79
+            },
+            "org.xerial.snappy.Snappy.compress(short[] input)": {
+                "lineStart": 81,
+                "lineEnd": 83
+            }
+        }
+    },
+    "CVE-2023-43642": {
+        "9835cf9-SnappyInputStream.java": {
+            "org.xerial.snappy.SnappyInputStream.<init>(InputStream input)": {
+                "lineStart": 13,
+                "lineEnd": 16
+            },
+            "org.xerial.snappy.SnappyInputStream.hasNextChunk()": {
+                "lineStart": 193,
+                "lineEnd": 264
+            }
+        },
+        "0bab154-SnappyOutputStream.java": {
+            "org.xerial.snappy.SnappyOutputStream.<init>(OutputStream out, int blockSize, BufferAllocatorFactory bufferAllocatorFactory)": {
+                "lineStart": 28,
+                "lineEnd": 37
+            }
+        }
+    },
+    "CVE-2023-42276": {
+        "dcc4064d6-ListUtil.java": {
+            "cn.hutool.core.collection.ListUtil.setOrPadding(List<T> list, int index, T element, T paddingElement)": {
+                "lineStart": 214,
+                "lineEnd": 229
+            }
+        },
+        "a97bedd83-JSONArray.java": {
+            "cn.hutool.json.JSONArray.add(int index, Object element)": {
+                "lineStart": 249,
+                "lineEnd": 266
+            }
+        }
+    },
+    "CVE-2021-43795": {
+        "ca047f70b-ArmeriaHttpUtil.java": {
+            "com.linecorp.armeria.internal.common.ArmeriaHttpUtil.decodePath(String path)": {
+                "lineStart": 167,
+                "lineEnd": 203
+            }
+        },
+        "edaa12500-PathAndQuery.java": {
+            "com.linecorp.armeria.internal.common.PathAndQuery.toString()": {
+                "lineStart": 119,
+                "lineEnd": 125
+            },
+            "com.linecorp.armeria.internal.common.PathAndQuery.splitPathAndQuery(@Nullable final String pathAndQuery)": {
+                "lineStart": 127,
+                "lineEnd": 162
+            },
+            "com.linecorp.armeria.internal.common.PathAndQuery.decodePercentsAndEncodeToUtf8(String value, int start, int end, boolean isPath)": {
+                "lineStart": 164,
+                "lineEnd": 283
+            },
+            "com.linecorp.armeria.internal.common.PathAndQuery.pathContainsDoubleDots(Bytes path)": {
+                "lineStart": 317,
+                "lineEnd": 334
+            },
+            "com.linecorp.armeria.internal.common.PathAndQuery.encodeToPercents(Bytes value, boolean isPath)": {
+                "lineStart": 336,
+                "lineEnd": 387
+            },
+            "com.linecorp.armeria.internal.common.PathAndQuery.appendHexNibble(StringBuilder buf, int nibble)": {
+                "lineStart": 389,
+                "lineEnd": 397
+            },
+            "com.linecorp.armeria.internal.common.PathAndQuery$ReservedChar.<init>(int rawChar, String percentEncodedChar, byte marker)": {
+                "lineStart": 471,
+                "lineEnd": 475
+            }
+        },
+        "6b6a0f085-RoutingResultBuilder.java": {
+            "com.linecorp.armeria.server.RoutingResultBuilder.rawParam(String name, String value)": {
+                "lineStart": 43,
+                "lineEnd": 46
+            }
+        }
+    },
+    "CVE-2019-16771": {
+        "a020e8ba9-HttpHeaderNames.java": {
+            "com.linecorp.armeria.common.HttpHeaderNames.of(CharSequence name)": {
+                "lineStart": 141,
+                "lineEnd": 149
+            },
+            "com.linecorp.armeria.common.HttpHeaderNames.of(AsciiString name)": {
+                "lineStart": 151,
+                "lineEnd": 155
+            },
+            "com.linecorp.armeria.common.HttpHeaderNames.create(String name)": {
+                "lineStart": 157,
+                "lineEnd": 159
+            }
+        },
+        "2c05dd0d3-HttpHeadersBase.java": {
+            "com.linecorp.armeria.common.HttpHeadersBase.add(CharSequence name, String value)": {
+                "lineStart": 459,
+                "lineEnd": 465
+            },
+            "com.linecorp.armeria.common.HttpHeadersBase.add(CharSequence name, Iterable<String> values)": {
+                "lineStart": 467,
+                "lineEnd": 477
+            },
+            "com.linecorp.armeria.common.HttpHeadersBase.add(CharSequence name, String... values)": {
+                "lineStart": 479,
+                "lineEnd": 489
+            },
+            "com.linecorp.armeria.common.HttpHeadersBase.addObject(CharSequence name, Iterable<?> values)": {
+                "lineStart": 507,
+                "lineEnd": 515
+            },
+            "com.linecorp.armeria.common.HttpHeadersBase.addObject(CharSequence name, Object... values)": {
+                "lineStart": 517,
+                "lineEnd": 525
+            },
+            "com.linecorp.armeria.common.HttpHeadersBase.set(CharSequence name, String value)": {
+                "lineStart": 558,
+                "lineEnd": 565
+            },
+            "com.linecorp.armeria.common.HttpHeadersBase.set(CharSequence name, Iterable<String> values)": {
+                "lineStart": 567,
+                "lineEnd": 578
+            },
+            "com.linecorp.armeria.common.HttpHeadersBase.set(CharSequence name, String... values)": {
+                "lineStart": 580,
+                "lineEnd": 591
+            },
+            "com.linecorp.armeria.common.HttpHeadersBase.setObject(CharSequence name, Iterable<?> values)": {
+                "lineStart": 657,
+                "lineEnd": 668
+            },
+            "com.linecorp.armeria.common.HttpHeadersBase.setObject(CharSequence name, Object... values)": {
+                "lineStart": 670,
+                "lineEnd": 681
+            },
+            "com.linecorp.armeria.common.HttpHeadersBase.normalizeName(CharSequence name)": {
+                "lineStart": 731,
+                "lineEnd": 734
+            }
+        },
+        "3b4084096-ArmeriaHttpUtil.java": {
+            "com.linecorp.armeria.internal.ArmeriaHttpUtil.toLowercaseMap(Iterator<? extends CharSequence> valuesIter, int arraySizeHint)": {
+                "lineStart": 469,
+                "lineEnd": 496
+            }
+        }
+    },
+    "CVE-2018-1002201": {
+        "7ebc8dd-ZipUtil.java": {
+            "org.zeroturnaround.zip.ZipUtil$Unpacker.process(InputStream in, ZipEntry zipEntry)": {
+                "lineStart": 678,
+                "lineEnd": 702
+            },
+            "org.zeroturnaround.zip.ZipUtil$BackslashUnpacker.process(InputStream in, ZipEntry zipEntry)": {
+                "lineStart": 718,
+                "lineEnd": 744
+            },
+
+            "org.zeroturnaround.zip.ZipUtil$Unwraper.process(InputStream in, ZipEntry zipEntry)": {
+                "lineStart": 757,
+                "lineEnd": 785
+            }
+        }
+    },
+    "CVE-2017-1000487": {
+        "5e0d5af4-Commandline.java": {
+            "org.codehaus.plexus.util.cli.Commandline$Marker.getPosition()": {
+                "lineStart": 94,
+                "lineEnd": 105
+            },
+            "org.codehaus.plexus.util.cli.Commandline.getCommandline()": {
+                "lineStart": 234,
+                "lineEnd": 245
+            },
+            "org.codehaus.plexus.util.cli.Commandline.execute()": {
+                "lineStart": 322,
+                "lineEnd": 351
+            },
+            "org.codehaus.plexus.util.cli.Commandline.verifyShellState()": {
+                "lineStart": 353,
+                "lineEnd": 362
+            }
+        },
+        "d3432820-BourneShell.java": {
+            "org.codehaus.plexus.util.cli.shell.BourneShell.<init>(boolean isLoginShell)": {
+                "lineStart": 13,
+                "lineEnd": 25
+            },
+            "org.codehaus.plexus.util.cli.shell.BourneShell.getExecutable()": {
+                "lineStart": 27,
+                "lineEnd": 33
+            },
+            "org.codehaus.plexus.util.cli.shell.BourneShell.getExecutionPreamble()": {
+                "lineStart": 62,
+                "lineEnd": 73
+            },
+            "org.codehaus.plexus.util.cli.shell.BourneShell.getQuotingTriggerChars()": {
+                "lineStart": 75,
+                "lineEnd": 77
+            },
+            "org.codehaus.plexus.util.cli.shell.BourneShell.unifyQuotes(String path)": {
+                "lineStart": 79,
+                "lineEnd": 89
+            }
+        },
+        "6d748fb2-Shell.java": {
+            "org.codehaus.plexus.util.cli.shell.Shell.getRawCommandLine(String executable, String[] arguments)": {
+                "lineStart": 50,
+                "lineEnd": 88
+            },
+            "org.codehaus.plexus.util.cli.shell.Shell.getShellCommandLine(String[] arguments)": {
+                "lineStart": 153,
+                "lineEnd": 165
+            }
+        }
+    },
+    "CVE-2014-0050": {
+        "0e4c4413-FileUploadBase.java": {
+            "org.apache.commons.fileupload.FileUploadBase$FileItemIteratorImpl.<init>(RequestContext ctx)": {
+                "lineStart": 425,
+                "lineEnd": 468
+            },
+            "org.apache.commons.fileupload.FileUploadBase$InvalidContentTypeException.<init>()": {
+                "lineStart": 593,
+                "lineEnd": 594
+            }
+        },
+        "c2b9e904-MultipartStream.java": {
+            "org.apache.commons.fileupload.MultipartStream.<init>(InputStream input, byte[] boundary, int bufSize, ProgressNotifier pNotifier)": {
+                "lineStart": 67,
+                "lineEnd": 79
+            }
+        }
+    },
+    "CVE-2016-1000031": {
+        "779e47b6-DiskFileItem.java": {
+            "org.apache.commons.fileupload.disk.DiskFileItem.readObject(ObjectInputStream in)": {
+                "lineStart": 305,
+                "lineEnd": 333
+            }
+        }
+    },
+    "CVE-2016-6652": {
+        "3825b10d-QueryUtils.java": {
+            "org.springframework.data.jpa.repository.query.QueryUtils.applySorting(String query, Sort sort, String alias)": {
+                "lineStart": 126,
+                "lineEnd": 147
+            },
+            "org.springframework.data.jpa.repository.query.QueryUtils.getOrderClause(Set<String> joinAliases, String alias, Order order)": {
+                "lineStart": 149,
+                "lineEnd": 163
+            }
+        }
+    },
+    "CVE-2018-8009": {
+        "19b51ad692a-RunJar.java": {
+            "org.apache.hadoop.util.RunJar.unJar(File jarFile, File toDir, Pattern unpackRegex)": {
+                "lineStart": 38,
+                "lineEnd": 68
+            }
+        }
+    },
+    "CVE-2016-9879": {
+        "5592e9d050-DefaultHttpFirewall.java": {
+            "org.springframework.security.web.firewall.DefaultHttpFirewall.getFirewalledRequest(HttpServletRequest request)": {
+                "lineStart": 5,
+                "lineEnd": 12
+            }
+        }
+    },
+    "CVE-2011-2732": {
+        "a40fa435dc-DefaultHttpFirewall.java": {
+            "org.springframework.security.web.firewall.DefaultHttpFirewall.getFirewalledResponse(HttpServletResponse response)": {
+                "lineStart": 14,
+                "lineEnd": 16
+            }
+        }
+    },
+    "CVE-2012-5055": {
+        "1b51ccb15e-DaoAuthenticationProvider.java": {
+            "org.springframework.security.providers.dao.DaoAuthenticationProvider.retrieveUser(String username, UsernamePasswordAuthenticationToken authentication)": {
+                "lineStart": 39,
+                "lineEnd": 54
+            },
+            "org.springframework.security.providers.dao.DaoAuthenticationProvider.setPasswordEncoder(PasswordEncoder passwordEncoder)": {
+                "lineStart": 56,
+                "lineEnd": 58
+            }
+        }
+    },
+    "CVE-2022-22978": {
+        "9264b56f21-RegexRequestMatcher.java": {
+            "org.springframework.security.web.util.matcher.RegexRequestMatcher.<init>(String pattern, String httpMethod, boolean caseInsensitive)": {
+                "lineStart": 18,
+                "lineEnd": 21
+            }
+        }
+    },
+    "CVE-2017-4995": {
+        "e97482eeaf-SecurityJackson2Modules.java": {
+            "org.springframework.security.jackson2.SecurityJackson2Modules.enableDefaultTyping(ObjectMapper mapper)": {
+                "lineStart": 18,
+                "lineEnd": 27
+            }
+        }
+    },
+    "CVE-2021-33813": {
+        "d7105ec6-SAXBuilder.java": {
+            "org.jdom2.input.SAXBuilder.configureParser(final XMLReader parser, final SAXHandler contentHandler)": {
+                "lineStart": 260,
+                "lineEnd": 331
+            }
+        }
+    },
+    "CVE-2014-0114": {
+        "5e76d97b-PropertyUtilsBean.java": {
+            "org.apache.commons.beanutils.PropertyUtilsBean.resetBeanIntrospectors()": {
+                "lineStart": 54,
+                "lineEnd": 57
+            }
+        }
+    },
+    "CVE-2019-10086": {
+        "333675f4-PropertyUtilsBean.java": {
+            "org.apache.commons.beanutils2.PropertyUtilsBean.resetBeanIntrospectors()": {
+                "lineStart": 52,
+                "lineEnd": 55
+            }
+        }
+    },
+    "CVE-2024-1597": {
+        "5c64f796-SimpleParameterList.java": {
+            "org.postgresql.core.v3.SimpleParameterList.toString(@Positive int index, boolean standardConformingStrings)": {
+                "lineStart": 140,
+                "lineEnd": 234
+            }
+        }
+    },
+    "CVE-2022-31197": {
+        "9ffaa129-PgResultSet.java": {
+            "org.postgresql.jdbc.PgResultSet.refreshRow()": {
+                "lineStart": 1199,
+                "lineEnd": 1264
+            }
+        }
+    },
+    "CVE-2020-13692": {
+        "1b545e5977-BCrypt.java": {
+            "org.springframework.security.crypto.bcrypt.BCrypt.crypt_raw(byte[] password, byte[] salt, int log_rounds, boolean sign_ext_bug, int safety)": {
+                "lineStart": 240,
+                "lineEnd": 277
+            },
+            "org.springframework.security.crypto.bcrypt.BCrypt.hashpw(byte[] passwordb, String salt)": {
+                "lineStart": 285,
+                "lineEnd": 350
+            },
+            "org.springframework.security.crypto.bcrypt.BCrypt.checkpw(String plaintext, String hashed)": {
+                "lineStart": 397,
+                "lineEnd": 399
+            },
+            "org.springframework.security.crypto.bcrypt.BCrypt.checkpw(byte[] passwordb, String hashed)": {
+                "lineStart": 401,
+                "lineEnd": 403
+            }
+        }
+    },
+    "CVE-2018-1000844": {
+        "1b0666b5-JaxbResponseConverter.java": {
+            "retrofit2.converter.jaxb.JaxbResponseConverter.<init>(JAXBContext context, Class<T> type)": {
+                "lineStart": 15,
+                "lineEnd": 18
+            }
+        }
+    },
+    "CVE-2015-2156": {
+        "c78f7f8c57-Cookie.java": {
+            "org.jboss.netty.handler.codec.http.Cookie.getMaxAge()": {
+                "lineStart": 18,
+                "lineEnd": 19
+            },
+            "org.jboss.netty.handler.codec.http.Cookie.maxAge()": {
+                "lineStart": 20,
+                "lineEnd": 21
+            },
+            "org.jboss.netty.handler.codec.http.Cookie.setMaxAge(long maxAge)": {
+                "lineStart": 22,
+                "lineEnd": 23
+            }
+        },
+        "e8450aedba-CookieDecoder.java": {
+            "org.jboss.netty.handler.codec.http.CookieDecoder.decode(String header)": {
+                "lineStart": 32,
+                "lineEnd": 158
+            }
+        },
+        "724c24736a-DefaultCookie.java": {
+            "org.jboss.netty.handler.codec.http.DefaultCookie.getMaxAge()": {
+                "lineStart": 121,
+                "lineEnd": 123
+            }
+        },
+        "51e1e08624-ClientCookieDecoder.java": {
+            "org.jboss.netty.handler.codec.http.cookie.ClientCookieDecoder$CookieBuilder.mergeMaxAgeAndExpire(long maxAge, String expires)": {
+                "lineStart": 114,
+                "lineEnd": 128
+            },
+            "org.jboss.netty.handler.codec.http.cookie.ClientCookieDecoder$CookieBuilder.setMaxAge(String value)": {
+                "lineStart": 181,
+                "lineEnd": 188
+            }
+        },
+        "8c8e7e15a9-Cookie.java": {
+            "org.jboss.netty.handler.codec.http.cookie.Cookie.maxAge()": {
+                "lineStart": 12,
+                "lineEnd": 12
+            },
+            "org.jboss.netty.handler.codec.http.cookie.Cookie.setMaxAge(long maxAge)": {
+                "lineStart": 13,
+                "lineEnd": 13
+            }
+        },
+        "ad69997080-DefaultCookie.java": {
+            "org.jboss.netty.handler.codec.http.cookie.DefaultCookie.maxAge()": {
+                "lineStart": 83,
+                "lineEnd": 85
+            },
+            "org.jboss.netty.handler.codec.http.cookie.DefaultCookie.setMaxAge(long maxAge)": {
+                "lineStart": 87,
+                "lineEnd": 89
+            }
+        },
+        "d00505cc97-ServerCookieEncoder.java": {
+            "org.jboss.netty.handler.codec.http.cookie.ServerCookieEncoder.encode(Cookie cookie)": {
+                "lineStart": 21,
+                "lineEnd": 60
+            }
+        }
+    },
+    "CVE-2021-21234": {
+        "1bef7ce-LogViewEndpoint.java": {
+            "eu.hinsch.spring.boot.actuator.logview.LogViewEndpoint.list(Model model, @RequestParam(required = false, defaultValue = \"FILENAME\") SortBy sortBy, @RequestParam(required = false, defaultValue = \"false\") boolean desc, @RequestParam(required = false) String base)": {
+                "lineStart": 45,
+                "lineEnd": 58
+            },
+            "eu.hinsch.spring.boot.actuator.logview.LogViewEndpoint.view(@RequestParam String filename, @RequestParam(required = false) String base, @RequestParam(required = false) Integer tailLines, HttpServletResponse response)": {
+                "lineStart": 104,
+                "lineEnd": 117
+            },
+            "eu.hinsch.spring.boot.actuator.logview.LogViewEndpoint.securityCheck(String filename)": {
+                "lineStart": 144,
+                "lineEnd": 146
+            }
+        }
+    },
+    "CVE-2019-12402": {
+        "0a7581ac-NioZipEncoding.java": {
+            "org.apache.commons.compress.archivers.zip.NioZipEncoding.encode(final String name)": {
+                "lineStart": 31,
+                "lineEnd": 70
+            }
+        }
+    },
+    "CVE-2018-11771": {
+        "0a2c1aa0-ZipArchiveInputStream.java": {
+            "org.apache.commons.compress.archivers.zip.ZipArchiveInputStream.readStored(final byte[] buffer, final int offset, final int length)": {
+                "lineStart": 308,
+                "lineEnd": 342
+            }
+        }
+    },
+    "CVE-2018-1263": {
+        "b9baf0e-UnZipTransformer.java": {
+            "org.springframework.integration.zip.transformer.UnZipTransformer.doZipTransform(final Message<?> message)": {
+                "lineStart": 26,
+                "lineEnd": 155
+            }
+        }
+    },
+    "CVE-2018-1261": {
+        "6dd300e-UnZipTransformer.java": {
+            "org.springframework.integration.zip.transformer.UnZipTransformer.doZipTransform(final Message<?> message)": {
+                "lineStart": 25,
+                "lineEnd": 99
+            }
+        }
+    },
+    "CVE-2022-29599": {
+        "02586af-BourneShell.java": {
+            "org.apache.maven.shared.utils.cli.shell.BourneShell.<init>()": {
+                "lineStart": 9,
+                "lineEnd": 16
+            },
+            "org.apache.maven.shared.utils.cli.shell.BourneShell.getExecutable()": {
+                "lineStart": 18,
+                "lineEnd": 24
+            },
+            "org.apache.maven.shared.utils.cli.shell.BourneShell.getExecutionPreamble()": {
+                "lineStart": 53,
+                "lineEnd": 64
+            },
+            "org.apache.maven.shared.utils.cli.shell.BourneShell.getQuotingTriggerChars()": {
+                "lineStart": 66,
+                "lineEnd": 68
+            },
+            "org.apache.maven.shared.utils.cli.shell.BourneShell.unifyQuotes(String path)": {
+                "lineStart": 70,
+                "lineEnd": 80
+            }
+        },
+        "d257304-Shell.java": {
+            "org.apache.maven.shared.utils.cli.shell.Shell.getRawCommandLine(String executableParameter, String... argumentsParameter)": {
+                "lineStart": 44,
+                "lineEnd": 82
+            },
+            "org.apache.maven.shared.utils.cli.shell.Shell.getShellCommandLine(String... arguments)": {
+                "lineStart": 139,
+                "lineEnd": 151
+            }
+        }
+    },
+    "CVE-2022-42004": {
+        "943aa98ac-BeanDeserializer.java": {
+            "com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeFromArray(JsonParser p, DeserializationContext ctxt)": {
+                "lineStart": 460,
+                "lineEnd": 498
+            }
+        }
+    },
+    "CVE-2022-23082":{
+        "7444a9b-FileSecurityUtils.java":{
+            "io.whitesource.cure.FileSecurityUtils.isFileOutsideDir(@NonNull final String filePath, @NonNull final String baseDirPath)": {
+                "lineStart": 7,
+                "lineEnd": 11
+            }
+        }
+    },
+    "CVE-2018-11039":{
+        "bd0021b310-HiddenHttpMethodFilter":{
+            "org.springframework.web.filter.reactive.HiddenHttpMethodFilter.mapExchange(ServerWebExchange exchange, String methodParamValue)": {
+                "lineStart": 31,
+                "lineEnd": 35
+            }
+        }
+    },
+    "CVE-2017-7525": {
+        "ad37dd170-BeanDeserializerFactory.java": {
+            "com.fasterxml.jackson.databind.deser.BeanDeserializerFactory.createBeanDeserializer(DeserializationContext ctxt, JavaType type, BeanDescription beanDesc)": {
+                "lineStart": 37,
+                "lineEnd": 69
+            },
+            "com.fasterxml.jackson.databind.deser.BeanDeserializerFactory.buildBeanDeserializer(DeserializationContext ctxt, JavaType type, BeanDescription beanDesc)": {
+                "lineStart": 104,
+                "lineEnd": 143
+            },
+            "com.fasterxml.jackson.databind.deser.BeanDeserializerFactory.addBeanProps(DeserializationContext ctxt, BeanDescription beanDesc, BeanDeserializerBuilder builder)": {
+                "lineStart": 259,
+                "lineEnd": 362
+            },
+            "com.fasterxml.jackson.databind.deser.BeanDeserializerFactory.filterBeanProps(DeserializationContext ctxt, BeanDescription beanDesc, BeanDeserializerBuilder builder, List<BeanPropertyDefinition> propDefsIn, Set<String> ignored)": {
+                "lineStart": 364,
+                "lineEnd": 393
+            },
+            "com.fasterxml.jackson.databind.deser.BeanDeserializerFactory.addReferenceProperties(DeserializationContext ctxt, BeanDescription beanDesc, BeanDeserializerBuilder builder)": {
+                "lineStart": 395,
+                "lineEnd": 415
+            },
+            "com.fasterxml.jackson.databind.deser.BeanDeserializerFactory.addInjectables(DeserializationContext ctxt, BeanDescription beanDesc, BeanDeserializerBuilder builder)": {
+                "lineStart": 417,
+                "lineEnd": 433
+            },
+            "com.fasterxml.jackson.databind.deser.BeanDeserializerFactory.constructAnySetter(DeserializationContext ctxt, BeanDescription beanDesc, AnnotatedMethod setter)": {
+                "lineStart": 435,
+                "lineEnd": 451
+            },
+            "com.fasterxml.jackson.databind.deser.BeanDeserializerFactory.constructSettableProperty(DeserializationContext ctxt, BeanDescription beanDesc, BeanPropertyDefinition propDef, JavaType propType0)": {
+                "lineStart": 453,
+                "lineEnd": 497
+            },
+            "com.fasterxml.jackson.databind.deser.BeanDeserializerFactory.constructSetterlessProperty(DeserializationContext ctxt, BeanDescription beanDesc, BeanPropertyDefinition propDef)": {
+                "lineStart": 499,
+                "lineEnd": 519
+            },
+            "com.fasterxml.jackson.databind.deser.BeanDeserializerFactory.isIgnorableType(DeserializationConfig config, BeanDescription beanDesc, Class<?> type, Map<Class<?>, Boolean> ignoredTypes)": {
+                "lineStart": 536,
+                "lineEnd": 545
+            },
+            "com.fasterxml.jackson.databind.deser.BeanDeserializerFactory.checkIllegalTypes(DeserializationContext ctxt, JavaType type, BeanDescription beanDesc)": {
+                "lineStart": 547,
+                "lineEnd": 557
+            }
+
+        }
+    },
+    "CVE-2016-7051": {
+        "4f135c59-XmlFactory.java": {
+            "com.fasterxml.jackson.dataformat.xml.XmlFactory.<init>(ObjectCodec oc, int xpFeatures, int xgFeatures, XMLInputFactory xmlIn, XMLOutputFactory xmlOut, String nameForTextElem)": {
+                "lineStart": 41,
+                "lineEnd": 58
+            }
+        }
+    },
+    "CVE-2020-7238": {
+        "01ae62bda0-HttpObjectDecoder.java": {
+            "io.netty.handler.codec.http.HttpObjectDecoder.readHeaders(ByteBuf buffer)": {
+                "lineStart": 396,
+                "lineEnd": 451
+            }
+        }
+    },
+    "CVE-2019-20444": {
+        "adbb413968-HttpObjectDecoder.java": {
+            "io.netty.handler.codec.http.HttpObjectDecoder.splitHeader(AppendableCharSequence sb)": {
+                "lineStart": 545,
+                "lineEnd": 579
+            }
+        }
+    },
+    "CVE-2021-43797": {
+        "ddd68c74d9-DefaultHttpHeaders.java": {
+            "io.netty.handler.codec.http.DefaultHttpHeaders.validateHeaderNameElement(byte value)": {
+                "lineStart": 294,
+                "lineEnd": 314
+            },
+            "io.netty.handler.codec.http.DefaultHttpHeaders.validateHeaderNameElement(char value)": {
+                "lineStart": 316,
+                "lineEnd": 336
+            }
+        },
+        "cd2b496966-HttpObjectDecoder.java": {
+            "io.netty.handler.codec.http.HttpObjectDecoder.splitHeader(AppendableCharSequence sb)": {
+                "lineStart": 570,
+                "lineEnd": 608
+            },
+            "io.netty.handler.codec.http.HttpObjectDecoder.findNonWhitespace(AppendableCharSequence sb, int offset, boolean validateOWS)": {
+                "lineStart": 642,
+                "lineEnd": 655
+            }
+        }
+    },
+    "CVE-2019-20445": {
+        "28f048252f-HttpObjectDecoder.java": {
+            "io.netty.handler.codec.http.HttpObjectDecoder.readHeaders(ByteBuf buffer)": {
+                "lineStart": 400,
+                "lineEnd": 455
+            }
+        }
+    },
+    "CVE-2019-16869": {
+        "b6ce94b63e-HttpObjectDecoder.java": {
+            "io.netty.handler.codec.http.HttpObjectDecoder.splitHeader(AppendableCharSequence sb)": {
+                "lineStart": 549,
+                "lineEnd": 583
+            }
+        }
+    },
+    "CVE-2024-24569": {
+        "c4bc2e2-ZipSecurity.java": {
+            "io.github.pixee.security.ZipSecurity$HardenedZipInputStream.containsEscapesAndTargetsBelowRoot(final String name)": {
+                "lineStart": 44,
+                "lineEnd": 59
+            },
+            "io.github.pixee.security.ZipSecurity$HardenedZipInputStream.isBelowCurrentDirectory(final File fileWithEscapes)": {
+                "lineStart": 61,
+                "lineEnd": 66
+            }
+        }
+    },
+    "CVE-2019-10755": {
+        "25abee2b8-CommonHelper.java": {
+            "org.pac4j.core.util.CommonHelper.randomString(final int size)": {
+                "lineStart": 134,
+                "lineEnd": 136
+            }
+        },
+        "d320ce44c-SAML2Utils.java": {
+            "org.pac4j.saml.util.SAML2Utils.generateID()": {
+                "lineStart": 14,
+                "lineEnd": 16
+            }
+        }
+    },
+    "CVE-2022-24816": {
+        "c3dc9ce4-Jiffle.java": {
+            "it.geosolutions.jaiext.jiffle.Jiffle.getRuntimeInstance(Jiffle.RuntimeModel model)": {
+                "lineStart": 203,
+                "lineEnd": 205
+            },
+            "it.geosolutions.jaiext.jiffle.Jiffle.getRuntimeInstance(Class<T> baseClass)": {
+                "lineStart": 207,
+                "lineEnd": 214
+            },
+            "it.geosolutions.jaiext.jiffle.Jiffle.createRuntimeInstance(RuntimeModel model, Class<? extends JiffleRuntime> runtimeClass, boolean scriptInDocs)": {
+                "lineStart": 216,
+                "lineEnd": 254
+            },
+            "it.geosolutions.jaiext.jiffle.Jiffle.createRuntimeSource(RuntimeModel model, String baseClassName, boolean scriptInDocs)": {
+                "lineStart": 278,
+                "lineEnd": 288
+            },
+            "it.geosolutions.jaiext.jiffle.Jiffle.stripComments(String theScript)": {
+                "lineStart": 290,
+                "lineEnd": 292
+            }
+        },
+        "9de8193a-Script.java": {
+            "it.geosolutions.jaiext.jiffle.parser.node.Script.write(SourceWriter w)": {
+                "lineStart": 29,
+                "lineEnd": 154
+            }
+        }
+    },
+    "CVE-2013-2055": {
+        "dd1ae8834c-PackageResourceGuard.java": {
+            "org.apache.wicket.markup.html.PackageResourceGuard.acceptAbsolutePath(String path)": {
+                "lineStart": 26,
+                "lineEnd": 63
+            }
+        }
+    },
+    "CVE-2022-22980": {
+        "cae6651a2-ParameterBindingContext.java": {
+            "org.springframework.data.mongodb.util.json.ParameterBindingContext.<init>(ValueProvider valueProvider, ExpressionParser expressionParser, Supplier<EvaluationContext> evaluationContext)": {
+                "lineStart": 19,
+                "lineEnd": 28
+            },
+            "org.springframework.data.mongodb.util.json.ParameterBindingContext.forExpressions(ValueProvider valueProvider, ExpressionParser expressionParser, Function<ExpressionDependencies, EvaluationContext> contextFunction)": {
+                "lineStart": 35,
+                "lineEnd": 47
+            }
+        },
+        "23a3eda65-ParameterBindingJsonReader.java": {
+            "org.springframework.data.mongodb.util.json.ParameterBindingJsonReader.bindableValueFor(JsonToken token)": {
+                "lineStart": 286,
+                "lineEnd": 357
+            },
+            "org.springframework.data.mongodb.util.json.ParameterBindingJsonReader.computeParameterIndex(String parameter)": {
+                "lineStart": 367,
+                "lineEnd": 369
+            },
+            "org.springframework.data.mongodb.util.json.ParameterBindingJsonReader.evaluateExpression(String expressionString)": {
+                "lineStart": 424,
+                "lineEnd": 426
+            }
+        }
+    },
+    "CVE-2018-20000": {
+        "547b402-MethodBase.java": {
+            "org.bedework.webdav.servlet.common.MethodBase.parseContent(final int len, final Reader rdr)": {
+                "lineStart": 229,
+                "lineEnd": 251
+            }
+        },
+        "77574fb-PostRequestPars.java": {
+            "org.bedework.webdav.servlet.common.PostRequestPars.processXml()": {
+                "lineStart": 59,
+                "lineEnd": 74
+            },
+            "org.bedework.webdav.servlet.common.PostRequestPars.parseXml(final Reader rdr)": {
+                "lineStart": 131,
+                "lineEnd": 149
+            }
+        }
+    },
+    "CVE-2022-32549": {
+        "99fadb8-RequestProgressTrackerImpl.java": {
+            "org.apache.sling.api.request.builder.impl.RequestProgressTrackerImpl.formatMessage(final long offset, final String message)": {
+                "lineStart": 45,
+                "lineEnd": 54
+            },
+            "org.apache.sling.api.request.builder.impl.RequestProgressTrackerImpl.dump(final PrintWriter writer)": {
+                "lineStart": 56,
+                "lineEnd": 65
+            }
+        }
+    },
+    "CVE-2014-3584": {
+        "c15a5a54a8-DeflateEncoderDecoder.java": {
+            "org.apache.cxf.rs.security.saml.DeflateEncoderDecoder.deflateToken(byte[] tokenBytes)": {
+                "lineStart": 34,
+                "lineEnd": 43
+            }
+        }
+    },
+    "CVE-2022-26336": {
+        "18f47d065-MAPIAttribute.java": {
+            "org.apache.poi.hmef.attribute.MAPIAttribute.create(TNEFAttribute parent)": {
+                "lineStart": 63,
+                "lineEnd": 157
+            }
+        }
+    },
+    "CVE-2020-11988": {
+        "5e7d8b6-XMPParser.java": {
+            "org.apache.xmlgraphics.xmp.XMPParser.parseXMP(Source src)": {
+                "lineStart": 17,
+                "lineEnd": 24
+            }
+        }
+    },
+    "CVE-2022-24897": {
+        "88f97af9b4-SecureIntrospector.java": {
+            "org.xwiki.velocity.introspection.SecureIntrospector.<init>(String[] badClasses, String[] badPackages, Logger log)": {
+                "lineStart": 8,
+                "lineEnd": 33
+            },
+            "org.xwiki.velocity.introspection.SecureIntrospector.checkObjectExecutePermission(Class clazz, String methodName)": {
+                "lineStart": 35,
+                "lineEnd": 43
+            }
+        }
+    },
+    "CVE-2022-34662": {
+        "48534e63a-ResourcesServiceImpl.java": {
+            "org.apache.dolphinscheduler.api.service.impl.ResourcesServiceImpl.createDirectory(User loginUser, String name, String description, ResourceType type, int pid, String currentDir)": {
+                "lineStart": 71,
+                "lineEnd": 117
+            },
+            "org.apache.dolphinscheduler.api.service.impl.ResourcesServiceImpl.verifyFile(String name, ResourceType type, MultipartFile file)": {
+                "lineStart": 406,
+                "lineEnd": 439
+            },
+            "org.apache.dolphinscheduler.api.service.impl.ResourcesServiceImpl.onlineCreateResource(User loginUser, ResourceType type, String fileName, String fileSuffix, String desc, String content, int pid, String currentDir)": {
+                "lineStart": 745,
+                "lineEnd": 792
+            }
+        }
+    },
+    "CVE-2014-3578": {
+        "126cab69fc-StringUtils.java": {
+            "org.springframework.util.StringUtils.cleanPath(String path)": {
+                "lineStart": 372,
+                "lineEnd": 420
+            }
+        }
+    },
+    "CVE-2020-11974": {
+        "1132147fa-BaseDataSource.java": {
+            "org.apache.dolphinscheduler.dao.datasource.BaseDataSource.appendOther(StringBuilder jdbcUrl)": {
+                "lineStart": 57,
+                "lineEnd": 81
+            }
+        }
+    },
+    "CVE-2023-49250": {
+        "b9a765306-HttpUtils.java": {
+            "org.apache.dolphinscheduler.common.utils.HttpUtils.<init>()": {
+                "lineStart": 31,
+                "lineEnd": 33
+            },
+            "org.apache.dolphinscheduler.common.utils.HttpUtils.get(String url)": {
+                "lineStart": 85,
+                "lineEnd": 89
+            },
+            "org.apache.dolphinscheduler.common.utils.HttpUtils.getResponseContentString(HttpGet httpget, CloseableHttpClient httpClient)": {
+                "lineStart": 91,
+                "lineEnd": 139
+            }
+        }
+    },
+    "CVE-2018-1274": {
+        "c26d5caa8-PropertyPath.java": {
+            "org.springframework.data.mapping.PropertyPath.create(String source, TypeInformation<?> type, String addTail, List<PropertyPath> base)": {
+                "lineStart": 191,
+                "lineEnd": 232
+            }
+        }
+    },
+    "CVE-2018-1259": {
+        "eb300b43f-XmlBeamHttpMessageConverter.java": {
+            "org.springframework.data.web.XmlBeamHttpMessageConverter.<init>()": {
+                "lineStart": 19,
+                "lineEnd": 22
+            }
+        },
+        "603078871-SpringDataWebConfiguration.java": {
+            "org.springframework.data.web.config.SpringDataWebConfiguration.extendMessageConverters(List<HttpMessageConverter<?>> converters)": {
+                "lineStart": 81,
+                "lineEnd": 94
+            }
+        }
+    },
+    "CVE-2022-24898": {
+        "3cd1794d32-XMLUtils.java": {
+            "org.xwiki.xml.XMLUtils.parse(LSInput source)": {
+                "lineStart": 263,
+                "lineEnd": 278
+            }
+        }
+    },
+    "CVE-2024-21742": {
+        "e64c6a73-RawField.java": {
+            "org.apache.james.mime4j.stream.RawField.<init>(String name, String body)": {
+                "lineStart": 25,
+                "lineEnd": 27
+            }
+        }
+    },
+    "CVE-2023-51074": {
+        "efb5913-PathCompiler.java": {
+            "com.jayway.jsonpath.internal.path.PathCompiler.parseFunctionParameters(String funcName)": {
+                "lineStart": 256,
+                "lineEnd": 320
+            },
+            "com.jayway.jsonpath.internal.path.PathCompiler.isWhitespace(char c)": {
+                "lineStart": 320,
+                "lineEnd": 320
+            },
+            "com.jayway.jsonpath.internal.path.PathCompiler.readPlaceholderToken(PathTokenAppender appender)": {
+                "lineStart": 320,
+                "lineEnd": 320
+            },
+            "com.jayway.jsonpath.internal.path.PathCompiler.readFilterToken(PathTokenAppender appender)": {
+                "lineStart": 320,
+                "lineEnd": 320
+            },
+            "com.jayway.jsonpath.internal.path.PathCompiler.readWildCardToken(PathTokenAppender appender)": {
+                "lineStart": 320,
+                "lineEnd": 320
+            },
+            "com.jayway.jsonpath.internal.path.PathCompiler.readArrayToken(PathTokenAppender appender)": {
+                "lineStart": 320,
+                "lineEnd": 320
+            },
+            "com.jayway.jsonpath.internal.path.PathCompiler.readBracketPropertyToken(PathTokenAppender appender)": {
+                "lineStart": 320,
+                "lineEnd": 320
+            },
+            "com.jayway.jsonpath.internal.path.PathCompiler.fail(String message)": {
+                "lineStart": 320,
+                "lineEnd": 320
+            }
+        }
+    },
+    "CVE-2023-51080": {
+        "e81fd333e-NumberUtil.java": {
+            "org.dromara.hutool.core.math.NumberUtil.toBigDecimal(final Number number)": {
+                "lineStart": 399,
+                "lineEnd": 418
+            }
+        }
+    },
+    "CVE-2023-51075": {
+        "c258daed0-PatternFinder.java": {
+            "cn.hutool.core.text.finder.PatternFinder.start(int from)": {
+                "lineStart": 25,
+                "lineEnd": 34
+            }
+        }
+    },
+    "CVE-2018-17297": {
+        "bd43dabc6-FileUtil.java": {
+            "cn.hutool.core.io.FileUtil.file(String parent, String path)": {
+                "lineStart": 224,
+                "lineEnd": 230
+            },
+            "cn.hutool.core.io.FileUtil.file(File parent, String path)": {
+                "lineStart": 232,
+                "lineEnd": 238
+            },
+            "cn.hutool.core.io.FileUtil.file(File directory, String... names)": {
+                "lineStart": 240,
+                "lineEnd": 255
+            },
+            "cn.hutool.core.io.FileUtil.file(String... names)": {
+                "lineStart": 257,
+                "lineEnd": 274
+            }
+        },
+        "ec6a6a4c3-ZipUtil.java": {
+            "cn.hutool.core.util.ZipUtil.unzip(File zipFile, File outFile, Charset charset)": {
+                "lineStart": 157,
+                "lineEnd": 187
+            }
+        }
+    },
+    "CVE-2024-25125": {
+        "2a97ca3672-LocalFileLogServerFactory.java": {
+            "io.digdag.core.log.LocalFileLogServerFactory$LocalFileLogServer.getFile(String dateDir, String attemptDir, String fileName)": {
+                "lineStart": 100,
+                "lineEnd": 114
+            }
+        }
+    },
+    "CVE-2019-11343": {
+        "9fe016f-ConditionBuilder.java": {
+            "org.torpedoquery.jpa.internal.conditions.ConditionBuilder.createLike(Type type, String toMatch)": {
+                "lineStart": 161,
+                "lineEnd": 169
+            }
+        },
+        "7df45e2-LikeCondition.java": {
+            "org.torpedoquery.jpa.internal.conditions.LikeCondition.<init>(Type type, Selector selector, String toMatch)": {
+                "lineStart": 37,
+                "lineEnd": 41
+            },
+            "org.torpedoquery.jpa.internal.conditions.LikeCondition.createQueryFragment(AtomicInteger incrementor)": {
+                "lineStart": 43,
+                "lineEnd": 45
+            },
+            "org.torpedoquery.jpa.internal.conditions.LikeCondition.getLike()": {
+                "lineStart": 47,
+                "lineEnd": 49
+            },
+            "org.torpedoquery.jpa.internal.conditions.LikeCondition.getParameters()": {
+                "lineStart": 51,
+                "lineEnd": 53
+            }
+        },
+        "3661e0b-NotLikeCondition.java": {
+            "org.torpedoquery.jpa.internal.conditions.NotLikeCondition.<init>(Type type, Selector selector, String toMatch)": {
+                "lineStart": 4,
+                "lineEnd": 6
+            },
+            "org.torpedoquery.jpa.internal.conditions.NotLikeCondition.getLike()": {
+                "lineStart": 8,
+                "lineEnd": 10
+            }
+        }
+    },
+    "CVE-2022-24197": {
+        "17adcb766-PdfReader.java": {
+            "com.itextpdf.kernel.pdf.PdfReader.readDictionary(boolean objStm)": {
+                "lineStart": 661,
+                "lineEnd": 686
+            },
+            "com.itextpdf.kernel.pdf.PdfReader.readArray(boolean objStm)": {
+                "lineStart": 688,
+                "lineEnd": 705
+            }
+        },
+        "12511b5ae-PdfCanvasParser.java": {
+            "com.itextpdf.kernel.pdf.canvas.parser.util.PdfCanvasParser.readArray()": {
+                "lineStart": 83,
+                "lineEnd": 97
+            }
+        }
+    },
+    "CVE-2014-0097": {
+        "65d7d5425b-AbstractLdapAuthenticationProvider.java": {
+            "org.springframework.security.ldap.authentication.AbstractLdapAuthenticationProvider.authenticate(Authentication authentication)":{
+                "lineStart": 29,
+                "lineEnd": 46
+            }
+        }
+    },
+    "CVE-2019-10241": {
+        "3e1610b9c1-FastFileServer.java": {
+            "org.eclipse.jetty.embedded.FastFileServer$FastFileHandler.handle(String target, Request baseRequest, HttpServletRequest request, HttpServletResponse response)": {
+                "lineStart": 43,
+                "lineEnd": 95
+            }
+        },
+        "367958c7da-ResourceHandler.java": {
+            "org.eclipse.jetty.server.handler.ResourceHandler.doDirectory(HttpServletRequest request, HttpServletResponse response, Resource resource)": {
+                "lineStart": 397,
+                "lineEnd": 407
+            }
+        },
+        "fcd43db176-DefaultServlet.java": {
+            "org.eclipse.jetty.servlet.DefaultServlet.sendDirectory(HttpServletRequest request, HttpServletResponse response, Resource resource, String pathInContext)": {
+                "lineStart": 612,
+                "lineEnd": 639
+            }
+        },
+        "f56f541f40-Resource.java": {
+            "org.eclipse.jetty.util.resource.Resource.getListHTML(String base, boolean parent)": {
+                "lineStart": 237,
+                "lineEnd": 285
+            }
+        }
+    },
+    "CVE-2021-30468": {
+        "9878f75d18-JsonMapObjectReaderWriter.java": {
+            "org.apache.cxf.jaxrs.json.basic.JsonMapObjectReaderWriter.readPrimitiveValue(String name, String json, int from, int to)": {
+                "lineStart": 234,
+                "lineEnd": 261
+            }
+        }
+    },
+    "CVE-2017-8046": {
+        "124941117-AddOperation.java": {
+            "org.springframework.data.rest.webmvc.json.patch.AddOperation.evaluateValueFromTarget(Object targetObject, Class<T> entityType)": {
+                "lineStart": 15,
+                "lineEnd": 30
+            }
+        },
+        "aa35ea499-PatchOperation.java": {
+            "org.springframework.data.rest.webmvc.json.patch.PatchOperation.evaluateValueFromTarget(Object targetObject, Class<T> entityType)": {
+                "lineStart": 102,
+                "lineEnd": 104
+            }
+        }
+    },
+    "CVE-2024-23833": {
+        "4f4a14bef-DatabaseConfiguration.java": {
+            "com.google.refine.extension.database.DatabaseConfiguration.setDatabaseHost(String databaseServer)": {
+                "lineStart": 34,
+                "lineEnd": 36
+            }
+        }
+    },
+    "CVE-2022-29567": {
+        "9ec73b050e-TreeGridPreloadPage.java": {
+            "com.vaadin.flow.component.treegrid.it.TreeGridPreloadPage.setDataProvider(int nodesPerLevel, int depth)": {
+                "lineStart": 67,
+                "lineEnd": 85
+            },
+            "com.vaadin.flow.component.treegrid.it.TreeGridPreloadPage.<init>()": {
+                "lineStart": 87,
+                "lineEnd": 119
+            }
+        }
+    },
+    "CVE-2022-24615": {
+        "a3cb2ef-AesCipherInputStream.java": {
+            "net.lingala.zip4j.io.inputstream.AesCipherInputStream.getSalt(LocalFileHeader localFileHeader)": {
+                "lineStart": 131,
+                "lineEnd": 140
+            }
+        }
+    },
+    "CVE-2022-22976": {
+        "1b545e5977-BCrypt.java": {
+            "org.springframework.security.crypto.bcrypt.BCrypt.crypt_raw(byte[] password, byte[] salt, int log_rounds, boolean sign_ext_bug, int safety)": {
+                "lineStart": 240,
+                "lineEnd": 277
+            },
+            "org.springframework.security.crypto.bcrypt.BCrypt.hashpw(byte[] passwordb, String salt)": {
+                "lineStart": 285,
+                "lineEnd": 350
+            },
+            "org.springframework.security.crypto.bcrypt.BCrypt.checkpw(String plaintext, String hashed)": {
+                "lineStart": 397,
+                "lineEnd": 399
+            },
+            "org.springframework.security.crypto.bcrypt.BCrypt.checkpw(byte[] passwordb, String hashed)": {
+                "lineStart": 401,
+                "lineEnd": 403
+            }
+        }
+    },
+    "CVE-2023-1370": {
+        "24d40c2-JSONParserBase.java": {
+            "net.minidev.json.parser.JSONParserBase.readObject(JsonReaderI<T> mapper)": {
+                "lineStart": 580,
+                "lineEnd": 593
+            }
+        }
+    },
+    "CVE-2021-27568": {
+        "a5dd024-JSONParserBase.java": {
+            "net.minidev.json.parser.JSONParserBase.extractFloat()": {
+                "lineStart": 111,
+                "lineEnd": 122
+            }   
+        }
+    },
+    "CVE-2022-22970": {
+        "8332045197-CachedIntrospectionResults.java": {
+            "org.springframework.beans.CachedIntrospectionResults.<init>(Class<?> beanClass)": {
+                "lineStart": 124,
+                "lineEnd": 174
+            },
+            "org.springframework.beans.CachedIntrospectionResults.introspectInterfaces(Class<?> beanClass, Class<?> currClass, Set<String> readMethodNames)": {
+                "lineStart": 176,
+                "lineEnd": 202
+            },
+            "org.springframework.beans.CachedIntrospectionResults.isPlainAccessor(Method method)": {
+                "lineStart": 215,
+                "lineEnd": 229
+            }
+        }
+    },
+    "CVE-2014-4172": {
+        "3ea31bd-AbstractUrlBasedTicketValidator.java": {
+            "org.jasig.cas.client.validation.AbstractUrlBasedTicketValidator.constructValidationUrl(final String ticket, final String serviceUrl)": {
+                "lineStart": 30,
+                "lineEnd": 68
+            }
+        },
+        "4380348-Cas20ServiceTicketValidator.java": {
+            "org.jasig.cas.client.validation.Cas20ServiceTicketValidator.populateUrlAttributeMap(final Map<String, String> urlParameters)": {
+                "lineStart": 27,
+                "lineEnd": 29
+            }
+        }
+    },
+    "CVE-2022-22979": {
+        "83f1867d-BeanFactoryAwareFunctionRegistry.java": {
+            "org.springframework.cloud.function.context.catalog.BeanFactoryAwareFunctionRegistry.lookup(Class<?> type, String functionDefinition, String... expectedOutputMimeTypes)": {
+                "lineStart": 59,
+                "lineEnd": 124
+            }
+        },
+        "1091a471-SimpleFunctionRegistry.java": {
+            "org.springframework.cloud.function.context.catalog.SimpleFunctionRegistry.compose(Class<?> type, String functionDefinition)": {
+                "lineStart": 200,
+                "lineEnd": 234
+            }
+        }
+    }
+}

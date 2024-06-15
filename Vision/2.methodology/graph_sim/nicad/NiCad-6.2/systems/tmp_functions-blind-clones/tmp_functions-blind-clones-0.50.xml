@@ -1,0 +1,2621 @@
+<clones>
+<systeminfo processor="nicad6" system="tmp" granularity="functions-blind" threshold="50%" minlines="3" maxlines="2500"/>
+<cloneinfo npcs="148" npairs="523"/>
+<runinfo ncompares="4871" cputime="45150"/>
+
+<clone nlines="41" similarity="77">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="397" endline="453" pcid="133"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="137" endline="173" pcid="48"></source>
+</clone>
+
+<clone nlines="33" similarity="79">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="147" endline="180" pcid="103"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="182" endline="210" pcid="104"></source>
+</clone>
+
+<clone nlines="22" similarity="66">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="309" endline="336" pcid="130"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="99" endline="119" pcid="45"></source>
+</clone>
+
+<clone nlines="17" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="165" endline="185" pcid="24"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="187" endline="199" pcid="25"></source>
+</clone>
+
+<clone nlines="13" similarity="53">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="50" endline="61" pcid="8"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="63" endline="79" pcid="9"></source>
+</clone>
+
+<clone nlines="11" similarity="77">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="364" endline="375" pcid="132"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="125" endline="135" pcid="47"></source>
+</clone>
+
+<clone nlines="8" similarity="100">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="196" endline="205" pcid="123"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="51" endline="58" pcid="38"></source>
+</clone>
+
+<clone nlines="7" similarity="83">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="31" endline="38" pcid="15"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="40" endline="49" pcid="16"></source>
+</clone>
+
+<clone nlines="6" similarity="60">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="248" endline="254" pcid="126"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="72" endline="77" pcid="41"></source>
+</clone>
+
+<clone nlines="5" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="16" endline="19" pcid="63"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="265" endline="269" pcid="35"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="29" endline="31" pcid="66"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="275" endline="277" pcid="37"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="271" endline="273" pcid="36"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="59" endline="61" pcid="17"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="81" endline="83" pcid="10"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="190" endline="192" pcid="52"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="79" endline="81" pcid="42"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="29" endline="31" pcid="66"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="275" endline="277" pcid="37"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="271" endline="273" pcid="36"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="59" endline="61" pcid="17"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="81" endline="83" pcid="10"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="190" endline="192" pcid="52"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="68" endline="70" pcid="40"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="237" endline="239" pcid="59"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="29" endline="31" pcid="66"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="275" endline="277" pcid="37"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="271" endline="273" pcid="36"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="59" endline="61" pcid="17"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="81" endline="83" pcid="10"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="190" endline="192" pcid="52"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="21" endline="23" pcid="64"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="25" endline="27" pcid="65"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="33" endline="35" pcid="67"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="25" endline="27" pcid="65"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="22" endline="24" pcid="74"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="25" endline="27" pcid="65"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="38" endline="40" pcid="78"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="25" endline="27" pcid="65"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="25" endline="27" pcid="65"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="25" endline="27" pcid="65"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="16" endline="18" pcid="83"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="25" endline="27" pcid="65"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="71" endline="73" pcid="98"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="25" endline="27" pcid="65"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="25" endline="27" pcid="65"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="194" endline="196" pcid="53"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="25" endline="27" pcid="65"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="85" endline="87" pcid="11"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="25" endline="27" pcid="65"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="186" endline="188" pcid="51"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="25" endline="27" pcid="65"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="63" endline="65" pcid="18"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="25" endline="27" pcid="65"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="25" endline="27" pcid="65"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="71" endline="73" pcid="20"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="25" endline="27" pcid="65"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="717" endline="719" pcid="148"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="25" endline="27" pcid="65"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="491" endline="493" pcid="136"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="29" endline="31" pcid="66"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="26" endline="28" pcid="75"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="29" endline="31" pcid="66"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="29" endline="31" pcid="66"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="275" endline="277" pcid="37"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="29" endline="31" pcid="66"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="29" endline="31" pcid="66"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="29" endline="31" pcid="66"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="271" endline="273" pcid="36"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="29" endline="31" pcid="66"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="23" endline="25" pcid="91"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="29" endline="31" pcid="66"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="59" endline="61" pcid="17"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="29" endline="31" pcid="66"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="29" endline="31" pcid="66"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="81" endline="83" pcid="10"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="29" endline="31" pcid="66"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="190" endline="192" pcid="52"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="23" endline="25" pcid="120"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="29" endline="31" pcid="66"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="29" endline="31" pcid="66"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="33" endline="35" pcid="67"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="30" endline="32" pcid="76"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="33" endline="35" pcid="67"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="33" endline="35" pcid="67"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="33" endline="35" pcid="67"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="16" endline="18" pcid="83"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="33" endline="35" pcid="67"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="71" endline="73" pcid="98"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="33" endline="35" pcid="67"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="33" endline="35" pcid="67"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="194" endline="196" pcid="53"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="33" endline="35" pcid="67"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="85" endline="87" pcid="11"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="33" endline="35" pcid="67"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="186" endline="188" pcid="51"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="33" endline="35" pcid="67"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="63" endline="65" pcid="18"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="33" endline="35" pcid="67"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="33" endline="35" pcid="67"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="71" endline="73" pcid="20"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="33" endline="35" pcid="67"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="491" endline="493" pcid="136"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItemFactory.java" startline="37" endline="39" pcid="68"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DefaultFileItemFactory.java" startline="13" endline="15" pcid="3"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="26" endline="28" pcid="75"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="23" endline="25" pcid="91"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="27" endline="29" pcid="92"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="23" endline="25" pcid="120"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="206" endline="208" pcid="55"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadException.java" startline="6" endline="8" pcid="70"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadException.java" startline="6" endline="8" pcid="70"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadException.java" startline="6" endline="8" pcid="70"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletFileUpload.java" startline="17" endline="19" pcid="86"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadException.java" startline="6" endline="8" pcid="70"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadException.java" startline="6" endline="8" pcid="70"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="261" endline="263" pcid="34"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadException.java" startline="6" endline="8" pcid="70"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="249" endline="251" pcid="32"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadException.java" startline="6" endline="8" pcid="70"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="241" endline="243" pcid="30"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="273" endline="275" pcid="111"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadException.java" startline="6" endline="8" pcid="70"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="281" endline="283" pcid="113"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadException.java" startline="6" endline="8" pcid="70"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletFileUpload.java" startline="12" endline="14" pcid="115"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadException.java" startline="6" endline="8" pcid="70"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadException.java" startline="6" endline="8" pcid="70"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="16" endline="18" pcid="83"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletFileUpload.java" startline="17" endline="19" pcid="86"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="261" endline="263" pcid="34"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="71" endline="73" pcid="98"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="249" endline="251" pcid="32"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="194" endline="196" pcid="53"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="85" endline="87" pcid="11"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="241" endline="243" pcid="30"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="186" endline="188" pcid="51"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="63" endline="65" pcid="18"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="273" endline="275" pcid="111"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="281" endline="283" pcid="113"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletFileUpload.java" startline="12" endline="14" pcid="115"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="71" endline="73" pcid="20"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="14" endline="16" pcid="72"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="491" endline="493" pcid="136"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="275" endline="277" pcid="37"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="271" endline="273" pcid="36"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="59" endline="61" pcid="17"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="81" endline="83" pcid="10"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="190" endline="192" pcid="52"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="18" endline="20" pcid="73"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="22" endline="24" pcid="74"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="38" endline="40" pcid="78"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="22" endline="24" pcid="74"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="16" endline="18" pcid="83"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="71" endline="73" pcid="98"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="22" endline="24" pcid="74"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="22" endline="24" pcid="74"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="186" endline="188" pcid="51"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="22" endline="24" pcid="74"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="71" endline="73" pcid="20"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="22" endline="24" pcid="74"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="717" endline="719" pcid="148"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="22" endline="24" pcid="74"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="491" endline="493" pcid="136"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="26" endline="28" pcid="75"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="26" endline="28" pcid="75"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="26" endline="28" pcid="75"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="23" endline="25" pcid="91"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="26" endline="28" pcid="75"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="27" endline="29" pcid="92"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="26" endline="28" pcid="75"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="26" endline="28" pcid="75"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="23" endline="25" pcid="120"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="26" endline="28" pcid="75"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="34" endline="36" pcid="77"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="38" endline="40" pcid="78"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="16" endline="18" pcid="83"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="71" endline="73" pcid="98"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="38" endline="40" pcid="78"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="38" endline="40" pcid="78"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="186" endline="188" pcid="51"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="38" endline="40" pcid="78"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="71" endline="73" pcid="20"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="38" endline="40" pcid="78"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="717" endline="719" pcid="148"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/DiskFileUpload.java" startline="38" endline="40" pcid="78"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="491" endline="493" pcid="136"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="275" endline="277" pcid="37"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="275" endline="277" pcid="37"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="271" endline="273" pcid="36"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="275" endline="277" pcid="37"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="59" endline="61" pcid="17"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="275" endline="277" pcid="37"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="275" endline="277" pcid="37"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="81" endline="83" pcid="10"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="275" endline="277" pcid="37"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="190" endline="192" pcid="52"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="275" endline="277" pcid="37"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="275" endline="277" pcid="37"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="271" endline="273" pcid="36"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="59" endline="61" pcid="17"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="81" endline="83" pcid="10"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="190" endline="192" pcid="52"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="182" endline="184" pcid="50"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="16" endline="18" pcid="83"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletFileUpload.java" startline="17" endline="19" pcid="86"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="261" endline="263" pcid="34"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="71" endline="73" pcid="98"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="249" endline="251" pcid="32"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="194" endline="196" pcid="53"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="85" endline="87" pcid="11"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="241" endline="243" pcid="30"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="186" endline="188" pcid="51"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="63" endline="65" pcid="18"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="273" endline="275" pcid="111"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="281" endline="283" pcid="113"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletFileUpload.java" startline="12" endline="14" pcid="115"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="71" endline="73" pcid="20"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="491" endline="493" pcid="136"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="8" endline="10" pcid="81"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="271" endline="273" pcid="36"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="59" endline="61" pcid="17"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="81" endline="83" pcid="10"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="190" endline="192" pcid="52"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="12" endline="14" pcid="82"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="16" endline="18" pcid="83"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="71" endline="73" pcid="98"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="16" endline="18" pcid="83"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="16" endline="18" pcid="83"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="194" endline="196" pcid="53"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="85" endline="87" pcid="11"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="16" endline="18" pcid="83"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="16" endline="18" pcid="83"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="186" endline="188" pcid="51"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="16" endline="18" pcid="83"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="63" endline="65" pcid="18"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="16" endline="18" pcid="83"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="16" endline="18" pcid="83"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="71" endline="73" pcid="20"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="717" endline="719" pcid="148"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="16" endline="18" pcid="83"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="491" endline="493" pcid="136"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUpload.java" startline="16" endline="18" pcid="83"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="59" endline="61" pcid="17"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="271" endline="273" pcid="36"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="271" endline="273" pcid="36"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="81" endline="83" pcid="10"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="271" endline="273" pcid="36"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="190" endline="192" pcid="52"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="271" endline="273" pcid="36"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="271" endline="273" pcid="36"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletFileUpload.java" startline="17" endline="19" pcid="86"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletFileUpload.java" startline="17" endline="19" pcid="86"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="261" endline="263" pcid="34"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletFileUpload.java" startline="17" endline="19" pcid="86"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="249" endline="251" pcid="32"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletFileUpload.java" startline="17" endline="19" pcid="86"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="241" endline="243" pcid="30"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="273" endline="275" pcid="111"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletFileUpload.java" startline="17" endline="19" pcid="86"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="281" endline="283" pcid="113"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletFileUpload.java" startline="17" endline="19" pcid="86"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletFileUpload.java" startline="12" endline="14" pcid="115"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletFileUpload.java" startline="17" endline="19" pcid="86"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletFileUpload.java" startline="17" endline="19" pcid="86"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletFileUpload.java" startline="21" endline="23" pcid="87"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="121" endline="123" pcid="46"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletFileUpload.java" startline="16" endline="18" pcid="116"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletFileUpload.java" startline="21" endline="23" pcid="87"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletFileUpload.java" startline="21" endline="23" pcid="87"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="75" endline="77" pcid="21"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="261" endline="263" pcid="34"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="71" endline="73" pcid="98"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="249" endline="251" pcid="32"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="194" endline="196" pcid="53"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="85" endline="87" pcid="11"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="241" endline="243" pcid="30"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="186" endline="188" pcid="51"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="63" endline="65" pcid="18"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="273" endline="275" pcid="111"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="281" endline="283" pcid="113"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletFileUpload.java" startline="12" endline="14" pcid="115"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="71" endline="73" pcid="20"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="491" endline="493" pcid="136"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="11" endline="13" pcid="88"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="23" endline="25" pcid="91"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="27" endline="29" pcid="92"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="23" endline="25" pcid="120"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="15" endline="17" pcid="89"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="23" endline="25" pcid="91"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="27" endline="29" pcid="92"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="23" endline="25" pcid="120"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="19" endline="21" pcid="90"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="23" endline="25" pcid="91"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="27" endline="29" pcid="92"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="23" endline="25" pcid="91"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="23" endline="25" pcid="91"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="23" endline="25" pcid="120"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="23" endline="25" pcid="91"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="27" endline="29" pcid="92"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="27" endline="29" pcid="92"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="23" endline="25" pcid="120"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="27" endline="29" pcid="92"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="27" endline="29" pcid="121"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="27" endline="29" pcid="92"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/portlet/PortletRequestContext.java" startline="31" endline="33" pcid="93"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="249" endline="251" pcid="32"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="261" endline="263" pcid="34"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="241" endline="243" pcid="30"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="261" endline="263" pcid="34"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="273" endline="275" pcid="111"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="261" endline="263" pcid="34"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="281" endline="283" pcid="113"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="261" endline="263" pcid="34"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletFileUpload.java" startline="12" endline="14" pcid="115"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="261" endline="263" pcid="34"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="261" endline="263" pcid="34"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="59" endline="61" pcid="17"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="81" endline="83" pcid="10"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="59" endline="61" pcid="17"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="190" endline="192" pcid="52"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="59" endline="61" pcid="17"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="59" endline="61" pcid="17"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="81" endline="83" pcid="10"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="190" endline="192" pcid="52"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="67" endline="69" pcid="97"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="71" endline="73" pcid="98"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="194" endline="196" pcid="53"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="71" endline="73" pcid="98"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="85" endline="87" pcid="11"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="71" endline="73" pcid="98"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="186" endline="188" pcid="51"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="71" endline="73" pcid="98"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="63" endline="65" pcid="18"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="71" endline="73" pcid="98"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="71" endline="73" pcid="98"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="71" endline="73" pcid="20"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="71" endline="73" pcid="98"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="717" endline="719" pcid="148"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="71" endline="73" pcid="98"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="491" endline="493" pcid="136"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="241" endline="243" pcid="30"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="249" endline="251" pcid="32"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="273" endline="275" pcid="111"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="249" endline="251" pcid="32"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="281" endline="283" pcid="113"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="249" endline="251" pcid="32"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletFileUpload.java" startline="12" endline="14" pcid="115"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="249" endline="251" pcid="32"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="249" endline="251" pcid="32"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletFileUpload.java" startline="16" endline="18" pcid="116"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="121" endline="123" pcid="46"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="121" endline="123" pcid="46"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="75" endline="77" pcid="21"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="350" endline="353" pcid="131"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="121" endline="123" pcid="46"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="85" endline="87" pcid="11"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="194" endline="196" pcid="53"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="186" endline="188" pcid="51"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="194" endline="196" pcid="53"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="194" endline="196" pcid="53"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="63" endline="65" pcid="18"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="194" endline="196" pcid="53"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="194" endline="196" pcid="53"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="71" endline="73" pcid="20"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="519" endline="521" pcid="138"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="194" endline="196" pcid="53"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="491" endline="493" pcid="136"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="194" endline="196" pcid="53"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="85" endline="87" pcid="11"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="186" endline="188" pcid="51"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="85" endline="87" pcid="11"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="63" endline="65" pcid="18"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="85" endline="87" pcid="11"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="85" endline="87" pcid="11"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="71" endline="73" pcid="20"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="85" endline="87" pcid="11"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="519" endline="521" pcid="138"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="85" endline="87" pcid="11"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="491" endline="493" pcid="136"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="81" endline="83" pcid="10"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="190" endline="192" pcid="52"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="81" endline="83" pcid="10"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/ParameterParser.java" startline="81" endline="83" pcid="10"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="505" endline="507" pcid="137"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="273" endline="275" pcid="111"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="241" endline="243" pcid="30"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="281" endline="283" pcid="113"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="241" endline="243" pcid="30"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletFileUpload.java" startline="12" endline="14" pcid="115"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="241" endline="243" pcid="30"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="241" endline="243" pcid="30"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="190" endline="192" pcid="52"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="505" endline="507" pcid="137"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="190" endline="192" pcid="52"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="186" endline="188" pcid="51"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="63" endline="65" pcid="18"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="186" endline="188" pcid="51"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="186" endline="188" pcid="51"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="71" endline="73" pcid="20"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="717" endline="719" pcid="148"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="186" endline="188" pcid="51"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="491" endline="493" pcid="136"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/disk/DiskFileItem.java" startline="186" endline="188" pcid="51"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="63" endline="65" pcid="18"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="63" endline="65" pcid="18"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="71" endline="73" pcid="20"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="491" endline="493" pcid="136"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="63" endline="65" pcid="18"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="273" endline="275" pcid="111"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="281" endline="283" pcid="113"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="273" endline="275" pcid="111"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletFileUpload.java" startline="12" endline="14" pcid="115"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="273" endline="275" pcid="111"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="281" endline="283" pcid="113"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletFileUpload.java" startline="12" endline="14" pcid="115"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/MultipartStream.java" startline="281" endline="283" pcid="113"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletFileUpload.java" startline="12" endline="14" pcid="115"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletFileUpload.java" startline="16" endline="18" pcid="116"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="75" endline="77" pcid="21"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="71" endline="73" pcid="20"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="11" endline="13" pcid="117"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="491" endline="493" pcid="136"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="23" endline="25" pcid="120"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="15" endline="17" pcid="118"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="23" endline="25" pcid="120"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="19" endline="21" pcid="119"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/servlet/ServletRequestContext.java" startline="31" endline="33" pcid="122"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="67" endline="69" pcid="19"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="505" endline="507" pcid="137"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="237" endline="239" pcid="125"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="717" endline="719" pcid="148"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="71" endline="73" pcid="20"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="491" endline="493" pcid="136"></source>
+<source file="systems/tmp/JAR/commons-fileupload-1.1.1/org/apache/commons/fileupload/FileUploadBase.java" startline="71" endline="73" pcid="20"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="265" endline="267" pcid="127"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="519" endline="521" pcid="138"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="717" endline="719" pcid="148"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="491" endline="493" pcid="136"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="717" endline="719" pcid="148"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="505" endline="507" pcid="137"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+</clone>
+
+<clone nlines="3" similarity="100">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="709" endline="711" pcid="147"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="626" endline="630" pcid="144"></source>
+</clone>
+
+<clone nlines="3" similarity="50">
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="479" endline="481" pcid="135"></source>
+<source file="systems/tmp/GitHub/new_DiskFileItem.java" startline="505" endline="507" pcid="137"></source>
+</clone>
+
+</clones>

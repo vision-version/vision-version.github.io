@@ -1,0 +1,15 @@
+diff --git a/github_diff/CVE-2019-17359/oldfiles/ASN1StreamParser.java b/github_diff/CVE-2019-17359/newfiles/ASN1StreamParser.java
+index 228deea..ab85308 100644
+--- a/github_diff/CVE-2019-17359/oldfiles/ASN1StreamParser.java
++++ b/github_diff/CVE-2019-17359/newfiles/ASN1StreamParser.java
+@@ -114,6 +114,10 @@ public class ASN1StreamParser {
+         }
+         
+         else{
++            if (length >= _limit)   {
++                throw new IOException("corrupted stream - out of bounds length found: " + length + " >= " + _limit);
++            }
++            
+             DefiniteLengthInputStream defIn = new DefiniteLengthInputStream(_in, length);
+             if ((tag & BERTags.APPLICATION) != 0){
+                 return new DLApplicationSpecific(isConstructed, tagNo, defIn.toByteArray());

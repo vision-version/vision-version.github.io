@@ -1,0 +1,13 @@
+diff --git a/github_diff/CVE-2017-7957/oldfiles/PrimitiveTypePermission.java b/github_diff/CVE-2017-7957/newfiles/PrimitiveTypePermission.java
+index e6b7832..060565a 100644
+--- a/github_diff/CVE-2017-7957/oldfiles/PrimitiveTypePermission.java
++++ b/github_diff/CVE-2017-7957/newfiles/PrimitiveTypePermission.java
+@@ -4,7 +4,7 @@ public class PrimitiveTypePermission implements TypePermission {
+     public static final TypePermission PRIMITIVES = new PrimitiveTypePermission();
+     @Override
+     public boolean allows(Class<?> type) {
+-        return type != null && type.isPrimitive() || Primitives.isBoxed(type);
++        return type != null && type != void.class && type != Void.class && type.isPrimitive() || Primitives.isBoxed(type);
+     }
+     
+     @Override

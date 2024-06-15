@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CDG DDG | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/cdg-ddg/</link>
+      <atom:link href="http://localhost:1313/tags/cdg-ddg/index.xml" rel="self" type="application/rss+xml" />
+    <description>CDG DDG</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>CDG DDG</title>
+      <link>http://localhost:1313/tags/cdg-ddg/</link>
+    </image>
+    
+    <item>
+      <title>Vulnerability and Patch Signature Generation - CDG DDG</title>
+      <link>http://localhost:1313/modules/vulnerability-and-patch-signature-generation---cdg-ddg/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/modules/vulnerability-and-patch-signature-generation---cdg-ddg/</guid>
+      <description>&lt;p&gt;This work is driven by the &lt;a href=&#34;&#34;&gt;MVP&lt;/a&gt;. Vision generates the PDG using Joern. Then, Vision performs forward and backward program slicing using the changed statements.&lt;/p&gt;
+&lt;p&gt;Before start, you can read the &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/blob/main/Vision/2.methodology/README.md&#34;&gt;ReadMe&lt;/a&gt; to acquire the detailed implementation of this module.&lt;/p&gt;
+&lt;p&gt;You can access to the module in &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/2.methodology/patch_featuregraph_generate&#34;&gt;Code&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

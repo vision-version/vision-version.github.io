@@ -1,0 +1,9200 @@
+{
+    "CVE-2022-29599": {
+        "our_tool": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "github": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 4,
+            "fn": 14
+        },
+        "vszz": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "v0finder": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "our_tool_github": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        }
+    },
+    "CVE-2017-7525": {
+        "our_tool": {
+            "tp": 81,
+            "fp": 44,
+            "tn": 53,
+            "fn": 13
+        },
+        "nvd": {
+            "tp": 87,
+            "fp": 0,
+            "tn": 97,
+            "fn": 7
+        },
+        "veracode": {
+            "tp": 90,
+            "fp": 7,
+            "tn": 90,
+            "fn": 4
+        },
+        "github": {
+            "tp": 87,
+            "fp": 0,
+            "tn": 97,
+            "fn": 7
+        },
+        "gitlab": {
+            "tp": 37,
+            "fp": 0,
+            "tn": 97,
+            "fn": 57
+        },
+        "snyk": {
+            "tp": 87,
+            "fp": 0,
+            "tn": 97,
+            "fn": 7
+        },
+        "verjava_github": {
+            "tp": 87,
+            "fp": 83,
+            "tn": 14,
+            "fn": 5
+        },
+        "verjava_maven": {
+            "tp": 94,
+            "fp": 92,
+            "tn": 5,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 97,
+            "fn": 92
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 97,
+            "fn": 92
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 97,
+            "fn": 94
+        },
+        "v0finder": {
+            "tp": 82,
+            "fp": 97,
+            "tn": 0,
+            "fn": 12
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 97,
+            "fn": 94
+        },
+        "our_tool_github": {
+            "tp": 79,
+            "fp": 44,
+            "tn": 53,
+            "fn": 13
+        },
+        "our_tool_snyk": {
+            "tp": 81,
+            "fp": 44,
+            "tn": 53,
+            "fn": 13
+        }
+    },
+    "CVE-2018-1000632": {
+        "our_tool": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 4,
+            "fp": 1,
+            "tn": 3,
+            "fn": 1
+        },
+        "github": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 5,
+            "fp": 4,
+            "tn": 0,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 4,
+            "fn": 5
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 4,
+            "fn": 5
+        },
+        "vuddy": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "v0finder": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "our_tool_github": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        }
+    },
+    "CVE-2022-23596": {
+        "our_tool": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "github": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 7,
+            "fn": 13
+        },
+        "vszz+": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 7,
+            "fn": 13
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 7,
+            "fn": 15
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 7,
+            "fn": 15
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 7,
+            "fn": 15
+        },
+        "our_tool_github": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        }
+    },
+    "CVE-2016-1000031": {
+        "our_tool": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 6,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 8,
+            "fp": 3,
+            "tn": 3,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 6,
+            "fn": 0
+        },
+        "github": {
+            "tp": 8,
+            "fp": 3,
+            "tn": 3,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 8,
+            "fp": 3,
+            "tn": 3,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 6,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 3,
+            "fn": 4
+        },
+        "verjava_maven": {
+            "tp": 8,
+            "fp": 1,
+            "tn": 5,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 5,
+            "fp": 2,
+            "tn": 1,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 5,
+            "fp": 2,
+            "tn": 1,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 6,
+            "fn": 8
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 6,
+            "fn": 8
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 6,
+            "fn": 8
+        },
+        "our_tool_github": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 6,
+            "fn": 0
+        }
+    },
+    "CVE-2020-11988": {
+        "our_tool": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "github": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 4,
+            "fn": 11
+        },
+        "snyk": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 12,
+            "fp": 4,
+            "tn": 0,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "v0finder": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "our_tool_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        }
+    },
+    "CVE-2018-1274": {
+        "our_tool": {
+            "tp": 63,
+            "fp": 0,
+            "tn": 147,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 17,
+            "fp": 0,
+            "tn": 147,
+            "fn": 46
+        },
+        "veracode": {
+            "tp": 63,
+            "fp": 0,
+            "tn": 147,
+            "fn": 0
+        },
+        "github": {
+            "tp": 63,
+            "fp": 0,
+            "tn": 147,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 17,
+            "fp": 0,
+            "tn": 147,
+            "fn": 46
+        },
+        "snyk": {
+            "tp": 63,
+            "fp": 0,
+            "tn": 147,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 47,
+            "fp": 0,
+            "tn": 147,
+            "fn": 16
+        },
+        "verjava_maven": {
+            "tp": 47,
+            "fp": 147,
+            "tn": 0,
+            "fn": 16
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 147,
+            "fn": 63
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 147,
+            "fn": 63
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 147,
+            "fn": 63
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 147,
+            "fn": 63
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 147,
+            "fn": 63
+        },
+        "our_tool_github": {
+            "tp": 63,
+            "fp": 0,
+            "tn": 147,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 63,
+            "fp": 0,
+            "tn": 147,
+            "fn": 0
+        }
+    },
+    "CVE-2021-43797": {
+        "our_tool": {
+            "tp": 54,
+            "fp": 3,
+            "tn": 59,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 53,
+            "fp": 39,
+            "tn": 20,
+            "fn": 1
+        },
+        "veracode": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 59,
+            "fn": 42
+        },
+        "github": {
+            "tp": 53,
+            "fp": 39,
+            "tn": 20,
+            "fn": 1
+        },
+        "gitlab": {
+            "tp": 53,
+            "fp": 39,
+            "tn": 20,
+            "fn": 1
+        },
+        "snyk": {
+            "tp": 53,
+            "fp": 39,
+            "tn": 23,
+            "fn": 1
+        },
+        "verjava_github": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 62,
+            "fn": 42
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 62,
+            "fn": 54
+        },
+        "vszz": {
+            "tp": 53,
+            "fp": 39,
+            "tn": 23,
+            "fn": 1
+        },
+        "vszz+": {
+            "tp": 53,
+            "fp": 39,
+            "tn": 23,
+            "fn": 1
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 62,
+            "fn": 54
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 62,
+            "fn": 54
+        },
+        "MVP": {
+            "tp": 12,
+            "fp": 43,
+            "tn": 19,
+            "fn": 42
+        },
+        "our_tool_github": {
+            "tp": 54,
+            "fp": 3,
+            "tn": 59,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 54,
+            "fp": 3,
+            "tn": 59,
+            "fn": 0
+        }
+    },
+    "CVE-2019-16869": {
+        "our_tool": {
+            "tp": 130,
+            "fp": 1,
+            "tn": 69,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 126,
+            "fp": 8,
+            "tn": 59,
+            "fn": 4
+        },
+        "veracode": {
+            "tp": 126,
+            "fp": 8,
+            "tn": 59,
+            "fn": 4
+        },
+        "github": {
+            "tp": 126,
+            "fp": 8,
+            "tn": 59,
+            "fn": 4
+        },
+        "gitlab": {
+            "tp": 126,
+            "fp": 8,
+            "tn": 59,
+            "fn": 4
+        },
+        "snyk": {
+            "tp": 126,
+            "fp": 8,
+            "tn": 62,
+            "fn": 4
+        },
+        "verjava_github": {
+            "tp": 99,
+            "fp": 0,
+            "tn": 70,
+            "fn": 31
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 70,
+            "fn": 130
+        },
+        "vszz": {
+            "tp": 126,
+            "fp": 8,
+            "tn": 62,
+            "fn": 4
+        },
+        "vszz+": {
+            "tp": 126,
+            "fp": 8,
+            "tn": 62,
+            "fn": 4
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 70,
+            "fn": 130
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 70,
+            "fn": 130
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 70,
+            "fn": 130
+        },
+        "our_tool_github": {
+            "tp": 129,
+            "fp": 1,
+            "tn": 69,
+            "fn": 1
+        },
+        "our_tool_snyk": {
+            "tp": 129,
+            "fp": 1,
+            "tn": 69,
+            "fn": 1
+        }
+    },
+    "CVE-2022-25845": {
+        "our_tool": {
+            "tp": 55,
+            "fp": 0,
+            "tn": 258,
+            "fn": 21
+        },
+        "nvd": {
+            "tp": 76,
+            "fp": 173,
+            "tn": 85,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 76,
+            "fp": 28,
+            "tn": 230,
+            "fn": 0
+        },
+        "github": {
+            "tp": 76,
+            "fp": 173,
+            "tn": 85,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 76,
+            "fp": 173,
+            "tn": 85,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 76,
+            "fp": 28,
+            "tn": 230,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 147,
+            "fn": 75
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 258,
+            "fn": 76
+        },
+        "vszz": {
+            "tp": 75,
+            "fp": 138,
+            "tn": 9,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 75,
+            "fp": 138,
+            "tn": 9,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 258,
+            "fn": 76
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 258,
+            "fn": 76
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 258,
+            "fn": 76
+        },
+        "our_tool_github": {
+            "tp": 54,
+            "fp": 0,
+            "tn": 147,
+            "fn": 21
+        },
+        "our_tool_snyk": {
+            "tp": 55,
+            "fp": 0,
+            "tn": 258,
+            "fn": 21
+        }
+    },
+    "CVE-2020-13956": {
+        "our_tool": {
+            "tp": 40,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 40,
+            "fp": 13,
+            "tn": 2,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 40,
+            "fp": 3,
+            "tn": 12,
+            "fn": 0
+        },
+        "github": {
+            "tp": 40,
+            "fp": 13,
+            "tn": 2,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 40,
+            "fp": 13,
+            "tn": 2,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 40,
+            "fp": 13,
+            "tn": 2,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 15,
+            "fn": 29
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 15,
+            "fn": 40
+        },
+        "vszz": {
+            "tp": 40,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 40,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 15,
+            "fn": 40
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 15,
+            "fn": 40
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 15,
+            "fn": 40
+        },
+        "our_tool_github": {
+            "tp": 40,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 40,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        }
+    },
+    "CVE-2021-23900": {
+        "our_tool": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        },
+        "nvd": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "github": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        },
+        "vszz": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        },
+        "our_tool_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        },
+        "our_tool_snyk": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        }
+    },
+    "CVE-2018-20227": {
+        "our_tool": {
+            "tp": 39,
+            "fp": 0,
+            "tn": 59,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 59,
+            "fn": 38
+        },
+        "veracode": {
+            "tp": 39,
+            "fp": 0,
+            "tn": 59,
+            "fn": 0
+        },
+        "github": {
+            "tp": 39,
+            "fp": 0,
+            "tn": 59,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 59,
+            "fn": 38
+        },
+        "snyk": {
+            "tp": 39,
+            "fp": 0,
+            "tn": 59,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 59,
+            "fn": 39
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 59,
+            "fn": 39
+        },
+        "vszz": {
+            "tp": 39,
+            "fp": 12,
+            "tn": 47,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 39,
+            "fp": 12,
+            "tn": 47,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 59,
+            "fn": 39
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 59,
+            "fn": 39
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 59,
+            "fn": 39
+        },
+        "our_tool_github": {
+            "tp": 39,
+            "fp": 0,
+            "tn": 59,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 39,
+            "fp": 0,
+            "tn": 59,
+            "fn": 0
+        }
+    },
+    "CVE-2022-24197": {
+        "our_tool": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 8,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 29,
+            "fp": 1,
+            "tn": 7,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 8,
+            "fn": 27
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 8,
+            "fn": 29
+        },
+        "vszz": {
+            "tp": 29,
+            "fp": 1,
+            "tn": 7,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 29,
+            "fp": 1,
+            "tn": 7,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 8,
+            "fn": 29
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 8,
+            "fn": 29
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 8,
+            "fn": 29
+        },
+        "our_tool_github": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 8,
+            "fn": 0
+        }
+    },
+    "CVE-2021-27568": {
+        "our_tool": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 16,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 11,
+            "fp": 4,
+            "tn": 12,
+            "fn": 2
+        },
+        "veracode": {
+            "tp": 13,
+            "fp": 0,
+            "tn": 16,
+            "fn": 3
+        },
+        "github": {
+            "tp": 11,
+            "fp": 4,
+            "tn": 12,
+            "fn": 2
+        },
+        "gitlab": {
+            "tp": 11,
+            "fp": 4,
+            "tn": 12,
+            "fn": 2
+        },
+        "snyk": {
+            "tp": 11,
+            "fp": 4,
+            "tn": 12,
+            "fn": 5
+        },
+        "verjava_github": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 16,
+            "fn": 16
+        },
+        "vszz": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 16,
+            "fn": 16
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 16,
+            "fn": 16
+        },
+        "MVP": {
+            "tp": 16,
+            "fp": 5,
+            "tn": 11,
+            "fn": 0
+        },
+        "our_tool_github": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 16,
+            "fn": 0
+        }
+    },
+    "CVE-2021-23899": {
+        "our_tool": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "github": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        },
+        "vszz": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        },
+        "our_tool_github": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        }
+    },
+    "CVE-2020-13973": {
+        "our_tool": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 3,
+            "fn": 2
+        },
+        "nvd": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "github": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 3,
+            "fn": 3
+        },
+        "vszz": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 3,
+            "fn": 3
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 3,
+            "fn": 3
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 3,
+            "fn": 3
+        },
+        "our_tool_github": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 3,
+            "fn": 2
+        },
+        "our_tool_snyk": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 3,
+            "fn": 2
+        }
+    },
+    "CVE-2019-20444": {
+        "our_tool": {
+            "tp": 131,
+            "fp": 0,
+            "tn": 69,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 128,
+            "fp": 8,
+            "tn": 58,
+            "fn": 3
+        },
+        "veracode": {
+            "tp": 128,
+            "fp": 8,
+            "tn": 58,
+            "fn": 3
+        },
+        "github": {
+            "tp": 128,
+            "fp": 8,
+            "tn": 58,
+            "fn": 3
+        },
+        "gitlab": {
+            "tp": 128,
+            "fp": 8,
+            "tn": 58,
+            "fn": 3
+        },
+        "snyk": {
+            "tp": 128,
+            "fp": 8,
+            "tn": 61,
+            "fn": 3
+        },
+        "verjava_github": {
+            "tp": 101,
+            "fp": 0,
+            "tn": 69,
+            "fn": 30
+        },
+        "verjava_maven": {
+            "tp": 103,
+            "fp": 44,
+            "tn": 25,
+            "fn": 28
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 69,
+            "fn": 131
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 69,
+            "fn": 131
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 69,
+            "fn": 131
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 69,
+            "fn": 131
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 69,
+            "fn": 131
+        },
+        "our_tool_github": {
+            "tp": 130,
+            "fp": 0,
+            "tn": 69,
+            "fn": 1
+        },
+        "our_tool_snyk": {
+            "tp": 130,
+            "fp": 0,
+            "tn": 69,
+            "fn": 1
+        }
+    },
+    "CVE-2022-26336": {
+        "our_tool": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 35,
+            "fn": 7
+        },
+        "nvd": {
+            "tp": 26,
+            "fp": 30,
+            "tn": 5,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 35,
+            "fn": 17
+        },
+        "github": {
+            "tp": 26,
+            "fp": 30,
+            "tn": 5,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 26,
+            "fp": 30,
+            "tn": 5,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 26,
+            "fp": 30,
+            "tn": 5,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 26,
+            "fp": 8,
+            "tn": 27,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 1,
+            "tn": 1,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 1,
+            "tn": 1,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 35,
+            "fn": 26
+        },
+        "v0finder": {
+            "tp": 13,
+            "fp": 11,
+            "tn": 24,
+            "fn": 13
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 35,
+            "fn": 26
+        },
+        "our_tool_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 35,
+            "fn": 7
+        }
+    },
+    "CVE-2022-42004": {
+        "our_tool": {
+            "tp": 24,
+            "fp": 0,
+            "tn": 167,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 24,
+            "fp": 146,
+            "tn": 21,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 24,
+            "fp": 2,
+            "tn": 165,
+            "fn": 0
+        },
+        "github": {
+            "tp": 24,
+            "fp": 146,
+            "tn": 21,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 24,
+            "fp": 146,
+            "tn": 21,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 24,
+            "fp": 118,
+            "tn": 49,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 22,
+            "fp": 16,
+            "tn": 149,
+            "fn": 2
+        },
+        "verjava_maven": {
+            "tp": 24,
+            "fp": 22,
+            "tn": 145,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 165,
+            "fn": 24
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 165,
+            "fn": 24
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 167,
+            "fn": 24
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 167,
+            "fn": 24
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 167,
+            "fn": 24
+        },
+        "our_tool_github": {
+            "tp": 24,
+            "fp": 0,
+            "tn": 165,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 24,
+            "fp": 0,
+            "tn": 167,
+            "fn": 0
+        }
+    },
+    "CVE-2019-10086": {
+        "our_tool": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 18,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 4,
+            "fp": 14,
+            "tn": 4,
+            "fn": 0
+        },
+        "github": {
+            "tp": 4,
+            "fp": 14,
+            "tn": 4,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 4,
+            "fp": 14,
+            "tn": 4,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 18,
+            "fn": 2
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 1
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 18,
+            "fn": 4
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 1
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 1
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 18,
+            "fn": 4
+        },
+        "v0finder": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 18,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 18,
+            "fn": 4
+        },
+        "our_tool_github": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 18,
+            "fn": 0
+        }
+    },
+    "CVE-2022-22976": {
+        "our_tool": {
+            "tp": 52,
+            "fp": 0,
+            "tn": 137,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 52,
+            "fp": 86,
+            "tn": 51,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 51,
+            "fp": 86,
+            "tn": 51,
+            "fn": 1
+        },
+        "github": {
+            "tp": 52,
+            "fp": 86,
+            "tn": 51,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 52,
+            "fp": 86,
+            "tn": 51,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 52,
+            "fp": 86,
+            "tn": 51,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 52,
+            "fp": 84,
+            "tn": 53,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 52,
+            "fp": 88,
+            "tn": 49,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 52,
+            "fp": 91,
+            "tn": 46,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 52,
+            "fp": 91,
+            "tn": 46,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 52,
+            "fp": 136,
+            "tn": 1,
+            "fn": 0
+        },
+        "v0finder": {
+            "tp": 52,
+            "fp": 84,
+            "tn": 53,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 52,
+            "fp": 136,
+            "tn": 1,
+            "fn": 0
+        },
+        "our_tool_github": {
+            "tp": 52,
+            "fp": 0,
+            "tn": 137,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 52,
+            "fp": 0,
+            "tn": 137,
+            "fn": 0
+        }
+    },
+    "CVE-2017-1000487": {
+        "our_tool": {
+            "tp": 50,
+            "fp": 0,
+            "tn": 28,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 50,
+            "fp": 7,
+            "tn": 21,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 50,
+            "fp": 7,
+            "tn": 21,
+            "fn": 0
+        },
+        "github": {
+            "tp": 50,
+            "fp": 7,
+            "tn": 21,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 50,
+            "fp": 7,
+            "tn": 21,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 50,
+            "fp": 7,
+            "tn": 21,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 24,
+            "fn": 20
+        },
+        "verjava_maven": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 28,
+            "fn": 36
+        },
+        "vszz": {
+            "tp": 49,
+            "fp": 2,
+            "tn": 22,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 49,
+            "fp": 2,
+            "tn": 22,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 34,
+            "fp": 0,
+            "tn": 28,
+            "fn": 16
+        },
+        "v0finder": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 28,
+            "fn": 35
+        },
+        "MVP": {
+            "tp": 17,
+            "fp": 0,
+            "tn": 28,
+            "fn": 33
+        },
+        "our_tool_github": {
+            "tp": 49,
+            "fp": 0,
+            "tn": 24,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 50,
+            "fp": 0,
+            "tn": 28,
+            "fn": 0
+        }
+    },
+    "CVE-2020-5245": {
+        "our_tool": {
+            "tp": 26,
+            "fp": 106,
+            "tn": 70,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 26,
+            "fp": 84,
+            "tn": 92,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 25,
+            "fp": 12,
+            "tn": 164,
+            "fn": 1
+        },
+        "github": {
+            "tp": 26,
+            "fp": 84,
+            "tn": 92,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 26,
+            "fp": 84,
+            "tn": 92,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 25,
+            "fp": 12,
+            "tn": 164,
+            "fn": 1
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 176,
+            "fn": 26
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 176,
+            "fn": 26
+        },
+        "vszz": {
+            "tp": 26,
+            "fp": 37,
+            "tn": 139,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 26,
+            "fp": 37,
+            "tn": 139,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 176,
+            "fn": 26
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 176,
+            "fn": 26
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 176,
+            "fn": 26
+        },
+        "our_tool_github": {
+            "tp": 26,
+            "fp": 106,
+            "tn": 70,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 26,
+            "fp": 106,
+            "tn": 70,
+            "fn": 0
+        }
+    },
+    "CVE-2019-10219": {
+        "our_tool": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 42,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 25,
+            "fp": 0,
+            "tn": 42,
+            "fn": 6
+        },
+        "veracode": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 42,
+            "fn": 0
+        },
+        "github": {
+            "tp": 25,
+            "fp": 0,
+            "tn": 42,
+            "fn": 6
+        },
+        "gitlab": {
+            "tp": 25,
+            "fp": 0,
+            "tn": 42,
+            "fn": 6
+        },
+        "snyk": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 42,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 42,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 42,
+            "fn": 31
+        },
+        "vszz": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 42,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 42,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 42,
+            "fn": 31
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 42,
+            "fn": 31
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 42,
+            "fn": 31
+        },
+        "our_tool_github": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 42,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 42,
+            "fn": 0
+        }
+    },
+    "CVE-2021-30468": {
+        "our_tool": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 54,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 26,
+            "fp": 29,
+            "tn": 25,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 26,
+            "fp": 19,
+            "tn": 35,
+            "fn": 0
+        },
+        "github": {
+            "tp": 26,
+            "fp": 29,
+            "tn": 25,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 26,
+            "fp": 29,
+            "tn": 25,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 26,
+            "fp": 29,
+            "tn": 25,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 24,
+            "fp": 2,
+            "tn": 52,
+            "fn": 2
+        },
+        "verjava_maven": {
+            "tp": 2,
+            "fp": 23,
+            "tn": 31,
+            "fn": 24
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 54,
+            "fn": 26
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 54,
+            "fn": 26
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 54,
+            "fn": 26
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 2,
+            "tn": 52,
+            "fn": 26
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 54,
+            "fn": 26
+        },
+        "our_tool_github": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 54,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 54,
+            "fn": 0
+        }
+    },
+    "CVE-2011-2732": {
+        "our_tool": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 192,
+            "fn": 4
+        },
+        "nvd": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 192,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 192,
+            "fn": 6
+        },
+        "github": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 192,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 192,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 192,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 192,
+            "fn": 4
+        },
+        "verjava_maven": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 192,
+            "fn": 4
+        },
+        "vszz": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 192,
+            "fn": 4
+        },
+        "vszz+": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 192,
+            "fn": 4
+        },
+        "vuddy": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 192,
+            "fn": 4
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 192,
+            "fn": 6
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 192,
+            "fn": 6
+        },
+        "our_tool_github": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 192,
+            "fn": 4
+        },
+        "our_tool_snyk": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 192,
+            "fn": 4
+        }
+    },
+    "CVE-2020-15250": {
+        "our_tool": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 14,
+            "fn": 12
+        },
+        "nvd": {
+            "tp": 13,
+            "fp": 0,
+            "tn": 14,
+            "fn": 5
+        },
+        "veracode": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 14,
+            "fn": 12
+        },
+        "github": {
+            "tp": 13,
+            "fp": 0,
+            "tn": 14,
+            "fn": 5
+        },
+        "gitlab": {
+            "tp": 13,
+            "fp": 0,
+            "tn": 14,
+            "fn": 5
+        },
+        "snyk": {
+            "tp": 13,
+            "fp": 0,
+            "tn": 14,
+            "fn": 5
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 6,
+            "fn": 18
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 14,
+            "fn": 18
+        },
+        "vszz": {
+            "tp": 18,
+            "fp": 1,
+            "tn": 5,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 18,
+            "fp": 1,
+            "tn": 5,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 14,
+            "fn": 18
+        },
+        "v0finder": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 14,
+            "fn": 16
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 14,
+            "fn": 18
+        },
+        "our_tool_github": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 6,
+            "fn": 12
+        },
+        "our_tool_snyk": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 14,
+            "fn": 12
+        }
+    },
+    "CVE-2018-20000": {
+        "our_tool": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "github": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 12,
+            "fn": 2
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 12,
+            "fn": 2
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 12,
+            "fn": 2
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 12,
+            "fn": 2
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 12,
+            "fn": 2
+        },
+        "v0finder": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 2,
+            "fp": 12,
+            "tn": 0,
+            "fn": 0
+        },
+        "our_tool_github": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        }
+    },
+    "CVE-2022-29546": {
+        "our_tool": {
+            "tp": 38,
+            "fp": 10,
+            "tn": 0,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 38,
+            "fp": 0,
+            "tn": 10,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 38,
+            "fp": 0,
+            "tn": 10,
+            "fn": 0
+        },
+        "github": {
+            "tp": 38,
+            "fp": 0,
+            "tn": 10,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 38,
+            "fp": 0,
+            "tn": 10,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 38,
+            "fp": 0,
+            "tn": 10,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 10,
+            "fn": 28
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 10,
+            "fn": 38
+        },
+        "vszz": {
+            "tp": 28,
+            "fp": 0,
+            "tn": 10,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 28,
+            "fp": 0,
+            "tn": 10,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 10,
+            "fn": 38
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 10,
+            "fn": 38
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 10,
+            "fn": 38
+        },
+        "our_tool_github": {
+            "tp": 28,
+            "fp": 10,
+            "tn": 0,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 38,
+            "fp": 10,
+            "tn": 0,
+            "fn": 0
+        }
+    },
+    "CVE-2021-33813": {
+        "our_tool": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 1,
+            "fn": 5
+        },
+        "nvd": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 1,
+            "fn": 5
+        },
+        "github": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 4
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 9
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 4
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 4
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 9
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 9
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 9
+        },
+        "our_tool_github": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 1,
+            "fn": 2
+        },
+        "our_tool_snyk": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 1,
+            "fn": 5
+        }
+    },
+    "CVE-2022-24615": {
+        "our_tool": {
+            "tp": 34,
+            "fp": 0,
+            "tn": 17,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 34,
+            "fp": 10,
+            "tn": 7,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 34,
+            "fp": 10,
+            "tn": 7,
+            "fn": 0
+        },
+        "github": {
+            "tp": 34,
+            "fp": 10,
+            "tn": 7,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 34,
+            "fp": 10,
+            "tn": 7,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 33,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 34,
+            "fp": 7,
+            "tn": 10,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 7,
+            "fn": 33
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 7,
+            "fn": 33
+        },
+        "vuddy": {
+            "tp": 34,
+            "fp": 0,
+            "tn": 17,
+            "fn": 0
+        },
+        "v0finder": {
+            "tp": 34,
+            "fp": 0,
+            "tn": 17,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 34,
+            "fp": 0,
+            "tn": 17,
+            "fn": 0
+        },
+        "our_tool_github": {
+            "tp": 33,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        }
+    },
+    "CVE-2023-43642": {
+        "our_tool": {
+            "tp": 57,
+            "fp": 0,
+            "tn": 14,
+            "fn": 9
+        },
+        "nvd": {
+            "tp": 64,
+            "fp": 14,
+            "tn": 0,
+            "fn": 2
+        },
+        "veracode": {
+            "tp": 64,
+            "fp": 14,
+            "tn": 0,
+            "fn": 2
+        },
+        "github": {
+            "tp": 64,
+            "fp": 14,
+            "tn": 0,
+            "fn": 2
+        },
+        "gitlab": {
+            "tp": 64,
+            "fp": 14,
+            "tn": 0,
+            "fn": 2
+        },
+        "snyk": {
+            "tp": 64,
+            "fp": 14,
+            "tn": 0,
+            "fn": 2
+        },
+        "verjava_github": {
+            "tp": 64,
+            "fp": 14,
+            "tn": 0,
+            "fn": 2
+        },
+        "verjava_maven": {
+            "tp": 64,
+            "fp": 10,
+            "tn": 4,
+            "fn": 2
+        },
+        "vszz": {
+            "tp": 21,
+            "fp": 1,
+            "tn": 13,
+            "fn": 45
+        },
+        "vszz+": {
+            "tp": 21,
+            "fp": 1,
+            "tn": 13,
+            "fn": 45
+        },
+        "vuddy": {
+            "tp": 64,
+            "fp": 8,
+            "tn": 6,
+            "fn": 2
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 14,
+            "fn": 66
+        },
+        "MVP": {
+            "tp": 63,
+            "fp": 13,
+            "tn": 1,
+            "fn": 3
+        },
+        "our_tool_github": {
+            "tp": 57,
+            "fp": 0,
+            "tn": 14,
+            "fn": 9
+        },
+        "our_tool_snyk": {
+            "tp": 57,
+            "fp": 0,
+            "tn": 14,
+            "fn": 9
+        }
+    },
+    "CVE-2019-11272": {
+        "our_tool": {
+            "tp": 61,
+            "fp": 0,
+            "tn": 153,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 13,
+            "fp": 0,
+            "tn": 153,
+            "fn": 48
+        },
+        "veracode": {
+            "tp": 30,
+            "fp": 0,
+            "tn": 153,
+            "fn": 31
+        },
+        "github": {
+            "tp": 61,
+            "fp": 0,
+            "tn": 153,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 13,
+            "fp": 0,
+            "tn": 153,
+            "fn": 48
+        },
+        "snyk": {
+            "tp": 13,
+            "fp": 0,
+            "tn": 153,
+            "fn": 48
+        },
+        "verjava_github": {
+            "tp": 52,
+            "fp": 0,
+            "tn": 153,
+            "fn": 9
+        },
+        "verjava_maven": {
+            "tp": 52,
+            "fp": 8,
+            "tn": 145,
+            "fn": 9
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 153,
+            "fn": 61
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 153,
+            "fn": 61
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 153,
+            "fn": 61
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 153,
+            "fn": 61
+        },
+        "MVP": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 153,
+            "fn": 32
+        },
+        "our_tool_github": {
+            "tp": 61,
+            "fp": 0,
+            "tn": 153,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 61,
+            "fp": 0,
+            "tn": 153,
+            "fn": 0
+        }
+    },
+    "CVE-2014-0097": {
+        "our_tool": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 190,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 190,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 190,
+            "fn": 0
+        },
+        "github": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 190,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 8,
+            "fp": 2,
+            "tn": 188,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 190,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 8,
+            "fp": 170,
+            "tn": 20,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 8,
+            "fp": 181,
+            "tn": 9,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 190,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 190,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 190,
+            "fn": 8
+        },
+        "v0finder": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 190,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 190,
+            "fn": 8
+        },
+        "our_tool_github": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 190,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 190,
+            "fn": 0
+        }
+    },
+    "CVE-2023-34453": {
+        "our_tool": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 58,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 22,
+            "fp": 53,
+            "tn": 5,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 58,
+            "fn": 0
+        },
+        "github": {
+            "tp": 22,
+            "fp": 53,
+            "tn": 5,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 22,
+            "fp": 53,
+            "tn": 5,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 22,
+            "fp": 53,
+            "tn": 5,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 21,
+            "fp": 0,
+            "tn": 58,
+            "fn": 1
+        },
+        "verjava_maven": {
+            "tp": 21,
+            "fp": 6,
+            "tn": 52,
+            "fn": 1
+        },
+        "vszz": {
+            "tp": 12,
+            "fp": 1,
+            "tn": 57,
+            "fn": 10
+        },
+        "vszz+": {
+            "tp": 12,
+            "fp": 1,
+            "tn": 57,
+            "fn": 10
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 58,
+            "fn": 22
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 58,
+            "fn": 22
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 58,
+            "fn": 22
+        },
+        "our_tool_github": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 58,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 58,
+            "fn": 0
+        }
+    },
+    "CVE-2022-1848": {
+        "our_tool": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "github": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 12,
+            "fn": 102
+        },
+        "verjava_maven": {
+            "tp": 18,
+            "fp": 12,
+            "tn": 0,
+            "fn": 84
+        },
+        "vszz": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 12,
+            "fn": 102
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 12,
+            "fn": 102
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 12,
+            "fn": 102
+        },
+        "our_tool_github": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        }
+    },
+    "CVE-2021-31412": {
+        "our_tool": {
+            "tp": 143,
+            "fp": 16,
+            "tn": 225,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 133,
+            "fp": 0,
+            "tn": 241,
+            "fn": 10
+        },
+        "veracode": {
+            "tp": 133,
+            "fp": 8,
+            "tn": 233,
+            "fn": 10
+        },
+        "github": {
+            "tp": 133,
+            "fp": 0,
+            "tn": 241,
+            "fn": 10
+        },
+        "gitlab": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 241,
+            "fn": 143
+        },
+        "snyk": {
+            "tp": 133,
+            "fp": 0,
+            "tn": 241,
+            "fn": 10
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 241,
+            "fn": 143
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 241,
+            "fn": 143
+        },
+        "vszz": {
+            "tp": 135,
+            "fp": 48,
+            "tn": 193,
+            "fn": 8
+        },
+        "vszz+": {
+            "tp": 135,
+            "fp": 48,
+            "tn": 193,
+            "fn": 8
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 241,
+            "fn": 143
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 241,
+            "fn": 143
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 241,
+            "fn": 143
+        },
+        "our_tool_github": {
+            "tp": 143,
+            "fp": 16,
+            "tn": 225,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 143,
+            "fp": 16,
+            "tn": 225,
+            "fn": 0
+        }
+    },
+    "CVE-2022-32549": {
+        "our_tool": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        },
+        "nvd": {
+            "tp": 2,
+            "fp": 33,
+            "tn": 4,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        },
+        "github": {
+            "tp": 2,
+            "fp": 33,
+            "tn": 4,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 2,
+            "fp": 33,
+            "tn": 4,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 2,
+            "fp": 33,
+            "tn": 4,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 37,
+            "fn": 2
+        },
+        "vszz": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        },
+        "vszz+": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 37,
+            "fn": 2
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 37,
+            "fn": 2
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 37,
+            "fn": 2
+        },
+        "our_tool_github": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        },
+        "our_tool_snyk": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        }
+    },
+    "CVE-2014-0114": {
+        "our_tool": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 13,
+            "fn": 5
+        },
+        "nvd": {
+            "tp": 7,
+            "fp": 9,
+            "tn": 4,
+            "fn": 2
+        },
+        "veracode": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 13,
+            "fn": 1
+        },
+        "github": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 13,
+            "fn": 2
+        },
+        "gitlab": {
+            "tp": 7,
+            "fp": 9,
+            "tn": 4,
+            "fn": 2
+        },
+        "snyk": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 13,
+            "fn": 2
+        },
+        "verjava_github": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 4,
+            "fp": 1,
+            "tn": 12,
+            "fn": 5
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 1
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 1
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 13,
+            "fn": 9
+        },
+        "v0finder": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 13,
+            "fn": 5
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 13,
+            "fn": 9
+        },
+        "our_tool_github": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 13,
+            "fn": 5
+        }
+    },
+    "CVE-2018-1260": {
+        "our_tool": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 33,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 22,
+            "fp": 6,
+            "tn": 27,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 22,
+            "fp": 6,
+            "tn": 27,
+            "fn": 0
+        },
+        "github": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 33,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 22,
+            "fp": 6,
+            "tn": 27,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 22,
+            "fp": 6,
+            "tn": 27,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 33,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 22,
+            "fp": 27,
+            "tn": 6,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 33,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 33,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 33,
+            "fn": 22
+        },
+        "v0finder": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 33,
+            "fn": 6
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 33,
+            "fn": 22
+        },
+        "our_tool_github": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 33,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 33,
+            "fn": 0
+        }
+    },
+    "CVE-2014-3584": {
+        "our_tool": {
+            "tp": 33,
+            "fp": 16,
+            "tn": 93,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 18,
+            "fp": 1,
+            "tn": 108,
+            "fn": 15
+        },
+        "veracode": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 109,
+            "fn": 2
+        },
+        "gitlab": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 109,
+            "fn": 14
+        },
+        "snyk": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 109,
+            "fn": 14
+        },
+        "verjava_github": {
+            "tp": 18,
+            "fp": 0,
+            "tn": 109,
+            "fn": 3
+        },
+        "verjava_maven": {
+            "tp": 31,
+            "fp": 16,
+            "tn": 93,
+            "fn": 2
+        },
+        "vszz": {
+            "tp": 20,
+            "fp": 0,
+            "tn": 109,
+            "fn": 1
+        },
+        "vszz+": {
+            "tp": 20,
+            "fp": 0,
+            "tn": 109,
+            "fn": 1
+        },
+        "vuddy": {
+            "tp": 18,
+            "fp": 0,
+            "tn": 109,
+            "fn": 15
+        },
+        "v0finder": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 109,
+            "fn": 2
+        },
+        "MVP": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 109,
+            "fn": 2
+        },
+        "our_tool_github": {
+            "tp": 21,
+            "fp": 16,
+            "tn": 93,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 33,
+            "fp": 16,
+            "tn": 93,
+            "fn": 0
+        }
+    },
+    "CVE-2020-1953": {
+        "our_tool": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "github": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 3,
+            "fn": 5
+        },
+        "vszz": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 3,
+            "fn": 5
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 3,
+            "fn": 5
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 3,
+            "fn": 5
+        },
+        "our_tool_github": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        }
+    },
+    "CVE-2024-31860": {
+        "our_tool": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "github": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 5,
+            "fp": 2,
+            "tn": 10,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 12,
+            "fn": 5
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 12,
+            "fn": 5
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 12,
+            "fn": 5
+        },
+        "v0finder": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 12,
+            "fn": 5
+        },
+        "our_tool_github": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        }
+    },
+    "CVE-2018-1263": {
+        "our_tool": {
+            "tp": 2,
+            "fp": 4,
+            "tn": 10,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 14,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 14,
+            "fn": 0
+        },
+        "github": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 14,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 14,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 14,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 4,
+            "fn": 2
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 14,
+            "fn": 2
+        },
+        "vszz": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 14,
+            "fn": 2
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 14,
+            "fn": 2
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 14,
+            "fn": 2
+        },
+        "our_tool_github": {
+            "tp": 2,
+            "fp": 2,
+            "tn": 2,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 2,
+            "fp": 4,
+            "tn": 10,
+            "fn": 0
+        }
+    },
+    "CVE-2018-1261": {
+        "our_tool": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "github": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 1,
+            "tn": 4,
+            "fn": 1
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 15,
+            "fn": 1
+        },
+        "vszz": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 15,
+            "fn": 1
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 15,
+            "fn": 1
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 15,
+            "fn": 1
+        },
+        "our_tool_github": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        }
+    },
+    "CVE-2021-27807": {
+        "our_tool": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 26,
+            "fp": 29,
+            "tn": 16,
+            "fn": 0
+        },
+        "github": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 10,
+            "fp": 27,
+            "tn": 18,
+            "fn": 16
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 28,
+            "tn": 17,
+            "fn": 26
+        },
+        "vszz": {
+            "tp": 26,
+            "fp": 16,
+            "tn": 29,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 26,
+            "fp": 16,
+            "tn": 29,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 45,
+            "fn": 26
+        },
+        "v0finder": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "our_tool_github": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        }
+    },
+    "CVE-2014-4172": {
+        "our_tool": {
+            "tp": 4,
+            "fp": 3,
+            "tn": 8,
+            "fn": 3
+        },
+        "nvd": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 11,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 11,
+            "fn": 0
+        },
+        "github": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 11,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 11,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 11,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 11,
+            "fn": 1
+        },
+        "verjava_maven": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 11,
+            "fn": 1
+        },
+        "vszz": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 11,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 11,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 11,
+            "fn": 7
+        },
+        "v0finder": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 11,
+            "fn": 1
+        },
+        "MVP": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 11,
+            "fn": 6
+        },
+        "our_tool_github": {
+            "tp": 4,
+            "fp": 3,
+            "tn": 8,
+            "fn": 3
+        },
+        "our_tool_snyk": {
+            "tp": 4,
+            "fp": 3,
+            "tn": 8,
+            "fn": 3
+        }
+    },
+    "CVE-2023-49250": {
+        "our_tool": {
+            "tp": 44,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 44,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 44,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "github": {
+            "tp": 44,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 44,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 44,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 33
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 44
+        },
+        "vszz": {
+            "tp": 33,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 33,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 44
+        },
+        "v0finder": {
+            "tp": 32,
+            "fp": 0,
+            "tn": 1,
+            "fn": 12
+        },
+        "MVP": {
+            "tp": 32,
+            "fp": 0,
+            "tn": 1,
+            "fn": 12
+        },
+        "our_tool_github": {
+            "tp": 33,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 44,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        }
+    },
+    "CVE-2022-34662": {
+        "our_tool": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 23,
+            "fn": 12
+        },
+        "nvd": {
+            "tp": 19,
+            "fp": 3,
+            "tn": 20,
+            "fn": 1
+        },
+        "github": {
+            "tp": 20,
+            "fp": 5,
+            "tn": 18,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 20,
+            "fp": 5,
+            "tn": 18,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 20,
+            "fp": 2,
+            "tn": 21,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 6,
+            "fp": 2,
+            "tn": 21,
+            "fn": 3
+        },
+        "verjava_maven": {
+            "tp": 20,
+            "fp": 23,
+            "tn": 0,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 23,
+            "fn": 6
+        },
+        "vszz+": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 23,
+            "fn": 6
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 23,
+            "fn": 20
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 23,
+            "fn": 20
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 23,
+            "fn": 20
+        },
+        "our_tool_github": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 23,
+            "fn": 2
+        },
+        "our_tool_snyk": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 23,
+            "fn": 12
+        }
+    },
+    "CVE-2024-25125": {
+        "our_tool": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 7
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 7
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 7
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 7
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 7
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 7
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 7
+        },
+        "our_tool_github": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        }
+    },
+    "CVE-2024-24569": {
+        "our_tool": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 9
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 9
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 9
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 9
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 9
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 9
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 9
+        },
+        "our_tool_github": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        }
+    },
+    "CVE-2023-51074": {
+        "our_tool": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 15,
+            "fn": 1
+        },
+        "nvd": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 15,
+            "fn": 7
+        },
+        "veracode": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 15,
+            "fn": 1
+        },
+        "github": {
+            "tp": 8,
+            "fp": 14,
+            "tn": 1,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 8,
+            "fp": 14,
+            "tn": 1,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 8,
+            "fp": 14,
+            "tn": 1,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 15,
+            "fn": 8
+        },
+        "vszz": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 15,
+            "fn": 8
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 15,
+            "fn": 8
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 15,
+            "fn": 8
+        },
+        "our_tool_github": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 15,
+            "fn": 1
+        },
+        "our_tool_snyk": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 15,
+            "fn": 1
+        }
+    },
+    "CVE-2023-51075": {
+        "our_tool": {
+            "tp": 35,
+            "fp": 0,
+            "tn": 156,
+            "fn": 3
+        },
+        "nvd": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 156,
+            "fn": 37
+        },
+        "veracode": {
+            "tp": 38,
+            "fp": 0,
+            "tn": 156,
+            "fn": 0
+        },
+        "github": {
+            "tp": 38,
+            "fp": 152,
+            "tn": 4,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 38,
+            "fp": 152,
+            "tn": 4,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 38,
+            "fp": 152,
+            "tn": 4,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 35,
+            "fp": 0,
+            "tn": 113,
+            "fn": 3
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 156,
+            "fn": 38
+        },
+        "vszz": {
+            "tp": 38,
+            "fp": 27,
+            "tn": 86,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 38,
+            "fp": 27,
+            "tn": 86,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 156,
+            "fn": 38
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 156,
+            "fn": 38
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 156,
+            "fn": 38
+        },
+        "our_tool_github": {
+            "tp": 35,
+            "fp": 0,
+            "tn": 113,
+            "fn": 3
+        },
+        "our_tool_snyk": {
+            "tp": 35,
+            "fp": 0,
+            "tn": 156,
+            "fn": 3
+        }
+    },
+    "CVE-2023-51080": {
+        "our_tool": {
+            "tp": 138,
+            "fp": 12,
+            "tn": 3,
+            "fn": 41
+        },
+        "nvd": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 15,
+            "fn": 178
+        },
+        "veracode": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 15,
+            "fn": 176
+        },
+        "github": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 15,
+            "fn": 176
+        },
+        "gitlab": {
+            "tp": 178,
+            "fp": 12,
+            "tn": 3,
+            "fn": 1
+        },
+        "snyk": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 15,
+            "fn": 176
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 3,
+            "fn": 148
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 15,
+            "fn": 179
+        },
+        "vszz": {
+            "tp": 62,
+            "fp": 3,
+            "tn": 0,
+            "fn": 86
+        },
+        "vszz+": {
+            "tp": 62,
+            "fp": 3,
+            "tn": 0,
+            "fn": 86
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 15,
+            "fn": 179
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 15,
+            "fn": 179
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 15,
+            "fn": 179
+        },
+        "our_tool_github": {
+            "tp": 107,
+            "fp": 0,
+            "tn": 3,
+            "fn": 41
+        },
+        "our_tool_snyk": {
+            "tp": 138,
+            "fp": 12,
+            "tn": 3,
+            "fn": 41
+        }
+    },
+    "CVE-2022-22968": {
+        "our_tool": {
+            "tp": 194,
+            "fp": 0,
+            "tn": 70,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 194,
+            "fp": 31,
+            "tn": 39,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 174,
+            "fp": 0,
+            "tn": 70,
+            "fn": 20
+        },
+        "github": {
+            "tp": 194,
+            "fp": 31,
+            "tn": 39,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 194,
+            "fp": 31,
+            "tn": 39,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 194,
+            "fp": 31,
+            "tn": 39,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 160,
+            "fp": 0,
+            "tn": 45,
+            "fn": 17
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 70,
+            "fn": 194
+        },
+        "vszz": {
+            "tp": 177,
+            "fp": 40,
+            "tn": 5,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 177,
+            "fp": 40,
+            "tn": 5,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 70,
+            "fn": 194
+        },
+        "v0finder": {
+            "tp": 194,
+            "fp": 0,
+            "tn": 70,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 92,
+            "fp": 16,
+            "tn": 54,
+            "fn": 102
+        },
+        "our_tool_github": {
+            "tp": 177,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 194,
+            "fp": 0,
+            "tn": 70,
+            "fn": 0
+        }
+    },
+    "CVE-2013-6430": {
+        "our_tool": {
+            "tp": 58,
+            "fp": 0,
+            "tn": 205,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 205,
+            "fn": 43
+        },
+        "veracode": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 205,
+            "fn": 43
+        },
+        "github": {
+            "tp": 58,
+            "fp": 6,
+            "tn": 199,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 205,
+            "fn": 43
+        },
+        "snyk": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 205,
+            "fn": 43
+        },
+        "verjava_github": {
+            "tp": 13,
+            "fp": 0,
+            "tn": 202,
+            "fn": 6
+        },
+        "verjava_maven": {
+            "tp": 58,
+            "fp": 200,
+            "tn": 5,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 19,
+            "fp": 202,
+            "tn": 0,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 19,
+            "fp": 202,
+            "tn": 0,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 205,
+            "fn": 58
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 205,
+            "fn": 58
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 205,
+            "fn": 58
+        },
+        "our_tool_github": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 202,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 58,
+            "fp": 0,
+            "tn": 205,
+            "fn": 0
+        }
+    },
+    "CVE-2020-28052": {
+        "our_tool": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 23,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 23,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 0,
+            "fp": 1,
+            "tn": 22,
+            "fn": 3
+        },
+        "github": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 23,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 23,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 23,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 23,
+            "fn": 3
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 23,
+            "fn": 3
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 23,
+            "fn": 3
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 23,
+            "fn": 3
+        },
+        "our_tool_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 23,
+            "fn": 0
+        }
+    },
+    "CVE-2016-9878": {
+        "our_tool": {
+            "tp": 105,
+            "fp": 0,
+            "tn": 158,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 85,
+            "fp": 9,
+            "tn": 149,
+            "fn": 20
+        },
+        "veracode": {
+            "tp": 83,
+            "fp": 6,
+            "tn": 152,
+            "fn": 20
+        },
+        "github": {
+            "tp": 85,
+            "fp": 9,
+            "tn": 149,
+            "fn": 20
+        },
+        "gitlab": {
+            "tp": 85,
+            "fp": 9,
+            "tn": 149,
+            "fn": 20
+        },
+        "snyk": {
+            "tp": 74,
+            "fp": 6,
+            "tn": 152,
+            "fn": 31
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 157,
+            "fn": 64
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 158,
+            "fn": 105
+        },
+        "vszz": {
+            "tp": 7,
+            "fp": 4,
+            "tn": 153,
+            "fn": 57
+        },
+        "vszz+": {
+            "tp": 7,
+            "fp": 4,
+            "tn": 153,
+            "fn": 57
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 158,
+            "fn": 105
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 158,
+            "fn": 105
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 158,
+            "fn": 105
+        },
+        "our_tool_github": {
+            "tp": 64,
+            "fp": 0,
+            "tn": 157,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 105,
+            "fp": 0,
+            "tn": 158,
+            "fn": 0
+        }
+    },
+    "CVE-2018-15756": {
+        "our_tool": {
+            "tp": 38,
+            "fp": 100,
+            "tn": 125,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 31,
+            "fp": 21,
+            "tn": 204,
+            "fn": 7
+        },
+        "veracode": {
+            "tp": 31,
+            "fp": 10,
+            "tn": 215,
+            "fn": 7
+        },
+        "github": {
+            "tp": 31,
+            "fp": 111,
+            "tn": 114,
+            "fn": 7
+        },
+        "gitlab": {
+            "tp": 31,
+            "fp": 10,
+            "tn": 215,
+            "fn": 7
+        },
+        "snyk": {
+            "tp": 31,
+            "fp": 10,
+            "tn": 215,
+            "fn": 7
+        },
+        "verjava_github": {
+            "tp": 31,
+            "fp": 10,
+            "tn": 173,
+            "fn": 7
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 10,
+            "tn": 215,
+            "fn": 38
+        },
+        "vszz": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 183,
+            "fn": 37
+        },
+        "vszz+": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 183,
+            "fn": 37
+        },
+        "vuddy": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 225,
+            "fn": 27
+        },
+        "v0finder": {
+            "tp": 28,
+            "fp": 0,
+            "tn": 225,
+            "fn": 10
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 5,
+            "tn": 220,
+            "fn": 38
+        },
+        "our_tool_github": {
+            "tp": 38,
+            "fp": 100,
+            "tn": 83,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 38,
+            "fp": 100,
+            "tn": 125,
+            "fn": 0
+        }
+    },
+    "CVE-2014-3625": {
+        "our_tool": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 233,
+            "fn": 1
+        },
+        "nvd": {
+            "tp": 30,
+            "fp": 2,
+            "tn": 231,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 30,
+            "fp": 1,
+            "tn": 232,
+            "fn": 0
+        },
+        "github": {
+            "tp": 30,
+            "fp": 1,
+            "tn": 232,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 233,
+            "fn": 8
+        },
+        "snyk": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 233,
+            "fn": 8
+        },
+        "verjava_github": {
+            "tp": 20,
+            "fp": 0,
+            "tn": 191,
+            "fn": 10
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 233,
+            "fn": 30
+        },
+        "vszz": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 191,
+            "fn": 19
+        },
+        "vszz+": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 191,
+            "fn": 19
+        },
+        "vuddy": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 233,
+            "fn": 8
+        },
+        "v0finder": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 233,
+            "fn": 8
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 233,
+            "fn": 30
+        },
+        "our_tool_github": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 191,
+            "fn": 1
+        },
+        "our_tool_snyk": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 233,
+            "fn": 1
+        }
+    },
+    "CVE-2018-11039": {
+        "our_tool": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 256,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 7,
+            "fp": 18,
+            "tn": 238,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 7,
+            "fp": 80,
+            "tn": 176,
+            "fn": 0
+        },
+        "github": {
+            "tp": 7,
+            "fp": 18,
+            "tn": 238,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 7,
+            "fp": 18,
+            "tn": 238,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 214,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 7,
+            "fp": 114,
+            "tn": 142,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 214,
+            "fn": 6
+        },
+        "vszz+": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 214,
+            "fn": 6
+        },
+        "vuddy": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 256,
+            "fn": 0
+        },
+        "v0finder": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 256,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 256,
+            "fn": 7
+        },
+        "our_tool_github": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 214,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 256,
+            "fn": 0
+        }
+    },
+    "CVE-2020-5398": {
+        "our_tool": {
+            "tp": 29,
+            "fp": 16,
+            "tn": 218,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 29,
+            "fp": 3,
+            "tn": 231,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 29,
+            "fp": 3,
+            "tn": 231,
+            "fn": 0
+        },
+        "github": {
+            "tp": 29,
+            "fp": 3,
+            "tn": 231,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 29,
+            "fp": 3,
+            "tn": 231,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 29,
+            "fp": 3,
+            "tn": 231,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 192,
+            "fn": 29
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 234,
+            "fn": 29
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 192,
+            "fn": 29
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 192,
+            "fn": 29
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 234,
+            "fn": 29
+        },
+        "v0finder": {
+            "tp": 29,
+            "fp": 14,
+            "tn": 220,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 234,
+            "fn": 29
+        },
+        "our_tool_github": {
+            "tp": 29,
+            "fp": 16,
+            "tn": 176,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 29,
+            "fp": 16,
+            "tn": 218,
+            "fn": 0
+        }
+    },
+    "CVE-2014-3578": {
+        "our_tool": {
+            "tp": 48,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 5,
+            "fp": 9,
+            "tn": 206,
+            "fn": 43
+        },
+        "veracode": {
+            "tp": 13,
+            "fp": 9,
+            "tn": 206,
+            "fn": 35
+        },
+        "github": {
+            "tp": 18,
+            "fp": 9,
+            "tn": 206,
+            "fn": 30
+        },
+        "gitlab": {
+            "tp": 18,
+            "fp": 9,
+            "tn": 206,
+            "fn": 30
+        },
+        "snyk": {
+            "tp": 18,
+            "fp": 9,
+            "tn": 206,
+            "fn": 30
+        },
+        "verjava_github": {
+            "tp": 6,
+            "fp": 135,
+            "tn": 65,
+            "fn": 15
+        },
+        "verjava_maven": {
+            "tp": 48,
+            "fp": 197,
+            "tn": 18,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 7,
+            "fp": 4,
+            "tn": 196,
+            "fn": 14
+        },
+        "vszz+": {
+            "tp": 7,
+            "fp": 4,
+            "tn": 196,
+            "fn": 14
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 215,
+            "fn": 48
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 215,
+            "fn": 48
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 215,
+            "fn": 48
+        },
+        "our_tool_github": {
+            "tp": 21,
+            "fp": 0,
+            "tn": 200,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 48,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        }
+    },
+    "CVE-2022-22980": {
+        "our_tool": {
+            "tp": 50,
+            "fp": 0,
+            "tn": 166,
+            "fn": 9
+        },
+        "nvd": {
+            "tp": 59,
+            "fp": 115,
+            "tn": 51,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 32,
+            "fp": 0,
+            "tn": 166,
+            "fn": 27
+        },
+        "github": {
+            "tp": 59,
+            "fp": 115,
+            "tn": 51,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 59,
+            "fp": 115,
+            "tn": 51,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 59,
+            "fp": 115,
+            "tn": 51,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 166,
+            "fn": 44
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 166,
+            "fn": 59
+        },
+        "vszz": {
+            "tp": 59,
+            "fp": 7,
+            "tn": 159,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 59,
+            "fp": 7,
+            "tn": 159,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 166,
+            "fn": 59
+        },
+        "v0finder": {
+            "tp": 35,
+            "fp": 0,
+            "tn": 166,
+            "fn": 24
+        },
+        "MVP": {
+            "tp": 49,
+            "fp": 0,
+            "tn": 166,
+            "fn": 10
+        },
+        "our_tool_github": {
+            "tp": 50,
+            "fp": 0,
+            "tn": 166,
+            "fn": 9
+        },
+        "our_tool_snyk": {
+            "tp": 50,
+            "fp": 0,
+            "tn": 166,
+            "fn": 9
+        }
+    },
+    "CVE-2017-8046": {
+        "our_tool": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 203,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 4,
+            "fp": 43,
+            "tn": 160,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 4,
+            "fp": 18,
+            "tn": 185,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 4,
+            "fp": 40,
+            "tn": 163,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 4,
+            "fp": 12,
+            "tn": 191,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 203,
+            "fn": 4
+        },
+        "vszz": {
+            "tp": 4,
+            "fp": 162,
+            "tn": 41,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 4,
+            "fp": 162,
+            "tn": 41,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 203,
+            "fn": 4
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 203,
+            "fn": 4
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 203,
+            "fn": 4
+        },
+        "our_tool_github": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 203,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 203,
+            "fn": 0
+        }
+    },
+    "CVE-2016-1000338": {
+        "our_tool": {
+            "tp": 1,
+            "fp": 25,
+            "tn": 0,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 0,
+            "fp": 10,
+            "tn": 15,
+            "fn": 1
+        },
+        "veracode": {
+            "tp": 0,
+            "fp": 10,
+            "tn": 15,
+            "fn": 1
+        },
+        "github": {
+            "tp": 0,
+            "fp": 10,
+            "tn": 15,
+            "fn": 1
+        },
+        "gitlab": {
+            "tp": 0,
+            "fp": 10,
+            "tn": 15,
+            "fn": 1
+        },
+        "snyk": {
+            "tp": 0,
+            "fp": 10,
+            "tn": 15,
+            "fn": 1
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 14,
+            "tn": 11,
+            "fn": 1
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 15,
+            "tn": 10,
+            "fn": 1
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 25,
+            "fn": 1
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 25,
+            "fn": 1
+        },
+        "our_tool_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 1,
+            "fp": 25,
+            "tn": 0,
+            "fn": 0
+        }
+    },
+    "CVE-2021-40111": {
+        "our_tool": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 7,
+            "fn": 2
+        },
+        "github": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 11,
+            "fp": 7,
+            "tn": 0,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 7,
+            "fn": 10
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 7,
+            "fn": 10
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 7,
+            "fn": 11
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 7,
+            "fn": 11
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 7,
+            "fn": 11
+        },
+        "our_tool_github": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        }
+    },
+    "CVE-2018-11771": {
+        "our_tool": {
+            "tp": 18,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 13,
+            "fp": 0,
+            "tn": 12,
+            "fn": 5
+        },
+        "veracode": {
+            "tp": 13,
+            "fp": 0,
+            "tn": 12,
+            "fn": 5
+        },
+        "github": {
+            "tp": 18,
+            "fp": 3,
+            "tn": 9,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 13,
+            "fp": 0,
+            "tn": 12,
+            "fn": 5
+        },
+        "snyk": {
+            "tp": 18,
+            "fp": 3,
+            "tn": 9,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 10,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 18,
+            "fp": 10,
+            "tn": 2,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 12,
+            "fp": 1,
+            "tn": 9,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 12,
+            "fp": 1,
+            "tn": 9,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 12,
+            "fn": 18
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 12,
+            "fn": 18
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 12,
+            "fn": 18
+        },
+        "our_tool_github": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 10,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 18,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        }
+    },
+    "CVE-2019-12402": {
+        "our_tool": {
+            "tp": 5,
+            "fp": 17,
+            "tn": 8,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 25,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 25,
+            "fn": 0
+        },
+        "github": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 25,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 25,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 25,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 5,
+            "fp": 9,
+            "tn": 8,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 5,
+            "fp": 25,
+            "tn": 0,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 17,
+            "fn": 5
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 17,
+            "fn": 5
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 25,
+            "fn": 5
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 25,
+            "fn": 5
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 25,
+            "fn": 5
+        },
+        "our_tool_github": {
+            "tp": 5,
+            "fp": 10,
+            "tn": 7,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 5,
+            "fp": 17,
+            "tn": 8,
+            "fn": 0
+        }
+    },
+    "CVE-2021-43795": {
+        "our_tool": {
+            "tp": 77,
+            "fp": 0,
+            "tn": 154,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 154,
+            "fn": 72
+        },
+        "veracode": {
+            "tp": 77,
+            "fp": 0,
+            "tn": 154,
+            "fn": 0
+        },
+        "github": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 154,
+            "fn": 72
+        },
+        "gitlab": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 154,
+            "fn": 72
+        },
+        "snyk": {
+            "tp": 72,
+            "fp": 118,
+            "tn": 36,
+            "fn": 5
+        },
+        "verjava_github": {
+            "tp": 21,
+            "fp": 0,
+            "tn": 154,
+            "fn": 56
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 154,
+            "fn": 77
+        },
+        "vszz": {
+            "tp": 77,
+            "fp": 3,
+            "tn": 151,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 77,
+            "fp": 3,
+            "tn": 151,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 154,
+            "fn": 77
+        },
+        "v0finder": {
+            "tp": 55,
+            "fp": 0,
+            "tn": 154,
+            "fn": 22
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 154,
+            "fn": 77
+        },
+        "our_tool_github": {
+            "tp": 77,
+            "fp": 0,
+            "tn": 154,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 77,
+            "fp": 0,
+            "tn": 154,
+            "fn": 0
+        }
+    },
+    "CVE-2022-31197": {
+        "our_tool": {
+            "tp": 117,
+            "fp": 5,
+            "tn": 54,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 114,
+            "fp": 41,
+            "tn": 18,
+            "fn": 3
+        },
+        "veracode": {
+            "tp": 114,
+            "fp": 43,
+            "tn": 16,
+            "fn": 3
+        },
+        "github": {
+            "tp": 114,
+            "fp": 41,
+            "tn": 18,
+            "fn": 3
+        },
+        "gitlab": {
+            "tp": 79,
+            "fp": 2,
+            "tn": 57,
+            "fn": 38
+        },
+        "snyk": {
+            "tp": 114,
+            "fp": 41,
+            "tn": 18,
+            "fn": 3
+        },
+        "verjava_github": {
+            "tp": 41,
+            "fp": 0,
+            "tn": 15,
+            "fn": 3
+        },
+        "verjava_maven": {
+            "tp": 117,
+            "fp": 7,
+            "tn": 52,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 44,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 44,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 59,
+            "fn": 117
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 59,
+            "fn": 117
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 59,
+            "fn": 117
+        },
+        "our_tool_github": {
+            "tp": 44,
+            "fp": 5,
+            "tn": 10,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 117,
+            "fp": 5,
+            "tn": 54,
+            "fn": 0
+        }
+    },
+    "CVE-2024-1597": {
+        "our_tool": {
+            "tp": 130,
+            "fp": 0,
+            "tn": 0,
+            "fn": 49
+        },
+        "nvd": {
+            "tp": 177,
+            "fp": 0,
+            "tn": 0,
+            "fn": 2
+        },
+        "veracode": {
+            "tp": 177,
+            "fp": 0,
+            "tn": 0,
+            "fn": 2
+        },
+        "github": {
+            "tp": 177,
+            "fp": 0,
+            "tn": 0,
+            "fn": 2
+        },
+        "gitlab": {
+            "tp": 117,
+            "fp": 0,
+            "tn": 0,
+            "fn": 62
+        },
+        "snyk": {
+            "tp": 177,
+            "fp": 0,
+            "tn": 0,
+            "fn": 2
+        },
+        "verjava_github": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 0,
+            "fn": 42
+        },
+        "verjava_maven": {
+            "tp": 21,
+            "fp": 0,
+            "tn": 0,
+            "fn": 158
+        },
+        "vszz": {
+            "tp": 60,
+            "fp": 0,
+            "tn": 0,
+            "fn": 1
+        },
+        "vszz+": {
+            "tp": 60,
+            "fp": 0,
+            "tn": 0,
+            "fn": 1
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 179
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 179
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 179
+        },
+        "our_tool_github": {
+            "tp": 59,
+            "fp": 0,
+            "tn": 0,
+            "fn": 2
+        },
+        "our_tool_snyk": {
+            "tp": 130,
+            "fp": 0,
+            "tn": 0,
+            "fn": 49
+        }
+    },
+    "CVE-2016-9879": {
+        "our_tool": {
+            "tp": 32,
+            "fp": 0,
+            "tn": 166,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 14,
+            "fp": 1,
+            "tn": 165,
+            "fn": 18
+        },
+        "veracode": {
+            "tp": 32,
+            "fp": 5,
+            "tn": 161,
+            "fn": 0
+        },
+        "github": {
+            "tp": 32,
+            "fp": 5,
+            "tn": 161,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 32,
+            "fp": 5,
+            "tn": 161,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 19,
+            "fp": 1,
+            "tn": 165,
+            "fn": 13
+        },
+        "verjava_github": {
+            "tp": 32,
+            "fp": 75,
+            "tn": 91,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 32,
+            "fp": 162,
+            "tn": 4,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 166,
+            "fn": 32
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 166,
+            "fn": 32
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 166,
+            "fn": 32
+        },
+        "v0finder": {
+            "tp": 32,
+            "fp": 1,
+            "tn": 165,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 166,
+            "fn": 32
+        },
+        "our_tool_github": {
+            "tp": 32,
+            "fp": 0,
+            "tn": 166,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 32,
+            "fp": 0,
+            "tn": 166,
+            "fn": 0
+        }
+    },
+    "CVE-2017-4995": {
+        "our_tool": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 211,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 195,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 195,
+            "fn": 0
+        },
+        "github": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 195,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 195,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 211,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 211,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 211,
+            "fn": 3
+        },
+        "vszz": {
+            "tp": 3,
+            "fp": 138,
+            "tn": 73,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 3,
+            "fp": 138,
+            "tn": 73,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 211,
+            "fn": 0
+        },
+        "v0finder": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 211,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 211,
+            "fn": 1
+        },
+        "our_tool_github": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 211,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 211,
+            "fn": 0
+        }
+    },
+    "CVE-2021-33609": {
+        "our_tool": {
+            "tp": 67,
+            "fp": 0,
+            "tn": 180,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 67,
+            "fp": 6,
+            "tn": 174,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 67,
+            "fp": 0,
+            "tn": 180,
+            "fn": 0
+        },
+        "github": {
+            "tp": 67,
+            "fp": 6,
+            "tn": 174,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 67,
+            "fp": 6,
+            "tn": 174,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 67,
+            "fp": 6,
+            "tn": 174,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 67,
+            "fp": 1,
+            "tn": 177,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 67,
+            "fp": 18,
+            "tn": 162,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 178,
+            "fn": 67
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 178,
+            "fn": 67
+        },
+        "vuddy": {
+            "tp": 67,
+            "fp": 0,
+            "tn": 180,
+            "fn": 0
+        },
+        "v0finder": {
+            "tp": 67,
+            "fp": 0,
+            "tn": 180,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 13,
+            "fp": 0,
+            "tn": 180,
+            "fn": 54
+        },
+        "our_tool_github": {
+            "tp": 67,
+            "fp": 0,
+            "tn": 178,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 67,
+            "fp": 0,
+            "tn": 180,
+            "fn": 0
+        }
+    },
+    "CVE-2022-22978": {
+        "our_tool": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 176,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 22,
+            "fp": 125,
+            "tn": 51,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 176,
+            "fn": 18
+        },
+        "github": {
+            "tp": 22,
+            "fp": 125,
+            "tn": 51,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 22,
+            "fp": 125,
+            "tn": 51,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 176,
+            "fn": 22
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 176,
+            "fn": 22
+        },
+        "vszz": {
+            "tp": 22,
+            "fp": 113,
+            "tn": 63,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 22,
+            "fp": 113,
+            "tn": 63,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 176,
+            "fn": 22
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 176,
+            "fn": 22
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 176,
+            "fn": 22
+        },
+        "our_tool_github": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 176,
+            "fn": 0
+        }
+    },
+    "CVE-2016-7051": {
+        "our_tool": {
+            "tp": 75,
+            "fp": 0,
+            "tn": 77,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 75,
+            "fp": 0,
+            "tn": 77,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 73,
+            "fp": 0,
+            "tn": 77,
+            "fn": 2
+        },
+        "github": {
+            "tp": 75,
+            "fp": 0,
+            "tn": 77,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 75,
+            "fp": 0,
+            "tn": 77,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 10,
+            "fp": 1,
+            "tn": 76,
+            "fn": 65
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 77,
+            "fn": 60
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 77,
+            "fn": 75
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 77,
+            "fn": 60
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 77,
+            "fn": 60
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 77,
+            "fn": 75
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 77,
+            "fn": 75
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 77,
+            "fn": 75
+        },
+        "our_tool_github": {
+            "tp": 60,
+            "fp": 0,
+            "tn": 77,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 75,
+            "fp": 0,
+            "tn": 77,
+            "fn": 0
+        }
+    },
+    "CVE-2018-1000844": {
+        "our_tool": {
+            "tp": 1,
+            "fp": 13,
+            "tn": 0,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 13,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 13,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 13,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 13,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 13,
+            "fn": 1
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 13,
+            "fn": 1
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 13,
+            "fn": 1
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 13,
+            "fn": 1
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 13,
+            "fn": 1
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 13,
+            "fn": 1
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 13,
+            "fn": 1
+        },
+        "our_tool_github": {
+            "tp": 1,
+            "fp": 13,
+            "tn": 0,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 1,
+            "fp": 13,
+            "tn": 0,
+            "fn": 0
+        }
+    },
+    "CVE-2023-42276": {
+        "our_tool": {
+            "tp": 188,
+            "fp": 6,
+            "tn": 0,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 188,
+            "fp": 0,
+            "tn": 6,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 122,
+            "fp": 0,
+            "tn": 6,
+            "fn": 66
+        },
+        "github": {
+            "tp": 188,
+            "fp": 0,
+            "tn": 6,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 188,
+            "fp": 0,
+            "tn": 6,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 188,
+            "fp": 0,
+            "tn": 6,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 145,
+            "fp": 6,
+            "tn": 0,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 188,
+            "fp": 6,
+            "tn": 0,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 6,
+            "fn": 145
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 6,
+            "fn": 145
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 6,
+            "fn": 188
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 6,
+            "fn": 188
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 6,
+            "fn": 188
+        },
+        "our_tool_github": {
+            "tp": 145,
+            "fp": 6,
+            "tn": 0,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 188,
+            "fp": 6,
+            "tn": 0,
+            "fn": 0
+        }
+    },
+    "CVE-2019-11343": {
+        "our_tool": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 11,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 5,
+            "fp": 10,
+            "tn": 1,
+            "fn": 0
+        },
+        "github": {
+            "tp": 5,
+            "fp": 10,
+            "tn": 1,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 5,
+            "fp": 10,
+            "tn": 1,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 5,
+            "fp": 10,
+            "tn": 1,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 11,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 11,
+            "fn": 5
+        },
+        "vszz": {
+            "tp": 5,
+            "fp": 10,
+            "tn": 1,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 5,
+            "fp": 10,
+            "tn": 1,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 5,
+            "fp": 10,
+            "tn": 1,
+            "fn": 0
+        },
+        "v0finder": {
+            "tp": 5,
+            "fp": 10,
+            "tn": 1,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 11,
+            "fn": 5
+        },
+        "our_tool_github": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 11,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 11,
+            "fn": 0
+        }
+    },
+    "CVE-2022-23082": {
+        "our_tool": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 3,
+            "fp": 4,
+            "tn": 1,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 3,
+            "fp": 4,
+            "tn": 1,
+            "fn": 0
+        },
+        "github": {
+            "tp": 3,
+            "fp": 4,
+            "tn": 1,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 3,
+            "fp": 4,
+            "tn": 1,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 3,
+            "fp": 4,
+            "tn": 1,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 4,
+            "fn": 3
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 4,
+            "fn": 3
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 5,
+            "fn": 3
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 5,
+            "fn": 3
+        },
+        "MVP": {
+            "tp": 3,
+            "fp": 3,
+            "tn": 2,
+            "fn": 0
+        },
+        "our_tool_github": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        }
+    },
+    "CVE-2016-4465": {
+        "our_tool": {
+            "tp": 9,
+            "fp": 8,
+            "tn": 25,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 33,
+            "fn": 1
+        },
+        "veracode": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 33,
+            "fn": 1
+        },
+        "github": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 33,
+            "fn": 1
+        },
+        "gitlab": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 33,
+            "fn": 1
+        },
+        "snyk": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 33,
+            "fn": 1
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 33,
+            "fn": 9
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 33,
+            "fn": 9
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 33,
+            "fn": 9
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 33,
+            "fn": 9
+        },
+        "our_tool_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 9,
+            "fp": 8,
+            "tn": 25,
+            "fn": 0
+        }
+    },
+    "CVE-2022-25867": {
+        "our_tool": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 12,
+            "fp": 1,
+            "tn": 2,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "github": {
+            "tp": 12,
+            "fp": 1,
+            "tn": 2,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 12,
+            "fp": 1,
+            "tn": 2,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 12,
+            "fp": 1,
+            "tn": 2,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 3,
+            "fn": 2
+        },
+        "vszz+": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 3,
+            "fn": 2
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 3,
+            "fn": 12
+        },
+        "v0finder": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "our_tool_github": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        }
+    },
+    "CVE-2022-24898": {
+        "our_tool": {
+            "tp": 349,
+            "fp": 0,
+            "tn": 110,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 346,
+            "fp": 0,
+            "tn": 110,
+            "fn": 2
+        },
+        "veracode": {
+            "tp": 343,
+            "fp": 0,
+            "tn": 110,
+            "fn": 4
+        },
+        "github": {
+            "tp": 345,
+            "fp": 0,
+            "tn": 110,
+            "fn": 3
+        },
+        "gitlab": {
+            "tp": 345,
+            "fp": 0,
+            "tn": 110,
+            "fn": 3
+        },
+        "snyk": {
+            "tp": 347,
+            "fp": 0,
+            "tn": 110,
+            "fn": 2
+        },
+        "verjava_github": {
+            "tp": 304,
+            "fp": 0,
+            "tn": 110,
+            "fn": 44
+        },
+        "verjava_maven": {
+            "tp": 349,
+            "fp": 110,
+            "tn": 0,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 110,
+            "fn": 348
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 110,
+            "fn": 348
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 110,
+            "fn": 349
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 110,
+            "fn": 349
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 110,
+            "fn": 349
+        },
+        "our_tool_github": {
+            "tp": 348,
+            "fp": 0,
+            "tn": 110,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 349,
+            "fp": 0,
+            "tn": 110,
+            "fn": 0
+        }
+    },
+    "CVE-2016-4977": {
+        "our_tool": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 39,
+            "fn": 6
+        },
+        "nvd": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 39,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 39,
+            "fn": 0
+        },
+        "github": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 39,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 39,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 39,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 39,
+            "fn": 6
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 39,
+            "fn": 16
+        },
+        "vszz": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 39,
+            "fn": 6
+        },
+        "vszz+": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 39,
+            "fn": 6
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 39,
+            "fn": 16
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 39,
+            "fn": 16
+        },
+        "MVP": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 39,
+            "fn": 15
+        },
+        "our_tool_github": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 39,
+            "fn": 6
+        },
+        "our_tool_snyk": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 39,
+            "fn": 6
+        }
+    },
+    "CVE-2018-1259": {
+        "our_tool": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 197,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 197,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 197,
+            "fn": 0
+        },
+        "github": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 197,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 197,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 193,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 197,
+            "fn": 19
+        },
+        "vszz": {
+            "tp": 19,
+            "fp": 19,
+            "tn": 174,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 19,
+            "fp": 19,
+            "tn": 174,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 197,
+            "fn": 19
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 197,
+            "fn": 19
+        },
+        "MVP": {
+            "tp": 8,
+            "fp": 47,
+            "tn": 150,
+            "fn": 11
+        },
+        "our_tool_github": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 193,
+            "fn": 0
+        }
+    },
+    "CVE-2019-16771": {
+        "our_tool": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 14,
+            "fp": 107,
+            "tn": 108,
+            "fn": 0
+        },
+        "github": {
+            "tp": 14,
+            "fp": 139,
+            "tn": 76,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 14,
+            "fp": 139,
+            "tn": 76,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 215,
+            "fn": 14
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 215,
+            "fn": 14
+        },
+        "vszz": {
+            "tp": 14,
+            "fp": 47,
+            "tn": 168,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 14,
+            "fp": 47,
+            "tn": 168,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 215,
+            "fn": 14
+        },
+        "v0finder": {
+            "tp": 14,
+            "fp": 26,
+            "tn": 189,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 215,
+            "fn": 14
+        },
+        "our_tool_github": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        }
+    },
+    "CVE-2022-22979": {
+        "our_tool": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 37,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 15,
+            "fp": 22,
+            "tn": 15,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 37,
+            "fn": 3
+        },
+        "github": {
+            "tp": 15,
+            "fp": 22,
+            "tn": 15,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 15,
+            "fp": 22,
+            "tn": 15,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 15,
+            "fp": 22,
+            "tn": 15,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 37,
+            "fn": 15
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 37,
+            "fn": 15
+        },
+        "vszz": {
+            "tp": 15,
+            "fp": 18,
+            "tn": 19,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 15,
+            "fp": 18,
+            "tn": 19,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 37,
+            "fn": 15
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 37,
+            "fn": 15
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 37,
+            "fn": 15
+        },
+        "our_tool_github": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 37,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 37,
+            "fn": 0
+        }
+    },
+    "CVE-2024-22257": {
+        "our_tool": {
+            "tp": 210,
+            "fp": 2,
+            "tn": 2,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 43,
+            "fp": 0,
+            "tn": 4,
+            "fn": 167
+        },
+        "veracode": {
+            "tp": 197,
+            "fp": 0,
+            "tn": 4,
+            "fn": 4
+        },
+        "github": {
+            "tp": 210,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 210,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 77,
+            "fp": 0,
+            "tn": 4,
+            "fn": 133
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 4,
+            "fn": 210
+        },
+        "vszz": {
+            "tp": 201,
+            "fp": 2,
+            "tn": 2,
+            "fn": 9
+        },
+        "vszz+": {
+            "tp": 201,
+            "fp": 2,
+            "tn": 2,
+            "fn": 9
+        },
+        "vuddy": {
+            "tp": 210,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "v0finder": {
+            "tp": 210,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 4,
+            "fn": 210
+        },
+        "our_tool_github": {
+            "tp": 210,
+            "fp": 2,
+            "tn": 2,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 210,
+            "fp": 2,
+            "tn": 2,
+            "fn": 0
+        }
+    },
+    "CVE-2021-21234": {
+        "our_tool": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "github": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 0,
+            "fn": 3
+        },
+        "verjava_maven": {
+            "tp": 9,
+            "fp": 1,
+            "tn": 0,
+            "fn": 5
+        },
+        "vszz": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 14
+        },
+        "MVP": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "our_tool_github": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        }
+    },
+    "CVE-2019-17359": {
+        "our_tool": {
+            "tp": 18,
+            "fp": 6,
+            "tn": 2,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 8,
+            "fn": 17
+        },
+        "veracode": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 8,
+            "fn": 17
+        },
+        "github": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 8,
+            "fn": 17
+        },
+        "gitlab": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 8,
+            "fn": 17
+        },
+        "snyk": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 8,
+            "fn": 17
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 8,
+            "fn": 18
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 8,
+            "fn": 18
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 8,
+            "fn": 18
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 8,
+            "fn": 18
+        },
+        "our_tool_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 18,
+            "fp": 6,
+            "tn": 2,
+            "fn": 0
+        }
+    },
+    "CVE-2017-8045": {
+        "our_tool": {
+            "tp": 49,
+            "fp": 0,
+            "tn": 120,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 0,
+            "fp": 24,
+            "tn": 96,
+            "fn": 49
+        },
+        "veracode": {
+            "tp": 0,
+            "fp": 48,
+            "tn": 72,
+            "fn": 49
+        },
+        "github": {
+            "tp": 0,
+            "fp": 48,
+            "tn": 72,
+            "fn": 49
+        },
+        "gitlab": {
+            "tp": 0,
+            "fp": 48,
+            "tn": 72,
+            "fn": 49
+        },
+        "snyk": {
+            "tp": 0,
+            "fp": 3,
+            "tn": 117,
+            "fn": 49
+        },
+        "verjava_github": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 119,
+            "fn": 39
+        },
+        "verjava_maven": {
+            "tp": 11,
+            "fp": 6,
+            "tn": 114,
+            "fn": 38
+        },
+        "vszz": {
+            "tp": 39,
+            "fp": 80,
+            "tn": 39,
+            "fn": 10
+        },
+        "vszz+": {
+            "tp": 39,
+            "fp": 80,
+            "tn": 39,
+            "fn": 10
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 120,
+            "fn": 49
+        },
+        "v0finder": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 120,
+            "fn": 38
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 120,
+            "fn": 49
+        },
+        "our_tool_github": {
+            "tp": 49,
+            "fp": 0,
+            "tn": 119,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 49,
+            "fp": 0,
+            "tn": 120,
+            "fn": 0
+        }
+    },
+    "CVE-2014-0050": {
+        "our_tool": {
+            "tp": 9,
+            "fp": 5,
+            "tn": 0,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "github": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 4,
+            "fn": 4
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 5,
+            "fn": 9
+        },
+        "vszz": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 4,
+            "fn": 1
+        },
+        "vszz+": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 4,
+            "fn": 1
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 5,
+            "fn": 9
+        },
+        "v0finder": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 5,
+            "fn": 8
+        },
+        "MVP": {
+            "tp": 9,
+            "fp": 5,
+            "tn": 0,
+            "fn": 0
+        },
+        "our_tool_github": {
+            "tp": 4,
+            "fp": 4,
+            "tn": 0,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 9,
+            "fp": 5,
+            "tn": 0,
+            "fn": 0
+        }
+    },
+    "CVE-2020-11974": {
+        "our_tool": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 0,
+            "fp": 2,
+            "tn": 43,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 0,
+            "fp": 1,
+            "tn": 44,
+            "fn": 0
+        },
+        "github": {
+            "tp": 0,
+            "fp": 2,
+            "tn": 43,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 0,
+            "fp": 2,
+            "tn": 43,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 0,
+            "fp": 2,
+            "tn": 43,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 34,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 2,
+            "tn": 32,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 2,
+            "tn": 32,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "our_tool_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 34,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        }
+    },
+    "CVE-2020-5421": {
+        "our_tool": {
+            "tp": 124,
+            "fp": 0,
+            "tn": 139,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 124,
+            "fp": 62,
+            "tn": 77,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 124,
+            "fp": 0,
+            "tn": 139,
+            "fn": 0
+        },
+        "github": {
+            "tp": 124,
+            "fp": 62,
+            "tn": 77,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 124,
+            "fp": 62,
+            "tn": 77,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 124,
+            "fp": 0,
+            "tn": 139,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 111,
+            "fp": 0,
+            "tn": 97,
+            "fn": 13
+        },
+        "verjava_maven": {
+            "tp": 49,
+            "fp": 62,
+            "tn": 77,
+            "fn": 75
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 97,
+            "fn": 124
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 97,
+            "fn": 124
+        },
+        "vuddy": {
+            "tp": 124,
+            "fp": 114,
+            "tn": 25,
+            "fn": 0
+        },
+        "v0finder": {
+            "tp": 41,
+            "fp": 22,
+            "tn": 117,
+            "fn": 83
+        },
+        "MVP": {
+            "tp": 5,
+            "fp": 4,
+            "tn": 135,
+            "fn": 119
+        },
+        "our_tool_github": {
+            "tp": 124,
+            "fp": 0,
+            "tn": 97,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 124,
+            "fp": 0,
+            "tn": 139,
+            "fn": 0
+        }
+    },
+    "CVE-2022-24897": {
+        "our_tool": {
+            "tp": 251,
+            "fp": 0,
+            "tn": 207,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 249,
+            "fp": 71,
+            "tn": 136,
+            "fn": 1
+        },
+        "veracode": {
+            "tp": 223,
+            "fp": 0,
+            "tn": 207,
+            "fn": 7
+        },
+        "github": {
+            "tp": 249,
+            "fp": 71,
+            "tn": 136,
+            "fn": 1
+        },
+        "gitlab": {
+            "tp": 249,
+            "fp": 71,
+            "tn": 136,
+            "fn": 1
+        },
+        "snyk": {
+            "tp": 249,
+            "fp": 71,
+            "tn": 136,
+            "fn": 2
+        },
+        "verjava_github": {
+            "tp": 229,
+            "fp": 0,
+            "tn": 207,
+            "fn": 21
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 207,
+            "fn": 251
+        },
+        "vszz": {
+            "tp": 250,
+            "fp": 10,
+            "tn": 197,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 250,
+            "fp": 10,
+            "tn": 197,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 30,
+            "fp": 0,
+            "tn": 207,
+            "fn": 221
+        },
+        "v0finder": {
+            "tp": 30,
+            "fp": 0,
+            "tn": 207,
+            "fn": 221
+        },
+        "MVP": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 207,
+            "fn": 225
+        },
+        "our_tool_github": {
+            "tp": 250,
+            "fp": 0,
+            "tn": 207,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 251,
+            "fp": 0,
+            "tn": 207,
+            "fn": 0
+        }
+    },
+    "CVE-2013-2055": {
+        "our_tool": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 101,
+            "fn": 28
+        },
+        "nvd": {
+            "tp": 19,
+            "fp": 1,
+            "tn": 100,
+            "fn": 11
+        },
+        "veracode": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 101,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 23,
+            "fp": 0,
+            "tn": 101,
+            "fn": 13
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 101,
+            "fn": 31
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 101,
+            "fn": 36
+        },
+        "vszz": {
+            "tp": 31,
+            "fp": 101,
+            "tn": 0,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 31,
+            "fp": 101,
+            "tn": 0,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 101,
+            "fn": 36
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 101,
+            "fn": 36
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 101,
+            "fn": 36
+        },
+        "our_tool_github": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 101,
+            "fn": 24
+        },
+        "our_tool_snyk": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 101,
+            "fn": 28
+        }
+    },
+    "CVE-2015-2156": {
+        "our_tool": {
+            "tp": 43,
+            "fp": 0,
+            "tn": 5,
+            "fn": 22
+        },
+        "nvd": {
+            "tp": 65,
+            "fp": 4,
+            "tn": 1,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 57,
+            "fp": 0,
+            "tn": 5,
+            "fn": 8
+        },
+        "github": {
+            "tp": 57,
+            "fp": 0,
+            "tn": 5,
+            "fn": 8
+        },
+        "gitlab": {
+            "tp": 57,
+            "fp": 0,
+            "tn": 5,
+            "fn": 8
+        },
+        "snyk": {
+            "tp": 57,
+            "fp": 0,
+            "tn": 5,
+            "fn": 8
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 5,
+            "fn": 65
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 5,
+            "fn": 65
+        },
+        "vszz": {
+            "tp": 65,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 65,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 5,
+            "fn": 65
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 5,
+            "fn": 65
+        },
+        "MVP": {
+            "tp": 65,
+            "fp": 5,
+            "tn": 0,
+            "fn": 0
+        },
+        "our_tool_github": {
+            "tp": 43,
+            "fp": 0,
+            "tn": 5,
+            "fn": 22
+        },
+        "our_tool_snyk": {
+            "tp": 43,
+            "fp": 0,
+            "tn": 5,
+            "fn": 22
+        }
+    },
+    "CVE-2016-6814": {
+        "our_tool": {
+            "tp": 136,
+            "fp": 0,
+            "tn": 81,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 103,
+            "fp": 0,
+            "tn": 81,
+            "fn": 29
+        },
+        "veracode": {
+            "tp": 103,
+            "fp": 0,
+            "tn": 81,
+            "fn": 29
+        },
+        "github": {
+            "tp": 99,
+            "fp": 0,
+            "tn": 81,
+            "fn": 33
+        },
+        "gitlab": {
+            "tp": 99,
+            "fp": 0,
+            "tn": 81,
+            "fn": 33
+        },
+        "snyk": {
+            "tp": 135,
+            "fp": 0,
+            "tn": 81,
+            "fn": 1
+        },
+        "verjava_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 81,
+            "fn": 136
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 81,
+            "fn": 136
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 81,
+            "fn": 136
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 81,
+            "fn": 136
+        },
+        "our_tool_github": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 136,
+            "fp": 0,
+            "tn": 81,
+            "fn": 0
+        }
+    },
+    "CVE-2021-44228": {
+        "our_tool": {
+            "tp": 45,
+            "fp": 0,
+            "tn": 17,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 28,
+            "fp": 1,
+            "tn": 16,
+            "fn": 4
+        },
+        "veracode": {
+            "tp": 43,
+            "fp": 2,
+            "tn": 15,
+            "fn": 2
+        },
+        "github": {
+            "tp": 43,
+            "fp": 0,
+            "tn": 17,
+            "fn": 2
+        },
+        "gitlab": {
+            "tp": 42,
+            "fp": 1,
+            "tn": 16,
+            "fn": 3
+        },
+        "snyk": {
+            "tp": 43,
+            "fp": 0,
+            "tn": 17,
+            "fn": 2
+        },
+        "verjava_github": {
+            "tp": 27,
+            "fp": 13,
+            "tn": 1,
+            "fn": 6
+        },
+        "verjava_maven": {
+            "tp": 27,
+            "fp": 17,
+            "tn": 0,
+            "fn": 18
+        },
+        "vszz": {
+            "tp": 31,
+            "fp": 10,
+            "tn": 4,
+            "fn": 2
+        },
+        "vszz+": {
+            "tp": 31,
+            "fp": 10,
+            "tn": 4,
+            "fn": 2
+        },
+        "vuddy": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 17,
+            "fn": 45
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 17,
+            "fn": 45
+        },
+        "MVP": {
+            "tp": 25,
+            "fp": 14,
+            "tn": 3,
+            "fn": 20
+        },
+        "our_tool_github": {
+            "tp": 33,
+            "fp": 0,
+            "tn": 14,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 45,
+            "fp": 0,
+            "tn": 17,
+            "fn": 0
+        }
+    },
+    "CVE-2024-23833": {
+        "our_tool": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "nvd": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "veracode": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "github": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "gitlab": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "snyk": {
+            "tp": 10,
+            "fp": 1,
+            "tn": 0,
+            "fn": 0
+        },
+        "verjava_github": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "verjava_maven": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 10
+        },
+        "vszz": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 9
+        },
+        "vszz+": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 9
+        },
+        "vuddy": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "v0finder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 10
+        },
+        "MVP": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 10
+        },
+        "our_tool_github": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "our_tool_snyk": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        }
+    }
+}

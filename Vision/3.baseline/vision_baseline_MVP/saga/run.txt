@@ -1,0 +1,7 @@
+fingerprint/all /home/dellr740/dfs/data/Workspace/wss/VulnerabilityVersion/4.jar/jarDecompile/org.apache.zeppelin-zeppelin-server/zeppelin-server-0.7.1
+fingerprint/all /home/dellr740/dfs/data/Workspace/wss/VulnerabilityVersion/4.jar/jarDecompile/org.apache.zeppelin-zeppelin-server/zeppelin-server-0.11.1
+fingerprint/all /home/dellr740/dfs/data/Workspace/wss/VulnerabilityVersion/4.jar/jarDecompile/org.apache.zeppelin-zeppelin-server/zeppelin-server-0.10.1
+fingerprint/all /home/dellr740/dfs/data/Workspace/wss/VulnerabilityVersion/4.jar/jarDecompile/org.apache.zeppelin-zeppelin-server/zeppelin-server-0.10.0
+fingerprint/all /home/dellr740/dfs/data/Workspace/wss/VulnerabilityVersion/4.jar/jarDecompile/org.apache.zeppelin-zeppelin-server/zeppelin-server-0.7.2
+fingerprint/all /home/dellr740/dfs/data/Workspace/wss/VulnerabilityVersion/4.jar/jarDecompile/org.apache.zeppelin-zeppelin-server/zeppelin-server-0.7.3
+fingerprint/all /home/dellr740/dfs/data/Workspace/wss/VulnerabilityVersion/4.jar/jarDecompile/org.apache.zeppelin-zeppelin-server/zeppelin-server-0.7.0

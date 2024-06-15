@@ -1,0 +1,4497 @@
+{
+    "CVE-2022-26336": {
+        "added": {
+            "MAPIAttribute.java": [
+                [
+                    115,
+                    "mplen",
+                    "sink"
+                ],
+                [
+                    142,
+                    "len",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "MAPIAttribute.java": []
+        },
+        "modified": {
+            "MAPIAttribute.java": {
+                "add modify": [],
+                "del modify": []
+            }
+        }
+    },
+    "CVE-2014-0050": {
+        "added": {
+            "FileUploadBase.java": [],
+            "MultipartStream.java": []
+        },
+        "deleted": {
+            "FileUploadBase.java": [],
+            "MultipartStream.java": []
+        },
+        "modified": {
+            "FileUploadBase.java": {
+                "add modify": [],
+                "del modify": []
+            },
+            "MultipartStream.java": []
+        }
+    },
+    "CVE-2021-23899": {
+        "added": {
+            "JsonSanitizer.java": [
+                [
+                    317,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    317,
+                    "unescapedChar",
+                    "sink"
+                ],
+                [
+                    317,
+                    "la",
+                    "sink"
+                ],
+                [
+                    320,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    320,
+                    "unescapedChar",
+                    "sink"
+                ],
+                [
+                    320,
+                    "la",
+                    "sink"
+                ],
+                [
+                    323,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    323,
+                    "unescapedChar",
+                    "sink"
+                ],
+                [
+                    323,
+                    "la",
+                    "sink"
+                ],
+                [
+                    338,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    338,
+                    "lb",
+                    "sink"
+                ],
+                [
+                    338,
+                    "unescapedCharRev",
+                    "sink"
+                ],
+                [
+                    341,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    341,
+                    "lb",
+                    "sink"
+                ],
+                [
+                    341,
+                    "unescapedCharRev",
+                    "sink"
+                ],
+                [
+                    343,
+                    "cm2",
+                    "undefined"
+                ],
+                [
+                    343,
+                    "cm1",
+                    "undefined"
+                ],
+                [
+                    353,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    353,
+                    "unescapedChar",
+                    "sink"
+                ],
+                [
+                    353,
+                    "la",
+                    "sink"
+                ],
+                [
+                    356,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    356,
+                    "unescapedChar",
+                    "sink"
+                ],
+                [
+                    356,
+                    "la",
+                    "sink"
+                ],
+                [
+                    358,
+                    "c1",
+                    "undefined"
+                ],
+                [
+                    358,
+                    "c2",
+                    "undefined"
+                ],
+                [
+                    836,
+                    "ch",
+                    "source"
+                ],
+                [
+                    837,
+                    "lch",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "JsonSanitizer.java": [
+                [
+                    316,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    316,
+                    "i",
+                    "sink"
+                ],
+                [
+                    316,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    317,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    317,
+                    "i",
+                    "sink"
+                ],
+                [
+                    317,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    318,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    318,
+                    "i",
+                    "sink"
+                ],
+                [
+                    318,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    331,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    331,
+                    "i",
+                    "sink"
+                ],
+                [
+                    331,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    332,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    332,
+                    "i",
+                    "sink"
+                ],
+                [
+                    332,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    333,
+                    "cm2",
+                    "undefined"
+                ],
+                [
+                    333,
+                    "cm1",
+                    "undefined"
+                ],
+                [
+                    342,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    342,
+                    "i",
+                    "sink"
+                ],
+                [
+                    342,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    343,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    343,
+                    "i",
+                    "sink"
+                ],
+                [
+                    343,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    344,
+                    "c1",
+                    "undefined"
+                ],
+                [
+                    344,
+                    "c2",
+                    "undefined"
+                ]
+            ]
+        },
+        "modified": {
+            "JsonSanitizer.java": {
+                "add modify": [
+                    [
+                        832,
+                        "lch",
+                        "sink"
+                    ]
+                ],
+                "del modify": [
+                    [
+                        812,
+                        "ch",
+                        "sink"
+                    ]
+                ]
+            }
+        }
+    },
+    "CVE-2019-10755": {
+        "added": {
+            "SAML2Utils.java": [],
+            "CommonHelper.java": [
+                [
+                    136,
+                    "sb",
+                    "sink"
+                ],
+                [
+                    136,
+                    "length",
+                    "sink"
+                ],
+                [
+                    136,
+                    "sb",
+                    "undefined"
+                ],
+                [
+                    136,
+                    "size",
+                    "undefined"
+                ],
+                [
+                    136,
+                    "length",
+                    "undefined"
+                ],
+                [
+                    140,
+                    "sb",
+                    "sink"
+                ],
+                [
+                    140,
+                    "toString",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "SAML2Utils.java": [],
+            "CommonHelper.java": []
+        },
+        "modified": {
+            "SAML2Utils.java": {
+                "add modify": [],
+                "del modify": []
+            },
+            "CommonHelper.java": {
+                "add modify": [],
+                "del modify": [
+                    [
+                        135,
+                        "size",
+                        "source"
+                    ]
+                ]
+            }
+        }
+    },
+    "CVE-2019-20444": {
+        "added": {
+            "HttpObjectDecoder.java": [
+                [
+                    564,
+                    "nameEnd",
+                    "undefined"
+                ],
+                [
+                    564,
+                    "length",
+                    "undefined"
+                ]
+            ]
+        },
+        "deleted": {
+            "HttpObjectDecoder.java": []
+        },
+        "modified": {
+            "HttpObjectDecoder.java": []
+        }
+    },
+    "CVE-2021-43797": {
+        "added": {
+            "HttpObjectDecoder.java": [
+                [
+                    651,
+                    "c",
+                    "sink"
+                ],
+                [
+                    651,
+                    "isOWS",
+                    "sink"
+                ],
+                [
+                    651,
+                    "c",
+                    "undefined"
+                ],
+                [
+                    651,
+                    "isOWS",
+                    "undefined"
+                ]
+            ],
+            "DefaultHttpHeaders.java": []
+        },
+        "deleted": {
+            "HttpObjectDecoder.java": [
+                [
+                    651,
+                    "c",
+                    "sink"
+                ],
+                [
+                    651,
+                    "isOWS",
+                    "sink"
+                ],
+                [
+                    651,
+                    "c",
+                    "undefined"
+                ],
+                [
+                    651,
+                    "isOWS",
+                    "undefined"
+                ],
+                [
+                    651,
+                    "validateOWS",
+                    "undefined"
+                ]
+            ],
+            "DefaultHttpHeaders.java": []
+        },
+        "modified": {
+            "HttpObjectDecoder.java": {
+                "add modify": [],
+                "del modify": []
+            },
+            "DefaultHttpHeaders.java": []
+        }
+    },
+    "CVE-2022-23596": {
+        "added": {
+            "Archive.java": [
+                [
+                    369,
+                    "subHead",
+                    "sink"
+                ],
+                [
+                    369,
+                    "getSubType",
+                    "sink"
+                ],
+                [
+                    370,
+                    "subType",
+                    "undefined"
+                ],
+                [
+                    371,
+                    "subType",
+                    "undefined"
+                ]
+            ]
+        },
+        "deleted": {
+            "Archive.java": [
+                [
+                    368,
+                    "subHead",
+                    "sink"
+                ],
+                [
+                    368,
+                    "getSubType",
+                    "sink"
+                ],
+                [
+                    368,
+                    "subHead",
+                    "undefined"
+                ],
+                [
+                    368,
+                    "getSubType",
+                    "undefined"
+                ]
+            ]
+        },
+        "modified": {
+            "Archive.java": []
+        }
+    },
+    "CVE-2022-22969": {
+        "added": {
+            "DefaultOAuth2ClientContext.java": []
+        },
+        "deleted": {
+            "DefaultOAuth2ClientContext.java": []
+        },
+        "modified": {
+            "DefaultOAuth2ClientContext.java": {
+                "add modify": [],
+                "del modify": []
+            }
+        }
+    },
+    "CVE-2016-1000340": {
+        "added": {
+            "Nat192.java": [],
+            "Nat224.java": [],
+            "Nat256.java": [],
+            "Nat128.java": [],
+            "Nat160.java": []
+        },
+        "deleted": {
+            "Nat192.java": [],
+            "Nat224.java": [],
+            "Nat256.java": [],
+            "Nat128.java": [],
+            "Nat160.java": []
+        },
+        "modified": {
+            "Nat192.java": {
+                "add modify": [],
+                "del modify": []
+            },
+            "Nat224.java": {
+                "add modify": [],
+                "del modify": []
+            },
+            "Nat256.java": {
+                "add modify": [],
+                "del modify": []
+            },
+            "Nat128.java": {
+                "add modify": [],
+                "del modify": []
+            },
+            "Nat160.java": {
+                "add modify": [],
+                "del modify": []
+            }
+        }
+    },
+    "CVE-2023-34454": {
+        "added": {
+            "Snappy.java": [
+                [
+                    63,
+                    "input",
+                    "undefined"
+                ],
+                [
+                    63,
+                    "byteSize",
+                    "undefined"
+                ],
+                [
+                    63,
+                    "length",
+                    "undefined"
+                ],
+                [
+                    64,
+                    "SnappyErrorCode",
+                    "sink"
+                ],
+                [
+                    64,
+                    "TOO_LARGE_INPUT",
+                    "sink"
+                ],
+                [
+                    64,
+                    "input",
+                    "sink"
+                ],
+                [
+                    64,
+                    "length",
+                    "sink"
+                ],
+                [
+                    71,
+                    "input",
+                    "source"
+                ],
+                [
+                    72,
+                    "input",
+                    "undefined"
+                ],
+                [
+                    72,
+                    "byteSize",
+                    "undefined"
+                ],
+                [
+                    72,
+                    "length",
+                    "undefined"
+                ],
+                [
+                    73,
+                    "SnappyErrorCode",
+                    "sink"
+                ],
+                [
+                    73,
+                    "TOO_LARGE_INPUT",
+                    "sink"
+                ],
+                [
+                    73,
+                    "input",
+                    "sink"
+                ],
+                [
+                    73,
+                    "length",
+                    "sink"
+                ],
+                [
+                    80,
+                    "input",
+                    "source"
+                ],
+                [
+                    81,
+                    "input",
+                    "undefined"
+                ],
+                [
+                    81,
+                    "byteSize",
+                    "undefined"
+                ],
+                [
+                    81,
+                    "length",
+                    "undefined"
+                ],
+                [
+                    82,
+                    "SnappyErrorCode",
+                    "sink"
+                ],
+                [
+                    82,
+                    "TOO_LARGE_INPUT",
+                    "sink"
+                ],
+                [
+                    82,
+                    "input",
+                    "sink"
+                ],
+                [
+                    82,
+                    "length",
+                    "sink"
+                ],
+                [
+                    89,
+                    "input",
+                    "source"
+                ],
+                [
+                    90,
+                    "input",
+                    "undefined"
+                ],
+                [
+                    90,
+                    "byteSize",
+                    "undefined"
+                ],
+                [
+                    90,
+                    "length",
+                    "undefined"
+                ],
+                [
+                    91,
+                    "SnappyErrorCode",
+                    "sink"
+                ],
+                [
+                    91,
+                    "TOO_LARGE_INPUT",
+                    "sink"
+                ],
+                [
+                    91,
+                    "input",
+                    "sink"
+                ],
+                [
+                    91,
+                    "length",
+                    "sink"
+                ],
+                [
+                    98,
+                    "input",
+                    "source"
+                ],
+                [
+                    99,
+                    "input",
+                    "undefined"
+                ],
+                [
+                    99,
+                    "byteSize",
+                    "undefined"
+                ],
+                [
+                    99,
+                    "length",
+                    "undefined"
+                ],
+                [
+                    100,
+                    "SnappyErrorCode",
+                    "sink"
+                ],
+                [
+                    100,
+                    "TOO_LARGE_INPUT",
+                    "sink"
+                ],
+                [
+                    100,
+                    "input",
+                    "sink"
+                ],
+                [
+                    100,
+                    "length",
+                    "sink"
+                ],
+                [
+                    107,
+                    "input",
+                    "source"
+                ],
+                [
+                    108,
+                    "input",
+                    "undefined"
+                ],
+                [
+                    108,
+                    "byteSize",
+                    "undefined"
+                ],
+                [
+                    108,
+                    "length",
+                    "undefined"
+                ],
+                [
+                    109,
+                    "SnappyErrorCode",
+                    "sink"
+                ],
+                [
+                    109,
+                    "TOO_LARGE_INPUT",
+                    "sink"
+                ],
+                [
+                    109,
+                    "input",
+                    "sink"
+                ],
+                [
+                    109,
+                    "length",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "Snappy.java": []
+        },
+        "modified": {
+            "Snappy.java": {
+                "add modify": [
+                    [
+                        112,
+                        "byteSize",
+                        "sink"
+                    ]
+                ],
+                "del modify": [
+                    [
+                        82,
+                        "length",
+                        "sink"
+                    ]
+                ]
+            }
+        }
+    },
+    "CVE-2021-43859": {
+        "added": {
+            "MapConverter.java": [
+                [
+                    71,
+                    "System",
+                    "sink"
+                ],
+                [
+                    71,
+                    "currentTimeMillis",
+                    "sink"
+                ],
+                [
+                    73,
+                    "checkForCollectionDoSAttack",
+                    "sink"
+                ],
+                [
+                    73,
+                    "SecurityUtils",
+                    "sink"
+                ],
+                [
+                    73,
+                    "context",
+                    "sink"
+                ],
+                [
+                    73,
+                    "now",
+                    "sink"
+                ]
+            ],
+            "TreeUnmarshaller.java": [
+                [
+                    63,
+                    "e",
+                    "sink"
+                ],
+                [
+                    64,
+                    "e",
+                    "sink"
+                ]
+            ],
+            "AbstractSecurityException.java": [],
+            "XStream.java": [
+                [
+                    1238,
+                    "reader",
+                    "source"
+                ],
+                [
+                    1238,
+                    "dataHolder",
+                    "source"
+                ],
+                [
+                    1238,
+                    "collectionUpdateLimit",
+                    "undefined"
+                ],
+                [
+                    1239,
+                    "dataHolder",
+                    "undefined"
+                ],
+                [
+                    1243,
+                    "collectionUpdateLimit",
+                    "sink"
+                ],
+                [
+                    1243,
+                    "dataHolder",
+                    "sink"
+                ],
+                [
+                    1243,
+                    "COLLECTION_UPDATE_LIMIT",
+                    "sink"
+                ],
+                [
+                    1243,
+                    "put",
+                    "sink"
+                ],
+                [
+                    1244,
+                    "dataHolder",
+                    "sink"
+                ],
+                [
+                    1244,
+                    "COLLECTION_UPDATE_SECONDS",
+                    "sink"
+                ],
+                [
+                    1244,
+                    "put",
+                    "sink"
+                ]
+            ],
+            "SecurityUtils.java": [],
+            "NamedMapConverter.java": [
+                [
+                    194,
+                    "System",
+                    "sink"
+                ],
+                [
+                    194,
+                    "currentTimeMillis",
+                    "sink"
+                ],
+                [
+                    196,
+                    "checkForCollectionDoSAttack",
+                    "sink"
+                ],
+                [
+                    196,
+                    "SecurityUtils",
+                    "sink"
+                ],
+                [
+                    196,
+                    "context",
+                    "sink"
+                ],
+                [
+                    196,
+                    "now",
+                    "sink"
+                ]
+            ],
+            "CollectionConverter.java": [
+                [
+                    68,
+                    "System",
+                    "sink"
+                ],
+                [
+                    68,
+                    "currentTimeMillis",
+                    "sink"
+                ],
+                [
+                    70,
+                    "checkForCollectionDoSAttack",
+                    "sink"
+                ],
+                [
+                    70,
+                    "SecurityUtils",
+                    "sink"
+                ],
+                [
+                    70,
+                    "context",
+                    "sink"
+                ],
+                [
+                    70,
+                    "now",
+                    "sink"
+                ]
+            ],
+            "ForbiddenClassException.java": [],
+            "InputManipulationException.java": []
+        },
+        "deleted": {
+            "MapConverter.java": [],
+            "TreeUnmarshaller.java": [],
+            "AbstractSecurityException.java": [],
+            "XStream.java": [],
+            "SecurityUtils.java": [],
+            "NamedMapConverter.java": [],
+            "CollectionConverter.java": [],
+            "ForbiddenClassException.java": [],
+            "InputManipulationException.java": []
+        },
+        "modified": {
+            "MapConverter.java": [],
+            "TreeUnmarshaller.java": [],
+            "AbstractSecurityException.java": [],
+            "XStream.java": {
+                "add modify": [
+                    [
+                        1252,
+                        "dh",
+                        "sink"
+                    ]
+                ],
+                "del modify": [
+                    [
+                        1225,
+                        "dataHolder",
+                        "sink"
+                    ]
+                ]
+            },
+            "SecurityUtils.java": [],
+            "NamedMapConverter.java": [],
+            "CollectionConverter.java": [],
+            "ForbiddenClassException.java": {
+                "add modify": [],
+                "del modify": []
+            },
+            "InputManipulationException.java": []
+        }
+    },
+    "CVE-2020-7238": {
+        "added": {
+            "HttpObjectDecoder.java": [
+                [
+                    438,
+                    "CONTENT_LENGTH",
+                    "sink"
+                ],
+                [
+                    438,
+                    "headers",
+                    "sink"
+                ],
+                [
+                    438,
+                    "HttpHeaderNames",
+                    "sink"
+                ],
+                [
+                    438,
+                    "getAll",
+                    "sink"
+                ],
+                [
+                    439,
+                    "size",
+                    "sink"
+                ],
+                [
+                    439,
+                    "values",
+                    "sink"
+                ],
+                [
+                    440,
+                    "contentLengthValuesCount",
+                    "undefined"
+                ],
+                [
+                    441,
+                    "message",
+                    "sink"
+                ],
+                [
+                    441,
+                    "protocolVersion",
+                    "sink"
+                ],
+                [
+                    441,
+                    "HttpVersion",
+                    "undefined"
+                ],
+                [
+                    441,
+                    "HTTP_1_1",
+                    "undefined"
+                ],
+                [
+                    441,
+                    "message",
+                    "undefined"
+                ],
+                [
+                    441,
+                    "contentLengthValuesCount",
+                    "undefined"
+                ],
+                [
+                    441,
+                    "protocolVersion",
+                    "undefined"
+                ],
+                [
+                    445,
+                    "values",
+                    "sink"
+                ],
+                [
+                    445,
+                    "get",
+                    "sink"
+                ],
+                [
+                    453,
+                    "message",
+                    "sink"
+                ],
+                [
+                    453,
+                    "protocolVersion",
+                    "sink"
+                ],
+                [
+                    453,
+                    "HttpVersion",
+                    "undefined"
+                ],
+                [
+                    453,
+                    "HTTP_1_1",
+                    "undefined"
+                ],
+                [
+                    453,
+                    "message",
+                    "undefined"
+                ],
+                [
+                    453,
+                    "contentLengthValuesCount",
+                    "undefined"
+                ],
+                [
+                    453,
+                    "protocolVersion",
+                    "undefined"
+                ],
+                [
+                    454,
+                    "contentLength",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "HttpObjectDecoder.java": []
+        },
+        "modified": {
+            "HttpObjectDecoder.java": {
+                "add modify": [
+                    [
+                        463,
+                        "READ_VARIABLE_LENGTH_CONTENT",
+                        "sink"
+                    ],
+                    [
+                        463,
+                        "State",
+                        "sink"
+                    ]
+                ],
+                "del modify": []
+            }
+        }
+    },
+    "CVE-2022-24816": {
+        "added": {
+            "Jiffle.java": [
+                [
+                    259,
+                    "model",
+                    "undefined"
+                ],
+                [
+                    259,
+                    "RuntimeModel",
+                    "undefined"
+                ],
+                [
+                    259,
+                    "INDIRECT",
+                    "undefined"
+                ],
+                [
+                    260,
+                    "FINE",
+                    "sink"
+                ],
+                [
+                    260,
+                    "isLoggable",
+                    "sink"
+                ],
+                [
+                    260,
+                    "Level",
+                    "sink"
+                ],
+                [
+                    260,
+                    "LOGGER",
+                    "sink"
+                ],
+                [
+                    260,
+                    "FINE",
+                    "undefined"
+                ],
+                [
+                    260,
+                    "isLoggable",
+                    "undefined"
+                ],
+                [
+                    260,
+                    "Level",
+                    "undefined"
+                ],
+                [
+                    260,
+                    "LOGGER",
+                    "undefined"
+                ],
+                [
+                    261,
+                    "runtimeSource",
+                    "sink"
+                ],
+                [
+                    261,
+                    "fine",
+                    "sink"
+                ],
+                [
+                    261,
+                    "LOGGER",
+                    "sink"
+                ],
+                [
+                    264,
+                    "ex",
+                    "sink"
+                ],
+                [
+                    297,
+                    "setScript",
+                    "sink"
+                ],
+                [
+                    297,
+                    "theScript",
+                    "sink"
+                ],
+                [
+                    297,
+                    "writer",
+                    "sink"
+                ]
+            ],
+            "Script.java": [
+                [
+                    63,
+                    "replace",
+                    "sink"
+                ],
+                [
+                    63,
+                    "line",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "Jiffle.java": [],
+            "Script.java": []
+        },
+        "modified": {
+            "Jiffle.java": {
+                "add modify": [],
+                "del modify": []
+            },
+            "Script.java": {
+                "add modify": [],
+                "del modify": []
+            }
+        }
+    },
+    "CVE-2020-11988": {
+        "added": {
+            "XMPParser.java": [
+                [
+                    20,
+                    "tFactory",
+                    "sink"
+                ],
+                [
+                    20,
+                    "ACCESS_EXTERNAL_DTD",
+                    "sink"
+                ],
+                [
+                    20,
+                    "XMLConstants",
+                    "sink"
+                ],
+                [
+                    20,
+                    "setAttribute",
+                    "sink"
+                ],
+                [
+                    21,
+                    "tFactory",
+                    "sink"
+                ],
+                [
+                    21,
+                    "ACCESS_EXTERNAL_STYLESHEET",
+                    "sink"
+                ],
+                [
+                    21,
+                    "XMLConstants",
+                    "sink"
+                ],
+                [
+                    21,
+                    "setAttribute",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "XMPParser.java": []
+        },
+        "modified": {
+            "XMPParser.java": []
+        }
+    },
+    "CVE-2021-23900": {
+        "added": {
+            "JsonSanitizer.java": [
+                [
+                    317,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    317,
+                    "unescapedChar",
+                    "sink"
+                ],
+                [
+                    317,
+                    "la",
+                    "sink"
+                ],
+                [
+                    320,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    320,
+                    "unescapedChar",
+                    "sink"
+                ],
+                [
+                    320,
+                    "la",
+                    "sink"
+                ],
+                [
+                    323,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    323,
+                    "unescapedChar",
+                    "sink"
+                ],
+                [
+                    323,
+                    "la",
+                    "sink"
+                ],
+                [
+                    338,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    338,
+                    "lb",
+                    "sink"
+                ],
+                [
+                    338,
+                    "unescapedCharRev",
+                    "sink"
+                ],
+                [
+                    341,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    341,
+                    "lb",
+                    "sink"
+                ],
+                [
+                    341,
+                    "unescapedCharRev",
+                    "sink"
+                ],
+                [
+                    343,
+                    "cm2",
+                    "undefined"
+                ],
+                [
+                    343,
+                    "cm1",
+                    "undefined"
+                ],
+                [
+                    353,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    353,
+                    "unescapedChar",
+                    "sink"
+                ],
+                [
+                    353,
+                    "la",
+                    "sink"
+                ],
+                [
+                    356,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    356,
+                    "unescapedChar",
+                    "sink"
+                ],
+                [
+                    356,
+                    "la",
+                    "sink"
+                ],
+                [
+                    358,
+                    "c1",
+                    "undefined"
+                ],
+                [
+                    358,
+                    "c2",
+                    "undefined"
+                ],
+                [
+                    836,
+                    "ch",
+                    "source"
+                ],
+                [
+                    837,
+                    "lch",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "JsonSanitizer.java": [
+                [
+                    316,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    316,
+                    "i",
+                    "sink"
+                ],
+                [
+                    316,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    317,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    317,
+                    "i",
+                    "sink"
+                ],
+                [
+                    317,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    318,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    318,
+                    "i",
+                    "sink"
+                ],
+                [
+                    318,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    331,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    331,
+                    "i",
+                    "sink"
+                ],
+                [
+                    331,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    332,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    332,
+                    "i",
+                    "sink"
+                ],
+                [
+                    332,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    333,
+                    "cm2",
+                    "undefined"
+                ],
+                [
+                    333,
+                    "cm1",
+                    "undefined"
+                ],
+                [
+                    342,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    342,
+                    "i",
+                    "sink"
+                ],
+                [
+                    342,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    343,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    343,
+                    "i",
+                    "sink"
+                ],
+                [
+                    343,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    344,
+                    "c1",
+                    "undefined"
+                ],
+                [
+                    344,
+                    "c2",
+                    "undefined"
+                ]
+            ]
+        },
+        "modified": {
+            "JsonSanitizer.java": {
+                "add modify": [
+                    [
+                        832,
+                        "lch",
+                        "sink"
+                    ]
+                ],
+                "del modify": [
+                    [
+                        812,
+                        "ch",
+                        "sink"
+                    ]
+                ]
+            }
+        }
+    },
+    "CVE-2019-10086": {
+        "added": {
+            "PropertyUtilsBean.java": [
+                [
+                    55,
+                    "introspectors",
+                    "sink"
+                ],
+                [
+                    55,
+                    "SuppressPropertiesBeanIntrospector",
+                    "sink"
+                ],
+                [
+                    55,
+                    "add",
+                    "sink"
+                ],
+                [
+                    55,
+                    "SUPPRESS_CLASS",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "PropertyUtilsBean.java": []
+        },
+        "modified": {
+            "PropertyUtilsBean.java": []
+        }
+    },
+    "CVE-2015-2156": {
+        "added": {
+            "Cookie.java": [],
+            "DefaultCookie.java": [],
+            "CookieDecoder.java": [],
+            "ClientCookieDecoder.java": [
+                [
+                    115,
+                    "maxAge",
+                    "source"
+                ],
+                [
+                    115,
+                    "expires",
+                    "source"
+                ],
+                [
+                    115,
+                    "MIN_VALUE",
+                    "undefined"
+                ],
+                [
+                    115,
+                    "maxAge",
+                    "undefined"
+                ],
+                [
+                    115,
+                    "Integer",
+                    "undefined"
+                ]
+            ],
+            "ServerCookieEncoder.java": []
+        },
+        "deleted": {
+            "Cookie.java": [],
+            "DefaultCookie.java": [],
+            "CookieDecoder.java": [],
+            "ClientCookieDecoder.java": [
+                [
+                    115,
+                    "maxAge",
+                    "source"
+                ],
+                [
+                    115,
+                    "expires",
+                    "source"
+                ],
+                [
+                    115,
+                    "MIN_VALUE",
+                    "undefined"
+                ],
+                [
+                    115,
+                    "Long",
+                    "undefined"
+                ],
+                [
+                    115,
+                    "maxAge",
+                    "undefined"
+                ]
+            ],
+            "ServerCookieEncoder.java": []
+        },
+        "modified": {
+            "Cookie.java": {
+                "add modify": [],
+                "del modify": []
+            },
+            "DefaultCookie.java": {
+                "add modify": [],
+                "del modify": []
+            },
+            "CookieDecoder.java": {
+                "add modify": [],
+                "del modify": []
+            },
+            "ClientCookieDecoder.java": {
+                "add modify": [
+                    [
+                        183,
+                        "Integer",
+                        "sink"
+                    ]
+                ],
+                "del modify": [
+                    [
+                        183,
+                        "Long",
+                        "sink"
+                    ]
+                ]
+            },
+            "ServerCookieEncoder.java": {
+                "add modify": [
+                    [
+                        37,
+                        "Integer",
+                        "undefined"
+                    ]
+                ],
+                "del modify": [
+                    [
+                        37,
+                        "Long",
+                        "undefined"
+                    ]
+                ]
+            }
+        }
+    },
+    "CVE-2020-26217": {
+        "added": {
+            "XStream.java": [
+                [
+                    344,
+                    "denyTypes",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "XStream.java": [
+                [
+                    344,
+                    "denyTypes",
+                    "sink"
+                ]
+            ]
+        },
+        "modified": {
+            "XStream.java": []
+        }
+    },
+    "CVE-2020-28052": {
+        "added": {
+            "OpenBSDBCrypt.java": []
+        },
+        "deleted": {
+            "OpenBSDBCrypt.java": []
+        },
+        "modified": {
+            "OpenBSDBCrypt.java": {
+                "add modify": [
+                    [
+                        140,
+                        "charAt",
+                        "sink"
+                    ]
+                ],
+                "del modify": [
+                    [
+                        140,
+                        "indexOf",
+                        "sink"
+                    ]
+                ]
+            }
+        }
+    },
+    "CVE-2022-42004": {
+        "added": {
+            "BeanDeserializer.java": [
+                [
+                    502,
+                    "nextToken",
+                    "sink"
+                ],
+                [
+                    502,
+                    "p",
+                    "sink"
+                ],
+                [
+                    502,
+                    "START_ARRAY",
+                    "undefined"
+                ],
+                [
+                    502,
+                    "nextToken",
+                    "undefined"
+                ],
+                [
+                    502,
+                    "p",
+                    "undefined"
+                ],
+                [
+                    502,
+                    "JsonToken",
+                    "undefined"
+                ],
+                [
+                    503,
+                    "ctxt",
+                    "sink"
+                ],
+                [
+                    503,
+                    "getValueType",
+                    "sink"
+                ],
+                [
+                    504,
+                    "getTypeDescription",
+                    "sink"
+                ],
+                [
+                    504,
+                    "ClassUtil",
+                    "sink"
+                ],
+                [
+                    504,
+                    "targetType",
+                    "sink"
+                ],
+                [
+                    504,
+                    "p",
+                    "sink"
+                ]
+            ],
+            "DeserializationFeature.java": []
+        },
+        "deleted": {
+            "BeanDeserializer.java": [],
+            "DeserializationFeature.java": []
+        },
+        "modified": {
+            "BeanDeserializer.java": [],
+            "DeserializationFeature.java": []
+        }
+    },
+    "CVE-2018-20227": {
+        "added": {
+            "ZipUtil.java": [
+                [
+                    37,
+                    "outFile",
+                    "sink"
+                ],
+                [
+                    37,
+                    "getCanonicalFile",
+                    "sink"
+                ],
+                [
+                    37,
+                    "outFile",
+                    "undefined"
+                ],
+                [
+                    37,
+                    "destDir",
+                    "undefined"
+                ],
+                [
+                    37,
+                    "getCanonicalFile",
+                    "undefined"
+                ],
+                [
+                    37,
+                    "startsWith",
+                    "undefined"
+                ],
+                [
+                    37,
+                    "toPath",
+                    "undefined"
+                ],
+                [
+                    38,
+                    "getName",
+                    "sink"
+                ],
+                [
+                    38,
+                    "entry",
+                    "sink"
+                ],
+                [
+                    42,
+                    "outFile",
+                    "sink"
+                ],
+                [
+                    42,
+                    "mkdirs",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "ZipUtil.java": [
+                [
+                    37,
+                    "entry",
+                    "sink"
+                ],
+                [
+                    37,
+                    "isDirectory",
+                    "sink"
+                ],
+                [
+                    37,
+                    "entry",
+                    "undefined"
+                ],
+                [
+                    37,
+                    "isDirectory",
+                    "undefined"
+                ],
+                [
+                    38,
+                    "outFile",
+                    "sink"
+                ],
+                [
+                    38,
+                    "mkdirs",
+                    "sink"
+                ]
+            ]
+        },
+        "modified": {
+            "ZipUtil.java": {
+                "add modify": [],
+                "del modify": []
+            }
+        }
+    },
+    "CVE-2022-22976": {
+        "added": {
+            "BCrypt.java": [
+                [
+                    245,
+                    "for_check",
+                    "undefined"
+                ],
+                [
+                    249,
+                    "log_rounds",
+                    "undefined"
+                ],
+                [
+                    257,
+                    "log_rounds",
+                    "sink"
+                ],
+                [
+                    257,
+                    "rounds",
+                    "sink"
+                ],
+                [
+                    257,
+                    "roundsForLogRounds",
+                    "sink"
+                ],
+                [
+                    258,
+                    "MAX_VALUE",
+                    "undefined"
+                ],
+                [
+                    258,
+                    "rounds",
+                    "undefined"
+                ],
+                [
+                    258,
+                    "Integer",
+                    "undefined"
+                ],
+                [
+                    276,
+                    "clen",
+                    "undefined"
+                ],
+                [
+                    276,
+                    "j",
+                    "undefined"
+                ],
+                [
+                    283,
+                    "clen",
+                    "undefined"
+                ],
+                [
+                    283,
+                    "i",
+                    "undefined"
+                ],
+                [
+                    283,
+                    "j",
+                    "undefined"
+                ]
+            ]
+        },
+        "deleted": {
+            "BCrypt.java": [
+                [
+                    241,
+                    "password",
+                    "source"
+                ],
+                [
+                    241,
+                    "salt",
+                    "source"
+                ],
+                [
+                    241,
+                    "log_rounds",
+                    "source"
+                ],
+                [
+                    241,
+                    "sign_ext_bug",
+                    "source"
+                ],
+                [
+                    241,
+                    "safety",
+                    "source"
+                ],
+                [
+                    262,
+                    "clen",
+                    "undefined"
+                ],
+                [
+                    262,
+                    "j",
+                    "undefined"
+                ],
+                [
+                    269,
+                    "clen",
+                    "undefined"
+                ],
+                [
+                    269,
+                    "i",
+                    "undefined"
+                ],
+                [
+                    269,
+                    "j",
+                    "undefined"
+                ]
+            ]
+        },
+        "modified": {
+            "BCrypt.java": {
+                "add modify": [
+                    [
+                        356,
+                        "for_check",
+                        "sink"
+                    ]
+                ],
+                "del modify": []
+            }
+        }
+    },
+    "CVE-2016-1000343": {
+        "added": {
+            "KeyPairGeneratorSpi.java": []
+        },
+        "deleted": {
+            "KeyPairGeneratorSpi.java": []
+        },
+        "modified": {
+            "KeyPairGeneratorSpi.java": []
+        }
+    },
+    "CVE-2021-27568": {
+        "added": {
+            "JSONParserBase.java": [
+                [
+                    107,
+                    "useHiPrecisionFloat",
+                    "undefined"
+                ],
+                [
+                    108,
+                    "parseFloat",
+                    "sink"
+                ],
+                [
+                    108,
+                    "Float",
+                    "sink"
+                ],
+                [
+                    108,
+                    "xs",
+                    "sink"
+                ],
+                [
+                    109,
+                    "xs",
+                    "sink"
+                ],
+                [
+                    109,
+                    "length",
+                    "sink"
+                ],
+                [
+                    109,
+                    "xs",
+                    "undefined"
+                ],
+                [
+                    109,
+                    "length",
+                    "undefined"
+                ],
+                [
+                    110,
+                    "xs",
+                    "sink"
+                ],
+                [
+                    111,
+                    "parseDouble",
+                    "sink"
+                ],
+                [
+                    111,
+                    "Double",
+                    "sink"
+                ],
+                [
+                    111,
+                    "xs",
+                    "sink"
+                ],
+                [
+                    113,
+                    "e",
+                    "sink"
+                ],
+                [
+                    114,
+                    "ERROR_UNEXPECTED_TOKEN",
+                    "sink"
+                ],
+                [
+                    114,
+                    "pos",
+                    "sink"
+                ],
+                [
+                    114,
+                    "xs",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "JSONParserBase.java": [
+                [
+                    106,
+                    "useHiPrecisionFloat",
+                    "undefined"
+                ],
+                [
+                    107,
+                    "parseFloat",
+                    "sink"
+                ],
+                [
+                    107,
+                    "Float",
+                    "sink"
+                ],
+                [
+                    107,
+                    "xs",
+                    "sink"
+                ],
+                [
+                    108,
+                    "xs",
+                    "sink"
+                ],
+                [
+                    108,
+                    "length",
+                    "sink"
+                ],
+                [
+                    108,
+                    "xs",
+                    "undefined"
+                ],
+                [
+                    108,
+                    "length",
+                    "undefined"
+                ],
+                [
+                    109,
+                    "xs",
+                    "sink"
+                ],
+                [
+                    110,
+                    "parseDouble",
+                    "sink"
+                ],
+                [
+                    110,
+                    "Double",
+                    "sink"
+                ],
+                [
+                    110,
+                    "xs",
+                    "sink"
+                ]
+            ]
+        },
+        "modified": {
+            "JSONParserBase.java": {
+                "add modify": [],
+                "del modify": []
+            }
+        }
+    },
+    "CVE-2022-24197": {
+        "added": {
+            "PdfCanvasParser.java": [
+                [
+                    88,
+                    "KernelExceptionMessageConstant",
+                    "sink"
+                ],
+                [
+                    88,
+                    "format",
+                    "sink"
+                ],
+                [
+                    88,
+                    "MessageFormatUtil",
+                    "sink"
+                ],
+                [
+                    88,
+                    "UNEXPECTED_TOKEN",
+                    "sink"
+                ]
+            ],
+            "KernelExceptionMessageConstant.java": [],
+            "PdfReader.java": [
+                [
+                    679,
+                    "processArrayReadError",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "PdfCanvasParser.java": [
+                [
+                    85,
+                    "UNEXPECTED_GT_GT",
+                    "sink"
+                ],
+                [
+                    85,
+                    "tokeniser",
+                    "sink"
+                ],
+                [
+                    85,
+                    "KernelExceptionMessageConstant",
+                    "sink"
+                ],
+                [
+                    85,
+                    "throwError",
+                    "sink"
+                ]
+            ],
+            "KernelExceptionMessageConstant.java": [],
+            "PdfReader.java": [
+                [
+                    679,
+                    "TokenType",
+                    "sink"
+                ],
+                [
+                    679,
+                    "getTokenType",
+                    "sink"
+                ],
+                [
+                    679,
+                    "tokens",
+                    "sink"
+                ],
+                [
+                    679,
+                    "TokenType",
+                    "undefined"
+                ],
+                [
+                    679,
+                    "getTokenType",
+                    "undefined"
+                ],
+                [
+                    679,
+                    "tokens",
+                    "undefined"
+                ],
+                [
+                    679,
+                    "EndDic",
+                    "undefined"
+                ],
+                [
+                    679,
+                    "PdfTokenizer",
+                    "undefined"
+                ],
+                [
+                    680,
+                    "UNEXPECTED_GT_GT",
+                    "sink"
+                ],
+                [
+                    680,
+                    "tokens",
+                    "sink"
+                ],
+                [
+                    680,
+                    "KernelExceptionMessageConstant",
+                    "sink"
+                ],
+                [
+                    680,
+                    "throwError",
+                    "sink"
+                ]
+            ]
+        },
+        "modified": {
+            "PdfCanvasParser.java": {
+                "add modify": [],
+                "del modify": []
+            },
+            "KernelExceptionMessageConstant.java": [],
+            "PdfReader.java": {
+                "add modify": [],
+                "del modify": []
+            }
+        }
+    },
+    "CVE-2016-1000338": {
+        "added": {
+            "DSASigner.java": []
+        },
+        "deleted": {
+            "DSASigner.java": []
+        },
+        "modified": {
+            "DSASigner.java": []
+        }
+    },
+    "CVE-2019-17359": {
+        "added": {
+            "PGPSignatureGenerator.java": [],
+            "ASN1StreamParser.java": [
+                [
+                    117,
+                    "_limit",
+                    "undefined"
+                ],
+                [
+                    117,
+                    "length",
+                    "undefined"
+                ],
+                [
+                    118,
+                    "_limit",
+                    "sink"
+                ],
+                [
+                    118,
+                    "length",
+                    "sink"
+                ]
+            ],
+            "ASN1Integer.java": [
+                [
+                    97,
+                    "count",
+                    "undefined"
+                ],
+                [
+                    101,
+                    "longValue",
+                    "sink"
+                ],
+                [
+                    101,
+                    "start",
+                    "sink"
+                ],
+                [
+                    101,
+                    "bytes",
+                    "sink"
+                ],
+                [
+                    101,
+                    "SIGN_EXT_SIGNED",
+                    "sink"
+                ],
+                [
+                    145,
+                    "bytes",
+                    "source"
+                ],
+                [
+                    145,
+                    "start",
+                    "source"
+                ],
+                [
+                    145,
+                    "signExt",
+                    "source"
+                ],
+                [
+                    146,
+                    "Math",
+                    "sink"
+                ],
+                [
+                    146,
+                    "start",
+                    "sink"
+                ],
+                [
+                    146,
+                    "max",
+                    "sink"
+                ],
+                [
+                    146,
+                    "length",
+                    "sink"
+                ],
+                [
+                    148,
+                    "pos",
+                    "undefined"
+                ],
+                [
+                    148,
+                    "length",
+                    "undefined"
+                ],
+                [
+                    152,
+                    "val",
+                    "sink"
+                ]
+            ],
+            "ConstructedOctetStream.java": [
+                [
+                    18,
+                    "readObject",
+                    "sink"
+                ],
+                [
+                    18,
+                    "_parser",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "PGPSignatureGenerator.java": [],
+            "ASN1StreamParser.java": [],
+            "ASN1Integer.java": [],
+            "ConstructedOctetStream.java": [
+                [
+                    18,
+                    "readObject",
+                    "sink"
+                ],
+                [
+                    18,
+                    "_parser",
+                    "sink"
+                ],
+                [
+                    18,
+                    "s",
+                    "sink"
+                ]
+            ]
+        },
+        "modified": {
+            "PGPSignatureGenerator.java": [],
+            "ASN1StreamParser.java": [],
+            "ASN1Integer.java": [],
+            "ConstructedOctetStream.java": {
+                "add modify": [
+                    [
+                        19,
+                        "asn1Obj",
+                        "undefined"
+                    ]
+                ],
+                "del modify": [
+                    [
+                        19,
+                        "s",
+                        "undefined"
+                    ]
+                ]
+            }
+        }
+    },
+    "CVE-2017-7525": {
+        "added": {
+            "BeanDeserializerFactory.java": [
+                [
+                    82,
+                    "ctxt",
+                    "sink"
+                ],
+                [
+                    82,
+                    "type",
+                    "sink"
+                ],
+                [
+                    82,
+                    "beanDesc",
+                    "sink"
+                ],
+                [
+                    82,
+                    "checkIllegalTypes",
+                    "sink"
+                ],
+                [
+                    594,
+                    "ctxt",
+                    "source"
+                ],
+                [
+                    594,
+                    "type",
+                    "source"
+                ],
+                [
+                    594,
+                    "beanDesc",
+                    "source"
+                ],
+                [
+                    594,
+                    "type",
+                    "sink"
+                ],
+                [
+                    594,
+                    "getRawClass",
+                    "sink"
+                ],
+                [
+                    595,
+                    "contains",
+                    "sink"
+                ],
+                [
+                    595,
+                    "_cfgIllegalClassNames",
+                    "sink"
+                ],
+                [
+                    595,
+                    "full",
+                    "sink"
+                ],
+                [
+                    595,
+                    "contains",
+                    "undefined"
+                ],
+                [
+                    595,
+                    "_cfgIllegalClassNames",
+                    "undefined"
+                ],
+                [
+                    595,
+                    "full",
+                    "undefined"
+                ],
+                [
+                    596,
+                    "ctxt",
+                    "sink"
+                ],
+                [
+                    596,
+                    "beanDesc",
+                    "sink"
+                ],
+                [
+                    596,
+                    "full",
+                    "sink"
+                ],
+                [
+                    596,
+                    "reportBadTypeDefinition",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "BeanDeserializerFactory.java": []
+        },
+        "modified": {
+            "BeanDeserializerFactory.java": []
+        }
+    },
+    "CVE-2018-1274": {
+        "added": {
+            "PropertyPath.java": [
+                [
+                    196,
+                    "source",
+                    "source"
+                ],
+                [
+                    196,
+                    "type",
+                    "source"
+                ],
+                [
+                    196,
+                    "addTail",
+                    "source"
+                ],
+                [
+                    196,
+                    "base",
+                    "source"
+                ],
+                [
+                    196,
+                    "size",
+                    "sink"
+                ],
+                [
+                    196,
+                    "base",
+                    "sink"
+                ],
+                [
+                    196,
+                    "size",
+                    "undefined"
+                ],
+                [
+                    196,
+                    "base",
+                    "undefined"
+                ],
+                [
+                    197,
+                    "PARSE_DEPTH_EXCEEDED",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "PropertyPath.java": []
+        },
+        "modified": {
+            "PropertyPath.java": []
+        }
+    },
+    "CVE-2019-20445": {
+        "added": {
+            "HttpObjectDecoder.java": [
+                [
+                    442,
+                    "CONTENT_LENGTH",
+                    "sink"
+                ],
+                [
+                    442,
+                    "headers",
+                    "sink"
+                ],
+                [
+                    442,
+                    "HttpHeaderNames",
+                    "sink"
+                ],
+                [
+                    442,
+                    "getAll",
+                    "sink"
+                ],
+                [
+                    443,
+                    "size",
+                    "sink"
+                ],
+                [
+                    443,
+                    "values",
+                    "sink"
+                ],
+                [
+                    444,
+                    "contentLengthValuesCount",
+                    "undefined"
+                ],
+                [
+                    445,
+                    "message",
+                    "sink"
+                ],
+                [
+                    445,
+                    "protocolVersion",
+                    "sink"
+                ],
+                [
+                    445,
+                    "HttpVersion",
+                    "undefined"
+                ],
+                [
+                    445,
+                    "HTTP_1_1",
+                    "undefined"
+                ],
+                [
+                    445,
+                    "message",
+                    "undefined"
+                ],
+                [
+                    445,
+                    "contentLengthValuesCount",
+                    "undefined"
+                ],
+                [
+                    445,
+                    "protocolVersion",
+                    "undefined"
+                ],
+                [
+                    449,
+                    "values",
+                    "sink"
+                ],
+                [
+                    449,
+                    "get",
+                    "sink"
+                ],
+                [
+                    457,
+                    "message",
+                    "sink"
+                ],
+                [
+                    457,
+                    "protocolVersion",
+                    "sink"
+                ],
+                [
+                    457,
+                    "HttpVersion",
+                    "undefined"
+                ],
+                [
+                    457,
+                    "HTTP_1_1",
+                    "undefined"
+                ],
+                [
+                    457,
+                    "message",
+                    "undefined"
+                ],
+                [
+                    457,
+                    "contentLengthValuesCount",
+                    "undefined"
+                ],
+                [
+                    457,
+                    "protocolVersion",
+                    "undefined"
+                ],
+                [
+                    458,
+                    "contentLength",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "HttpObjectDecoder.java": []
+        },
+        "modified": {
+            "HttpObjectDecoder.java": {
+                "add modify": [
+                    [
+                        467,
+                        "READ_VARIABLE_LENGTH_CONTENT",
+                        "sink"
+                    ],
+                    [
+                        467,
+                        "State",
+                        "sink"
+                    ]
+                ],
+                "del modify": []
+            }
+        }
+    },
+    "CVE-2022-29599": {
+        "added": {
+            "Shell.java": [
+                [
+                    60,
+                    "quoteOneItem",
+                    "sink"
+                ],
+                [
+                    60,
+                    "executableParameter",
+                    "sink"
+                ],
+                [
+                    75,
+                    "quoteOneItem",
+                    "sink"
+                ],
+                [
+                    75,
+                    "argument",
+                    "sink"
+                ]
+            ],
+            "BourneShell.java": [
+                [
+                    59,
+                    "quoteOneItem",
+                    "sink"
+                ],
+                [
+                    59,
+                    "dir",
+                    "sink"
+                ],
+                [
+                    70,
+                    "append",
+                    "sink"
+                ],
+                [
+                    70,
+                    "sb",
+                    "sink"
+                ],
+                [
+                    71,
+                    "replace",
+                    "sink"
+                ],
+                [
+                    71,
+                    "path",
+                    "sink"
+                ],
+                [
+                    72,
+                    "append",
+                    "sink"
+                ],
+                [
+                    72,
+                    "sb",
+                    "sink"
+                ],
+                [
+                    73,
+                    "sb",
+                    "sink"
+                ],
+                [
+                    73,
+                    "toString",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "Shell.java": [
+                [
+                    54,
+                    "isSingleQuotedExecutableEscaped",
+                    "sink"
+                ],
+                [
+                    55,
+                    "getExecutable",
+                    "sink"
+                ],
+                [
+                    70,
+                    "isSingleQuotedArgumentEscaped",
+                    "sink"
+                ],
+                [
+                    71,
+                    "getArgumentQuoteDelimiter",
+                    "sink"
+                ]
+            ],
+            "BourneShell.java": [
+                [
+                    61,
+                    "dir",
+                    "sink"
+                ],
+                [
+                    61,
+                    "unifyQuotes",
+                    "sink"
+                ],
+                [
+                    67,
+                    "BASH_QUOTING_TRIGGER_CHARS",
+                    "sink"
+                ],
+                [
+                    75,
+                    "indexOf",
+                    "sink"
+                ],
+                [
+                    75,
+                    "path",
+                    "sink"
+                ],
+                [
+                    75,
+                    "indexOf",
+                    "undefined"
+                ],
+                [
+                    75,
+                    "path",
+                    "undefined"
+                ],
+                [
+                    76,
+                    "StringUtils",
+                    "sink"
+                ],
+                [
+                    76,
+                    "path",
+                    "sink"
+                ],
+                [
+                    76,
+                    "escape",
+                    "sink"
+                ],
+                [
+                    79,
+                    "quoteAndEscape",
+                    "sink"
+                ],
+                [
+                    79,
+                    "path",
+                    "sink"
+                ],
+                [
+                    79,
+                    "BASH_QUOTING_TRIGGER_CHARS",
+                    "sink"
+                ],
+                [
+                    79,
+                    "StringUtils",
+                    "sink"
+                ]
+            ]
+        },
+        "modified": {
+            "Shell.java": {
+                "add modify": [
+                    [
+                        153,
+                        "getCommandLine",
+                        "sink"
+                    ],
+                    [
+                        153,
+                        "executable",
+                        "sink"
+                    ],
+                    [
+                        153,
+                        "arguments",
+                        "sink"
+                    ]
+                ],
+                "del modify": [
+                    [
+                        149,
+                        "getExecutable",
+                        "sink"
+                    ]
+                ]
+            },
+            "BourneShell.java": {
+                "add modify": [],
+                "del modify": []
+            }
+        }
+    },
+    "CVE-2017-7957": {
+        "added": {
+            "PrimitiveTypePermission.java": [],
+            "SunLimitedUnsafeReflectionProvider.java": [
+                [
+                    51,
+                    "type",
+                    "undefined"
+                ],
+                [
+                    56,
+                    "allocateInstance",
+                    "sink"
+                ],
+                [
+                    56,
+                    "type",
+                    "sink"
+                ],
+                [
+                    56,
+                    "unsafe",
+                    "sink"
+                ],
+                [
+                    58,
+                    "e",
+                    "sink"
+                ],
+                [
+                    64,
+                    "e",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "PrimitiveTypePermission.java": [],
+            "SunLimitedUnsafeReflectionProvider.java": [
+                [
+                    52,
+                    "allocateInstance",
+                    "sink"
+                ],
+                [
+                    52,
+                    "type",
+                    "sink"
+                ],
+                [
+                    52,
+                    "unsafe",
+                    "sink"
+                ],
+                [
+                    54,
+                    "e",
+                    "sink"
+                ],
+                [
+                    60,
+                    "e",
+                    "sink"
+                ]
+            ]
+        },
+        "modified": {
+            "PrimitiveTypePermission.java": {
+                "add modify": [],
+                "del modify": []
+            },
+            "SunLimitedUnsafeReflectionProvider.java": {
+                "add modify": [],
+                "del modify": []
+            }
+        }
+    },
+    "CVE-2022-25845": {
+        "added": {
+            "ParserConfig.java": [
+                [
+                    1216,
+                    "autoTypeSupport",
+                    "undefined"
+                ],
+                [
+                    1229,
+                    "autoTypeSupport",
+                    "undefined"
+                ],
+                [
+                    1249,
+                    "endsWith",
+                    "sink"
+                ],
+                [
+                    1249,
+                    "typeName",
+                    "sink"
+                ],
+                [
+                    1249,
+                    "endsWith",
+                    "undefined"
+                ],
+                [
+                    1249,
+                    "typeName",
+                    "undefined"
+                ],
+                [
+                    1257,
+                    "autoTypeSupport",
+                    "undefined"
+                ]
+            ]
+        },
+        "deleted": {
+            "ParserConfig.java": [
+                [
+                    1239,
+                    "endsWith",
+                    "sink"
+                ],
+                [
+                    1239,
+                    "typeName",
+                    "sink"
+                ],
+                [
+                    1239,
+                    "endsWith",
+                    "undefined"
+                ],
+                [
+                    1239,
+                    "typeName",
+                    "undefined"
+                ]
+            ]
+        },
+        "modified": {
+            "ParserConfig.java": {
+                "add modify": [],
+                "del modify": []
+            }
+        }
+    },
+    "CVE-2019-16869": {
+        "added": {
+            "HttpObjectDecoder.java": []
+        },
+        "deleted": {
+            "HttpObjectDecoder.java": []
+        },
+        "modified": {
+            "HttpObjectDecoder.java": {
+                "add modify": [
+                    [
+                        562,
+                        "isDecodingRequest",
+                        "sink"
+                    ],
+                    [
+                        562,
+                        "isDecodingRequest",
+                        "undefined"
+                    ]
+                ],
+                "del modify": []
+            }
+        }
+    },
+    "CVE-2016-1000031": {
+        "added": {
+            "DiskFileItem.java": []
+        },
+        "deleted": {
+            "DiskFileItem.java": []
+        },
+        "modified": {
+            "DiskFileItem.java": {
+                "add modify": [],
+                "del modify": []
+            }
+        }
+    },
+    "CVE-2016-1000342": {
+        "added": {
+            "SignatureSpi.java": [],
+            "ASN1Enumerated.java": [],
+            "ASN1Integer.java": [],
+            "DSASigner.java": [
+                [
+                    121,
+                    "s",
+                    "sink"
+                ],
+                [
+                    121,
+                    "DER",
+                    "sink"
+                ],
+                [
+                    121,
+                    "getEncoded",
+                    "sink"
+                ],
+                [
+                    121,
+                    "ASN1Encoding",
+                    "sink"
+                ],
+                [
+                    121,
+                    "encoding",
+                    "undefined"
+                ],
+                [
+                    121,
+                    "Arrays",
+                    "undefined"
+                ],
+                [
+                    121,
+                    "s",
+                    "undefined"
+                ],
+                [
+                    121,
+                    "DER",
+                    "undefined"
+                ],
+                [
+                    121,
+                    "getEncoded",
+                    "undefined"
+                ],
+                [
+                    121,
+                    "ASN1Encoding",
+                    "undefined"
+                ],
+                [
+                    121,
+                    "areEqual",
+                    "undefined"
+                ]
+            ]
+        },
+        "deleted": {
+            "SignatureSpi.java": [],
+            "ASN1Enumerated.java": [],
+            "ASN1Integer.java": [],
+            "DSASigner.java": []
+        },
+        "modified": {
+            "SignatureSpi.java": [],
+            "ASN1Enumerated.java": [],
+            "ASN1Integer.java": [],
+            "DSASigner.java": []
+        }
+    },
+    "CVE-2020-13973": {
+        "added": {
+            "JsonSanitizer.java": [
+                [
+                    310,
+                    "end",
+                    "undefined"
+                ],
+                [
+                    310,
+                    "i",
+                    "undefined"
+                ],
+                [
+                    312,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    312,
+                    "i",
+                    "sink"
+                ],
+                [
+                    312,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    313,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    313,
+                    "i",
+                    "sink"
+                ],
+                [
+                    313,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    314,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    314,
+                    "i",
+                    "sink"
+                ],
+                [
+                    314,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    318,
+                    "c2",
+                    "undefined"
+                ],
+                [
+                    318,
+                    "lc3",
+                    "undefined"
+                ],
+                [
+                    318,
+                    "c1",
+                    "undefined"
+                ],
+                [
+                    318,
+                    "c3",
+                    "undefined"
+                ],
+                [
+                    318,
+                    "lc2",
+                    "undefined"
+                ],
+                [
+                    318,
+                    "lc1",
+                    "undefined"
+                ],
+                [
+                    319,
+                    "replace",
+                    "sink"
+                ],
+                [
+                    319,
+                    "i",
+                    "sink"
+                ],
+                [
+                    324,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    324,
+                    "i",
+                    "sink"
+                ],
+                [
+                    324,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    324,
+                    "jsonish",
+                    "undefined"
+                ],
+                [
+                    324,
+                    "start",
+                    "undefined"
+                ],
+                [
+                    324,
+                    "i",
+                    "undefined"
+                ],
+                [
+                    324,
+                    "charAt",
+                    "undefined"
+                ],
+                [
+                    325,
+                    "replace",
+                    "sink"
+                ],
+                [
+                    325,
+                    "i",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "JsonSanitizer.java": [
+                [
+                    310,
+                    "jsonish",
+                    "sink"
+                ],
+                [
+                    310,
+                    "i",
+                    "sink"
+                ],
+                [
+                    310,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    310,
+                    "jsonish",
+                    "undefined"
+                ],
+                [
+                    310,
+                    "start",
+                    "undefined"
+                ],
+                [
+                    310,
+                    "i",
+                    "undefined"
+                ],
+                [
+                    310,
+                    "end",
+                    "undefined"
+                ],
+                [
+                    310,
+                    "charAt",
+                    "undefined"
+                ],
+                [
+                    311,
+                    "insert",
+                    "sink"
+                ],
+                [
+                    311,
+                    "i",
+                    "sink"
+                ]
+            ]
+        },
+        "modified": {
+            "JsonSanitizer.java": {
+                "add modify": [],
+                "del modify": []
+            }
+        }
+    },
+    "CVE-2020-13956": {
+        "added": {
+            "URIUtils.java": [
+                [
+                    238,
+                    "uri",
+                    "sink"
+                ],
+                [
+                    238,
+                    "getHost",
+                    "sink"
+                ],
+                [
+                    238,
+                    "uri",
+                    "undefined"
+                ],
+                [
+                    238,
+                    "getHost",
+                    "undefined"
+                ],
+                [
+                    239,
+                    "uri",
+                    "sink"
+                ],
+                [
+                    239,
+                    "getAuthority",
+                    "sink"
+                ],
+                [
+                    239,
+                    "uri",
+                    "undefined"
+                ],
+                [
+                    239,
+                    "getAuthority",
+                    "undefined"
+                ],
+                [
+                    241,
+                    "indexOf",
+                    "sink"
+                ],
+                [
+                    241,
+                    "content",
+                    "sink"
+                ],
+                [
+                    242,
+                    "at",
+                    "undefined"
+                ],
+                [
+                    243,
+                    "substring",
+                    "sink"
+                ],
+                [
+                    243,
+                    "at",
+                    "sink"
+                ],
+                [
+                    243,
+                    "content",
+                    "sink"
+                ],
+                [
+                    246,
+                    "uri",
+                    "sink"
+                ],
+                [
+                    246,
+                    "getScheme",
+                    "sink"
+                ],
+                [
+                    249,
+                    "indexOf",
+                    "sink"
+                ],
+                [
+                    249,
+                    "content",
+                    "sink"
+                ],
+                [
+                    250,
+                    "at",
+                    "undefined"
+                ],
+                [
+                    251,
+                    "substring",
+                    "sink"
+                ],
+                [
+                    251,
+                    "at",
+                    "sink"
+                ],
+                [
+                    251,
+                    "content",
+                    "sink"
+                ],
+                [
+                    253,
+                    "substring",
+                    "sink"
+                ],
+                [
+                    253,
+                    "at",
+                    "sink"
+                ],
+                [
+                    253,
+                    "content",
+                    "sink"
+                ],
+                [
+                    254,
+                    "TextUtils",
+                    "sink"
+                ],
+                [
+                    254,
+                    "portText",
+                    "sink"
+                ],
+                [
+                    254,
+                    "port",
+                    "sink"
+                ],
+                [
+                    254,
+                    "isEmpty",
+                    "sink"
+                ],
+                [
+                    256,
+                    "ex",
+                    "sink"
+                ],
+                [
+                    267,
+                    "scheme",
+                    "sink"
+                ],
+                [
+                    267,
+                    "port",
+                    "sink"
+                ],
+                [
+                    267,
+                    "hostname",
+                    "sink"
+                ],
+                [
+                    269,
+                    "ex",
+                    "sink"
+                ],
+                [
+                    277,
+                    "uri",
+                    "sink"
+                ],
+                [
+                    277,
+                    "getHost",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "URIUtils.java": [
+                [
+                    239,
+                    "getPort",
+                    "sink"
+                ],
+                [
+                    239,
+                    "uri",
+                    "sink"
+                ],
+                [
+                    241,
+                    "host",
+                    "undefined"
+                ],
+                [
+                    242,
+                    "uri",
+                    "sink"
+                ],
+                [
+                    242,
+                    "getAuthority",
+                    "sink"
+                ],
+                [
+                    243,
+                    "host",
+                    "undefined"
+                ],
+                [
+                    244,
+                    "host",
+                    "sink"
+                ],
+                [
+                    244,
+                    "indexOf",
+                    "sink"
+                ],
+                [
+                    245,
+                    "at",
+                    "undefined"
+                ],
+                [
+                    246,
+                    "host",
+                    "sink"
+                ],
+                [
+                    246,
+                    "length",
+                    "sink"
+                ],
+                [
+                    246,
+                    "host",
+                    "undefined"
+                ],
+                [
+                    246,
+                    "at",
+                    "undefined"
+                ],
+                [
+                    246,
+                    "length",
+                    "undefined"
+                ],
+                [
+                    247,
+                    "substring",
+                    "sink"
+                ],
+                [
+                    247,
+                    "host",
+                    "sink"
+                ],
+                [
+                    247,
+                    "at",
+                    "sink"
+                ],
+                [
+                    255,
+                    "host",
+                    "undefined"
+                ],
+                [
+                    256,
+                    "host",
+                    "sink"
+                ],
+                [
+                    256,
+                    "indexOf",
+                    "sink"
+                ],
+                [
+                    257,
+                    "colon",
+                    "undefined"
+                ],
+                [
+                    260,
+                    "host",
+                    "sink"
+                ],
+                [
+                    260,
+                    "length",
+                    "sink"
+                ],
+                [
+                    260,
+                    "host",
+                    "undefined"
+                ],
+                [
+                    260,
+                    "pos",
+                    "undefined"
+                ],
+                [
+                    260,
+                    "i",
+                    "undefined"
+                ],
+                [
+                    260,
+                    "length",
+                    "undefined"
+                ],
+                [
+                    261,
+                    "i",
+                    "sink"
+                ],
+                [
+                    261,
+                    "host",
+                    "sink"
+                ],
+                [
+                    261,
+                    "charAt",
+                    "sink"
+                ],
+                [
+                    261,
+                    "Character",
+                    "undefined"
+                ],
+                [
+                    261,
+                    "isDigit",
+                    "undefined"
+                ],
+                [
+                    261,
+                    "i",
+                    "undefined"
+                ],
+                [
+                    261,
+                    "host",
+                    "undefined"
+                ],
+                [
+                    261,
+                    "charAt",
+                    "undefined"
+                ],
+                [
+                    270,
+                    "len",
+                    "undefined"
+                ],
+                [
+                    272,
+                    "substring",
+                    "sink"
+                ],
+                [
+                    272,
+                    "host",
+                    "sink"
+                ],
+                [
+                    272,
+                    "pos",
+                    "sink"
+                ],
+                [
+                    272,
+                    "len",
+                    "sink"
+                ],
+                [
+                    274,
+                    "ex",
+                    "sink"
+                ],
+                [
+                    279,
+                    "substring",
+                    "sink"
+                ],
+                [
+                    279,
+                    "colon",
+                    "sink"
+                ],
+                [
+                    279,
+                    "host",
+                    "sink"
+                ],
+                [
+                    288,
+                    "uri",
+                    "sink"
+                ],
+                [
+                    288,
+                    "getScheme",
+                    "sink"
+                ],
+                [
+                    289,
+                    "TextUtils",
+                    "sink"
+                ],
+                [
+                    289,
+                    "host",
+                    "sink"
+                ],
+                [
+                    289,
+                    "isBlank",
+                    "sink"
+                ],
+                [
+                    289,
+                    "TextUtils",
+                    "undefined"
+                ],
+                [
+                    289,
+                    "host",
+                    "undefined"
+                ],
+                [
+                    289,
+                    "isBlank",
+                    "undefined"
+                ],
+                [
+                    293,
+                    "ignore",
+                    "sink"
+                ],
+                [
+                    300,
+                    "target",
+                    "sink"
+                ]
+            ]
+        },
+        "modified": {
+            "URIUtils.java": {
+                "add modify": [],
+                "del modify": []
+            }
+        }
+    },
+    "CVE-2018-1002201": {
+        "added": {
+            "ZipUtil.java": [
+                [
+                    682,
+                    "indexOf",
+                    "sink"
+                ],
+                [
+                    682,
+                    "name",
+                    "sink"
+                ],
+                [
+                    682,
+                    "indexOf",
+                    "undefined"
+                ],
+                [
+                    682,
+                    "file",
+                    "undefined"
+                ],
+                [
+                    682,
+                    "outputDir",
+                    "undefined"
+                ],
+                [
+                    682,
+                    "name",
+                    "undefined"
+                ],
+                [
+                    682,
+                    "startsWith",
+                    "undefined"
+                ],
+                [
+                    682,
+                    "getCanonicalPath",
+                    "undefined"
+                ],
+                [
+                    683,
+                    "outputDir",
+                    "sink"
+                ],
+                [
+                    683,
+                    "name",
+                    "sink"
+                ],
+                [
+                    738,
+                    "indexOf",
+                    "sink"
+                ],
+                [
+                    738,
+                    "name",
+                    "sink"
+                ],
+                [
+                    738,
+                    "indexOf",
+                    "undefined"
+                ],
+                [
+                    738,
+                    "destFile",
+                    "undefined"
+                ],
+                [
+                    738,
+                    "outputDir",
+                    "undefined"
+                ],
+                [
+                    738,
+                    "name",
+                    "undefined"
+                ],
+                [
+                    738,
+                    "startsWith",
+                    "undefined"
+                ],
+                [
+                    738,
+                    "getCanonicalPath",
+                    "undefined"
+                ],
+                [
+                    739,
+                    "outputDir",
+                    "sink"
+                ],
+                [
+                    739,
+                    "name",
+                    "sink"
+                ],
+                [
+                    747,
+                    "indexOf",
+                    "sink"
+                ],
+                [
+                    747,
+                    "name",
+                    "sink"
+                ],
+                [
+                    747,
+                    "indexOf",
+                    "undefined"
+                ],
+                [
+                    747,
+                    "destFile",
+                    "undefined"
+                ],
+                [
+                    747,
+                    "outputDir",
+                    "undefined"
+                ],
+                [
+                    747,
+                    "name",
+                    "undefined"
+                ],
+                [
+                    747,
+                    "startsWith",
+                    "undefined"
+                ],
+                [
+                    747,
+                    "getCanonicalPath",
+                    "undefined"
+                ],
+                [
+                    748,
+                    "outputDir",
+                    "sink"
+                ],
+                [
+                    748,
+                    "name",
+                    "sink"
+                ],
+                [
+                    782,
+                    "indexOf",
+                    "sink"
+                ],
+                [
+                    782,
+                    "name",
+                    "sink"
+                ],
+                [
+                    782,
+                    "indexOf",
+                    "undefined"
+                ],
+                [
+                    782,
+                    "file",
+                    "undefined"
+                ],
+                [
+                    782,
+                    "outputDir",
+                    "undefined"
+                ],
+                [
+                    782,
+                    "name",
+                    "undefined"
+                ],
+                [
+                    782,
+                    "startsWith",
+                    "undefined"
+                ],
+                [
+                    782,
+                    "getCanonicalPath",
+                    "undefined"
+                ],
+                [
+                    783,
+                    "outputDir",
+                    "sink"
+                ],
+                [
+                    783,
+                    "name",
+                    "sink"
+                ]
+            ]
+        },
+        "deleted": {
+            "ZipUtil.java": []
+        },
+        "modified": {
+            "ZipUtil.java": []
+        }
+    },
+    "CVE-2018-1000632": {
+        "added": {
+            "QName.java": [
+                [
+                    208,
+                    "name",
+                    "source"
+                ],
+                [
+                    208,
+                    "name",
+                    "sink"
+                ],
+                [
+                    208,
+                    "RE_NAME",
+                    "sink"
+                ],
+                [
+                    208,
+                    "matcher",
+                    "sink"
+                ],
+                [
+                    208,
+                    "name",
+                    "undefined"
+                ],
+                [
+                    208,
+                    "matches",
+                    "undefined"
+                ],
+                [
+                    208,
+                    "RE_NAME",
+                    "undefined"
+                ],
+                [
+                    208,
+                    "matcher",
+                    "undefined"
+                ],
+                [
+                    209,
+                    "format",
+                    "sink"
+                ],
+                [
+                    209,
+                    "String",
+                    "sink"
+                ],
+                [
+                    209,
+                    "name",
+                    "sink"
+                ],
+                [
+                    215,
+                    "ncname",
+                    "source"
+                ],
+                [
+                    215,
+                    "RE_NCNAME",
+                    "sink"
+                ],
+                [
+                    215,
+                    "matcher",
+                    "sink"
+                ],
+                [
+                    215,
+                    "ncname",
+                    "sink"
+                ],
+                [
+                    215,
+                    "matches",
+                    "undefined"
+                ],
+                [
+                    215,
+                    "RE_NCNAME",
+                    "undefined"
+                ],
+                [
+                    215,
+                    "matcher",
+                    "undefined"
+                ],
+                [
+                    215,
+                    "ncname",
+                    "undefined"
+                ],
+                [
+                    216,
+                    "format",
+                    "sink"
+                ],
+                [
+                    216,
+                    "String",
+                    "sink"
+                ],
+                [
+                    216,
+                    "ncname",
+                    "sink"
+                ],
+                [
+                    222,
+                    "qname",
+                    "source"
+                ],
+                [
+                    222,
+                    "RE_QNAME",
+                    "sink"
+                ],
+                [
+                    222,
+                    "matcher",
+                    "sink"
+                ],
+                [
+                    222,
+                    "qname",
+                    "sink"
+                ],
+                [
+                    222,
+                    "RE_QNAME",
+                    "undefined"
+                ],
+                [
+                    222,
+                    "matches",
+                    "undefined"
+                ],
+                [
+                    222,
+                    "matcher",
+                    "undefined"
+                ],
+                [
+                    222,
+                    "qname",
+                    "undefined"
+                ],
+                [
+                    223,
+                    "format",
+                    "sink"
+                ],
+                [
+                    223,
+                    "String",
+                    "sink"
+                ],
+                [
+                    223,
+                    "qname",
+                    "sink"
+                ]
+            ],
+            "QNameCache.java": [
+                [
+                    88,
+                    "index",
+                    "undefined"
+                ]
+            ],
+            "Namespace.java": []
+        },
+        "deleted": {
+            "QName.java": [],
+            "QNameCache.java": [],
+            "Namespace.java": []
+        },
+        "modified": {
+            "QName.java": [],
+            "QNameCache.java": [],
+            "Namespace.java": []
+        }
+    }
+}

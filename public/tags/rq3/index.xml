@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RQ3 | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/rq3/</link>
+      <atom:link href="http://localhost:1313/tags/rq3/index.xml" rel="self" type="application/rss+xml" />
+    <description>RQ3</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jun 2024 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>RQ3</title>
+      <link>http://localhost:1313/tags/rq3/</link>
+    </image>
+    
+    <item>
+      <title>RQ3 Parameter Sensitivity Study</title>
+      <link>http://localhost:1313/evaluation/rq3/</link>
+      <pubDate>Fri, 14 Jun 2024 11:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/evaluation/rq3/</guid>
+      <description>&lt;p&gt;you should first cd the &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/6.evaluate/threshold_sensitivity&#34;&gt;folder&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;folder of threshold_sensitivity: RQ3&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;sensitivity_hits.py&lt;/code&gt; point Figure 5(a) in RQ3&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;sensitivity_intra.py&lt;/code&gt; point Figure 5(b) in RQ3&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;sensitivity_inter.py&lt;/code&gt; point Figure 5(c) in RQ3&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;sensitivity_vul.py&lt;/code&gt; point Figure 5(d) in RQ3&lt;/p&gt;
+&lt;p&gt;To evaluate &amp;ldquo;parameter sensitivity&amp;rdquo;(RQ3) in our paper,&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cd ./threshold_sensitivity
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;python sensitivity_hits.py
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;python sensitivity_intra.py
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;python sensitivity_inter.py
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;python sensitivity_vul.py
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

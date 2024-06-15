@@ -1,0 +1,13 @@
+diff --git a/github_diff/CVE-2015-2156/oldfiles/ServerCookieEncoder.java b/github_diff/CVE-2015-2156/newfiles/ServerCookieEncoder.java
+index cec0cec..42fab75 100644
+--- a/github_diff/CVE-2015-2156/oldfiles/ServerCookieEncoder.java
++++ b/github_diff/CVE-2015-2156/newfiles/ServerCookieEncoder.java
+@@ -34,7 +34,7 @@ public final class ServerCookieEncoder extends CookieEncoder {
+             add(buf, name, value);
+         }
+         
+-        if (cookie.maxAge() != Long.MIN_VALUE) {
++        if (cookie.maxAge() != Integer.MIN_VALUE) {
+             add(buf, CookieHeaderNames.MAX_AGE, cookie.maxAge());
+             Date expires = new Date(cookie.maxAge() * 1000 + System.currentTimeMillis());
+             add(buf, CookieHeaderNames.EXPIRES, HttpHeaderDateFormat.get().format(expires));
