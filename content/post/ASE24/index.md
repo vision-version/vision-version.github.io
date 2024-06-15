@@ -1,5 +1,5 @@
 ---
-title: 👉 our paper is submitted to ASE'24, ❗❗❗❗❗but we are now preparing the codes, datasets until 2024-06-15❗❗❗❗❗
+title: 👉 our paper is submitted to ASE'24
 # summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
 date: 2024-06-07
 
