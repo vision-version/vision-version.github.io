@@ -15,7 +15,7 @@ date: 2024-06-13
 | GitLab   |    25      |    24     |
 | Snyk     |    14      |    no responding currently    |
 | Veracode |    17      |    no responding currently     |
-| NVD      |    24      |    no responding currently    |
+| NVD      |    24      |    19    |
 
 <!-- Create a personal knowledge base and share your knowledge with your peers.
 
