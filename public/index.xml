@@ -178,7 +178,7 @@ python evaluate_pure.py
 &lt;tr&gt;
 &lt;td&gt;NVD&lt;/td&gt;
 &lt;td&gt;24&lt;/td&gt;
-&lt;td&gt;no responding currently&lt;/td&gt;
+&lt;td&gt;19&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -496,7 +496,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-489316725&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-349826715&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -514,7 +514,7 @@ Demo:
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-489316725&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-349826715&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
