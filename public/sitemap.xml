@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/rebuttal-empirical/</loc>
+    <loc>http://localhost:1313/post/rebuttal-discrepant-versions/</loc>
     <lastmod>2024-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/rebuttal-experiment/</loc>
+    <loc>http://localhost:1313/post/rebuttal-importance-of-fixing-methods-and-changed-statements/</loc>
     <lastmod>2024-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -18,7 +18,7 @@
     <lastmod>2024-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/rebuttal-dataset/</loc>
+    <loc>http://localhost:1313/post/rebuttal-evaluation-dataset/</loc>
     <lastmod>2024-07-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
