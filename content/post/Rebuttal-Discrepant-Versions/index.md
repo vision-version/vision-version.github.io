@@ -4,7 +4,7 @@ title: ⭐⭐⭐ ASE Rebuttal Discrepant Versions
 date: 2024-07-27
 ---
 
-## Evaluation Dataset
+## Rebuttal Discrepant Versions
 
 The empirical study of Discrepant Versions are updated in [7.empirical](https://github.com/vision-version/vision-version.github.io/tree/main/Vision/7.empirical), in where, you can find the [cve versions](https://github.com/vision-version/vision-version.github.io/tree/main/Vision/7.empirical/cve_tags.json), [cve mapped github repos](https://github.com/vision-version/vision-version.github.io/tree/main/Vision/7.empirical/cve_github_map.json) and [cve mmaped maven libraries](https://github.com/vision-version/vision-version.github.io/tree/main/Vision/7.empirical/cve_ga_map.json). Because multiple maven libraries can map to one repository, there are inconsistencies between libraries and repositories.
 
