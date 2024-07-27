@@ -11,11 +11,11 @@ date: 2024-06-13
 
 |          | Submitted | Accepted |
 |----------|-----------|----------|
-| GitHub   |    19      |    8     |
-| GitLab   |    25      |    24     |
+| GitHub   |    39      |    39     |
+| GitLab   |    42      |    42     |
 | Snyk     |    14      |    no responding currently    |
 | Veracode |    17      |    no responding currently     |
-| NVD      |    24      |    19    |
+| NVD      |    24      |    5    |
 
 <!-- Create a personal knowledge base and share your knowledge with your peers.
 

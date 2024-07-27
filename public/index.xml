@@ -13,6 +13,44 @@
     </image>
     
     <item>
+      <title>⭐⭐⭐ ASE Rebuttal Discrepant Versions</title>
+      <link>http://localhost:1313/post/rebuttal-discrepant-versions/</link>
+      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/rebuttal-discrepant-versions/</guid>
+      <description>&lt;h2 id=&#34;evaluation-dataset&#34;&gt;Evaluation Dataset&lt;/h2&gt;
+&lt;p&gt;The empirical study of Discrepant Versions are updated in &lt;a href=&#34;&#39;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/7.empirical&#39;&#34;&gt;7.empirical&lt;/a&gt;, in where, you can find the &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/7.empirical/cve_tags.json&#34;&gt;cve versions&lt;/a&gt;, &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/7.empirical/cve_github_map.json&#34;&gt;cve mapped github repos&lt;/a&gt; and &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/7.empirical/cve_ga_map.json&#34;&gt;cve mmaped maven libraries&lt;/a&gt;. Because multiple maven libraries can map to one repository, there are inconsistencies between libraries and repositories.&lt;/p&gt;
+&lt;p&gt;We provide the script to fetch all versions from Maven and GitHub, you can find the final result in &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/7.empirical/empirical_final_results_0725.json&#34;&gt;empirical_final_results_0725.json&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>⭐⭐⭐ ASE Rebuttal Experiment Update</title>
+      <link>http://localhost:1313/post/rebuttal-importance-of-fixing-methods-and-changed-statements/</link>
+      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/rebuttal-importance-of-fixing-methods-and-changed-statements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>⭐⭐⭐ ASE Rebuttal Writing Update</title>
+      <link>http://localhost:1313/post/rebuttal-writting/</link>
+      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/rebuttal-writting/</guid>
+      <description>&lt;p&gt;We are now conducting a large scale major revision of Vision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>⭐⭐⭐ ASE Evaluation and Dataset</title>
+      <link>http://localhost:1313/post/rebuttal-evaluation-dataset/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/rebuttal-evaluation-dataset/</guid>
+      <description>&lt;h2 id=&#34;evaluation-dataset&#34;&gt;Evaluation Dataset&lt;/h2&gt;
+&lt;p&gt;The overlap dataset, and result of Vision, Vision-, MVP, V0Finder, Vuddy can all find in &lt;a href=&#34;&#39;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/6.evaluate%5Cgenerality&#39;&#34;&gt;the new evaluation folders&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>RQ1 Effectiveness</title>
       <link>http://localhost:1313/evaluation/rq1/</link>
       <pubDate>Fri, 14 Jun 2024 13:00:00 +0000</pubDate>
@@ -157,13 +195,13 @@ python evaluate_pure.py
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;GitHub&lt;/td&gt;
-&lt;td&gt;19&lt;/td&gt;
-&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;39&lt;/td&gt;
+&lt;td&gt;39&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;GitLab&lt;/td&gt;
-&lt;td&gt;25&lt;/td&gt;
-&lt;td&gt;24&lt;/td&gt;
+&lt;td&gt;42&lt;/td&gt;
+&lt;td&gt;42&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Snyk&lt;/td&gt;
@@ -178,7 +216,7 @@ python evaluate_pure.py
 &lt;tr&gt;
 &lt;td&gt;NVD&lt;/td&gt;
 &lt;td&gt;24&lt;/td&gt;
-&lt;td&gt;19&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -496,7 +534,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-349826715&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-425967318&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -514,7 +552,7 @@ Demo:
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-349826715&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-425967318&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
