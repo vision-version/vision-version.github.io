@@ -18,7 +18,7 @@
       <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/rebuttal-discrepant-versions/</guid>
       <description>&lt;h2 id=&#34;rebuttal-discrepant-versions&#34;&gt;Rebuttal Discrepant Versions&lt;/h2&gt;
-&lt;p&gt;The empirical study of Discrepant Versions are updated in &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/7.empirical&#34;&gt;7.empirical&lt;/a&gt;, in where, you can find the &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/7.empirical/cve_tags.json&#34;&gt;cve versions&lt;/a&gt;, &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/7.empirical/cve_github_map.json&#34;&gt;cve mapped github repos&lt;/a&gt; and &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/7.empirical/cve_ga_map.json&#34;&gt;cve mmaped maven libraries&lt;/a&gt;. Because multiple maven libraries can map to one repository, there are inconsistencies between libraries and repositories.&lt;/p&gt;
+&lt;p&gt;The empirical study of Discrepant Versions are updated in &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/7.empirical&#34;&gt;7.empirical&lt;/a&gt;, in where, you can find the &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/7.empirical/cve_tags.json&#34;&gt;cve versions&lt;/a&gt;, &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/7.empirical/cve_github_map.json&#34;&gt;cve mapped github repos&lt;/a&gt; and &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/7.empirical/cve_ga_map.json&#34;&gt;cve mapped maven libraries&lt;/a&gt;. Because multiple maven libraries can map to one repository, there are inconsistencies between libraries and repositories.&lt;/p&gt;
 &lt;p&gt;We provide the script to fetch all versions from Maven and GitHub, you can find the final result in &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/7.empirical/empirical_final_results_0725.json&#34;&gt;empirical_final_results_0725.json&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -34,11 +34,12 @@
     </item>
     
     <item>
-      <title>⭐⭐⭐ ASE Rebuttal Experiment Update</title>
+      <title>⭐⭐⭐ ASE Rebuttal Importance of Fixing Methods and Changed Statements</title>
       <link>http://localhost:1313/post/rebuttal-importance-of-fixing-methods-and-changed-statements/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/rebuttal-importance-of-fixing-methods-and-changed-statements/</guid>
       <description>&lt;h2 id=&#34;importance-of-fixing-methods-and-changed-statements&#34;&gt;Importance-of-Fixing-Methods-and-Changed-Statements&lt;/h2&gt;
+&lt;p&gt;We apply the critical method selection to MVP, V0Finder, Vuddy, the process and result can all find in &lt;a href=&#34;https://github.com/vision-version/vision-version.github.io/tree/main/Vision/6.evaluate/Importance_of_Fixing_Methods&#34;&gt;6.evaluate/Importance_of_Fixing_Methods&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -339,7 +340,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-124698573&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-248935167&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -357,7 +358,7 @@ Demo:
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-124698573&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-248935167&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

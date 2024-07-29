@@ -1,0 +1,34 @@
+{
+    "org.apache.commons.collections4.functors.CloneTransformer.cloneTransformer()": {
+        "deleteLines": [
+            "1ae133"
+        ],
+        "vul_syn": [
+            "1ae133"
+        ],
+        "vul_sem": [],
+        "pat_syn": [
+            "30c80d"
+        ],
+        "pat_sem": []
+    },
+    "del__##__org.apache.commons.collections4.functors.CloneTransformer.readResolve()": {
+        "syn": [
+            "30c80d"
+        ],
+        "sem": []
+    },
+    "org.apache.commons.collections4.functors.InstantiateTransformer.instantiateTransformer()": {
+        "deleteLines": [
+            "c11dd4"
+        ],
+        "vul_syn": [
+            "c11dd4"
+        ],
+        "vul_sem": [],
+        "pat_syn": [
+            "520faf"
+        ],
+        "pat_sem": []
+    }
+}
