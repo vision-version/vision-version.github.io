@@ -1,0 +1,5086 @@
+Total CVE numbers of poi-5.2.1 detected: 0
+
+Total CVE numbers of poi-4.0.1 detected: 0
+
+Total CVE numbers of poi-4.1.0 detected: 0
+
+Total CVE numbers of poi-3.16 detected: 0
+
+Total CVE numbers of poi-3.16-beta2 detected: 0
+
+Total CVE numbers of poi-4.1.2 detected: 0
+
+Total CVE numbers of poi-4.1.1 detected: 0
+
+Total CVE numbers of poi-5.3.0 detected: 0
+
+Total CVE numbers of poi-5.2.2 detected: 0
+
+Total CVE numbers of poi-5.1.0 detected: 0
+
+Total CVE numbers of poi-3.17 detected: 0
+
+Total CVE numbers of poi-5.2.3 detected: 0
+
+Total CVE numbers of poi-3.16-beta1 detected: 0
+
+Total CVE numbers of poi-5.2.0 detected: 0
+
+Total CVE numbers of poi-5.0.0 detected: 0
+
+Total CVE numbers of poi-5.2.4 detected: 0
+
+Total CVE numbers of poi-3.15 detected: 0
+
+Total CVE numbers of poi-4.0.0 detected: 0
+
+Total CVE numbers of poi-5.2.5 detected: 0
+
+Total CVE numbers of poi-3.17-beta1 detected: 0
+
+Total CVE numbers of fediz-spring3-1.4.1 detected: 0
+
+Total CVE numbers of fediz-spring3-1.4.3 detected: 0
+
+Total CVE numbers of fediz-spring3-1.4.2 detected: 0
+
+Total CVE numbers of fediz-spring3-1.4.4 detected: 0
+
+Total CVE numbers of fediz-spring3-1.4.6 detected: 0
+
+Total CVE numbers of fediz-spring3-1.4.5 detected: 0
+
+Total CVE numbers of fediz-spring3-1.4.0 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.6.5 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.1 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.7.0.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.14 detected: 0
+
+Total CVE numbers of spring-data-jpa-3.2.3 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.3.3.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.2.3.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.6.1.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.17 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.2.12.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.6.2 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.8.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.7.2.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.6 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.10.4.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.2.0.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.17.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.0.5 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.2.1.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.3.1.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.0.0 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.10.6.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.4.1 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.6.0 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.6.8 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.2.5.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.4.0 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.5.3 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.19.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.3.4.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.6.4.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.1.0 detected: 0
+
+Total CVE numbers of spring-data-jpa-3.2.6 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.4.5.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.0.14.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.8.0.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.0.0.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.9.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.6.10 detected: 0
+
+Total CVE numbers of spring-data-jpa-3.1.4 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.11 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.5.1 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.1.0.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.13.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.3.0 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.6.5.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.0.10 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.3.6.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.3.5.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.10 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.11.RELEASE detected: 0
+
+Found CVE-2016-6652 in spring-data-jpa-3.0.4 !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of spring-data-jpa-3.0.4 detected: 2
+
+Total CVE numbers of spring-data-jpa-2.1.21.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.4.5 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.0.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.14.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.4.12 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.3.7.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.5.6 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.17.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.4.4 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.4.2 detected: 0
+
+Total CVE numbers of spring-data-jpa-3.1.11 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.1.1.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.0.1.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.0.5.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.9 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.15.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.2.11.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.12.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.1.6 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.0.13.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.9.0.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.3.0.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.2.9.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.6.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.2 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.16.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.0.9 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.0.3.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.9.6.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.12 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.2.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.13.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.10.2.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.0.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.5.8 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.2.0.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.10.8.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.0.10.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.5.11 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.7.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.0.12 detected: 0
+
+Total CVE numbers of spring-data-jpa-3.1.1 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.5.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.0.11.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.10.11.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.5.0.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.21.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.5.10 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.18 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.6.1 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.4.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.5.7 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.1.2.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.5.12 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.5.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.0.2.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.6.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.3.2 detected: 0
+
+Total CVE numbers of spring-data-jpa-3.2.7 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.3.2.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.6.6 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.2.1.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.8.2.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.8 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.4.7 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.18.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.10.10.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.0.6 detected: 0
+
+Total CVE numbers of spring-data-jpa-3.1.2 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.16.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.7.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.3.8.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.0.4.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.6.2.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.20.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.9.2.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.2.10.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.10.1.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.10.7.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.6.6.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.9.1.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.4.0.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.4.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.5.2 detected: 0
+
+Total CVE numbers of spring-data-jpa-3.2.4 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.10.5.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.4.3 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.4.2.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.0.7 detected: 0
+
+Total CVE numbers of spring-data-jpa-3.0.3 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.2.13.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.10.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.2.7.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.0.0.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.0.8.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.4.15 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.4.1.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.10.0.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.16 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.0.2.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.2.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.6.9 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.23.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.3.2.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.6.3 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.6.7 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.4.13 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.18.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.8.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.7.3.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.3.5.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.15 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.5.5 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.1.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.8.1.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.4.14 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.3.9.RELEASE detected: 0
+
+Found CVE-2016-6652 in spring-data-jpa-3.0.11 !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of spring-data-jpa-3.0.11 detected: 2
+
+Total CVE numbers of spring-data-jpa-2.2.6.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.5.1.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.5.9 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.4.8 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.3.4.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.2.4.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.3.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.8.0.RC1 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.0.3.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.10.9.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.7 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.3.0.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.5.4 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.5.0 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.9.5.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.4.4.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.2.0 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.9.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.10.3.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.12.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.4 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.3 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.2.2.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.3.3.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.15.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.2.8 detected: 0
+
+Total CVE numbers of spring-data-jpa-3.1.5 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.2.8.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.3.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.1.8 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.4.9 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.4.11 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.22.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.1.3 detected: 0
+
+Total CVE numbers of spring-data-jpa-3.1.12 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.3.1.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.0 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.20.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.10.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.2.1 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.5 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.9.4.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.0.2 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.4.10 detected: 0
+
+Total CVE numbers of spring-data-jpa-3.3.1 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.4.3.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.7.13 detected: 0
+
+Total CVE numbers of spring-data-jpa-3.2.2 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.14.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.1.10 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.6.4 detected: 0
+
+Total CVE numbers of spring-data-jpa-3.1.7 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.0.12.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.0.7.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.1.11.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.5.3.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.7.4.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.4.6 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.11.1.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-2.0.9.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.0.8 detected: 0
+
+Total CVE numbers of spring-data-jpa-3.1.9 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.0.6.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.0.1 detected: 0
+
+Total CVE numbers of spring-data-jpa-1.5.2.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-3.2.5 detected: 0
+
+Total CVE numbers of spring-data-jpa-2.0.1.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.6.0.RELEASE detected: 0
+
+Total CVE numbers of spring-data-jpa-1.7.1.RELEASE detected: 0
+
+Total CVE numbers of monitoring-1.20.0 detected: 0
+
+Total CVE numbers of monitoring-1.14.0 detected: 0
+
+Total CVE numbers of monitoring-1.12.0 detected: 0
+
+Total CVE numbers of monitoring-1.10.0 detected: 0
+
+Total CVE numbers of monitoring-1.15.0 detected: 0
+
+Total CVE numbers of monitoring-1.25.0 detected: 0
+
+Total CVE numbers of monitoring-1.22.0 detected: 0
+
+Total CVE numbers of monitoring-1.21.0 detected: 0
+
+Total CVE numbers of monitoring-1.13.0 detected: 0
+
+Total CVE numbers of monitoring-1.8.2 detected: 0
+
+Total CVE numbers of monitoring-1.17.0 detected: 0
+
+Total CVE numbers of monitoring-1.8.1 detected: 0
+
+Total CVE numbers of monitoring-1.18.0 detected: 0
+
+Total CVE numbers of monitoring-1.15.1 detected: 0
+
+Total CVE numbers of monitoring-1.23.0 detected: 0
+
+Total CVE numbers of monitoring-1.9.0 detected: 0
+
+Total CVE numbers of monitoring-1.19.0 detected: 0
+
+Total CVE numbers of tomcat-catalina-11.0.0-M17 detected: 0
+
+Total CVE numbers of tomcat-catalina-11.0.0-M22 detected: 0
+
+Total CVE numbers of tomcat-catalina-11.0.0-M21 detected: 0
+
+Total CVE numbers of tomcat-catalina-11.0.0-M18 detected: 0
+
+Total CVE numbers of tomcat-catalina-9.0.91 detected: 0
+
+Total CVE numbers of tomcat-catalina-11.0.0-M20 detected: 0
+
+Total CVE numbers of tomcat-catalina-9.0.90 detected: 0
+
+Total CVE numbers of tomcat-catalina-10.1.26 detected: 0
+
+Total CVE numbers of tomcat-catalina-9.0.89 detected: 0
+
+Total CVE numbers of tomcat-catalina-8.5.99 detected: 0
+
+Total CVE numbers of tomcat-catalina-10.1.24 detected: 0
+
+Total CVE numbers of tomcat-catalina-9.0.86 detected: 0
+
+Total CVE numbers of tomcat-catalina-9.0.88 detected: 0
+
+Total CVE numbers of tomcat-catalina-10.1.25 detected: 0
+
+Total CVE numbers of tomcat-catalina-10.1.19 detected: 0
+
+Total CVE numbers of tomcat-catalina-10.1.20 detected: 0
+
+Total CVE numbers of tomcat-catalina-8.5.100 detected: 0
+
+Total CVE numbers of tomcat-catalina-10.1.23 detected: 0
+
+Total CVE numbers of tomcat-catalina-9.0.87 detected: 0
+
+Total CVE numbers of tomcat-catalina-11.0.0-M19 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-6.0.3 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-6.3.0.2 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-6.3.0 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-6.3.0.1 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-2.5.33 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-2.5.32 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-6.1.2 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-2.5.30 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-2.5.31 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-2.5.28 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-6.2.0 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-2.5.29 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-6.0.0 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-2.5.28.1 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-6.1.2.1 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-6.4.0 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-6.1.1 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-6.1.2.2 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-2.5.28.2 detected: 0
+
+Total CVE numbers of struts2-rest-plugin-2.5.28.3 detected: 0
+
+Total CVE numbers of activemq-broker-5.17.4 detected: 0
+
+Total CVE numbers of activemq-broker-5.16.5 detected: 0
+
+Total CVE numbers of activemq-broker-6.0.0 detected: 0
+
+Total CVE numbers of activemq-broker-5.18.2 detected: 0
+
+Total CVE numbers of activemq-broker-5.17.2 detected: 0
+
+Total CVE numbers of activemq-broker-6.1.2 detected: 0
+
+Total CVE numbers of activemq-broker-5.17.5 detected: 0
+
+Total CVE numbers of activemq-broker-5.18.3 detected: 0
+
+Total CVE numbers of activemq-broker-5.16.7 detected: 0
+
+Total CVE numbers of activemq-broker-5.16.6 detected: 0
+
+Total CVE numbers of activemq-broker-5.18.1 detected: 0
+
+Total CVE numbers of activemq-broker-5.17.1 detected: 0
+
+Total CVE numbers of activemq-broker-5.17.3 detected: 0
+
+Total CVE numbers of activemq-broker-5.18.0 detected: 0
+
+Total CVE numbers of activemq-broker-5.17.6 detected: 0
+
+Total CVE numbers of activemq-broker-6.1.1 detected: 0
+
+Total CVE numbers of activemq-broker-6.0.1 detected: 0
+
+Total CVE numbers of activemq-broker-6.1.0 detected: 0
+
+Total CVE numbers of activemq-broker-5.15.16 detected: 0
+
+Total CVE numbers of activemq-broker-5.18.4 detected: 0
+
+Total CVE numbers of cassandra-all-4.0.10 detected: 0
+
+Total CVE numbers of cassandra-all-4.0.13 detected: 0
+
+Total CVE numbers of cassandra-all-4.1.2 detected: 0
+
+Total CVE numbers of cassandra-all-3.11.15 detected: 0
+
+Total CVE numbers of cassandra-all-4.1.5 detected: 0
+
+Total CVE numbers of cassandra-all-3.11.17 detected: 0
+
+Total CVE numbers of cassandra-all-5.0-alpha1 detected: 0
+
+Total CVE numbers of cassandra-all-4.0.11 detected: 0
+
+Total CVE numbers of cassandra-all-3.0.30 detected: 0
+
+Total CVE numbers of cassandra-all-5.0-beta1 detected: 0
+
+Total CVE numbers of cassandra-all-4.0.8 detected: 0
+
+Total CVE numbers of cassandra-all-4.0.12 detected: 0
+
+Total CVE numbers of cassandra-all-5.0-alpha2 detected: 0
+
+Total CVE numbers of cassandra-all-4.1.4 detected: 0
+
+Total CVE numbers of cassandra-all-3.11.16 detected: 0
+
+Total CVE numbers of cassandra-all-4.1.3 detected: 0
+
+Total CVE numbers of cassandra-all-5.0-rc1 detected: 0
+
+Total CVE numbers of cassandra-all-4.0.9 detected: 0
+
+Total CVE numbers of cassandra-all-3.0.29 detected: 0
+
+Total CVE numbers of cassandra-all-4.1.1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.4.1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.8.4 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.8.9 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.2.1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.3.0 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.10.3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.8.1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.13.4 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.3.0-rc1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.14.3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.4.6 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.9.6 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.9.0.pr2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.9.10 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.7.4 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.6.1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.12.3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.6.4-1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.9.7 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.9.8 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.3.5 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.12.0-rc2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.5.0-rc1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.10.0.pr1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.7.1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.7.9 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.11.4 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.17.2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.2.0-rc1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.10.0 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.6.5 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.9.0 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.2.4 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.4.0-rc2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.1.3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.8.8 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.9.2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.0.0-RC3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.6.7 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.14.2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.16.0 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.17.0 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.0.6 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.15.0-rc3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.12.4 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.8.0.rc2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.13.5 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.6.3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.14.0-rc3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.7.7 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.14.0-rc1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.1.5 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.8.3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.2.0 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.16.1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.9.4 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.1.2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.6.4 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.4.4 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.12.2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.9.0.pr1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.6.6 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.2.2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.11.1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.0.3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.8.11 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.13.1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.0.0 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.9.0.pr4 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.17.0-rc1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.5.0 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.13.0-rc2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.7.0-rc1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.15.4 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.7.8 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.3.2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.0.4 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.15.1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.5.2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.8.0 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.8.7 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.10.0.pr3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.12.0-rc1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.0.0-RC1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.6.0-rc1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.4.0-rc3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.8.5 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.0.0-RC2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.14.0 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.1.0 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.7.5 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.5.4 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.10.5 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.6.0-rc2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.10.1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.10.0.pr2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.11.0 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.8.0.rc1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.5.1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.8.6 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.15.0 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.13.0 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.9.0.pr3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.14.0-rc2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.5.5 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.6.0 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.7.3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.11.3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.7.6 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.8.2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.4.5 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.6.2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.7.2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.0.2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.13.3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.6.0-rc3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.3.4 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.11.0.rc1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.0.5 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.4.3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.1.4 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.16.2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.5.3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.7.0 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.12.0 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.12.5 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.3.1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.15.0-rc1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.9.3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.12.7 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.6.0-rc4 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.14.1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.13.2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.10.2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.11.2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.3.3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.7.0-rc2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.13.0-rc1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.16.0-rc1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.2.3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.15.0-rc2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.7.0-rc3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.8.10 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.10.4 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.9.1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.15.2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.12.6 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.12.1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.9.9 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.4.0 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.4.2 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.15.3 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.17.1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.1.1 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.9.5 detected: 0
+
+Total CVE numbers of jackson-dataformat-xml-2.0.1 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-7.1.9 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-7.1.8 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-8.0.6 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-8.0.2 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-7.1.5 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-7.0.8 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-7.1.7 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-8.0.1 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-7.1.11 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-8.0.0 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-7.1.12 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-8.0.4 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-7.1.10 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-7.0.9 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-9.2.0 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-9.1.0 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-8.0.5 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-7.1.6 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-8.0.3 detected: 0
+
+Total CVE numbers of qpid-broker-plugins-amqp-0-8-protocol-9.0.0 detected: 0
+
+Total CVE numbers of vertx-web-4.4.6 detected: 0
+
+Total CVE numbers of vertx-web-4.4.4 detected: 0
+
+Total CVE numbers of vertx-web-4.5.3 detected: 0
+
+Total CVE numbers of vertx-web-4.5.9 detected: 0
+
+Total CVE numbers of vertx-web-4.4.5 detected: 0
+
+Total CVE numbers of vertx-web-4.4.2 detected: 0
+
+Total CVE numbers of vertx-web-4.5.0 detected: 0
+
+Total CVE numbers of vertx-web-3.9.16 detected: 0
+
+Total CVE numbers of vertx-web-4.4.9 detected: 0
+
+Total CVE numbers of vertx-web-4.5.1 detected: 0
+
+Total CVE numbers of vertx-web-4.5.5 detected: 0
+
+Total CVE numbers of vertx-web-4.4.1 detected: 0
+
+Total CVE numbers of vertx-web-4.4.7 detected: 0
+
+Total CVE numbers of vertx-web-4.5.2 detected: 0
+
+Total CVE numbers of vertx-web-4.5.4 detected: 0
+
+Total CVE numbers of vertx-web-4.5.6 detected: 0
+
+Total CVE numbers of vertx-web-4.4.3 detected: 0
+
+Total CVE numbers of vertx-web-4.4.8 detected: 0
+
+Total CVE numbers of vertx-web-4.5.8 detected: 0
+
+Total CVE numbers of vertx-web-4.5.7 detected: 0
+
+Total CVE numbers of commons-fileupload-1.3.3 detected: 0
+
+Total CVE numbers of commons-fileupload-1.2.2 detected: 0
+
+Total CVE numbers of commons-fileupload-1.2.1 detected: 0
+
+Total CVE numbers of commons-fileupload-1.1 detected: 0
+
+Total CVE numbers of commons-fileupload-1.3.1 detected: 0
+
+Total CVE numbers of commons-fileupload-1.3 detected: 0
+
+Total CVE numbers of commons-fileupload-1.0 detected: 0
+
+Total CVE numbers of commons-fileupload-1.1.1 detected: 0
+
+Total CVE numbers of commons-fileupload-1.0-beta-1 detected: 0
+
+Total CVE numbers of commons-fileupload-1.0-rc1 detected: 0
+
+Total CVE numbers of commons-fileupload-1.3.2 detected: 0
+
+Total CVE numbers of commons-fileupload-1.2 detected: 0
+
+Total CVE numbers of commons-fileupload-1.4 detected: 0
+
+Total CVE numbers of commons-fileupload-1.5 detected: 0
+
+Total CVE numbers of nifi-standard-processors-1.20.0 detected: 0
+
+Total CVE numbers of nifi-standard-processors-1.25.0 detected: 0
+
+Total CVE numbers of nifi-standard-processors-2.0.0-M1 detected: 0
+
+Total CVE numbers of nifi-standard-processors-1.19.0 detected: 0
+
+Total CVE numbers of nifi-standard-processors-1.23.2 detected: 0
+
+Total CVE numbers of nifi-standard-processors-1.22.0 detected: 0
+
+Total CVE numbers of nifi-standard-processors-1.16.3 detected: 0
+
+Total CVE numbers of nifi-standard-processors-1.16.2 detected: 0
+
+Total CVE numbers of nifi-standard-processors-1.21.0 detected: 0
+
+Total CVE numbers of nifi-standard-processors-1.26.0 detected: 0
+
+Total CVE numbers of nifi-standard-processors-1.24.0 detected: 0
+
+Total CVE numbers of nifi-standard-processors-1.17.0 detected: 0
+
+Total CVE numbers of nifi-standard-processors-1.18.0 detected: 0
+
+Total CVE numbers of nifi-standard-processors-1.23.0 detected: 0
+
+Total CVE numbers of nifi-standard-processors-1.19.1 detected: 0
+
+Total CVE numbers of nifi-standard-processors-2.0.0-M2 detected: 0
+
+Total CVE numbers of nifi-standard-processors-1.23.1 detected: 0
+
+Total CVE numbers of poi-ooxml-5.2.5 detected: 0
+
+Total CVE numbers of poi-ooxml-3.17 detected: 0
+
+Total CVE numbers of poi-ooxml-5.2.1 detected: 0
+
+Total CVE numbers of poi-ooxml-4.1.0 detected: 0
+
+Total CVE numbers of poi-ooxml-5.0.0 detected: 0
+
+Total CVE numbers of poi-ooxml-4.0.1 detected: 0
+
+Total CVE numbers of poi-ooxml-5.2.3 detected: 0
+
+Total CVE numbers of poi-ooxml-5.3.0 detected: 0
+
+Total CVE numbers of poi-ooxml-5.1.0 detected: 0
+
+Total CVE numbers of poi-ooxml-3.16-beta2 detected: 0
+
+Total CVE numbers of poi-ooxml-4.1.1 detected: 0
+
+Total CVE numbers of poi-ooxml-3.17-beta1 detected: 0
+
+Total CVE numbers of poi-ooxml-3.16 detected: 0
+
+Total CVE numbers of poi-ooxml-4.1.2 detected: 0
+
+Total CVE numbers of poi-ooxml-4.0.0 detected: 0
+
+Total CVE numbers of poi-ooxml-3.16-beta1 detected: 0
+
+Total CVE numbers of poi-ooxml-5.2.0 detected: 0
+
+Total CVE numbers of poi-ooxml-5.2.2 detected: 0
+
+Total CVE numbers of poi-ooxml-3.15 detected: 0
+
+Total CVE numbers of poi-ooxml-5.2.4 detected: 0
+
+Total CVE numbers of xmlsec-2.2.3 detected: 0
+
+Total CVE numbers of xmlsec-2.2.2 detected: 0
+
+Total CVE numbers of xmlsec-4.0.0-M1 detected: 0
+
+Total CVE numbers of xmlsec-4.0.0 detected: 0
+
+Total CVE numbers of xmlsec-2.2.5 detected: 0
+
+Total CVE numbers of xmlsec-3.0.2 detected: 0
+
+Total CVE numbers of xmlsec-2.3.1 detected: 0
+
+Total CVE numbers of xmlsec-2.2.6 detected: 0
+
+Total CVE numbers of xmlsec-4.0.2 detected: 0
+
+Total CVE numbers of xmlsec-4.0.1 detected: 0
+
+Total CVE numbers of xmlsec-2.3.4 detected: 0
+
+Total CVE numbers of xmlsec-3.0.4 detected: 0
+
+Total CVE numbers of xmlsec-2.3.0 detected: 0
+
+Total CVE numbers of xmlsec-3.0.1 detected: 0
+
+Total CVE numbers of xmlsec-3.0.3 detected: 0
+
+Total CVE numbers of xmlsec-2.3.2 detected: 0
+
+Total CVE numbers of xmlsec-2.2.4 detected: 0
+
+Total CVE numbers of xmlsec-3.0.0 detected: 0
+
+Total CVE numbers of xmlsec-2.3.3 detected: 0
+
+Total CVE numbers of xmlsec-2.1.8 detected: 0
+
+Total CVE numbers of log4j-core-3.0.0-alpha1 detected: 0
+
+Total CVE numbers of log4j-core-2.12.1 detected: 0
+
+Total CVE numbers of log4j-core-2.0-beta2 detected: 0
+
+Total CVE numbers of log4j-core-2.10.0 detected: 0
+
+Total CVE numbers of log4j-core-2.13.1 detected: 0
+
+Total CVE numbers of log4j-core-2.0-beta5 detected: 0
+
+Total CVE numbers of log4j-core-2.0-alpha2 detected: 0
+
+Total CVE numbers of log4j-core-2.0-beta1 detected: 0
+
+Total CVE numbers of log4j-core-2.3.2 detected: 0
+
+Total CVE numbers of log4j-core-2.19.0 detected: 0
+
+Total CVE numbers of log4j-core-2.4 detected: 0
+
+Total CVE numbers of log4j-core-2.22.0 detected: 0
+
+Total CVE numbers of log4j-core-2.0-beta4 detected: 0
+
+Total CVE numbers of log4j-core-2.8 detected: 0
+
+Total CVE numbers of log4j-core-2.9.1 detected: 0
+
+Total CVE numbers of log4j-core-2.2 detected: 0
+
+Total CVE numbers of log4j-core-2.8.2 detected: 0
+
+Total CVE numbers of log4j-core-2.9.0 detected: 0
+
+Total CVE numbers of log4j-core-2.0-alpha1 detected: 0
+
+Total CVE numbers of log4j-core-2.3 detected: 0
+
+Total CVE numbers of log4j-core-2.0-beta6 detected: 0
+
+Total CVE numbers of log4j-core-2.14.1 detected: 0
+
+Total CVE numbers of log4j-core-2.17.2 detected: 0
+
+Total CVE numbers of log4j-core-2.13.3 detected: 0
+
+Total CVE numbers of log4j-core-2.5 detected: 0
+
+Total CVE numbers of log4j-core-2.0-beta8 detected: 0
+
+Total CVE numbers of log4j-core-2.15.0 detected: 0
+
+Total CVE numbers of log4j-core-2.0 detected: 0
+
+Total CVE numbers of log4j-core-2.0.2 detected: 0
+
+Total CVE numbers of log4j-core-2.14.0 detected: 0
+
+Total CVE numbers of log4j-core-2.6 detected: 0
+
+Total CVE numbers of log4j-core-2.12.3 detected: 0
+
+Total CVE numbers of log4j-core-2.23.1 detected: 0
+
+Total CVE numbers of log4j-core-3.0.0-beta1 detected: 0
+
+Total CVE numbers of log4j-core-2.11.2 detected: 0
+
+Total CVE numbers of log4j-core-2.11.0 detected: 0
+
+Total CVE numbers of log4j-core-2.17.0 detected: 0
+
+Total CVE numbers of log4j-core-2.0-rc2 detected: 0
+
+Total CVE numbers of log4j-core-2.23.0 detected: 0
+
+Total CVE numbers of log4j-core-2.22.1 detected: 0
+
+Total CVE numbers of log4j-core-2.4.1 detected: 0
+
+Total CVE numbers of log4j-core-2.8.1 detected: 0
+
+Total CVE numbers of log4j-core-2.11.1 detected: 0
+
+Total CVE numbers of log4j-core-2.16.0 detected: 0
+
+Total CVE numbers of log4j-core-2.13.2 detected: 0
+
+Total CVE numbers of log4j-core-2.12.2 detected: 0
+
+Total CVE numbers of log4j-core-2.0.1 detected: 0
+
+Total CVE numbers of log4j-core-2.12.0 detected: 0
+
+Total CVE numbers of log4j-core-2.17.1 detected: 0
+
+Total CVE numbers of log4j-core-2.0-rc1 detected: 0
+
+Total CVE numbers of log4j-core-2.12.4 detected: 0
+
+Total CVE numbers of log4j-core-2.6.1 detected: 0
+
+Total CVE numbers of log4j-core-2.0-beta9 detected: 0
+
+Total CVE numbers of log4j-core-2.0-beta3 detected: 0
+
+Total CVE numbers of log4j-core-2.21.0 detected: 0
+
+Total CVE numbers of log4j-core-2.18.0 detected: 0
+
+Total CVE numbers of log4j-core-2.21.1 detected: 0
+
+Total CVE numbers of log4j-core-2.6.2 detected: 0
+
+Total CVE numbers of log4j-core-2.0-beta7 detected: 0
+
+Total CVE numbers of log4j-core-2.7 detected: 0
+
+Total CVE numbers of log4j-core-2.3.1 detected: 0
+
+Total CVE numbers of log4j-core-2.1 detected: 0
+
+Total CVE numbers of log4j-core-2.20.0 detected: 0
+
+Total CVE numbers of log4j-core-3.0.0-beta2 detected: 0
+
+Total CVE numbers of log4j-core-2.13.0 detected: 0
+
+Total CVE numbers of undertow-core-2.2.25.Final detected: 0
+
+Total CVE numbers of undertow-core-2.3.13.Final detected: 0
+
+Total CVE numbers of undertow-core-2.2.26.Final detected: 0
+
+Total CVE numbers of undertow-core-2.3.9.Final detected: 0
+
+Total CVE numbers of undertow-core-2.3.8.Final detected: 0
+
+Total CVE numbers of undertow-core-2.2.32.Final detected: 0
+
+Total CVE numbers of undertow-core-2.3.11.Final detected: 0
+
+Total CVE numbers of undertow-core-2.3.7.Final detected: 0
+
+Total CVE numbers of undertow-core-2.3.6.Final detected: 0
+
+Total CVE numbers of undertow-core-2.2.24.Final detected: 0
+
+Total CVE numbers of undertow-core-2.2.29.Final detected: 0
+
+Total CVE numbers of undertow-core-2.2.27.Final detected: 0
+
+Total CVE numbers of undertow-core-2.3.15.Final detected: 0
+
+Total CVE numbers of undertow-core-2.2.28.Final detected: 0
+
+Total CVE numbers of undertow-core-2.2.30.Final detected: 0
+
+Total CVE numbers of undertow-core-2.2.31.Final detected: 0
+
+Total CVE numbers of undertow-core-2.3.10.Final detected: 0
+
+Total CVE numbers of undertow-core-2.3.14.Final detected: 0
+
+Total CVE numbers of undertow-core-2.3.12.Final detected: 0
+
+Total CVE numbers of undertow-core-2.2.33.Final detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-9.4.0.Alpha1 detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-8.2.12.Final detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-9.3.9.Final detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-9.3.1.Final detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-9.3.0.Beta1 detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-9.3.6.Final detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-9.3.3.Final detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-9.2.3.Final detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-9.4.0.Beta1 detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-9.3.5.Final detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-9.2.4.Final detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-9.2.5.Final detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-9.3.2.Final detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-8.2.11.Final detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-9.3.8.Final detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-9.4.0.CR1 detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-9.3.4.Final detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-9.4.0.CR2 detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-9.3.0.CR1 detected: 0
+
+Total CVE numbers of infinispan-compatibility-mode-it-9.3.0.Final detected: 0
+
+Total CVE numbers of api-ldap-client-api-2.1.1 detected: 0
+
+Total CVE numbers of api-ldap-client-api-1.0.0 detected: 0
+
+Total CVE numbers of api-ldap-client-api-1.0.0-RC2 detected: 0
+
+Total CVE numbers of api-ldap-client-api-2.0.0.AM2 detected: 0
+
+Total CVE numbers of api-ldap-client-api-1.0.3 detected: 0
+
+Total CVE numbers of api-ldap-client-api-1.0.1 detected: 0
+
+Total CVE numbers of api-ldap-client-api-2.1.3 detected: 0
+
+Total CVE numbers of api-ldap-client-api-1.0.2 detected: 0
+
+Total CVE numbers of api-ldap-client-api-2.0.0.AM1 detected: 0
+
+Total CVE numbers of api-ldap-client-api-2.0.0.AM4 detected: 0
+
+Total CVE numbers of api-ldap-client-api-2.1.0 detected: 0
+
+Total CVE numbers of api-ldap-client-api-2.0.2 detected: 0
+
+Total CVE numbers of api-ldap-client-api-2.0.1 detected: 0
+
+Total CVE numbers of api-ldap-client-api-2.1.2 detected: 0
+
+Total CVE numbers of api-ldap-client-api-2.1.4 detected: 0
+
+Total CVE numbers of api-ldap-client-api-2.0.0 detected: 0
+
+Total CVE numbers of api-ldap-client-api-2.1.6 detected: 0
+
+Total CVE numbers of api-ldap-client-api-2.1.5 detected: 0
+
+Total CVE numbers of api-ldap-client-api-2.0.0.AM3 detected: 0
+
+Total CVE numbers of api-ldap-client-api-1.0.0-RC1 detected: 0
+
+Total CVE numbers of struts2-core-2.5.28 detected: 0
+
+Total CVE numbers of struts2-core-6.3.0.1 detected: 0
+
+Total CVE numbers of struts2-core-6.2.0 detected: 0
+
+Total CVE numbers of struts2-core-6.0.3 detected: 0
+
+Total CVE numbers of struts2-core-2.5.30 detected: 0
+
+Total CVE numbers of struts2-core-2.5.33 detected: 0
+
+Total CVE numbers of struts2-core-6.1.2.1 detected: 0
+
+Total CVE numbers of struts2-core-2.5.29 detected: 0
+
+Total CVE numbers of struts2-core-6.1.2.2 detected: 0
+
+Total CVE numbers of struts2-core-2.5.32 detected: 0
+
+Total CVE numbers of struts2-core-6.4.0 detected: 0
+
+Total CVE numbers of struts2-core-6.1.2 detected: 0
+
+Total CVE numbers of struts2-core-6.0.0 detected: 0
+
+Total CVE numbers of struts2-core-2.5.31 detected: 0
+
+Total CVE numbers of struts2-core-2.5.28.2 detected: 0
+
+Total CVE numbers of struts2-core-2.5.28.3 detected: 0
+
+Total CVE numbers of struts2-core-6.1.1 detected: 0
+
+Total CVE numbers of struts2-core-6.3.0.2 detected: 0
+
+Total CVE numbers of struts2-core-6.3.0 detected: 0
+
+Total CVE numbers of struts2-core-2.5.28.1 detected: 0
+
+Total CVE numbers of buck-util-zip-0.0.11 detected: 0
+
+Total CVE numbers of buck-util-zip-0.0.1 detected: 0
+
+Total CVE numbers of buck-util-zip-0.0.12 detected: 0
+
+Total CVE numbers of bsh-2.0b5 detected: 0
+
+Total CVE numbers of bsh-2.0b6 detected: 0
+
+Total CVE numbers of solr-core-9.2.0 detected: 0
+
+Total CVE numbers of solr-core-8.8.1 detected: 0
+
+Total CVE numbers of solr-core-9.2.1 detected: 0
+
+Total CVE numbers of solr-core-9.3.0 detected: 0
+
+Total CVE numbers of solr-core-9.1.0 detected: 0
+
+Total CVE numbers of solr-core-9.4.1 detected: 0
+
+Total CVE numbers of solr-core-9.5.0 detected: 0
+
+Total CVE numbers of solr-core-8.8.2 detected: 0
+
+Total CVE numbers of solr-core-8.10.0 detected: 0
+
+Total CVE numbers of solr-core-8.9.0 detected: 0
+
+Total CVE numbers of solr-core-8.11.0 detected: 0
+
+Total CVE numbers of solr-core-8.11.2 detected: 0
+
+Total CVE numbers of solr-core-9.6.0 detected: 0
+
+Total CVE numbers of solr-core-8.10.1 detected: 0
+
+Total CVE numbers of solr-core-9.6.1 detected: 0
+
+Total CVE numbers of solr-core-9.4.0 detected: 0
+
+Total CVE numbers of solr-core-8.11.1 detected: 0
+
+Total CVE numbers of solr-core-9.1.1 detected: 0
+
+Total CVE numbers of solr-core-8.11.3 detected: 0
+
+Total CVE numbers of solr-core-9.0.0 detected: 0
+
+Total CVE numbers of geronimo-jmx-remoting-2.1.6 detected: 0
+
+Total CVE numbers of geronimo-jmx-remoting-2.2 detected: 0
+
+Total CVE numbers of geronimo-jmx-remoting-2.1.4 detected: 0
+
+Total CVE numbers of geronimo-jmx-remoting-3.0.0 detected: 0
+
+Total CVE numbers of geronimo-jmx-remoting-3.0-M1 detected: 0
+
+Total CVE numbers of geronimo-jmx-remoting-2.1.7 detected: 0
+
+Total CVE numbers of geronimo-jmx-remoting-2.1.1 detected: 0
+
+Total CVE numbers of geronimo-jmx-remoting-2.1.8 detected: 0
+
+Total CVE numbers of geronimo-jmx-remoting-2.2.1 detected: 0
+
+Total CVE numbers of geronimo-jmx-remoting-2.1.2 detected: 0
+
+Total CVE numbers of geronimo-jmx-remoting-3.0-beta-1 detected: 0
+
+Total CVE numbers of geronimo-jmx-remoting-2.1.5 detected: 0
+
+Total CVE numbers of geronimo-jmx-remoting-2.1 detected: 0
+
+Total CVE numbers of geronimo-jmx-remoting-3.0.1 detected: 0
+
+Total CVE numbers of geronimo-jmx-remoting-2.1.3 detected: 0
+
+Total CVE numbers of antisamy-1.6.1 detected: 0
+
+Total CVE numbers of antisamy-1.4.5 detected: 0
+
+Total CVE numbers of antisamy-1.6.2 detected: 0
+
+Total CVE numbers of antisamy-1.5.9 detected: 0
+
+Total CVE numbers of antisamy-1.6.4 detected: 0
+
+Total CVE numbers of antisamy-1.6.7 detected: 0
+
+Total CVE numbers of antisamy-1.6.5 detected: 0
+
+Total CVE numbers of antisamy-1.5.6 detected: 0
+
+Total CVE numbers of antisamy-1.7.0 detected: 0
+
+Total CVE numbers of antisamy-1.4.3 detected: 0
+
+Total CVE numbers of antisamy-1.6.6.1 detected: 0
+
+Total CVE numbers of antisamy-1.7.5 detected: 0
+
+Total CVE numbers of antisamy-1.5.1 detected: 0
+
+Total CVE numbers of antisamy-1.7.1 detected: 0
+
+Total CVE numbers of antisamy-1.5.3 detected: 0
+
+Total CVE numbers of antisamy-1.6.3 detected: 0
+
+Total CVE numbers of antisamy-1.7.3 detected: 0
+
+Total CVE numbers of antisamy-1.7.6 detected: 0
+
+Total CVE numbers of antisamy-1.5.10 detected: 0
+
+Total CVE numbers of antisamy-1.4.2 detected: 0
+
+Total CVE numbers of antisamy-1.7.2 detected: 0
+
+Total CVE numbers of antisamy-1.5.8 detected: 0
+
+Total CVE numbers of antisamy-1.6.0 detected: 0
+
+Total CVE numbers of antisamy-1.4.4 detected: 0
+
+Total CVE numbers of antisamy-1.5.2 detected: 0
+
+Total CVE numbers of antisamy-1.5.12 detected: 0
+
+Total CVE numbers of antisamy-1.6.8 detected: 0
+
+Total CVE numbers of antisamy-1.5.11 detected: 0
+
+Total CVE numbers of antisamy-1.6.6 detected: 0
+
+Total CVE numbers of antisamy-1.5 detected: 0
+
+Total CVE numbers of antisamy-1.5.5 detected: 0
+
+Total CVE numbers of antisamy-1.7.4 detected: 0
+
+Total CVE numbers of antisamy-1.5.7 detected: 0
+
+Total CVE numbers of antisamy-1.5.13 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-6.2.3 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-6.3.1 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-5.7.12 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-5.8.13 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-6.2.2 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-6.2.0 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-6.2.1 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-6.3.0 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-6.1.9 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-5.8.12 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-6.2.4 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-6.0.8 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-5.8.9 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-6.1.8 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-6.1.7 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-5.8.10 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-6.2.5 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-5.8.11 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-6.1.6 detected: 0
+
+Total CVE numbers of spring-security-oauth2-jose-5.8.8 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.8-beta4 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.10-beta2 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.10.1 detected: 0
+
+Total CVE numbers of poi-scratchpad-4.1.2 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.13 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.16 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.7-beta1 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.16-beta1 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.17 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.11-beta1 detected: 0
+
+Total CVE numbers of poi-scratchpad-5.2.4 detected: 0
+
+Total CVE numbers of poi-scratchpad-5.2.1 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.8-beta2 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.15-beta1 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.14 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.0.2-beta1 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.15-beta2 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.12-beta1 detected: 0
+
+Total CVE numbers of poi-scratchpad-5.2.5 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.9 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.10-beta1 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.0.1-FINAL detected: 0
+
+Total CVE numbers of poi-scratchpad-3.2-FINAL detected: 0
+
+Total CVE numbers of poi-scratchpad-5.2.2 detected: 0
+
+Total CVE numbers of poi-scratchpad-4.1.1 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.5-beta4 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.1-FINAL detected: 0
+
+Total CVE numbers of poi-scratchpad-3.11-beta2 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.10-FINAL detected: 0
+
+Total CVE numbers of poi-scratchpad-3.8-beta1 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.7-beta2 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.5-FINAL detected: 0
+
+Total CVE numbers of poi-scratchpad-3.5-beta1 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.13-beta1 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.5-beta6 detected: 0
+
+Total CVE numbers of poi-scratchpad-4.0.1 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.14-beta1 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.8-beta3 detected: 0
+
+Total CVE numbers of poi-scratchpad-5.3.0 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.5-beta5 detected: 0
+
+Total CVE numbers of poi-scratchpad-5.2.0 detected: 0
+
+Total CVE numbers of poi-scratchpad-4.1.0 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.16-beta2 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.17-beta1 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.5-beta3 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.15 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.1-beta2 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.6 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.11-beta3 detected: 0
+
+Total CVE numbers of poi-scratchpad-5.0.0 detected: 0
+
+Total CVE numbers of poi-scratchpad-5.2.3 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.8-beta5 detected: 0
+
+Total CVE numbers of poi-scratchpad-4.0.0 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.1-beta1 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.8 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.7-beta3 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.0.2-beta2 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.0.2-FINAL detected: 0
+
+Total CVE numbers of poi-scratchpad-5.1.0 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.12 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.7 detected: 0
+
+Total CVE numbers of poi-scratchpad-3.11 detected: 0
+
+Found CVE-2018-11799 in oozie-core-4.3.0 !
+Match! Method injectInline in file org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java is homologous with CVE-2018-11799
+Match! Method injectInline in file org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java is homologous with CVE-2018-11799
+Total CVE numbers of oozie-core-4.3.0 detected: 1
+
+Total CVE numbers of oozie-core-5.2.1 detected: 0
+
+Found CVE-2018-11799 in oozie-core-5.0.0-beta1 !
+Match! Method injectInline in file org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java is homologous with CVE-2018-11799
+Match! Method injectInline in file org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java is homologous with CVE-2018-11799
+Total CVE numbers of oozie-core-5.0.0-beta1 detected: 1
+
+Found CVE-2018-11799 in oozie-core-4.3.1 !
+Match! Method injectInline in file org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java is homologous with CVE-2018-11799
+Match! Method injectInline in file org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java is homologous with CVE-2018-11799
+Total CVE numbers of oozie-core-4.3.1 detected: 1
+
+Found CVE-2018-11799 in oozie-core-5.0.0 !
+Match! Method injectInline in file org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java is homologous with CVE-2018-11799
+Match! Method injectInline in file org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java is homologous with CVE-2018-11799
+Total CVE numbers of oozie-core-5.0.0 detected: 1
+
+Found CVE-2018-11799 in oozie-core-4.1.0 !
+Match! Method injectInline in file org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java is homologous with CVE-2018-11799
+Match! Method injectInline in file org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java is homologous with CVE-2018-11799
+Total CVE numbers of oozie-core-4.1.0 detected: 1
+
+Total CVE numbers of oozie-core-5.2.0 detected: 0
+
+Found CVE-2018-11799 in oozie-core-4.2.0 !
+Match! Method injectInline in file org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java is homologous with CVE-2018-11799
+Match! Method injectInline in file org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java is homologous with CVE-2018-11799
+Total CVE numbers of oozie-core-4.2.0 detected: 1
+
+Total CVE numbers of oozie-core-5.1.0 detected: 0
+
+Total CVE numbers of openjpa-kernel-2.4.1 detected: 0
+
+Total CVE numbers of openjpa-kernel-2.2.1 detected: 0
+
+Total CVE numbers of openjpa-kernel-3.2.2 detected: 0
+
+Total CVE numbers of openjpa-kernel-2.2.2 detected: 0
+
+Total CVE numbers of openjpa-kernel-2.1.0 detected: 0
+
+Total CVE numbers of openjpa-kernel-3.0.0 detected: 0
+
+Total CVE numbers of openjpa-kernel-2.4.2 detected: 0
+
+Total CVE numbers of openjpa-kernel-3.1.0 detected: 0
+
+Total CVE numbers of openjpa-kernel-1.2.3 detected: 0
+
+Total CVE numbers of openjpa-kernel-3.2.1 detected: 0
+
+Total CVE numbers of openjpa-kernel-2.3.0 detected: 0
+
+Total CVE numbers of openjpa-kernel-3.1.2 detected: 0
+
+Total CVE numbers of openjpa-kernel-4.0.0 detected: 0
+
+Total CVE numbers of openjpa-kernel-2.4.3 detected: 0
+
+Total CVE numbers of openjpa-kernel-2.1.1 detected: 0
+
+Total CVE numbers of openjpa-kernel-2.2.0 detected: 0
+
+Total CVE numbers of openjpa-kernel-2.4.0 detected: 0
+
+Total CVE numbers of openjpa-kernel-1.0.4 detected: 0
+
+Total CVE numbers of openjpa-kernel-3.2.0 detected: 0
+
+Total CVE numbers of openjpa-kernel-3.1.1 detected: 0
+
+Total CVE numbers of javamelody-core-1.86.0 detected: 0
+
+Total CVE numbers of javamelody-core-1.87.0 detected: 0
+
+Total CVE numbers of javamelody-core-1.82.0 detected: 0
+
+Total CVE numbers of javamelody-core-2.0.0 detected: 0
+
+Total CVE numbers of javamelody-core-2.1.0 detected: 0
+
+Total CVE numbers of javamelody-core-1.81.0 detected: 0
+
+Total CVE numbers of javamelody-core-2.0.1 detected: 0
+
+Total CVE numbers of javamelody-core-1.99.0 detected: 0
+
+Total CVE numbers of javamelody-core-1.90.0 detected: 0
+
+Total CVE numbers of javamelody-core-2.2.0 detected: 0
+
+Total CVE numbers of javamelody-core-1.93.0 detected: 0
+
+Total CVE numbers of javamelody-core-1.89.0 detected: 0
+
+Total CVE numbers of javamelody-core-1.92.0 detected: 0
+
+Total CVE numbers of javamelody-core-1.95.0 detected: 0
+
+Total CVE numbers of javamelody-core-1.83.0 detected: 0
+
+Total CVE numbers of javamelody-core-1.85.0 detected: 0
+
+Total CVE numbers of javamelody-core-1.98.0 detected: 0
+
+Total CVE numbers of javamelody-core-1.88.0 detected: 0
+
+Total CVE numbers of javamelody-core-1.91.0 detected: 0
+
+Total CVE numbers of javamelody-core-1.94.0 detected: 0
+
+Total CVE numbers of jsoup-0.2.1b detected: 0
+
+Total CVE numbers of jsoup-1.7.1 detected: 0
+
+Total CVE numbers of jsoup-1.15.1 detected: 0
+
+Total CVE numbers of jsoup-1.2.1 detected: 0
+
+Total CVE numbers of jsoup-1.13.1 detected: 0
+
+Total CVE numbers of jsoup-1.15.3 detected: 0
+
+Total CVE numbers of jsoup-1.11.3 detected: 0
+
+Total CVE numbers of jsoup-1.15.2 detected: 0
+
+Total CVE numbers of jsoup-1.2.3 detected: 0
+
+Total CVE numbers of jsoup-1.8.1 detected: 0
+
+Total CVE numbers of jsoup-1.16.2 detected: 0
+
+Total CVE numbers of jsoup-1.16.1 detected: 0
+
+Total CVE numbers of jsoup-1.17.1 detected: 0
+
+Total CVE numbers of jsoup-1.11.2 detected: 0
+
+Total CVE numbers of jsoup-1.3.3 detected: 0
+
+Total CVE numbers of jsoup-1.6.0 detected: 0
+
+Total CVE numbers of jsoup-1.17.2 detected: 0
+
+Total CVE numbers of jsoup-1.10.3 detected: 0
+
+Total CVE numbers of jsoup-1.10.1 detected: 0
+
+Total CVE numbers of jsoup-1.9.2 detected: 0
+
+Total CVE numbers of jsoup-1.8.3 detected: 0
+
+Total CVE numbers of jsoup-1.11.1 detected: 0
+
+Total CVE numbers of jsoup-1.7.3 detected: 0
+
+Total CVE numbers of jsoup-1.6.1 detected: 0
+
+Total CVE numbers of jsoup-1.9.1 detected: 0
+
+Total CVE numbers of jsoup-1.18.1 detected: 0
+
+Total CVE numbers of jsoup-1.12.1 detected: 0
+
+Total CVE numbers of jsoup-1.14.3 detected: 0
+
+Total CVE numbers of jsoup-0.3.1 detected: 0
+
+Total CVE numbers of jsoup-1.10.2 detected: 0
+
+Total CVE numbers of jsoup-1.1.1 detected: 0
+
+Total CVE numbers of jsoup-1.3.1 detected: 0
+
+Total CVE numbers of jsoup-1.6.3 detected: 0
+
+Total CVE numbers of jsoup-1.4.1 detected: 0
+
+Total CVE numbers of jsoup-1.14.1 detected: 0
+
+Total CVE numbers of jsoup-1.6.2 detected: 0
+
+Total CVE numbers of jsoup-1.2.2 detected: 0
+
+Total CVE numbers of jsoup-1.3.2 detected: 0
+
+Total CVE numbers of jsoup-1.12.2 detected: 0
+
+Total CVE numbers of jsoup-1.8.2 detected: 0
+
+Total CVE numbers of jsoup-0.2.2 detected: 0
+
+Total CVE numbers of jsoup-1.5.2 detected: 0
+
+Total CVE numbers of jsoup-1.14.2 detected: 0
+
+Total CVE numbers of jsoup-1.5.1 detected: 0
+
+Total CVE numbers of jsoup-1.7.2 detected: 0
+
+Total CVE numbers of jsoup-1.15.4 detected: 0
+
+Total CVE numbers of httpclient-4.3.2 detected: 0
+
+Total CVE numbers of httpclient-4.1.1 detected: 0
+
+Total CVE numbers of httpclient-4.5.9 detected: 0
+
+Total CVE numbers of httpclient-4.2.6 detected: 0
+
+Total CVE numbers of httpclient-4.5.1 detected: 0
+
+Total CVE numbers of httpclient-4.0-beta2 detected: 0
+
+Total CVE numbers of httpclient-4.4 detected: 0
+
+Total CVE numbers of httpclient-4.5.8 detected: 0
+
+Total CVE numbers of httpclient-4.0 detected: 0
+
+Total CVE numbers of httpclient-4.5.11 detected: 0
+
+Total CVE numbers of httpclient-4.4-alpha1 detected: 0
+
+Total CVE numbers of httpclient-4.1-alpha1 detected: 0
+
+Total CVE numbers of httpclient-4.5.3 detected: 0
+
+Total CVE numbers of httpclient-4.5.7 detected: 0
+
+Total CVE numbers of httpclient-4.1-alpha2 detected: 0
+
+Total CVE numbers of httpclient-4.1-beta1 detected: 0
+
+Total CVE numbers of httpclient-4.0.3 detected: 0
+
+Total CVE numbers of httpclient-4.2.5 detected: 0
+
+Total CVE numbers of httpclient-4.3.3 detected: 0
+
+Total CVE numbers of httpclient-4.5.6 detected: 0
+
+Total CVE numbers of httpclient-4.0-alpha1 detected: 0
+
+Total CVE numbers of httpclient-4.5.2 detected: 0
+
+Total CVE numbers of httpclient-4.0-alpha4 detected: 0
+
+Total CVE numbers of httpclient-4.3.1 detected: 0
+
+Total CVE numbers of httpclient-4.2-beta1 detected: 0
+
+Total CVE numbers of httpclient-4.5.13 detected: 0
+
+Total CVE numbers of httpclient-4.2-alpha1 detected: 0
+
+Total CVE numbers of httpclient-4.0-alpha2 detected: 0
+
+Total CVE numbers of httpclient-4.5 detected: 0
+
+Total CVE numbers of httpclient-4.1 detected: 0
+
+Total CVE numbers of httpclient-4.2.2 detected: 0
+
+Total CVE numbers of httpclient-4.0.1 detected: 0
+
+Total CVE numbers of httpclient-4.2.3 detected: 0
+
+Total CVE numbers of httpclient-4.0.2 detected: 0
+
+Total CVE numbers of httpclient-4.5.4 detected: 0
+
+Total CVE numbers of httpclient-4.1.2 detected: 0
+
+Total CVE numbers of httpclient-4.1.3 detected: 0
+
+Total CVE numbers of httpclient-4.3-alpha1 detected: 0
+
+Total CVE numbers of httpclient-4.2 detected: 0
+
+Total CVE numbers of httpclient-4.2.1 detected: 0
+
+Total CVE numbers of httpclient-4.5.10 detected: 0
+
+Total CVE numbers of httpclient-4.4.1 detected: 0
+
+Total CVE numbers of httpclient-4.5.14 detected: 0
+
+Total CVE numbers of httpclient-4.4-beta1 detected: 0
+
+Total CVE numbers of httpclient-4.0-alpha3 detected: 0
+
+Total CVE numbers of httpclient-4.3-beta2 detected: 0
+
+Total CVE numbers of httpclient-4.5.5 detected: 0
+
+Total CVE numbers of httpclient-4.3.4 detected: 0
+
+Total CVE numbers of httpclient-4.3.5 detected: 0
+
+Total CVE numbers of httpclient-4.3.6 detected: 0
+
+Total CVE numbers of httpclient-4.2.4 detected: 0
+
+Total CVE numbers of httpclient-4.3 detected: 0
+
+Total CVE numbers of httpclient-4.5.12 detected: 0
+
+Total CVE numbers of httpclient-4.3-beta1 detected: 0
+
+Total CVE numbers of httpclient-4.0-beta1 detected: 0
+
+Total CVE numbers of async-http-client-1.9.32 detected: 0
+
+Total CVE numbers of async-http-client-1.9.24 detected: 0
+
+Total CVE numbers of async-http-client-1.9.23 detected: 0
+
+Total CVE numbers of async-http-client-1.9.27 detected: 0
+
+Total CVE numbers of async-http-client-1.9.25 detected: 0
+
+Total CVE numbers of async-http-client-1.9.40 detected: 0
+
+Total CVE numbers of async-http-client-1.9.22 detected: 0
+
+Total CVE numbers of async-http-client-1.9.29 detected: 0
+
+Total CVE numbers of async-http-client-1.9.34 detected: 0
+
+Total CVE numbers of async-http-client-1.9.28 detected: 0
+
+Total CVE numbers of async-http-client-1.8.17 detected: 0
+
+Total CVE numbers of async-http-client-1.9.31 detected: 0
+
+Total CVE numbers of async-http-client-1.9.38 detected: 0
+
+Total CVE numbers of async-http-client-1.9.26 detected: 0
+
+Total CVE numbers of async-http-client-1.9.33 detected: 0
+
+Total CVE numbers of async-http-client-1.9.36 detected: 0
+
+Total CVE numbers of async-http-client-1.9.35 detected: 0
+
+Total CVE numbers of async-http-client-1.9.30 detected: 0
+
+Total CVE numbers of async-http-client-1.9.37 detected: 0
+
+Total CVE numbers of async-http-client-1.9.39 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.4.1 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.2.13 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.4.5 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.4.3 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.3.9 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.3.5 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.4.2 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.4.6 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.3.7 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.2.16 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.3.4 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.3.10 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.4.4 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.2.15 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.3.3 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.3.8 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.2.12 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.4.0 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.3.6 detected: 0
+
+Total CVE numbers of org.apache.karaf.webconsole.features-4.2.14 detected: 0
+
+Total CVE numbers of shiro-web-1.5.3 detected: 0
+
+Total CVE numbers of shiro-web-1.12.0 detected: 0
+
+Total CVE numbers of shiro-web-1.9.1 detected: 0
+
+Total CVE numbers of shiro-web-2.0.0 detected: 0
+
+Total CVE numbers of shiro-web-1.7.1 detected: 0
+
+Total CVE numbers of shiro-web-2.0.0-alpha-4 detected: 0
+
+Total CVE numbers of shiro-web-2.0.0-alpha-1 detected: 0
+
+Total CVE numbers of shiro-web-2.0.1 detected: 0
+
+Total CVE numbers of shiro-web-1.6.0 detected: 0
+
+Total CVE numbers of shiro-web-1.11.0 detected: 0
+
+Total CVE numbers of shiro-web-1.8.0 detected: 0
+
+Total CVE numbers of shiro-web-1.7.0 detected: 0
+
+Total CVE numbers of shiro-web-2.0.0-alpha-3 detected: 0
+
+Total CVE numbers of shiro-web-1.5.1 detected: 0
+
+Total CVE numbers of shiro-web-1.9.0 detected: 0
+
+Total CVE numbers of shiro-web-1.13.0 detected: 0
+
+Total CVE numbers of shiro-web-2.0.0-alpha-2 detected: 0
+
+Total CVE numbers of shiro-web-1.10.1 detected: 0
+
+Total CVE numbers of shiro-web-1.10.0 detected: 0
+
+Total CVE numbers of shiro-web-1.5.2 detected: 0
+
+Total CVE numbers of guava-32.0.1-android detected: 0
+
+Total CVE numbers of guava-32.1.1-android detected: 0
+
+Total CVE numbers of guava-32.0.0-android detected: 0
+
+Total CVE numbers of guava-33.1.0-jre detected: 0
+
+Total CVE numbers of guava-32.0.0-jre detected: 0
+
+Total CVE numbers of guava-32.1.3-android detected: 0
+
+Total CVE numbers of guava-33.2.1-jre detected: 0
+
+Total CVE numbers of guava-33.0.0-android detected: 0
+
+Total CVE numbers of guava-32.1.0-android detected: 0
+
+Total CVE numbers of guava-32.1.2-jre detected: 0
+
+Total CVE numbers of guava-32.1.1-jre detected: 0
+
+Total CVE numbers of guava-32.1.3-jre detected: 0
+
+Total CVE numbers of guava-33.1.0-android detected: 0
+
+Total CVE numbers of guava-33.2.0-jre detected: 0
+
+Total CVE numbers of guava-32.1.0-jre detected: 0
+
+Total CVE numbers of guava-33.0.0-jre detected: 0
+
+Total CVE numbers of guava-32.0.1-jre detected: 0
+
+Total CVE numbers of guava-33.2.1-android detected: 0
+
+Total CVE numbers of guava-33.2.0-android detected: 0
+
+Total CVE numbers of guava-32.1.2-android detected: 0
+
+Total CVE numbers of commons-compress-1.26.0 detected: 0
+
+Total CVE numbers of commons-compress-1.16 detected: 0
+
+Total CVE numbers of commons-compress-1.26.1 detected: 0
+
+Total CVE numbers of commons-compress-1.10 detected: 0
+
+Total CVE numbers of commons-compress-1.5 detected: 0
+
+Total CVE numbers of commons-compress-1.8.1 detected: 0
+
+Total CVE numbers of commons-compress-1.1 detected: 0
+
+Total CVE numbers of commons-compress-1.7 detected: 0
+
+Total CVE numbers of commons-compress-1.6 detected: 0
+
+Total CVE numbers of commons-compress-1.21 detected: 0
+
+Total CVE numbers of commons-compress-1.11 detected: 0
+
+Total CVE numbers of commons-compress-1.25.0 detected: 0
+
+Total CVE numbers of commons-compress-1.4.1 detected: 0
+
+Total CVE numbers of commons-compress-1.22 detected: 0
+
+Total CVE numbers of commons-compress-1.2 detected: 0
+
+Total CVE numbers of commons-compress-1.8 detected: 0
+
+Total CVE numbers of commons-compress-1.13 detected: 0
+
+Total CVE numbers of commons-compress-1.24.0 detected: 0
+
+Total CVE numbers of commons-compress-1.15 detected: 0
+
+Total CVE numbers of commons-compress-1.0 detected: 0
+
+Total CVE numbers of commons-compress-1.17 detected: 0
+
+Total CVE numbers of commons-compress-1.12 detected: 0
+
+Total CVE numbers of commons-compress-1.16.1 detected: 0
+
+Total CVE numbers of commons-compress-1.19 detected: 0
+
+Total CVE numbers of commons-compress-1.3 detected: 0
+
+Total CVE numbers of commons-compress-1.14 detected: 0
+
+Total CVE numbers of commons-compress-1.9 detected: 0
+
+Total CVE numbers of commons-compress-1.18 detected: 0
+
+Total CVE numbers of commons-compress-1.20 detected: 0
+
+Total CVE numbers of commons-compress-1.4 detected: 0
+
+Total CVE numbers of commons-compress-1.26.2 detected: 0
+
+Total CVE numbers of commons-compress-1.23.0 detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.5.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.3.5.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.1.2.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-1.0.0.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.2.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.1.3.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.19.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.4.0.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.3.1.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.13.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.4.1.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.5.0.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.1.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.10.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.3.3.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-1.0.1.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.8.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.3.7.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.12.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-1.0.4.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.17.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.4.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.2.4.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.5.2.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.2.5.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.7.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.1.4.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.1.0.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.0.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.9.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.3.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-1.0.2.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.2.0.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-1.0.3.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.1.5.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.18.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.3.8.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.1.6.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.3.6.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-1.0.5.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.3.4.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.4.2.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.2.6.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.2.1.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.5.1.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.3.0.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.16.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.2.3.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.14.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.2.2.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.6.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.3.2.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.1.1.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.15.RELEASE detected: 0
+
+Total CVE numbers of spring-security-oauth2-2.0.11.RELEASE detected: 0
+
+Total CVE numbers of fediz-spring2-1.1.2 detected: 0
+
+Total CVE numbers of fediz-spring2-1.2.3 detected: 0
+
+Total CVE numbers of fediz-spring2-1.3.2 detected: 0
+
+Total CVE numbers of fediz-spring2-1.3.3 detected: 0
+
+Total CVE numbers of fediz-spring2-1.2.4 detected: 0
+
+Total CVE numbers of fediz-spring2-1.2.0 detected: 0
+
+Total CVE numbers of fediz-spring2-1.3.0 detected: 0
+
+Total CVE numbers of fediz-spring2-1.2.1 detected: 0
+
+Total CVE numbers of fediz-spring2-1.2.2 detected: 0
+
+Total CVE numbers of fediz-spring2-1.4.2 detected: 0
+
+Total CVE numbers of fediz-spring2-1.1.1 detected: 0
+
+Total CVE numbers of fediz-spring2-1.1.3 detected: 0
+
+Total CVE numbers of fediz-spring2-1.1.0 detected: 0
+
+Total CVE numbers of fediz-spring2-1.3.1 detected: 0
+
+Total CVE numbers of fediz-spring2-1.4.5 detected: 0
+
+Total CVE numbers of fediz-spring2-1.4.0 detected: 0
+
+Total CVE numbers of fediz-spring2-1.4.4 detected: 0
+
+Total CVE numbers of fediz-spring2-1.4.3 detected: 0
+
+Total CVE numbers of fediz-spring2-1.4.1 detected: 0
+
+Total CVE numbers of fediz-spring2-1.4.6 detected: 0
+
+Total CVE numbers of xstream-1.4.17 detected: 0
+
+Total CVE numbers of xstream-1.4.11.1 detected: 0
+
+Total CVE numbers of xstream-1.4.20 detected: 0
+
+Total CVE numbers of xstream-1.4.13-java7 detected: 0
+
+Total CVE numbers of xstream-0.6 detected: 0
+
+Found CVE-2016-3674 in xstream-1.4.2 !
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Total CVE numbers of xstream-1.4.2 detected: 1
+
+Total CVE numbers of xstream-1.4.18 detected: 0
+
+Total CVE numbers of xstream-0.2 detected: 0
+
+Found CVE-2016-3674 in xstream-1.2.2 !
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Total CVE numbers of xstream-1.2.2 detected: 1
+
+Total CVE numbers of xstream-0.1 detected: 0
+
+Found CVE-2016-3674 in xstream-1.4.7 !
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Total CVE numbers of xstream-1.4.7 detected: 1
+
+Found CVE-2016-3674 in xstream-1.2 !
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Total CVE numbers of xstream-1.2 detected: 1
+
+Total CVE numbers of xstream-1.4.12 detected: 0
+
+Found CVE-2016-3674 in xstream-1.4.3 !
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Total CVE numbers of xstream-1.4.3 detected: 1
+
+Found CVE-2016-3674 in xstream-1.4 !
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Total CVE numbers of xstream-1.4 detected: 1
+
+Found CVE-2016-3674 in xstream-1.4.1 !
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Total CVE numbers of xstream-1.4.1 detected: 1
+
+Total CVE numbers of xstream-1.1 detected: 0
+
+Found CVE-2016-3674 in xstream-1.4.8 !
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Total CVE numbers of xstream-1.4.8 detected: 1
+
+Total CVE numbers of xstream-1.4.16 detected: 0
+
+Total CVE numbers of xstream-1.4.9 detected: 0
+
+Found CVE-2016-3674 in xstream-1.3 !
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Total CVE numbers of xstream-1.3 detected: 1
+
+Found CVE-2016-3674 in xstream-1.2.1 !
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Total CVE numbers of xstream-1.2.1 detected: 1
+
+Found CVE-2016-3674 in xstream-1.4.5 !
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Total CVE numbers of xstream-1.4.5 detected: 1
+
+Found CVE-2016-3674 in xstream-1.4.4 !
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Total CVE numbers of xstream-1.4.4 detected: 1
+
+Total CVE numbers of xstream-1.4.14 detected: 0
+
+Total CVE numbers of xstream-1.4.14-java7 detected: 0
+
+Found CVE-2016-3674 in xstream-1.3.1 !
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Total CVE numbers of xstream-1.3.1 detected: 1
+
+Total CVE numbers of xstream-1.4.10 detected: 0
+
+Total CVE numbers of xstream-1.0.2 detected: 0
+
+Total CVE numbers of xstream-1.4.19 detected: 0
+
+Total CVE numbers of xstream-1.4.12-java7 detected: 0
+
+Total CVE numbers of xstream-1.4.14-jdk7 detected: 0
+
+Total CVE numbers of xstream-1.4.15 detected: 0
+
+Total CVE numbers of xstream-1.1.3 detected: 0
+
+Total CVE numbers of xstream-1.0 detected: 0
+
+Found CVE-2016-3674 in xstream-1.4.6 !
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Match! Method createReader in file com/thoughtworks/xstream/io/xml/Dom4JDriver.java is homologous with CVE-2016-3674
+Total CVE numbers of xstream-1.4.6 detected: 1
+
+Total CVE numbers of xstream-1.1.2 detected: 0
+
+Total CVE numbers of xstream-1.4.11-java7 detected: 0
+
+Total CVE numbers of xstream-0.5 detected: 0
+
+Total CVE numbers of xstream-1.1.1 detected: 0
+
+Total CVE numbers of xstream-0.3 detected: 0
+
+Total CVE numbers of xstream-1.4.11 detected: 0
+
+Total CVE numbers of xstream-1.0.1 detected: 0
+
+Total CVE numbers of xstream-1.4.13 detected: 0
+
+Found CVE-2016-6652 in xstream-1.4.10-java7 !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of xstream-1.4.10-java7 detected: 2
+
+Total CVE numbers of fediz-cxf-1.3.1 detected: 0
+
+Total CVE numbers of fediz-cxf-1.6.1 detected: 0
+
+Total CVE numbers of fediz-cxf-1.4.0 detected: 0
+
+Total CVE numbers of fediz-cxf-1.5.0 detected: 0
+
+Total CVE numbers of fediz-cxf-1.3.0 detected: 0
+
+Total CVE numbers of fediz-cxf-1.3.2 detected: 0
+
+Total CVE numbers of fediz-cxf-1.2.2 detected: 0
+
+Total CVE numbers of fediz-cxf-1.6.0 detected: 0
+
+Total CVE numbers of fediz-cxf-1.4.4 detected: 0
+
+Total CVE numbers of fediz-cxf-1.1.3 detected: 0
+
+Total CVE numbers of fediz-cxf-1.4.6 detected: 0
+
+Total CVE numbers of fediz-cxf-1.4.2 detected: 0
+
+Total CVE numbers of fediz-cxf-1.5.1 detected: 0
+
+Total CVE numbers of fediz-cxf-1.4.1 detected: 0
+
+Total CVE numbers of fediz-cxf-1.2.3 detected: 0
+
+Total CVE numbers of fediz-cxf-1.6.2 detected: 0
+
+Total CVE numbers of fediz-cxf-1.3.3 detected: 0
+
+Total CVE numbers of fediz-cxf-1.4.3 detected: 0
+
+Total CVE numbers of fediz-cxf-1.4.5 detected: 0
+
+Total CVE numbers of fediz-cxf-1.2.4 detected: 0
+
+Total CVE numbers of junrar-5.0.0 detected: 0
+
+Total CVE numbers of junrar-4.0.0 detected: 0
+
+Total CVE numbers of junrar-7.2.0 detected: 0
+
+Total CVE numbers of junrar-6.0.0 detected: 0
+
+Total CVE numbers of junrar-7.5.3 detected: 0
+
+Total CVE numbers of junrar-7.4.0 detected: 0
+
+Total CVE numbers of junrar-7.5.2 detected: 0
+
+Total CVE numbers of junrar-2.0.0 detected: 0
+
+Total CVE numbers of junrar-3.0.0 detected: 0
+
+Total CVE numbers of junrar-7.5.4 detected: 0
+
+Total CVE numbers of junrar-6.0.1 detected: 0
+
+Total CVE numbers of junrar-1.0.0 detected: 0
+
+Total CVE numbers of junrar-3.1.0 detected: 0
+
+Total CVE numbers of junrar-1.0.1 detected: 0
+
+Total CVE numbers of junrar-0.7 detected: 0
+
+Total CVE numbers of junrar-7.1.0 detected: 0
+
+Total CVE numbers of junrar-7.5.5 detected: 0
+
+Total CVE numbers of junrar-7.4.1 detected: 0
+
+Total CVE numbers of junrar-7.5.1 detected: 0
+
+Total CVE numbers of junrar-7.3.0 detected: 0
+
+Total CVE numbers of junrar-7.5.0 detected: 0
+
+Total CVE numbers of junrar-7.0.0 detected: 0
+
+Total CVE numbers of retrofit-2.9.0 detected: 0
+
+Total CVE numbers of retrofit-2.8.1 detected: 0
+
+Total CVE numbers of retrofit-2.7.2 detected: 0
+
+Total CVE numbers of retrofit-2.1.0 detected: 0
+
+Total CVE numbers of retrofit-2.3.0 detected: 0
+
+Total CVE numbers of retrofit-2.6.2 detected: 0
+
+Total CVE numbers of retrofit-2.10.0 detected: 0
+
+Total CVE numbers of retrofit-2.6.1 detected: 0
+
+Total CVE numbers of retrofit-2.11.0 detected: 0
+
+Total CVE numbers of retrofit-2.4.0 detected: 0
+
+Total CVE numbers of retrofit-2.8.0 detected: 0
+
+Total CVE numbers of retrofit-2.8.2 detected: 0
+
+Total CVE numbers of retrofit-2.5.0 detected: 0
+
+Total CVE numbers of retrofit-2.6.0 detected: 0
+
+Total CVE numbers of retrofit-2.2.0 detected: 0
+
+Total CVE numbers of retrofit-2.0.2 detected: 0
+
+Total CVE numbers of retrofit-2.7.0 detected: 0
+
+Total CVE numbers of retrofit-2.7.1 detected: 0
+
+Total CVE numbers of retrofit-2.6.3 detected: 0
+
+Total CVE numbers of retrofit-2.6.4 detected: 0
+
+Total CVE numbers of struts-core-1.3.8 detected: 0
+
+Total CVE numbers of struts-core-1.3.10 detected: 0
+
+Total CVE numbers of struts-core-1.3.5 detected: 0
+
+Total CVE numbers of struts-core-1.3.9 detected: 0
+
+Total CVE numbers of spring-web-3.0.2.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.33 detected: 0
+
+Total CVE numbers of spring-web-5.2.22.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.2.13.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.2.1.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.0 detected: 0
+
+Total CVE numbers of spring-web-5.0.19.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.2.12.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.3.28.RELEASE detected: 0
+
+Total CVE numbers of spring-web-3.2.14.RELEASE detected: 0
+
+Total CVE numbers of spring-web-2.0-m4 detected: 0
+
+Total CVE numbers of spring-web-5.3.4 detected: 0
+
+Total CVE numbers of spring-web-5.2.1.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.0.4.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.1.11 detected: 0
+
+Total CVE numbers of spring-web-4.2.3.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.1.3 detected: 0
+
+Total CVE numbers of spring-web-5.3.31 detected: 0
+
+Total CVE numbers of spring-web-4.3.18.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.0.10.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.0.0 detected: 0
+
+Total CVE numbers of spring-web-5.2.9.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.0.1 detected: 0
+
+Total CVE numbers of spring-web-1.2.3 detected: 0
+
+Total CVE numbers of spring-web-4.3.10.RELEASE detected: 0
+
+Total CVE numbers of spring-web-1.0 detected: 0
+
+Total CVE numbers of spring-web-4.1.8.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.28 detected: 0
+
+Total CVE numbers of spring-web-5.3.22 detected: 0
+
+Total CVE numbers of spring-web-3.0.3.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.0.12 detected: 0
+
+Total CVE numbers of spring-web-4.3.3.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.1.9.RELEASE detected: 0
+
+Total CVE numbers of spring-web-3.2.0.RELEASE detected: 0
+
+Total CVE numbers of spring-web-3.2.5.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.3.16.RELEASE detected: 0
+
+Total CVE numbers of spring-web-1.2.8 detected: 0
+
+Total CVE numbers of spring-web-4.3.27.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.3.0.RELEASE detected: 0
+
+Total CVE numbers of spring-web-2.0.4 detected: 0
+
+Total CVE numbers of spring-web-5.0.16.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.0.9 detected: 0
+
+Total CVE numbers of spring-web-3.2.18.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.35 detected: 0
+
+Total CVE numbers of spring-web-1.1.1 detected: 0
+
+Total CVE numbers of spring-web-4.0.8.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.2.15.RELEASE detected: 0
+
+Total CVE numbers of spring-web-1.2 detected: 0
+
+Total CVE numbers of spring-web-5.3.5 detected: 0
+
+Total CVE numbers of spring-web-3.1.4.RELEASE detected: 0
+
+Found CVE-2016-6652 in spring-web-5.1.4.RELEASE !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of spring-web-5.1.4.RELEASE detected: 2
+
+Found CVE-2016-6652 in spring-web-5.3.9 !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of spring-web-5.3.9 detected: 2
+
+Total CVE numbers of spring-web-3.1.2.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.3.1.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.1.7.RELEASE detected: 0
+
+Total CVE numbers of spring-web-2.0.2 detected: 0
+
+Total CVE numbers of spring-web-5.1.1.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.1.8 detected: 0
+
+Total CVE numbers of spring-web-1.1.4 detected: 0
+
+Total CVE numbers of spring-web-6.0.21 detected: 0
+
+Total CVE numbers of spring-web-4.3.13.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.14 detected: 0
+
+Total CVE numbers of spring-web-4.1.5.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.0.16 detected: 0
+
+Total CVE numbers of spring-web-4.3.4.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.0.22 detected: 0
+
+Total CVE numbers of spring-web-3.0.1.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.3.24.RELEASE detected: 0
+
+Total CVE numbers of spring-web-2.0.7 detected: 0
+
+Total CVE numbers of spring-web-5.2.20.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.10 detected: 0
+
+Total CVE numbers of spring-web-2.5.6.SEC03 detected: 0
+
+Total CVE numbers of spring-web-4.0.1.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.0.6 detected: 0
+
+Total CVE numbers of spring-web-1.1.5 detected: 0
+
+Total CVE numbers of spring-web-2.0-rc2 detected: 0
+
+Total CVE numbers of spring-web-1.2.6 detected: 0
+
+Total CVE numbers of spring-web-3.2.12.RELEASE detected: 0
+
+Total CVE numbers of spring-web-3.2.13.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.16 detected: 0
+
+Total CVE numbers of spring-web-4.2.7.RELEASE detected: 0
+
+Total CVE numbers of spring-web-1.1.2 detected: 0
+
+Total CVE numbers of spring-web-5.3.29 detected: 0
+
+Total CVE numbers of spring-web-5.2.25.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.3.25.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.2.9.RELEASE detected: 0
+
+Total CVE numbers of spring-web-1.2.7 detected: 0
+
+Total CVE numbers of spring-web-4.2.0.RELEASE detected: 0
+
+Total CVE numbers of spring-web-3.1.3.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.0.8 detected: 0
+
+Total CVE numbers of spring-web-5.0.3.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.3.21.RELEASE detected: 0
+
+Total CVE numbers of spring-web-1.2.5 detected: 0
+
+Total CVE numbers of spring-web-4.0.3.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.1.2 detected: 0
+
+Total CVE numbers of spring-web-4.3.29.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.0.5 detected: 0
+
+Total CVE numbers of spring-web-5.1.18.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.1.6 detected: 0
+
+Total CVE numbers of spring-web-5.0.13.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.1.17.RELEASE detected: 0
+
+Total CVE numbers of spring-web-2.0-m2 detected: 0
+
+Total CVE numbers of spring-web-4.0.0.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.1.20.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.0.15.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.0.1.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.3.14.RELEASE detected: 0
+
+Total CVE numbers of spring-web-3.2.2.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.0.7 detected: 0
+
+Total CVE numbers of spring-web-5.3.34 detected: 0
+
+Total CVE numbers of spring-web-3.2.8.RELEASE detected: 0
+
+Found CVE-2016-6652 in spring-web-5.2.16.RELEASE !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of spring-web-5.2.16.RELEASE detected: 2
+
+Total CVE numbers of spring-web-5.1.14.RELEASE detected: 0
+
+Total CVE numbers of spring-web-1.1.3 detected: 0
+
+Total CVE numbers of spring-web-3.0.4.RELEASE detected: 0
+
+Total CVE numbers of spring-web-1.1-rc1 detected: 0
+
+Total CVE numbers of spring-web-4.3.6.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.32 detected: 0
+
+Total CVE numbers of spring-web-4.1.4.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.0.18.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.1.0 detected: 0
+
+Total CVE numbers of spring-web-5.3.26 detected: 0
+
+Total CVE numbers of spring-web-3.2.16.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.17 detected: 0
+
+Total CVE numbers of spring-web-2.5.5 detected: 0
+
+Total CVE numbers of spring-web-4.0.4.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.2.21.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.1.5.RELEASE detected: 0
+
+Total CVE numbers of spring-web-2.0-m3 detected: 0
+
+Total CVE numbers of spring-web-5.3.2 detected: 0
+
+Total CVE numbers of spring-web-3.2.1.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.2.18.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.1.9 detected: 0
+
+Total CVE numbers of spring-web-6.0.3 detected: 0
+
+Total CVE numbers of spring-web-3.2.7.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.3.19.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.2.5.RELEASE detected: 0
+
+Found CVE-2016-6652 in spring-web-6.1.1 !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of spring-web-6.1.1 detected: 2
+
+Total CVE numbers of spring-web-5.3.24 detected: 0
+
+Total CVE numbers of spring-web-5.1.19.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.2.2.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.1.2.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.27 detected: 0
+
+Total CVE numbers of spring-web-5.3.37 detected: 0
+
+Total CVE numbers of spring-web-3.2.17.RELEASE detected: 0
+
+Total CVE numbers of spring-web-1.2.4 detected: 0
+
+Found CVE-2016-6652 in spring-web-2.5 !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of spring-web-2.5 detected: 2
+
+Total CVE numbers of spring-web-5.2.17.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.20 detected: 0
+
+Total CVE numbers of spring-web-1.1 detected: 0
+
+Total CVE numbers of spring-web-6.1.5 detected: 0
+
+Total CVE numbers of spring-web-5.3.6 detected: 0
+
+Total CVE numbers of spring-web-4.2.5.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.8 detected: 0
+
+Total CVE numbers of spring-web-5.3.7 detected: 0
+
+Total CVE numbers of spring-web-6.0.15 detected: 0
+
+Total CVE numbers of spring-web-4.3.23.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.2.6.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.3.15.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.0.9.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.3.20.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.0.11 detected: 0
+
+Total CVE numbers of spring-web-4.0.2.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.2.4.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.0.8.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.0.0.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.2.24.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.1.6.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.13 detected: 0
+
+Total CVE numbers of spring-web-5.3.12 detected: 0
+
+Found CVE-2016-6652 in spring-web-5.1.11.RELEASE !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of spring-web-5.1.11.RELEASE detected: 2
+
+Total CVE numbers of spring-web-4.3.2.RELEASE detected: 0
+
+Total CVE numbers of spring-web-1.2.1 detected: 0
+
+Total CVE numbers of spring-web-5.2.6.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.0.17 detected: 0
+
+Total CVE numbers of spring-web-4.2.2.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.1.16.RELEASE detected: 0
+
+Total CVE numbers of spring-web-3.2.10.RELEASE detected: 0
+
+Total CVE numbers of spring-web-2.5.3 detected: 0
+
+Total CVE numbers of spring-web-2.0-m5 detected: 0
+
+Total CVE numbers of spring-web-5.2.14.RELEASE detected: 0
+
+Total CVE numbers of spring-web-3.2.4.RELEASE detected: 0
+
+Total CVE numbers of spring-web-2.0.5 detected: 0
+
+Total CVE numbers of spring-web-2.0.1 detected: 0
+
+Total CVE numbers of spring-web-5.3.30 detected: 0
+
+Total CVE numbers of spring-web-2.5.6.SEC01 detected: 0
+
+Total CVE numbers of spring-web-1.0-rc1 detected: 0
+
+Total CVE numbers of spring-web-4.1.2.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.3.8.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.21 detected: 0
+
+Total CVE numbers of spring-web-2.0.3 detected: 0
+
+Total CVE numbers of spring-web-6.0.19 detected: 0
+
+Total CVE numbers of spring-web-4.0.5.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.0.7.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.0.7.RELEASE detected: 0
+
+Total CVE numbers of spring-web-1.0.1 detected: 0
+
+Total CVE numbers of spring-web-4.0.9.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.3.7.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.3.9.RELEASE detected: 0
+
+Total CVE numbers of spring-web-1.2.2 detected: 0
+
+Total CVE numbers of spring-web-5.1.7.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.3.26.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.25 detected: 0
+
+Total CVE numbers of spring-web-4.1.0.RELEASE detected: 0
+
+Total CVE numbers of spring-web-3.2.6.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.1.3.RELEASE detected: 0
+
+Total CVE numbers of spring-web-3.0.0.RELEASE detected: 0
+
+Total CVE numbers of spring-web-3.0.7.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.1.4 detected: 0
+
+Total CVE numbers of spring-web-2.5.2 detected: 0
+
+Total CVE numbers of spring-web-6.0.14 detected: 0
+
+Total CVE numbers of spring-web-5.3.19 detected: 0
+
+Total CVE numbers of spring-web-5.1.12.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.2.19.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.23 detected: 0
+
+Total CVE numbers of spring-web-3.1.0.RELEASE detected: 0
+
+Total CVE numbers of spring-web-2.5.4 detected: 0
+
+Total CVE numbers of spring-web-5.3.1 detected: 0
+
+Total CVE numbers of spring-web-6.1.10 detected: 0
+
+Total CVE numbers of spring-web-4.2.8.RELEASE detected: 0
+
+Total CVE numbers of spring-web-1.2-rc1 detected: 0
+
+Total CVE numbers of spring-web-5.3.36 detected: 0
+
+Total CVE numbers of spring-web-5.0.17.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.1.13.RELEASE detected: 0
+
+Total CVE numbers of spring-web-2.0-rc1 detected: 0
+
+Total CVE numbers of spring-web-4.1.3.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.2.0.RELEASE detected: 0
+
+Total CVE numbers of spring-web-1.2.9 detected: 0
+
+Total CVE numbers of spring-web-2.5.6.SEC02 detected: 0
+
+Total CVE numbers of spring-web-2.5.6 detected: 0
+
+Total CVE numbers of spring-web-3.0.5.RELEASE detected: 0
+
+Total CVE numbers of spring-web-3.1.1.RELEASE detected: 0
+
+Total CVE numbers of spring-web-2.0 detected: 0
+
+Total CVE numbers of spring-web-2.0.6 detected: 0
+
+Total CVE numbers of spring-web-4.3.12.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.0.2 detected: 0
+
+Total CVE numbers of spring-web-5.3.15 detected: 0
+
+Total CVE numbers of spring-web-5.1.0.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.2.23.RELEASE detected: 0
+
+Total CVE numbers of spring-web-3.2.11.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.1.1.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.1.8.RELEASE detected: 0
+
+Total CVE numbers of spring-web-3.2.15.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.2.8.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.0.20 detected: 0
+
+Total CVE numbers of spring-web-5.2.4.RELEASE detected: 0
+
+Total CVE numbers of spring-web-1.1-rc2 detected: 0
+
+Total CVE numbers of spring-web-5.1.10.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.0.14.RELEASE detected: 0
+
+Total CVE numbers of spring-web-3.2.9.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.3.11.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.3 detected: 0
+
+Total CVE numbers of spring-web-6.0.13 detected: 0
+
+Total CVE numbers of spring-web-4.3.22.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.0.20.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.0.11.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.1.7 detected: 0
+
+Total CVE numbers of spring-web-1.2-rc2 detected: 0
+
+Total CVE numbers of spring-web-5.2.11.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.1.15.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.2.7.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.11 detected: 0
+
+Total CVE numbers of spring-web-5.1.6.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.0.6.RELEASE detected: 0
+
+Total CVE numbers of spring-web-2.0-m1 detected: 0
+
+Total CVE numbers of spring-web-2.0.8 detected: 0
+
+Total CVE numbers of spring-web-5.1.9.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.0.18 detected: 0
+
+Total CVE numbers of spring-web-6.0.4 detected: 0
+
+Total CVE numbers of spring-web-4.3.30.RELEASE detected: 0
+
+Total CVE numbers of spring-web-3.0.6.RELEASE detected: 0
+
+Total CVE numbers of spring-web-3.2.3.RELEASE detected: 0
+
+Found CVE-2016-6652 in spring-web-5.0.5.RELEASE !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of spring-web-5.0.5.RELEASE detected: 2
+
+Total CVE numbers of spring-web-5.0.2.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.2.10.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.2.3.RELEASE detected: 0
+
+Total CVE numbers of spring-web-5.3.18 detected: 0
+
+Total CVE numbers of spring-web-5.0.6.RELEASE detected: 0
+
+Total CVE numbers of spring-web-6.0.10 detected: 0
+
+Total CVE numbers of spring-web-4.3.5.RELEASE detected: 0
+
+Total CVE numbers of spring-web-2.5.1 detected: 0
+
+Total CVE numbers of spring-web-5.0.12.RELEASE detected: 0
+
+Total CVE numbers of spring-web-4.3.17.RELEASE detected: 0
+
+Total CVE numbers of proton-j-0.30.0 detected: 0
+
+Total CVE numbers of proton-j-0.33.10 detected: 0
+
+Total CVE numbers of proton-j-0.28.1 detected: 0
+
+Total CVE numbers of proton-j-0.29.0 detected: 0
+
+Total CVE numbers of proton-j-0.32.0 detected: 0
+
+Total CVE numbers of proton-j-0.33.8 detected: 0
+
+Total CVE numbers of proton-j-0.34.1 detected: 0
+
+Total CVE numbers of proton-j-0.33.7 detected: 0
+
+Total CVE numbers of proton-j-0.34.0 detected: 0
+
+Total CVE numbers of proton-j-0.33.2 detected: 0
+
+Total CVE numbers of proton-j-0.33.3 detected: 0
+
+Total CVE numbers of proton-j-0.33.6 detected: 0
+
+Total CVE numbers of proton-j-0.33.9 detected: 0
+
+Total CVE numbers of proton-j-0.33.1 detected: 0
+
+Total CVE numbers of proton-j-0.28.0 detected: 0
+
+Total CVE numbers of proton-j-0.33.4 detected: 0
+
+Total CVE numbers of proton-j-0.33.5 detected: 0
+
+Total CVE numbers of proton-j-0.27.3 detected: 0
+
+Total CVE numbers of proton-j-0.31.0 detected: 0
+
+Total CVE numbers of proton-j-0.33.0 detected: 0
+
+Total CVE numbers of androidsvg-1.0.170 detected: 0
+
+Total CVE numbers of androidsvg-1.1.182 detected: 0
+
+Total CVE numbers of androidsvg-1.2.0 detected: 0
+
+Total CVE numbers of androidsvg-1.2.1 detected: 0
+
+Total CVE numbers of androidsvg-1.4 detected: 0
+
+Total CVE numbers of androidsvg-1.3 detected: 0
+
+Total CVE numbers of androidsvg-1.2.2-beta-1 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.22.0 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.5.9 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.7.6 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.20.0 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.5.8 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.30.0 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.10.1 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.27.0 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.23.0 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.5.7 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.21.0 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.26.0 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.10.2 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.25.0 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.12.4 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.7.5 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.12.3 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.24.0 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.19.2 detected: 0
+
+Total CVE numbers of cloudfoundry-identity-model-4.5.6 detected: 0
+
+Total CVE numbers of hibernate-validator-7.0.3.Final detected: 0
+
+Total CVE numbers of hibernate-validator-7.0.2.Final detected: 0
+
+Total CVE numbers of hibernate-validator-8.0.0.CR3 detected: 0
+
+Total CVE numbers of hibernate-validator-6.2.3.Final detected: 0
+
+Total CVE numbers of hibernate-validator-8.0.0.Alpha3 detected: 0
+
+Total CVE numbers of hibernate-validator-8.0.0.Alpha1 detected: 0
+
+Total CVE numbers of hibernate-validator-8.0.0.Final detected: 0
+
+Total CVE numbers of hibernate-validator-6.2.5.Final detected: 0
+
+Total CVE numbers of hibernate-validator-6.2.2.Final detected: 0
+
+Total CVE numbers of hibernate-validator-8.0.0.CR2 detected: 0
+
+Total CVE numbers of hibernate-validator-8.0.1.Final detected: 0
+
+Total CVE numbers of hibernate-validator-8.0.0.CR1 detected: 0
+
+Total CVE numbers of hibernate-validator-6.2.4.Final detected: 0
+
+Total CVE numbers of hibernate-validator-6.0.23.Final detected: 0
+
+Total CVE numbers of hibernate-validator-7.0.5.Final detected: 0
+
+Total CVE numbers of hibernate-validator-6.2.1.Final detected: 0
+
+Total CVE numbers of hibernate-validator-7.0.4.Final detected: 0
+
+Total CVE numbers of hibernate-validator-8.0.0.Alpha2 detected: 0
+
+Total CVE numbers of hibernate-validator-6.2.0.Final detected: 0
+
+Total CVE numbers of hibernate-validator-7.0.1.Final detected: 0
+
+Total CVE numbers of spring-cloud-sso-connector-2.1.2.RELEASE detected: 0
+
+Total CVE numbers of spring-cloud-sso-connector-2.0.0.RELEASE detected: 0
+
+Total CVE numbers of spring-cloud-sso-connector-1.1.0.RELEASE detected: 0
+
+Total CVE numbers of spring-cloud-sso-connector-1.0.2.RELEASE detected: 0
+
+Total CVE numbers of spring-cloud-sso-connector-1.0.0.RC3 detected: 0
+
+Total CVE numbers of spring-cloud-sso-connector-2.1.0.RELEASE detected: 0
+
+Total CVE numbers of spring-cloud-sso-connector-2.1.3.RELEASE detected: 0
+
+Total CVE numbers of spring-cloud-sso-connector-2.1.1.RELEASE detected: 0
+
+Total CVE numbers of xalan-2.7.3 detected: 0
+
+Total CVE numbers of xalan-2.7.2 detected: 0
+
+Total CVE numbers of xalan-2.4.0 detected: 0
+
+Total CVE numbers of xalan-2.5.0 detected: 0
+
+Total CVE numbers of xalan-2.1.0 detected: 0
+
+Total CVE numbers of xalan-2.5.D1 detected: 0
+
+Total CVE numbers of xalan-2.7.0 detected: 0
+
+Total CVE numbers of xalan-2.6.0 detected: 0
+
+Total CVE numbers of xalan-2.7.1 detected: 0
+
+Total CVE numbers of xalan-2.5.1 detected: 0
+
+Total CVE numbers of xalan-2.3.1 detected: 0
+
+Total CVE numbers of xalan-2.4.1 detected: 0
+
+Total CVE numbers of plexus-archiver-4.2.4 detected: 0
+
+Total CVE numbers of plexus-archiver-4.7.0 detected: 0
+
+Total CVE numbers of plexus-archiver-4.9.0 detected: 0
+
+Total CVE numbers of plexus-archiver-4.2.3 detected: 0
+
+Total CVE numbers of plexus-archiver-4.2.5 detected: 0
+
+Total CVE numbers of plexus-archiver-4.9.1 detected: 0
+
+Total CVE numbers of plexus-archiver-4.2.2 detected: 0
+
+Total CVE numbers of plexus-archiver-4.3.0 detected: 0
+
+Total CVE numbers of plexus-archiver-4.9.2 detected: 0
+
+Total CVE numbers of plexus-archiver-4.10.0 detected: 0
+
+Total CVE numbers of plexus-archiver-4.4.0 detected: 0
+
+Total CVE numbers of plexus-archiver-4.2.6 detected: 0
+
+Total CVE numbers of plexus-archiver-4.6.3 detected: 0
+
+Total CVE numbers of plexus-archiver-4.7.1 detected: 0
+
+Total CVE numbers of plexus-archiver-4.8.0 detected: 0
+
+Total CVE numbers of plexus-archiver-4.5.0 detected: 0
+
+Total CVE numbers of plexus-archiver-4.6.0 detected: 0
+
+Total CVE numbers of plexus-archiver-4.6.1 detected: 0
+
+Total CVE numbers of plexus-archiver-4.6.2 detected: 0
+
+Total CVE numbers of plexus-archiver-4.2.7 detected: 0
+
+Total CVE numbers of pdfbox-2.0.18 detected: 0
+
+Total CVE numbers of pdfbox-2.0.16 detected: 0
+
+Total CVE numbers of pdfbox-2.0.7 detected: 0
+
+Total CVE numbers of pdfbox-1.0.0 detected: 0
+
+Total CVE numbers of pdfbox-0.8.0-incubating detected: 0
+
+Total CVE numbers of pdfbox-1.3.1 detected: 0
+
+Total CVE numbers of pdfbox-1.8.5 detected: 0
+
+Total CVE numbers of pdfbox-2.0.22 detected: 0
+
+Total CVE numbers of pdfbox-2.0.11 detected: 0
+
+Total CVE numbers of pdfbox-1.8.13 detected: 0
+
+Total CVE numbers of pdfbox-1.8.7 detected: 0
+
+Total CVE numbers of pdfbox-1.8.12 detected: 0
+
+Total CVE numbers of pdfbox-2.0.0-RC3 detected: 0
+
+Total CVE numbers of pdfbox-2.0.0-RC2 detected: 0
+
+Total CVE numbers of pdfbox-3.0.0-RC1 detected: 0
+
+Total CVE numbers of pdfbox-2.0.31 detected: 0
+
+Total CVE numbers of pdfbox-2.0.12 detected: 0
+
+Total CVE numbers of pdfbox-3.0.0-alpha2 detected: 0
+
+Total CVE numbers of pdfbox-1.4.0 detected: 0
+
+Total CVE numbers of pdfbox-2.0.17 detected: 0
+
+Total CVE numbers of pdfbox-1.8.9 detected: 0
+
+Total CVE numbers of pdfbox-2.0.15 detected: 0
+
+Total CVE numbers of pdfbox-1.8.1 detected: 0
+
+Total CVE numbers of pdfbox-3.0.0-alpha3 detected: 0
+
+Total CVE numbers of pdfbox-2.0.13 detected: 0
+
+Total CVE numbers of pdfbox-2.0.21 detected: 0
+
+Total CVE numbers of pdfbox-2.0.30 detected: 0
+
+Total CVE numbers of pdfbox-2.0.5 detected: 0
+
+Total CVE numbers of pdfbox-1.8.11 detected: 0
+
+Total CVE numbers of pdfbox-2.0.4 detected: 0
+
+Total CVE numbers of pdfbox-2.0.24 detected: 0
+
+Total CVE numbers of pdfbox-1.8.17 detected: 0
+
+Total CVE numbers of pdfbox-1.8.15 detected: 0
+
+Total CVE numbers of pdfbox-1.8.8 detected: 0
+
+Total CVE numbers of pdfbox-3.0.2 detected: 0
+
+Total CVE numbers of pdfbox-2.0.28 detected: 0
+
+Total CVE numbers of pdfbox-2.0.25 detected: 0
+
+Total CVE numbers of pdfbox-3.0.1 detected: 0
+
+Total CVE numbers of pdfbox-1.1.0 detected: 0
+
+Total CVE numbers of pdfbox-1.6.0 detected: 0
+
+Total CVE numbers of pdfbox-2.0.8 detected: 0
+
+Total CVE numbers of pdfbox-2.0.6 detected: 0
+
+Total CVE numbers of pdfbox-2.0.3 detected: 0
+
+Total CVE numbers of pdfbox-1.8.4 detected: 0
+
+Total CVE numbers of pdfbox-2.0.14 detected: 0
+
+Total CVE numbers of pdfbox-3.0.0 detected: 0
+
+Total CVE numbers of pdfbox-1.8.6 detected: 0
+
+Total CVE numbers of pdfbox-2.0.0 detected: 0
+
+Total CVE numbers of pdfbox-1.2.1 detected: 0
+
+Total CVE numbers of pdfbox-1.8.14 detected: 0
+
+Total CVE numbers of pdfbox-1.7.0 detected: 0
+
+Total CVE numbers of pdfbox-2.0.10 detected: 0
+
+Total CVE numbers of pdfbox-2.0.20 detected: 0
+
+Total CVE numbers of pdfbox-1.8.16 detected: 0
+
+Total CVE numbers of pdfbox-1.7.1 detected: 0
+
+Total CVE numbers of pdfbox-1.2.0 detected: 0
+
+Total CVE numbers of pdfbox-1.5.0 detected: 0
+
+Total CVE numbers of pdfbox-2.0.23 detected: 0
+
+Total CVE numbers of pdfbox-2.0.0-RC1 detected: 0
+
+Total CVE numbers of pdfbox-2.0.1 detected: 0
+
+Total CVE numbers of pdfbox-1.8.10 detected: 0
+
+Total CVE numbers of pdfbox-2.0.26 detected: 0
+
+Total CVE numbers of pdfbox-3.0.0-beta1 detected: 0
+
+Found CVE-2016-6652 in pdfbox-2.0.27 !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of pdfbox-2.0.27 detected: 2
+
+Total CVE numbers of pdfbox-1.8.0 detected: 0
+
+Total CVE numbers of pdfbox-2.0.9 detected: 0
+
+Total CVE numbers of pdfbox-2.0.2 detected: 0
+
+Total CVE numbers of pdfbox-1.8.3 detected: 0
+
+Total CVE numbers of pdfbox-1.8.2 detected: 0
+
+Found CVE-2016-6652 in pdfbox-2.0.29 !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of pdfbox-2.0.29 detected: 2
+
+Total CVE numbers of pdfbox-2.0.19 detected: 0
+
+Total CVE numbers of derby-10.10.2.0 detected: 0
+
+Total CVE numbers of derby-10.8.3.0 detected: 0
+
+Total CVE numbers of derby-10.13.1.1 detected: 0
+
+Total CVE numbers of derby-10.14.1.0 detected: 0
+
+Total CVE numbers of derby-10.11.1.1 detected: 0
+
+Total CVE numbers of derby-10.9.1.0 detected: 0
+
+Total CVE numbers of derby-10.6.2.1 detected: 0
+
+Total CVE numbers of derby-10.12.1.1 detected: 0
+
+Total CVE numbers of derby-10.7.1.1 detected: 0
+
+Total CVE numbers of derby-10.15.2.0 detected: 0
+
+Total CVE numbers of derby-10.17.1.0 detected: 0
+
+Total CVE numbers of derby-10.8.2.2 detected: 0
+
+Total CVE numbers of derby-10.5.3.0_1 detected: 0
+
+Total CVE numbers of derby-10.10.1.1 detected: 0
+
+Total CVE numbers of derby-10.14.2.0 detected: 0
+
+Total CVE numbers of derby-10.15.1.3 detected: 0
+
+Total CVE numbers of derby-10.8.1.2 detected: 0
+
+Total CVE numbers of derby-10.16.1.1 detected: 0
+
+Total CVE numbers of derby-10.5.3.0 detected: 0
+
+Total CVE numbers of derby-10.6.1.0 detected: 0
+
+Found CVE-2013-1965 in xwork-core-2.3.7 !
+Match! Method isEvalExpression in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method isEvalExpression in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method setValue in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method setValue in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Total CVE numbers of xwork-core-2.3.7 detected: 2
+
+Total CVE numbers of xwork-core-2.3.31 detected: 0
+
+Total CVE numbers of xwork-core-2.2.3 detected: 0
+
+Total CVE numbers of xwork-core-2.3.15.2 detected: 0
+
+Found CVE-2013-1965 in xwork-core-2.3.14 !
+Match! Method isEvalExpression in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method isEvalExpression in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method setValue in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method setValue in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Total CVE numbers of xwork-core-2.3.14 detected: 2
+
+Total CVE numbers of xwork-core-2.3.32 detected: 0
+
+Total CVE numbers of xwork-core-2.3.24.3 detected: 0
+
+Found CVE-2013-1965 in xwork-core-2.3.4 !
+Match! Method isEvalExpression in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method isEvalExpression in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method setValue in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method setValue in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Total CVE numbers of xwork-core-2.3.4 detected: 2
+
+Found CVE-2013-1965 in xwork-core-2.3.4.1 !
+Match! Method isEvalExpression in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method isEvalExpression in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method setValue in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method setValue in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Total CVE numbers of xwork-core-2.3.4.1 detected: 2
+
+Total CVE numbers of xwork-core-2.3.37 detected: 0
+
+Total CVE numbers of xwork-core-2.2.3.1 detected: 0
+
+Total CVE numbers of xwork-core-2.3.16 detected: 0
+
+Total CVE numbers of xwork-core-2.3.15.3 detected: 0
+
+Total CVE numbers of xwork-core-2.3.16.1 detected: 0
+
+Total CVE numbers of xwork-core-2.3.14.2 detected: 0
+
+Total CVE numbers of xwork-core-2.3.34 detected: 0
+
+Total CVE numbers of xwork-core-2.2.1.1 detected: 0
+
+Found CVE-2013-1965 in xwork-core-2.3.1.2 !
+Match! Method isEvalExpression in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method isEvalExpression in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method setValue in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method setValue in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Total CVE numbers of xwork-core-2.3.1.2 detected: 2
+
+Total CVE numbers of xwork-core-2.3.1 detected: 0
+
+Total CVE numbers of xwork-core-2.3.20 detected: 0
+
+Total CVE numbers of xwork-core-2.3.15.1 detected: 0
+
+Total CVE numbers of xwork-core-2.3.16.2 detected: 0
+
+Found CVE-2013-1965 in xwork-core-2.3.12 !
+Match! Method isEvalExpression in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method isEvalExpression in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method setValue in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method setValue in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Total CVE numbers of xwork-core-2.3.12 detected: 2
+
+Total CVE numbers of xwork-core-2.3.14.1 detected: 0
+
+Total CVE numbers of xwork-core-2.3.28 detected: 0
+
+Found CVE-2016-6652 in xwork-core-2.3.20.1 !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of xwork-core-2.3.20.1 detected: 2
+
+Total CVE numbers of xwork-core-2.3.35 detected: 0
+
+Total CVE numbers of xwork-core-2.3.24.1 detected: 0
+
+Total CVE numbers of xwork-core-2.3.15 detected: 0
+
+Total CVE numbers of xwork-core-2.3.16.3 detected: 0
+
+Total CVE numbers of xwork-core-2.3.14.3 detected: 0
+
+Total CVE numbers of xwork-core-2.3.24 detected: 0
+
+Total CVE numbers of xwork-core-2.2.1 detected: 0
+
+Found CVE-2013-1965 in xwork-core-2.3.8 !
+Match! Method isEvalExpression in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method isEvalExpression in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method setValue in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method setValue in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Total CVE numbers of xwork-core-2.3.8 detected: 2
+
+Total CVE numbers of xwork-core-2.3.33 detected: 0
+
+Total CVE numbers of xwork-core-2.3.30 detected: 0
+
+Total CVE numbers of xwork-core-2.3.36 detected: 0
+
+Total CVE numbers of xwork-core-2.3.1.1 detected: 0
+
+Total CVE numbers of xwork-core-2.3.20.3 detected: 0
+
+Total CVE numbers of xwork-core-2.3.29 detected: 0
+
+Total CVE numbers of xwork-core-2.3.28.1 detected: 0
+
+Found CVE-2013-1965 in xwork-core-2.3.3 !
+Match! Method isEvalExpression in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method isEvalExpression in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method setValue in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Match! Method setValue in file com/opensymphony/xwork2/ognl/OgnlUtil.java is homologous with CVE-2013-1965
+Total CVE numbers of xwork-core-2.3.3 detected: 2
+
+Total CVE numbers of prime-jwt-1.1.0 detected: 0
+
+Total CVE numbers of prime-jwt-1.3.0 detected: 0
+
+Total CVE numbers of prime-jwt-2.0.0 detected: 0
+
+Total CVE numbers of prime-jwt-1.2.0 detected: 0
+
+Total CVE numbers of prime-jwt-1.0.0 detected: 0
+
+Total CVE numbers of prime-jwt-1.2.1 detected: 0
+
+Total CVE numbers of prime-jwt-1.3.1 detected: 0
+
+Total CVE numbers of prime-jwt-0.2.1 detected: 0
+
+Total CVE numbers of sonar-server-6.7-RC1 detected: 0
+
+Total CVE numbers of sonar-server-7.0-RC1 detected: 0
+
+Total CVE numbers of sonar-server-6.7 detected: 0
+
+Total CVE numbers of sonar-server-6.7.1 detected: 0
+
+Total CVE numbers of sonar-server-6.4 detected: 0
+
+Total CVE numbers of sonar-server-6.5-RC1 detected: 0
+
+Total CVE numbers of sonar-server-6.7.3 detected: 0
+
+Total CVE numbers of sonar-server-6.7.4 detected: 0
+
+Total CVE numbers of sonar-server-7.2 detected: 0
+
+Total CVE numbers of sonar-server-6.6 detected: 0
+
+Total CVE numbers of sonar-server-7.2.1 detected: 0
+
+Total CVE numbers of sonar-server-6.6-RC1 detected: 0
+
+Total CVE numbers of sonar-server-7.0 detected: 0
+
+Total CVE numbers of sonar-server-5.6.7 detected: 0
+
+Total CVE numbers of sonar-server-6.5-RC2 detected: 0
+
+Total CVE numbers of sonar-server-6.7.6 detected: 0
+
+Total CVE numbers of sonar-server-6.5 detected: 0
+
+Total CVE numbers of sonar-server-6.7.7 detected: 0
+
+Total CVE numbers of sonar-server-7.1 detected: 0
+
+Total CVE numbers of sonar-server-6.7.5 detected: 0
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.27.0 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.27.0 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.7.6 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.7.6 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.26.0 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.26.0 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.5.7 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.5.7 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.19.2 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.19.2 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.24.0 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.24.0 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.5.9 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.5.9 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.10.2 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.10.2 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.23.0 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.23.0 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.21.0 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.21.0 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.10.1 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.10.1 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.25.0 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.25.0 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.12.3 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.12.3 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.30.0 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.30.0 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.5.6 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.5.6 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.12.4 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.12.4 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.5.8 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.5.8 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.7.5 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.7.5 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.20.0 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.20.0 detected: 1
+
+Found CVE-2018-1190 in cloudfoundry-identity-server-4.22.0 !
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Match! Method session in file org/cloudfoundry/identity/uaa/login/SessionController.java is homologous with CVE-2018-1190
+Total CVE numbers of cloudfoundry-identity-server-4.22.0 detected: 1
+
+Total CVE numbers of activemq-web-6.1.2 detected: 0
+
+Total CVE numbers of activemq-web-5.17.5 detected: 0
+
+Total CVE numbers of activemq-web-5.18.4 detected: 0
+
+Total CVE numbers of activemq-web-5.17.2 detected: 0
+
+Total CVE numbers of activemq-web-6.0.0 detected: 0
+
+Total CVE numbers of activemq-web-5.17.3 detected: 0
+
+Total CVE numbers of activemq-web-5.17.6 detected: 0
+
+Total CVE numbers of activemq-web-5.16.7 detected: 0
+
+Total CVE numbers of activemq-web-5.18.2 detected: 0
+
+Total CVE numbers of activemq-web-5.18.3 detected: 0
+
+Total CVE numbers of activemq-web-5.16.6 detected: 0
+
+Total CVE numbers of activemq-web-5.15.16 detected: 0
+
+Total CVE numbers of activemq-web-5.18.0 detected: 0
+
+Total CVE numbers of activemq-web-5.16.5 detected: 0
+
+Total CVE numbers of activemq-web-6.0.1 detected: 0
+
+Total CVE numbers of activemq-web-6.1.1 detected: 0
+
+Total CVE numbers of activemq-web-5.17.1 detected: 0
+
+Total CVE numbers of activemq-web-6.1.0 detected: 0
+
+Total CVE numbers of activemq-web-5.18.1 detected: 0
+
+Total CVE numbers of activemq-web-5.17.4 detected: 0
+
+Total CVE numbers of wildfly-deployment-repository-24.0.0.Beta3 detected: 0
+
+Total CVE numbers of wildfly-deployment-repository-23.0.0.Beta5 detected: 0
+
+Total CVE numbers of wildfly-deployment-repository-23.0.0.Final detected: 0
+
+Total CVE numbers of wildfly-deployment-repository-23.0.0.Beta3 detected: 0
+
+Total CVE numbers of wildfly-deployment-repository-25.0.0.Beta2 detected: 0
+
+Total CVE numbers of wildfly-deployment-repository-24.0.0.Beta1 detected: 0
+
+Total CVE numbers of wildfly-deployment-repository-24.0.1.Final detected: 0
+
+Total CVE numbers of wildfly-deployment-repository-23.0.0.Beta2 detected: 0
+
+Total CVE numbers of wildfly-deployment-repository-24.0.0.Beta2 detected: 0
+
+Total CVE numbers of wildfly-deployment-repository-23.0.1.Final detected: 0
+
+Total CVE numbers of wildfly-deployment-repository-23.0.3.Final detected: 0
+
+Total CVE numbers of wildfly-deployment-repository-23.0.0.Beta4 detected: 0
+
+Total CVE numbers of wildfly-deployment-repository-22.0.2.Final detected: 0
+
+Total CVE numbers of wildfly-deployment-repository-24.0.0.Final detected: 0
+
+Total CVE numbers of ignite-core-3.0.0-alpha3 detected: 0
+
+Total CVE numbers of ignite-core-3.0.0-beta1 detected: 0
+
+Total CVE numbers of ignite-core-2.11.0 detected: 0
+
+Total CVE numbers of ignite-core-2.13.0 detected: 0
+
+Total CVE numbers of ignite-core-2.9.1 detected: 0
+
+Total CVE numbers of ignite-core-2.14.0 detected: 0
+
+Total CVE numbers of ignite-core-2.10.0 detected: 0
+
+Total CVE numbers of ignite-core-2.16.0 detected: 0
+
+Total CVE numbers of ignite-core-2.8.1 detected: 0
+
+Total CVE numbers of ignite-core-2.11.1 detected: 0
+
+Total CVE numbers of ignite-core-2.8.0 detected: 0
+
+Total CVE numbers of ignite-core-3.0.0-alpha4 detected: 0
+
+Total CVE numbers of ignite-core-3.0.0-alpha5 detected: 0
+
+Total CVE numbers of ignite-core-2.15.0 detected: 0
+
+Total CVE numbers of ignite-core-2.12.0 detected: 0
+
+Total CVE numbers of ignite-core-3.0.0-alpha2 detected: 0
+
+Total CVE numbers of ignite-core-2.7.0 detected: 0
+
+Total CVE numbers of ignite-core-2.9.0 detected: 0
+
+Total CVE numbers of ignite-core-2.7.6 detected: 0
+
+Total CVE numbers of ignite-core-2.7.5 detected: 0
+
+Total CVE numbers of commons-collections4-4.0 detected: 0
+
+Total CVE numbers of commons-collections4-4.5.0-M1 detected: 0
+
+Total CVE numbers of commons-collections4-4.4 detected: 0
+
+Total CVE numbers of commons-collections4-4.2 detected: 0
+
+Total CVE numbers of commons-collections4-4.5.0-M2 detected: 0
+
+Total CVE numbers of commons-collections4-4.1 detected: 0
+
+Total CVE numbers of commons-collections4-4.3 detected: 0
+
+Total CVE numbers of opentsdb-2.3.2 detected: 0
+
+Total CVE numbers of opentsdb-2.4.0 detected: 0
+
+Total CVE numbers of opentsdb-2.3.1 detected: 0
+
+Total CVE numbers of opentsdb-2.2.0RC1 detected: 0
+
+Total CVE numbers of opentsdb-2.2.1 detected: 0
+
+Total CVE numbers of opentsdb-2.1.3 detected: 0
+
+Total CVE numbers of opentsdb-2.3.0-RC1 detected: 0
+
+Total CVE numbers of opentsdb-2.4.0RC1 detected: 0
+
+Total CVE numbers of opentsdb-2.2.2 detected: 0
+
+Total CVE numbers of opentsdb-2.3.0 detected: 0
+
+Total CVE numbers of opentsdb-2.4.1 detected: 0
+
+Total CVE numbers of opentsdb-2.3.0-RC2 detected: 0
+
+Total CVE numbers of opentsdb-2.2.0 detected: 0
+
+Total CVE numbers of spring-websocket-6.1.8 detected: 0
+
+Total CVE numbers of spring-websocket-6.0.17 detected: 0
+
+Total CVE numbers of spring-websocket-6.0.19 detected: 0
+
+Total CVE numbers of spring-websocket-6.0.18 detected: 0
+
+Total CVE numbers of spring-websocket-5.3.32 detected: 0
+
+Total CVE numbers of spring-websocket-5.3.34 detected: 0
+
+Total CVE numbers of spring-websocket-6.1.5 detected: 0
+
+Total CVE numbers of spring-websocket-5.3.36 detected: 0
+
+Total CVE numbers of spring-websocket-6.1.11 detected: 0
+
+Total CVE numbers of spring-websocket-6.1.4 detected: 0
+
+Total CVE numbers of spring-websocket-6.1.9 detected: 0
+
+Total CVE numbers of spring-websocket-6.1.6 detected: 0
+
+Total CVE numbers of spring-websocket-6.1.10 detected: 0
+
+Total CVE numbers of spring-websocket-5.3.35 detected: 0
+
+Total CVE numbers of spring-websocket-6.0.21 detected: 0
+
+Total CVE numbers of spring-websocket-5.3.37 detected: 0
+
+Total CVE numbers of spring-websocket-6.1.7 detected: 0
+
+Total CVE numbers of spring-websocket-6.0.22 detected: 0
+
+Total CVE numbers of spring-websocket-5.3.33 detected: 0
+
+Total CVE numbers of spring-websocket-6.0.20 detected: 0
+
+Total CVE numbers of vertx-web-api-contract-4.4.1 detected: 0
+
+Total CVE numbers of vertx-web-api-contract-4.4.8 detected: 0
+
+Total CVE numbers of vertx-web-api-contract-4.5.7 detected: 0
+
+Total CVE numbers of vertx-web-api-contract-4.5.6 detected: 0
+
+Total CVE numbers of vertx-web-api-contract-3.9.16 detected: 0
+
+Total CVE numbers of vertx-web-api-contract-4.4.6 detected: 0
+
+Total CVE numbers of vertx-web-api-contract-4.4.5 detected: 0
+
+Total CVE numbers of vertx-web-api-contract-4.5.8 detected: 0
+
+Total CVE numbers of vertx-web-api-contract-4.5.1 detected: 0
+
+Total CVE numbers of vertx-web-api-contract-4.4.3 detected: 0
+
+Total CVE numbers of vertx-web-api-contract-4.5.5 detected: 0
+
+Total CVE numbers of vertx-web-api-contract-4.5.3 detected: 0
+
+Total CVE numbers of vertx-web-api-contract-4.4.4 detected: 0
+
+Total CVE numbers of vertx-web-api-contract-4.4.2 detected: 0
+
+Total CVE numbers of vertx-web-api-contract-4.5.2 detected: 0
+
+Total CVE numbers of vertx-web-api-contract-4.5.4 detected: 0
+
+Total CVE numbers of vertx-web-api-contract-4.5.0 detected: 0
+
+Total CVE numbers of vertx-web-api-contract-4.5.9 detected: 0
+
+Total CVE numbers of onos-core-common-2.5.2 detected: 0
+
+Total CVE numbers of onos-core-common-2.5.7-rc3 detected: 0
+
+Total CVE numbers of onos-core-common-2.6.0-rc4 detected: 0
+
+Total CVE numbers of onos-core-common-2.2.8 detected: 0
+
+Total CVE numbers of onos-core-common-2.6.0-rc5 detected: 0
+
+Total CVE numbers of onos-core-common-2.5.3 detected: 0
+
+Total CVE numbers of onos-core-common-2.5.5-rc1 detected: 0
+
+Total CVE numbers of onos-core-common-2.5.2-b2 detected: 0
+
+Total CVE numbers of onos-core-common-2.7.0 detected: 0
+
+Total CVE numbers of onos-core-common-2.5.7-rc2 detected: 0
+
+Total CVE numbers of onos-core-common-2.6.0-rc3 detected: 0
+
+Total CVE numbers of onos-core-common-2.2.8-b3 detected: 0
+
+Total CVE numbers of onos-core-common-2.5.7-rc1 detected: 0
+
+Total CVE numbers of onos-core-common-2.6.0 detected: 0
+
+Total CVE numbers of onos-core-common-2.5.2-b1 detected: 0
+
+Total CVE numbers of onos-core-common-2.5.9 detected: 0
+
+Total CVE numbers of onos-core-common-2.5.4 detected: 0
+
+Total CVE numbers of onos-core-common-2.5.6 detected: 0
+
+Total CVE numbers of onos-core-common-2.7.0-rc1 detected: 0
+
+Total CVE numbers of onos-core-common-2.5.5 detected: 0
+
+Total CVE numbers of cayenne-server-4.0.2 detected: 0
+
+Total CVE numbers of cayenne-server-4.1.RC2 detected: 0
+
+Total CVE numbers of cayenne-server-4.2.M1 detected: 0
+
+Total CVE numbers of cayenne-server-4.0.1 detected: 0
+
+Total CVE numbers of cayenne-server-4.0.3 detected: 0
+
+Total CVE numbers of cayenne-server-4.2.RC2 detected: 0
+
+Total CVE numbers of cayenne-server-4.0 detected: 0
+
+Total CVE numbers of cayenne-server-4.1.B1 detected: 0
+
+Total CVE numbers of cayenne-server-3.1.3 detected: 0
+
+Total CVE numbers of cayenne-server-4.2 detected: 0
+
+Total CVE numbers of cayenne-server-4.1.B2 detected: 0
+
+Total CVE numbers of cayenne-server-4.2.M3 detected: 0
+
+Total CVE numbers of cayenne-server-4.1.M2 detected: 0
+
+Total CVE numbers of cayenne-server-4.1.RC1 detected: 0
+
+Total CVE numbers of cayenne-server-4.2.1 detected: 0
+
+Total CVE numbers of cayenne-server-4.1.1 detected: 0
+
+Total CVE numbers of cayenne-server-4.2.M2 detected: 0
+
+Total CVE numbers of cayenne-server-4.1 detected: 0
+
+Total CVE numbers of cayenne-server-4.2.RC1 detected: 0
+
+Total CVE numbers of cayenne-server-4.2.B1 detected: 0
+
+Total CVE numbers of fediz-core-1.3.0 detected: 0
+
+Total CVE numbers of fediz-core-1.4.0 detected: 0
+
+Total CVE numbers of fediz-core-1.2.3 detected: 0
+
+Total CVE numbers of fediz-core-1.3.1 detected: 0
+
+Total CVE numbers of fediz-core-1.2.4 detected: 0
+
+Total CVE numbers of fediz-core-1.4.6 detected: 0
+
+Total CVE numbers of fediz-core-1.6.1 detected: 0
+
+Total CVE numbers of fediz-core-1.5.0 detected: 0
+
+Total CVE numbers of fediz-core-1.6.2 detected: 0
+
+Total CVE numbers of fediz-core-1.4.1 detected: 0
+
+Total CVE numbers of fediz-core-1.4.2 detected: 0
+
+Total CVE numbers of fediz-core-1.6.0 detected: 0
+
+Total CVE numbers of fediz-core-1.2.2 detected: 0
+
+Total CVE numbers of fediz-core-1.3.2 detected: 0
+
+Total CVE numbers of fediz-core-1.4.4 detected: 0
+
+Total CVE numbers of fediz-core-1.3.3 detected: 0
+
+Total CVE numbers of fediz-core-1.5.1 detected: 0
+
+Total CVE numbers of fediz-core-1.4.3 detected: 0
+
+Total CVE numbers of fediz-core-1.4.5 detected: 0
+
+Total CVE numbers of fediz-core-1.1.3 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.13.2 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.13.5 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.12.0 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.11.1 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.12.1 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.12.2 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.13.3 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.10.1 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.11.4 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.10.2 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.10.0 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.11.2 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.12.3 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.13.1 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.9.0 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.13.0 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.13.4 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.9.1 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.11.3 detected: 0
+
+Total CVE numbers of activemq-fileserver-5.11.0 detected: 0
+
+Total CVE numbers of forms-7.1.19 detected: 0
+
+Total CVE numbers of forms-7.1.18 detected: 0
+
+Total CVE numbers of forms-7.2.2 detected: 0
+
+Total CVE numbers of forms-7.2.5 detected: 0
+
+Total CVE numbers of forms-7.2.4 detected: 0
+
+Total CVE numbers of forms-7.2.3 detected: 0
+
+Total CVE numbers of forms-8.0.0 detected: 0
+
+Total CVE numbers of forms-8.0.2 detected: 0
+
+Total CVE numbers of forms-7.1.16 detected: 0
+
+Total CVE numbers of forms-7.1.12 detected: 0
+
+Total CVE numbers of forms-8.0.3 detected: 0
+
+Total CVE numbers of forms-7.2.1 detected: 0
+
+Total CVE numbers of forms-7.1.14 detected: 0
+
+Total CVE numbers of forms-7.2.0 detected: 0
+
+Total CVE numbers of forms-7.1.15 detected: 0
+
+Total CVE numbers of forms-7.2.6 detected: 0
+
+Total CVE numbers of forms-7.1.17 detected: 0
+
+Total CVE numbers of forms-8.0.4 detected: 0
+
+Total CVE numbers of forms-8.0.1 detected: 0
+
+Total CVE numbers of forms-7.1.13 detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.21.19 detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.21.22 detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.20.10 detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.20.12 detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.22.0 detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.20.14 detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.21.25 detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.21.16 detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.21.23 detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.21.21 detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.21.27-beta detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.21.17 detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.20.15 detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.21.24 detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.21.26-beta detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.20.13 detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.20.16 detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.20.11 detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.21.20 detected: 0
+
+Total CVE numbers of jackrabbit-webdav-2.21.18 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.9.7 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.11.5 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.10.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.15.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.1.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.6.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.1.0 detected: 0
+
+Total CVE numbers of jackson-databind-2.14.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.11.0 detected: 0
+
+Total CVE numbers of jackson-databind-2.13.0 detected: 0
+
+Total CVE numbers of jackson-databind-2.13.4.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.9.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.12.6.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.4.1.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.5 detected: 0
+
+Found CVE-2016-6652 in jackson-databind-2.6.5 !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of jackson-databind-2.6.5 detected: 2
+
+Total CVE numbers of jackson-databind-2.7.0 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.0.pr2 detected: 0
+
+Total CVE numbers of jackson-databind-2.0.5 detected: 0
+
+Total CVE numbers of jackson-databind-2.1.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.13.0-rc2 detected: 0
+
+Total CVE numbers of jackson-databind-2.4.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.10.8 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.11.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.10.7 detected: 0
+
+Total CVE numbers of jackson-databind-2.15.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.3.0-rc1 detected: 0
+
+Total CVE numbers of jackson-databind-2.10.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.4.1.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.14.0-rc2 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.1.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.15.0-rc3 detected: 0
+
+Total CVE numbers of jackson-databind-2.6.7 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.11.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.12.0 detected: 0
+
+Total CVE numbers of jackson-databind-2.13.2.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.0 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.8 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.11.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.7 detected: 0
+
+Total CVE numbers of jackson-databind-2.4.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.4.0-rc1 detected: 0
+
+Total CVE numbers of jackson-databind-2.13.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.15.0 detected: 0
+
+Total CVE numbers of jackson-databind-2.14.0-rc3 detected: 0
+
+Total CVE numbers of jackson-databind-2.4.6.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.9 detected: 0
+
+Total CVE numbers of jackson-databind-2.12.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.3.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.0.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.6.7.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.12.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.5.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.0-rc1 detected: 0
+
+Total CVE numbers of jackson-databind-2.15.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.4.5.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.2.0-rc1 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.8 detected: 0
+
+Total CVE numbers of jackson-databind-2.12.0-rc2 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.14.0-rc1 detected: 0
+
+Total CVE numbers of jackson-databind-2.12.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.15.0-rc1 detected: 0
+
+Total CVE numbers of jackson-databind-2.12.0-rc1 detected: 0
+
+Total CVE numbers of jackson-databind-2.0.6 detected: 0
+
+Total CVE numbers of jackson-databind-2.0.0-RC2 detected: 0
+
+Total CVE numbers of jackson-databind-2.16.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.1.5 detected: 0
+
+Found CVE-2016-6652 in jackson-databind-2.8.11.6 !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of jackson-databind-2.8.11.6 detected: 2
+
+Total CVE numbers of jackson-databind-2.12.7 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.10.0.pr3 detected: 0
+
+Total CVE numbers of jackson-databind-2.0.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.10.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.4.1.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.6.0 detected: 0
+
+Total CVE numbers of jackson-databind-2.13.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.17.0 detected: 0
+
+Total CVE numbers of jackson-databind-2.13.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.2.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.9.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.12.7.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.3.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.6.0-rc2 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.5 detected: 0
+
+Total CVE numbers of jackson-databind-2.13.2.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.10.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.4.0 detected: 0
+
+Total CVE numbers of jackson-databind-2.12.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.14.1 detected: 0
+
+Found CVE-2016-6652 in jackson-databind-2.13.4.2 !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of jackson-databind-2.13.4.2 detected: 2
+
+Total CVE numbers of jackson-databind-2.17.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.13.5 detected: 0
+
+Total CVE numbers of jackson-databind-2.12.5 detected: 0
+
+Found CVE-2016-6652 in jackson-databind-2.15.0-rc2 !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of jackson-databind-2.15.0-rc2 detected: 2
+
+Total CVE numbers of jackson-databind-2.7.9 detected: 0
+
+Total CVE numbers of jackson-databind-2.6.7.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.17.2 detected: 0
+
+Found CVE-2016-6652 in jackson-databind-2.8.0.rc2 !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of jackson-databind-2.8.0.rc2 detected: 2
+
+Total CVE numbers of jackson-databind-2.6.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.2.0 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.6 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.9.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.9.6 detected: 0
+
+Total CVE numbers of jackson-databind-2.3.0 detected: 0
+
+Total CVE numbers of jackson-databind-2.2.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.3.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.6.0-rc3 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.9.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.11.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.6.0-rc1 detected: 0
+
+Total CVE numbers of jackson-databind-2.17.0-rc1 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.9.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.10.6 detected: 0
+
+Total CVE numbers of jackson-databind-2.5.0 detected: 0
+
+Total CVE numbers of jackson-databind-2.4.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.0.pr3 detected: 0
+
+Total CVE numbers of jackson-databind-2.14.0 detected: 0
+
+Total CVE numbers of jackson-databind-2.5.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.6.6 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.7 detected: 0
+
+Total CVE numbers of jackson-databind-2.14.3 detected: 0
+
+Found CVE-2016-6652 in jackson-databind-2.4.5 !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of jackson-databind-2.4.5 detected: 2
+
+Total CVE numbers of jackson-databind-2.9.10.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.9.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.11.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.8.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.6.7.5 detected: 0
+
+Total CVE numbers of jackson-databind-2.10.0.pr1 detected: 0
+
+Total CVE numbers of jackson-databind-2.3.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.5.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.6.3 detected: 0
+
+Found CVE-2016-6652 in jackson-databind-2.9.10.5 !
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method getOrderClause in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Match! Method applySorting in file vulFileVersion/CVE-2016-6652/3825b10d-QueryUtils.java is homologous with CVE-2016-6652
+Total CVE numbers of jackson-databind-2.9.10.5 detected: 2
+
+Total CVE numbers of jackson-databind-2.11.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.11.0.rc1 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.5 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.1-1 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.11 detected: 0
+
+Total CVE numbers of jackson-databind-2.4.0-rc3 detected: 0
+
+Total CVE numbers of jackson-databind-2.4.0-rc2 detected: 0
+
+Total CVE numbers of jackson-databind-2.4.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.0.0 detected: 0
+
+Total CVE numbers of jackson-databind-2.16.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.0 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.10 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.7 detected: 0
+
+Total CVE numbers of jackson-databind-2.6.7.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.0.0-RC1 detected: 0
+
+Total CVE numbers of jackson-databind-2.12.6 detected: 0
+
+Total CVE numbers of jackson-databind-2.15.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.10.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.10.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.0.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.0.pr1 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.0-rc3 detected: 0
+
+Total CVE numbers of jackson-databind-2.5.5 detected: 0
+
+Total CVE numbers of jackson-databind-2.0.0-RC3 detected: 0
+
+Total CVE numbers of jackson-databind-2.11.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.6.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.9.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.9.5 detected: 0
+
+Total CVE numbers of jackson-databind-2.7.0-rc2 detected: 0
+
+Total CVE numbers of jackson-databind-2.10.0.pr2 detected: 0
+
+Total CVE numbers of jackson-databind-2.1.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.11.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.2.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.16.0-rc1 detected: 0
+
+Total CVE numbers of jackson-databind-2.4.6 detected: 0
+
+Total CVE numbers of jackson-databind-2.16.0 detected: 0
+
+Total CVE numbers of jackson-databind-2.13.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.10.5.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.6 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.10.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.2.3 detected: 0
+
+Total CVE numbers of jackson-databind-2.3.5 detected: 0
+
+Total CVE numbers of jackson-databind-2.10.0 detected: 0
+
+Total CVE numbers of jackson-databind-2.6.7.4 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.0.rc1 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.2 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.0.pr4 detected: 0
+
+Total CVE numbers of jackson-databind-2.12.7.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.5.1 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.6 detected: 0
+
+Total CVE numbers of jackson-databind-2.10.5 detected: 0
+
+Total CVE numbers of jackson-databind-2.13.0-rc1 detected: 0
+
+Total CVE numbers of jackson-databind-2.5.0-rc1 detected: 0
+
+Total CVE numbers of jackson-databind-2.9.9 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.8 detected: 0
+
+Total CVE numbers of jackson-databind-2.8.10 detected: 0
+
+Total CVE numbers of jackson-databind-2.6.0-rc4 detected: 0
+

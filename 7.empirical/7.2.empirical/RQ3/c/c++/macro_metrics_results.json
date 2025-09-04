@@ -1,0 +1,20 @@
+{
+  "cve": {
+    "macro_precision": 0.7053209411383703,
+    "macro_recall": 0.6768507481902174,
+    "macro_f1": 0.6907926278762627,
+    "num_cves": 86
+  },
+  "veracode": {
+    "macro_precision": 0.6705906755264018,
+    "macro_recall": 0.298619994898942,
+    "macro_f1": 0.41322653622269856,
+    "num_cves": 40
+  },
+  "snyk": {
+    "macro_precision": 0.6087749005972746,
+    "macro_recall": 0.8493474670881825,
+    "macro_f1": 0.7092154009953361,
+    "num_cves": 112
+  }
+}

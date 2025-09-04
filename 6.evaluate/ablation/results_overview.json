@@ -1,0 +1,5714 @@
+{
+    "CVE-2022-29599": {
+        "without_cg": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 4,
+            "fn": 3
+        },
+        "without_ref": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 4,
+            "fn": 3
+        },
+        "without_ref cp": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "original": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        }
+    },
+    "CVE-2017-7525": {
+        "without_cg": {
+            "tp": 81,
+            "fp": 45,
+            "tn": 52,
+            "fn": 13
+        },
+        "without_ref": {
+            "tp": 12,
+            "fp": 70,
+            "tn": 27,
+            "fn": 82
+        },
+        "without_all": {
+            "tp": 81,
+            "fp": 44,
+            "tn": 53,
+            "fn": 13
+        },
+        "intra_1": {
+            "tp": 81,
+            "fp": 44,
+            "tn": 53,
+            "fn": 13
+        },
+        "without_unixcoder": {
+            "tp": 81,
+            "fp": 45,
+            "tn": 52,
+            "fn": 13
+        },
+        "without_all cp": {
+            "tp": 81,
+            "fp": 44,
+            "tn": 53,
+            "fn": 13
+        },
+        "without_cg cp": {
+            "tp": 81,
+            "fp": 45,
+            "tn": 52,
+            "fn": 13
+        },
+        "without_ref cp": {
+            "tp": 12,
+            "fp": 70,
+            "tn": 27,
+            "fn": 82
+        },
+        "original": {
+            "tp": 81,
+            "fp": 44,
+            "tn": 53,
+            "fn": 13
+        }
+    },
+    "CVE-2020-13973": {
+        "without_cg": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 3,
+            "fn": 2
+        },
+        "without_ref": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 3,
+            "fn": 2
+        },
+        "without_all": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 3,
+            "fn": 2
+        },
+        "intra_1": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 3,
+            "fn": 2
+        },
+        "without_unixcoder": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 3,
+            "fn": 2
+        },
+        "without_all cp": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 3,
+            "fn": 2
+        },
+        "without_cg cp": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 3,
+            "fn": 2
+        },
+        "without_ref cp": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 3,
+            "fn": 2
+        },
+        "original": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 3,
+            "fn": 2
+        }
+    },
+    "CVE-2021-43797": {
+        "without_cg": {
+            "tp": 31,
+            "fp": 13,
+            "tn": 49,
+            "fn": 23
+        },
+        "without_ref": {
+            "tp": 48,
+            "fp": 8,
+            "tn": 54,
+            "fn": 6
+        },
+        "without_all": {
+            "tp": 54,
+            "fp": 3,
+            "tn": 59,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 54,
+            "fp": 3,
+            "tn": 59,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 52,
+            "fp": 2,
+            "tn": 60,
+            "fn": 2
+        },
+        "without_all cp": {
+            "tp": 54,
+            "fp": 3,
+            "tn": 59,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 31,
+            "fp": 13,
+            "tn": 49,
+            "fn": 23
+        },
+        "without_ref cp": {
+            "tp": 48,
+            "fp": 8,
+            "tn": 54,
+            "fn": 6
+        },
+        "original": {
+            "tp": 54,
+            "fp": 3,
+            "tn": 59,
+            "fn": 0
+        }
+    },
+    "CVE-2022-22976": {
+        "without_cg": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 137,
+            "fn": 36
+        },
+        "without_ref": {
+            "tp": 52,
+            "fp": 0,
+            "tn": 137,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 52,
+            "fp": 0,
+            "tn": 137,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 52,
+            "fp": 0,
+            "tn": 137,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 52,
+            "fp": 0,
+            "tn": 137,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 52,
+            "fp": 0,
+            "tn": 137,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 137,
+            "fn": 36
+        },
+        "without_ref cp": {
+            "tp": 52,
+            "fp": 0,
+            "tn": 137,
+            "fn": 0
+        },
+        "original": {
+            "tp": 52,
+            "fp": 0,
+            "tn": 137,
+            "fn": 0
+        }
+    },
+    "CVE-2022-23596": {
+        "without_cg": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 14,
+            "fp": 1,
+            "tn": 6,
+            "fn": 1
+        },
+        "without_all cp": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "original": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        }
+    },
+    "CVE-2020-11988": {
+        "without_cg": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "original": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        }
+    },
+    "CVE-2022-42004": {
+        "without_cg": {
+            "tp": 24,
+            "fp": 0,
+            "tn": 167,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 24,
+            "fp": 0,
+            "tn": 167,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 24,
+            "fp": 0,
+            "tn": 167,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 24,
+            "fp": 0,
+            "tn": 167,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 24,
+            "fp": 0,
+            "tn": 167,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 24,
+            "fp": 0,
+            "tn": 167,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 24,
+            "fp": 0,
+            "tn": 167,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 24,
+            "fp": 0,
+            "tn": 167,
+            "fn": 0
+        },
+        "original": {
+            "tp": 24,
+            "fp": 0,
+            "tn": 167,
+            "fn": 0
+        }
+    },
+    "CVE-2015-2156": {
+        "without_cg": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 5,
+            "fn": 57
+        },
+        "without_ref": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 5,
+            "fn": 58
+        },
+        "without_all": {
+            "tp": 39,
+            "fp": 0,
+            "tn": 5,
+            "fn": 26
+        },
+        "intra_1": {
+            "tp": 43,
+            "fp": 0,
+            "tn": 5,
+            "fn": 22
+        },
+        "without_unixcoder": {
+            "tp": 50,
+            "fp": 0,
+            "tn": 5,
+            "fn": 15
+        },
+        "without_all cp": {
+            "tp": 39,
+            "fp": 0,
+            "tn": 5,
+            "fn": 26
+        },
+        "without_cg cp": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 5,
+            "fn": 57
+        },
+        "without_ref cp": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 5,
+            "fn": 58
+        },
+        "original": {
+            "tp": 43,
+            "fp": 0,
+            "tn": 5,
+            "fn": 22
+        }
+    },
+    "CVE-2018-1274": {
+        "without_cg": {
+            "tp": 63,
+            "fp": 0,
+            "tn": 147,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 63,
+            "fp": 0,
+            "tn": 147,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 63,
+            "fp": 0,
+            "tn": 147,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 63,
+            "fp": 0,
+            "tn": 147,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 63,
+            "fp": 0,
+            "tn": 147,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 63,
+            "fp": 0,
+            "tn": 147,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 63,
+            "fp": 0,
+            "tn": 147,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 63,
+            "fp": 0,
+            "tn": 147,
+            "fn": 0
+        },
+        "original": {
+            "tp": 63,
+            "fp": 0,
+            "tn": 147,
+            "fn": 0
+        }
+    },
+    "CVE-2022-26336": {
+        "without_cg": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 35,
+            "fn": 7
+        },
+        "without_ref": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 35,
+            "fn": 7
+        },
+        "without_all": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 35,
+            "fn": 7
+        },
+        "intra_1": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 35,
+            "fn": 7
+        },
+        "without_unixcoder": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 35,
+            "fn": 7
+        },
+        "without_all cp": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 35,
+            "fn": 7
+        },
+        "without_cg cp": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 35,
+            "fn": 7
+        },
+        "without_ref cp": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 35,
+            "fn": 7
+        },
+        "original": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 35,
+            "fn": 7
+        }
+    },
+    "CVE-2014-0050": {
+        "without_cg": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 5,
+            "fn": 9
+        },
+        "without_ref": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 5,
+            "fn": 9
+        },
+        "without_all": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 5,
+            "fn": 9
+        },
+        "intra_1": {
+            "tp": 9,
+            "fp": 5,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 5,
+            "fn": 9
+        },
+        "without_all cp": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 5,
+            "fn": 9
+        },
+        "without_cg cp": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 5,
+            "fn": 9
+        },
+        "without_ref cp": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 5,
+            "fn": 9
+        },
+        "original": {
+            "tp": 9,
+            "fp": 5,
+            "tn": 0,
+            "fn": 0
+        }
+    },
+    "CVE-2021-23899": {
+        "without_cg": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "original": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        }
+    },
+    "CVE-2021-23900": {
+        "without_cg": {
+            "tp": 4,
+            "fp": 2,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        },
+        "without_all": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        },
+        "intra_1": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        },
+        "without_unixcoder": {
+            "tp": 1,
+            "fp": 2,
+            "tn": 0,
+            "fn": 3
+        },
+        "without_all cp": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        },
+        "without_cg cp": {
+            "tp": 4,
+            "fp": 2,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        },
+        "original": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 2,
+            "fn": 4
+        }
+    },
+    "CVE-2022-25845": {
+        "without_cg": {
+            "tp": 55,
+            "fp": 0,
+            "tn": 258,
+            "fn": 21
+        },
+        "without_ref": {
+            "tp": 55,
+            "fp": 0,
+            "tn": 258,
+            "fn": 21
+        },
+        "without_all": {
+            "tp": 55,
+            "fp": 0,
+            "tn": 258,
+            "fn": 21
+        },
+        "intra_1": {
+            "tp": 55,
+            "fp": 0,
+            "tn": 258,
+            "fn": 21
+        },
+        "without_unixcoder": {
+            "tp": 55,
+            "fp": 0,
+            "tn": 258,
+            "fn": 21
+        },
+        "without_all cp": {
+            "tp": 55,
+            "fp": 0,
+            "tn": 258,
+            "fn": 21
+        },
+        "without_cg cp": {
+            "tp": 55,
+            "fp": 0,
+            "tn": 258,
+            "fn": 21
+        },
+        "without_ref cp": {
+            "tp": 55,
+            "fp": 0,
+            "tn": 258,
+            "fn": 21
+        },
+        "original": {
+            "tp": 55,
+            "fp": 0,
+            "tn": 258,
+            "fn": 21
+        }
+    },
+    "CVE-2019-16869": {
+        "without_cg": {
+            "tp": 130,
+            "fp": 1,
+            "tn": 69,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 130,
+            "fp": 1,
+            "tn": 69,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 130,
+            "fp": 1,
+            "tn": 69,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 130,
+            "fp": 1,
+            "tn": 69,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 111,
+            "fp": 1,
+            "tn": 69,
+            "fn": 19
+        },
+        "without_all cp": {
+            "tp": 130,
+            "fp": 1,
+            "tn": 69,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 130,
+            "fp": 1,
+            "tn": 69,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 130,
+            "fp": 1,
+            "tn": 69,
+            "fn": 0
+        },
+        "original": {
+            "tp": 130,
+            "fp": 1,
+            "tn": 69,
+            "fn": 0
+        }
+    },
+    "CVE-2020-13956": {
+        "without_cg": {
+            "tp": 40,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 40,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 40,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 40,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 40,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 40,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 40,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 40,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "original": {
+            "tp": 40,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        }
+    },
+    "CVE-2019-17359": {
+        "without_cg": {
+            "tp": 18,
+            "fp": 6,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 18,
+            "fp": 6,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 18,
+            "fp": 6,
+            "tn": 2,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 18,
+            "fp": 6,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 18,
+            "fp": 6,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 18,
+            "fp": 6,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 18,
+            "fp": 6,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 18,
+            "fp": 6,
+            "tn": 2,
+            "fn": 0
+        },
+        "original": {
+            "tp": 18,
+            "fp": 6,
+            "tn": 2,
+            "fn": 0
+        }
+    },
+    "CVE-2018-20227": {
+        "without_cg": {
+            "tp": 39,
+            "fp": 0,
+            "tn": 59,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 39,
+            "fp": 0,
+            "tn": 59,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 39,
+            "fp": 0,
+            "tn": 59,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 39,
+            "fp": 0,
+            "tn": 59,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 39,
+            "fp": 0,
+            "tn": 59,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 39,
+            "fp": 0,
+            "tn": 59,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 39,
+            "fp": 0,
+            "tn": 59,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 39,
+            "fp": 0,
+            "tn": 59,
+            "fn": 0
+        },
+        "original": {
+            "tp": 39,
+            "fp": 0,
+            "tn": 59,
+            "fn": 0
+        }
+    },
+    "CVE-2021-27568": {
+        "without_cg": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 16,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 16,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 16,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 16,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 16,
+            "fp": 11,
+            "tn": 5,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 16,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 16,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 16,
+            "fn": 0
+        },
+        "original": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 16,
+            "fn": 0
+        }
+    },
+    "CVE-2019-20444": {
+        "without_cg": {
+            "tp": 131,
+            "fp": 0,
+            "tn": 69,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 131,
+            "fp": 0,
+            "tn": 69,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 131,
+            "fp": 0,
+            "tn": 69,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 129,
+            "fp": 0,
+            "tn": 69,
+            "fn": 2
+        },
+        "without_unixcoder": {
+            "tp": 129,
+            "fp": 0,
+            "tn": 69,
+            "fn": 2
+        },
+        "without_all cp": {
+            "tp": 131,
+            "fp": 0,
+            "tn": 69,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 131,
+            "fp": 0,
+            "tn": 69,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 131,
+            "fp": 0,
+            "tn": 69,
+            "fn": 0
+        },
+        "original": {
+            "tp": 131,
+            "fp": 0,
+            "tn": 69,
+            "fn": 0
+        }
+    },
+    "CVE-2019-10086": {
+        "without_cg": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 18,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 18,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 18,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 18,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 18,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 18,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 18,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 18,
+            "fn": 0
+        },
+        "original": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 18,
+            "fn": 0
+        }
+    },
+    "CVE-2017-1000487": {
+        "without_cg": {
+            "tp": 50,
+            "fp": 0,
+            "tn": 28,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 50,
+            "fp": 0,
+            "tn": 28,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 50,
+            "fp": 0,
+            "tn": 28,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 50,
+            "fp": 0,
+            "tn": 28,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 50,
+            "fp": 0,
+            "tn": 28,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 50,
+            "fp": 0,
+            "tn": 28,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 50,
+            "fp": 0,
+            "tn": 28,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 50,
+            "fp": 0,
+            "tn": 28,
+            "fn": 0
+        },
+        "original": {
+            "tp": 50,
+            "fp": 0,
+            "tn": 28,
+            "fn": 0
+        }
+    },
+    "CVE-2020-5245": {
+        "without_cg": {
+            "tp": 26,
+            "fp": 173,
+            "tn": 3,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 176,
+            "fn": 26
+        },
+        "without_all": {
+            "tp": 26,
+            "fp": 103,
+            "tn": 73,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 26,
+            "fp": 106,
+            "tn": 70,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 26,
+            "fp": 103,
+            "tn": 73,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 26,
+            "fp": 103,
+            "tn": 73,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 26,
+            "fp": 173,
+            "tn": 3,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 176,
+            "fn": 26
+        },
+        "original": {
+            "tp": 26,
+            "fp": 106,
+            "tn": 70,
+            "fn": 0
+        }
+    },
+    "CVE-2021-30468": {
+        "without_cg": {
+            "tp": 26,
+            "fp": 29,
+            "tn": 25,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 54,
+            "fn": 26
+        },
+        "without_all": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 54,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 54,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 54,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 54,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 26,
+            "fp": 29,
+            "tn": 25,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 54,
+            "fn": 26
+        },
+        "original": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 54,
+            "fn": 0
+        }
+    },
+    "CVE-2019-10219": {
+        "without_cg": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 42,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 42,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 42,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 42,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 42,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 42,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 42,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 42,
+            "fn": 0
+        },
+        "original": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 42,
+            "fn": 0
+        }
+    },
+    "CVE-2021-21234": {
+        "without_cg": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "original": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        }
+    },
+    "CVE-2020-15250": {
+        "without_cg": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 14,
+            "fn": 12
+        },
+        "without_ref": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 14,
+            "fn": 12
+        },
+        "without_all": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 14,
+            "fn": 12
+        },
+        "intra_1": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 14,
+            "fn": 12
+        },
+        "without_unixcoder": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 14,
+            "fn": 12
+        },
+        "without_all cp": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 14,
+            "fn": 12
+        },
+        "without_cg cp": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 14,
+            "fn": 12
+        },
+        "without_ref cp": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 14,
+            "fn": 12
+        },
+        "original": {
+            "tp": 6,
+            "fp": 0,
+            "tn": 14,
+            "fn": 12
+        }
+    },
+    "CVE-2018-20000": {
+        "without_cg": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "original": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        }
+    },
+    "CVE-2022-29546": {
+        "without_cg": {
+            "tp": 38,
+            "fp": 10,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 38,
+            "fp": 10,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 38,
+            "fp": 10,
+            "tn": 0,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 38,
+            "fp": 10,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 10,
+            "fn": 38
+        },
+        "without_all cp": {
+            "tp": 38,
+            "fp": 10,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 38,
+            "fp": 10,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 38,
+            "fp": 10,
+            "tn": 0,
+            "fn": 0
+        },
+        "original": {
+            "tp": 38,
+            "fp": 10,
+            "tn": 0,
+            "fn": 0
+        }
+    },
+    "CVE-2011-2732": {
+        "without_cg": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 192,
+            "fn": 4
+        },
+        "without_ref": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 192,
+            "fn": 4
+        },
+        "without_all": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 192,
+            "fn": 4
+        },
+        "intra_1": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 192,
+            "fn": 4
+        },
+        "without_unixcoder": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 192,
+            "fn": 4
+        },
+        "without_all cp": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 192,
+            "fn": 4
+        },
+        "without_cg cp": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 192,
+            "fn": 4
+        },
+        "without_ref cp": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 192,
+            "fn": 4
+        },
+        "original": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 192,
+            "fn": 4
+        }
+    },
+    "CVE-2021-33813": {
+        "without_cg": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 1,
+            "fn": 5
+        },
+        "without_ref": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 1,
+            "fn": 5
+        },
+        "without_all": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 1,
+            "fn": 5
+        },
+        "intra_1": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 1,
+            "fn": 5
+        },
+        "without_unixcoder": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 1,
+            "fn": 7
+        },
+        "without_all cp": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 1,
+            "fn": 5
+        },
+        "without_cg cp": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 1,
+            "fn": 5
+        },
+        "without_ref cp": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 1,
+            "fn": 5
+        },
+        "original": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 1,
+            "fn": 5
+        }
+    },
+    "CVE-2022-24615": {
+        "without_cg": {
+            "tp": 34,
+            "fp": 0,
+            "tn": 17,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 34,
+            "fp": 0,
+            "tn": 17,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 34,
+            "fp": 0,
+            "tn": 17,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 34,
+            "fp": 0,
+            "tn": 17,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 34,
+            "fp": 0,
+            "tn": 17,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 34,
+            "fp": 0,
+            "tn": 17,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 34,
+            "fp": 0,
+            "tn": 17,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 34,
+            "fp": 0,
+            "tn": 17,
+            "fn": 0
+        },
+        "original": {
+            "tp": 34,
+            "fp": 0,
+            "tn": 17,
+            "fn": 0
+        }
+    },
+    "CVE-2019-11272": {
+        "without_cg": {
+            "tp": 61,
+            "fp": 0,
+            "tn": 153,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 61,
+            "fp": 0,
+            "tn": 153,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 61,
+            "fp": 0,
+            "tn": 153,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 61,
+            "fp": 0,
+            "tn": 153,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 61,
+            "fp": 1,
+            "tn": 152,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 61,
+            "fp": 0,
+            "tn": 153,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 61,
+            "fp": 0,
+            "tn": 153,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 61,
+            "fp": 0,
+            "tn": 153,
+            "fn": 0
+        },
+        "original": {
+            "tp": 61,
+            "fp": 0,
+            "tn": 153,
+            "fn": 0
+        }
+    },
+    "CVE-2014-0097": {
+        "without_cg": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 190,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 190,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 190,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 190,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 8,
+            "fp": 2,
+            "tn": 188,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 190,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 190,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 190,
+            "fn": 0
+        },
+        "original": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 190,
+            "fn": 0
+        }
+    },
+    "CVE-2023-34453": {
+        "without_cg": {
+            "tp": 22,
+            "fp": 53,
+            "tn": 5,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 58,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 58,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 58,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 58,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 58,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 22,
+            "fp": 53,
+            "tn": 5,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 58,
+            "fn": 0
+        },
+        "original": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 58,
+            "fn": 0
+        }
+    },
+    "CVE-2023-43642": {
+        "without_cg": {
+            "tp": 66,
+            "fp": 14,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 64,
+            "fp": 14,
+            "tn": 0,
+            "fn": 2
+        },
+        "without_all": {
+            "tp": 57,
+            "fp": 0,
+            "tn": 14,
+            "fn": 9
+        },
+        "intra_1": {
+            "tp": 57,
+            "fp": 0,
+            "tn": 14,
+            "fn": 9
+        },
+        "without_unixcoder": {
+            "tp": 66,
+            "fp": 14,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 57,
+            "fp": 0,
+            "tn": 14,
+            "fn": 9
+        },
+        "without_cg cp": {
+            "tp": 66,
+            "fp": 14,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 64,
+            "fp": 14,
+            "tn": 0,
+            "fn": 2
+        },
+        "original": {
+            "tp": 57,
+            "fp": 0,
+            "tn": 14,
+            "fn": 9
+        }
+    },
+    "CVE-2022-1848": {
+        "without_cg": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "original": {
+            "tp": 102,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        }
+    },
+    "CVE-2021-31412": {
+        "without_cg": {
+            "tp": 143,
+            "fp": 16,
+            "tn": 225,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 143,
+            "fp": 16,
+            "tn": 225,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 143,
+            "fp": 16,
+            "tn": 225,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 143,
+            "fp": 16,
+            "tn": 225,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 143,
+            "fp": 43,
+            "tn": 198,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 143,
+            "fp": 16,
+            "tn": 225,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 143,
+            "fp": 16,
+            "tn": 225,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 143,
+            "fp": 16,
+            "tn": 225,
+            "fn": 0
+        },
+        "original": {
+            "tp": 143,
+            "fp": 16,
+            "tn": 225,
+            "fn": 0
+        }
+    },
+    "CVE-2022-32549": {
+        "without_cg": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        },
+        "without_ref": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        },
+        "without_all": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        },
+        "intra_1": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        },
+        "without_unixcoder": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        },
+        "without_all cp": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        },
+        "without_cg cp": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        },
+        "without_ref cp": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        },
+        "original": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        }
+    },
+    "CVE-2020-1953": {
+        "without_cg": {
+            "tp": 0,
+            "fp": 3,
+            "tn": 0,
+            "fn": 5
+        },
+        "without_ref": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 0,
+            "fp": 3,
+            "tn": 0,
+            "fn": 5
+        },
+        "without_ref cp": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "original": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        }
+    },
+    "CVE-2014-0114": {
+        "without_cg": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 13,
+            "fn": 5
+        },
+        "without_ref": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 13,
+            "fn": 5
+        },
+        "without_all": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 13,
+            "fn": 5
+        },
+        "intra_1": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 13,
+            "fn": 5
+        },
+        "without_unixcoder": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 13,
+            "fn": 5
+        },
+        "without_all cp": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 13,
+            "fn": 5
+        },
+        "without_cg cp": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 13,
+            "fn": 5
+        },
+        "without_ref cp": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 13,
+            "fn": 5
+        },
+        "original": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 13,
+            "fn": 5
+        }
+    },
+    "CVE-2014-3584": {
+        "without_cg": {
+            "tp": 33,
+            "fp": 109,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 109,
+            "fn": 2
+        },
+        "without_all": {
+            "tp": 33,
+            "fp": 16,
+            "tn": 93,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 33,
+            "fp": 16,
+            "tn": 93,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 33,
+            "fp": 17,
+            "tn": 92,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 33,
+            "fp": 16,
+            "tn": 93,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 33,
+            "fp": 109,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 109,
+            "fn": 2
+        },
+        "original": {
+            "tp": 33,
+            "fp": 16,
+            "tn": 93,
+            "fn": 0
+        }
+    },
+    "CVE-2018-1260": {
+        "without_cg": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 33,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 33,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 33,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 33,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 33,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 33,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 33,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 33,
+            "fn": 0
+        },
+        "original": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 33,
+            "fn": 0
+        }
+    },
+    "CVE-2018-1261": {
+        "without_cg": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 1,
+            "fp": 2,
+            "tn": 13,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "original": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        }
+    },
+    "CVE-2024-31860": {
+        "without_cg": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "original": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        }
+    },
+    "CVE-2018-1263": {
+        "without_cg": {
+            "tp": 2,
+            "fp": 4,
+            "tn": 10,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 2,
+            "fp": 4,
+            "tn": 10,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 2,
+            "fp": 4,
+            "tn": 10,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 2,
+            "fp": 8,
+            "tn": 6,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 2,
+            "fp": 10,
+            "tn": 4,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 2,
+            "fp": 4,
+            "tn": 10,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 2,
+            "fp": 4,
+            "tn": 10,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 2,
+            "fp": 4,
+            "tn": 10,
+            "fn": 0
+        },
+        "original": {
+            "tp": 2,
+            "fp": 4,
+            "tn": 10,
+            "fn": 0
+        }
+    },
+    "CVE-2014-4172": {
+        "without_cg": {
+            "tp": 4,
+            "fp": 3,
+            "tn": 8,
+            "fn": 3
+        },
+        "without_ref": {
+            "tp": 6,
+            "fp": 5,
+            "tn": 6,
+            "fn": 1
+        },
+        "without_all": {
+            "tp": 4,
+            "fp": 4,
+            "tn": 7,
+            "fn": 3
+        },
+        "intra_1": {
+            "tp": 4,
+            "fp": 3,
+            "tn": 8,
+            "fn": 3
+        },
+        "without_unixcoder": {
+            "tp": 1,
+            "fp": 3,
+            "tn": 8,
+            "fn": 6
+        },
+        "without_all cp": {
+            "tp": 4,
+            "fp": 4,
+            "tn": 7,
+            "fn": 3
+        },
+        "without_cg cp": {
+            "tp": 4,
+            "fp": 3,
+            "tn": 8,
+            "fn": 3
+        },
+        "without_ref cp": {
+            "tp": 6,
+            "fp": 5,
+            "tn": 6,
+            "fn": 1
+        },
+        "original": {
+            "tp": 4,
+            "fp": 3,
+            "tn": 8,
+            "fn": 3
+        }
+    },
+    "CVE-2021-27807": {
+        "without_cg": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 26,
+            "fp": 19,
+            "tn": 26,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 26,
+            "fp": 19,
+            "tn": 26,
+            "fn": 0
+        },
+        "original": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        }
+    },
+    "CVE-2023-51075": {
+        "without_cg": {
+            "tp": 35,
+            "fp": 0,
+            "tn": 156,
+            "fn": 3
+        },
+        "without_ref": {
+            "tp": 35,
+            "fp": 0,
+            "tn": 156,
+            "fn": 3
+        },
+        "without_all": {
+            "tp": 35,
+            "fp": 0,
+            "tn": 156,
+            "fn": 3
+        },
+        "intra_1": {
+            "tp": 35,
+            "fp": 0,
+            "tn": 156,
+            "fn": 3
+        },
+        "without_unixcoder": {
+            "tp": 38,
+            "fp": 0,
+            "tn": 156,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 35,
+            "fp": 0,
+            "tn": 156,
+            "fn": 3
+        },
+        "without_cg cp": {
+            "tp": 35,
+            "fp": 0,
+            "tn": 156,
+            "fn": 3
+        },
+        "without_ref cp": {
+            "tp": 35,
+            "fp": 0,
+            "tn": 156,
+            "fn": 3
+        },
+        "original": {
+            "tp": 35,
+            "fp": 0,
+            "tn": 156,
+            "fn": 3
+        }
+    },
+    "CVE-2023-51074": {
+        "without_cg": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 15,
+            "fn": 1
+        },
+        "without_ref": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 15,
+            "fn": 1
+        },
+        "without_all": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 15,
+            "fn": 1
+        },
+        "intra_1": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 15,
+            "fn": 1
+        },
+        "without_unixcoder": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 15,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 15,
+            "fn": 1
+        },
+        "without_cg cp": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 15,
+            "fn": 1
+        },
+        "without_ref cp": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 15,
+            "fn": 1
+        },
+        "original": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 15,
+            "fn": 1
+        }
+    },
+    "CVE-2023-49250": {
+        "without_cg": {
+            "tp": 44,
+            "fp": 1,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 1,
+            "fn": 43
+        },
+        "without_all": {
+            "tp": 44,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 44,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 44,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 44,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 44,
+            "fp": 1,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 1,
+            "fp": 0,
+            "tn": 1,
+            "fn": 43
+        },
+        "original": {
+            "tp": 44,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        }
+    },
+    "CVE-2024-23833": {
+        "without_cg": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 1,
+            "fn": 10
+        },
+        "without_all cp": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        },
+        "original": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 1,
+            "fn": 0
+        }
+    },
+    "CVE-2024-25125": {
+        "without_cg": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        },
+        "original": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 0,
+            "fn": 0
+        }
+    },
+    "CVE-2024-24569": {
+        "without_cg": {
+            "tp": 9,
+            "fp": 2,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 9,
+            "fp": 2,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        },
+        "original": {
+            "tp": 9,
+            "fp": 0,
+            "tn": 2,
+            "fn": 0
+        }
+    },
+    "CVE-2022-34662": {
+        "without_cg": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 23,
+            "fn": 12
+        },
+        "without_ref": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 23,
+            "fn": 20
+        },
+        "without_all": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 23,
+            "fn": 12
+        },
+        "intra_1": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 23,
+            "fn": 12
+        },
+        "without_unixcoder": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 23,
+            "fn": 12
+        },
+        "without_all cp": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 23,
+            "fn": 12
+        },
+        "without_cg cp": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 23,
+            "fn": 12
+        },
+        "without_ref cp": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 23,
+            "fn": 20
+        },
+        "original": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 23,
+            "fn": 12
+        }
+    },
+    "CVE-2022-22968": {
+        "without_cg": {
+            "tp": 194,
+            "fp": 42,
+            "tn": 28,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 194,
+            "fp": 42,
+            "tn": 28,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 194,
+            "fp": 0,
+            "tn": 70,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 194,
+            "fp": 0,
+            "tn": 70,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 194,
+            "fp": 0,
+            "tn": 70,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 194,
+            "fp": 0,
+            "tn": 70,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 194,
+            "fp": 42,
+            "tn": 28,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 194,
+            "fp": 42,
+            "tn": 28,
+            "fn": 0
+        },
+        "original": {
+            "tp": 194,
+            "fp": 0,
+            "tn": 70,
+            "fn": 0
+        }
+    },
+    "CVE-2013-6430": {
+        "without_cg": {
+            "tp": 58,
+            "fp": 0,
+            "tn": 205,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 58,
+            "fp": 0,
+            "tn": 205,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 58,
+            "fp": 0,
+            "tn": 205,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 58,
+            "fp": 0,
+            "tn": 205,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 58,
+            "fp": 0,
+            "tn": 205,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 58,
+            "fp": 0,
+            "tn": 205,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 58,
+            "fp": 0,
+            "tn": 205,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 58,
+            "fp": 0,
+            "tn": 205,
+            "fn": 0
+        },
+        "original": {
+            "tp": 58,
+            "fp": 0,
+            "tn": 205,
+            "fn": 0
+        }
+    },
+    "CVE-2020-28052": {
+        "without_cg": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 23,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 23,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 23,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 23,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 23,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 23,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 23,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 23,
+            "fn": 0
+        },
+        "original": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 23,
+            "fn": 0
+        }
+    },
+    "CVE-2016-9878": {
+        "without_cg": {
+            "tp": 105,
+            "fp": 0,
+            "tn": 158,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 105,
+            "fp": 0,
+            "tn": 158,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 105,
+            "fp": 0,
+            "tn": 158,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 105,
+            "fp": 0,
+            "tn": 158,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 98,
+            "fp": 0,
+            "tn": 158,
+            "fn": 7
+        },
+        "without_all cp": {
+            "tp": 105,
+            "fp": 0,
+            "tn": 158,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 105,
+            "fp": 0,
+            "tn": 158,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 105,
+            "fp": 0,
+            "tn": 158,
+            "fn": 0
+        },
+        "original": {
+            "tp": 105,
+            "fp": 0,
+            "tn": 158,
+            "fn": 0
+        }
+    },
+    "CVE-2014-3625": {
+        "without_cg": {
+            "tp": 2,
+            "fp": 153,
+            "tn": 80,
+            "fn": 28
+        },
+        "without_ref": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 233,
+            "fn": 30
+        },
+        "without_all": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 233,
+            "fn": 1
+        },
+        "intra_1": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 233,
+            "fn": 1
+        },
+        "without_unixcoder": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 233,
+            "fn": 1
+        },
+        "without_all cp": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 233,
+            "fn": 1
+        },
+        "without_cg cp": {
+            "tp": 2,
+            "fp": 153,
+            "tn": 80,
+            "fn": 28
+        },
+        "without_ref cp": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 233,
+            "fn": 30
+        },
+        "original": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 233,
+            "fn": 1
+        }
+    },
+    "CVE-2018-11039": {
+        "without_cg": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 256,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 256,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 256,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 256,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 256,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 256,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 256,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 256,
+            "fn": 0
+        },
+        "original": {
+            "tp": 7,
+            "fp": 0,
+            "tn": 256,
+            "fn": 0
+        }
+    },
+    "CVE-2020-5398": {
+        "without_cg": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 234,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 29,
+            "fp": 19,
+            "tn": 215,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 29,
+            "fp": 16,
+            "tn": 218,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 29,
+            "fp": 16,
+            "tn": 218,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 29,
+            "fp": 16,
+            "tn": 218,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 29,
+            "fp": 16,
+            "tn": 218,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 234,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 29,
+            "fp": 19,
+            "tn": 215,
+            "fn": 0
+        },
+        "original": {
+            "tp": 29,
+            "fp": 16,
+            "tn": 218,
+            "fn": 0
+        }
+    },
+    "CVE-2014-3578": {
+        "without_cg": {
+            "tp": 48,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 48,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 48,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 48,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 48,
+            "fp": 16,
+            "tn": 199,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 48,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 48,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 48,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        },
+        "original": {
+            "tp": 48,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        }
+    },
+    "CVE-2022-22980": {
+        "without_cg": {
+            "tp": 59,
+            "fp": 51,
+            "tn": 115,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 59,
+            "fp": 51,
+            "tn": 115,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 50,
+            "fp": 51,
+            "tn": 115,
+            "fn": 9
+        },
+        "intra_1": {
+            "tp": 50,
+            "fp": 0,
+            "tn": 166,
+            "fn": 9
+        },
+        "without_unixcoder": {
+            "tp": 59,
+            "fp": 51,
+            "tn": 115,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 50,
+            "fp": 51,
+            "tn": 115,
+            "fn": 9
+        },
+        "without_cg cp": {
+            "tp": 59,
+            "fp": 51,
+            "tn": 115,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 59,
+            "fp": 51,
+            "tn": 115,
+            "fn": 0
+        },
+        "original": {
+            "tp": 50,
+            "fp": 0,
+            "tn": 166,
+            "fn": 9
+        }
+    },
+    "CVE-2017-8046": {
+        "without_cg": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 203,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 203,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 203,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 203,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 203,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 203,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 203,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 203,
+            "fn": 0
+        },
+        "original": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 203,
+            "fn": 0
+        }
+    },
+    "CVE-2021-40111": {
+        "without_cg": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        },
+        "original": {
+            "tp": 11,
+            "fp": 0,
+            "tn": 7,
+            "fn": 0
+        }
+    },
+    "CVE-2016-1000031": {
+        "without_cg": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 6,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 6,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 6,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 2,
+            "fp": 0,
+            "tn": 6,
+            "fn": 6
+        },
+        "without_unixcoder": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 6,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 6,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 6,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 6,
+            "fn": 0
+        },
+        "original": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 6,
+            "fn": 0
+        }
+    },
+    "CVE-2016-1000338": {
+        "without_cg": {
+            "tp": 1,
+            "fp": 25,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 1,
+            "fp": 25,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 1,
+            "fp": 25,
+            "tn": 0,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 1,
+            "fp": 25,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 25,
+            "fn": 1
+        },
+        "without_all cp": {
+            "tp": 1,
+            "fp": 25,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 1,
+            "fp": 25,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 1,
+            "fp": 25,
+            "tn": 0,
+            "fn": 0
+        },
+        "original": {
+            "tp": 1,
+            "fp": 25,
+            "tn": 0,
+            "fn": 0
+        }
+    },
+    "CVE-2018-11771": {
+        "without_cg": {
+            "tp": 18,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 18,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 18,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 18,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 16,
+            "fp": 0,
+            "tn": 12,
+            "fn": 2
+        },
+        "without_all cp": {
+            "tp": 18,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 18,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 18,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        },
+        "original": {
+            "tp": 18,
+            "fp": 0,
+            "tn": 12,
+            "fn": 0
+        }
+    },
+    "CVE-2019-12402": {
+        "without_cg": {
+            "tp": 5,
+            "fp": 17,
+            "tn": 8,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 5,
+            "fp": 17,
+            "tn": 8,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 5,
+            "fp": 17,
+            "tn": 8,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 5,
+            "fp": 17,
+            "tn": 8,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 5,
+            "fp": 18,
+            "tn": 7,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 5,
+            "fp": 17,
+            "tn": 8,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 5,
+            "fp": 17,
+            "tn": 8,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 5,
+            "fp": 17,
+            "tn": 8,
+            "fn": 0
+        },
+        "original": {
+            "tp": 5,
+            "fp": 17,
+            "tn": 8,
+            "fn": 0
+        }
+    },
+    "CVE-2016-6814": {
+        "without_cg": {
+            "tp": 136,
+            "fp": 0,
+            "tn": 81,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 136,
+            "fp": 0,
+            "tn": 81,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 136,
+            "fp": 0,
+            "tn": 81,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 136,
+            "fp": 81,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 81,
+            "fn": 136
+        },
+        "without_all cp": {
+            "tp": 136,
+            "fp": 0,
+            "tn": 81,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 136,
+            "fp": 0,
+            "tn": 81,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 136,
+            "fp": 0,
+            "tn": 81,
+            "fn": 0
+        },
+        "original": {
+            "tp": 136,
+            "fp": 0,
+            "tn": 81,
+            "fn": 0
+        }
+    },
+    "CVE-2021-43795": {
+        "without_cg": {
+            "tp": 77,
+            "fp": 3,
+            "tn": 151,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 77,
+            "fp": 3,
+            "tn": 151,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 77,
+            "fp": 0,
+            "tn": 154,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 77,
+            "fp": 0,
+            "tn": 154,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 77,
+            "fp": 3,
+            "tn": 151,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 77,
+            "fp": 0,
+            "tn": 154,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 77,
+            "fp": 3,
+            "tn": 151,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 77,
+            "fp": 3,
+            "tn": 151,
+            "fn": 0
+        },
+        "original": {
+            "tp": 77,
+            "fp": 0,
+            "tn": 154,
+            "fn": 0
+        }
+    },
+    "CVE-2022-31197": {
+        "without_cg": {
+            "tp": 117,
+            "fp": 5,
+            "tn": 54,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 117,
+            "fp": 5,
+            "tn": 54,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 117,
+            "fp": 5,
+            "tn": 54,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 117,
+            "fp": 5,
+            "tn": 54,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 116,
+            "fp": 2,
+            "tn": 57,
+            "fn": 1
+        },
+        "without_all cp": {
+            "tp": 117,
+            "fp": 5,
+            "tn": 54,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 117,
+            "fp": 5,
+            "tn": 54,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 117,
+            "fp": 5,
+            "tn": 54,
+            "fn": 0
+        },
+        "original": {
+            "tp": 117,
+            "fp": 5,
+            "tn": 54,
+            "fn": 0
+        }
+    },
+    "CVE-2024-1597": {
+        "without_cg": {
+            "tp": 169,
+            "fp": 0,
+            "tn": 0,
+            "fn": 10
+        },
+        "without_ref": {
+            "tp": 133,
+            "fp": 0,
+            "tn": 0,
+            "fn": 46
+        },
+        "without_all": {
+            "tp": 128,
+            "fp": 0,
+            "tn": 0,
+            "fn": 51
+        },
+        "intra_1": {
+            "tp": 130,
+            "fp": 0,
+            "tn": 0,
+            "fn": 49
+        },
+        "without_unixcoder": {
+            "tp": 157,
+            "fp": 0,
+            "tn": 0,
+            "fn": 22
+        },
+        "without_all cp": {
+            "tp": 128,
+            "fp": 0,
+            "tn": 0,
+            "fn": 51
+        },
+        "without_cg cp": {
+            "tp": 169,
+            "fp": 0,
+            "tn": 0,
+            "fn": 10
+        },
+        "without_ref cp": {
+            "tp": 133,
+            "fp": 0,
+            "tn": 0,
+            "fn": 46
+        },
+        "original": {
+            "tp": 130,
+            "fp": 0,
+            "tn": 0,
+            "fn": 49
+        }
+    },
+    "CVE-2016-9879": {
+        "without_cg": {
+            "tp": 32,
+            "fp": 1,
+            "tn": 165,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 32,
+            "fp": 1,
+            "tn": 165,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 31,
+            "fp": 1,
+            "tn": 165,
+            "fn": 1
+        },
+        "intra_1": {
+            "tp": 31,
+            "fp": 1,
+            "tn": 165,
+            "fn": 1
+        },
+        "without_unixcoder": {
+            "tp": 32,
+            "fp": 1,
+            "tn": 165,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 31,
+            "fp": 1,
+            "tn": 165,
+            "fn": 1
+        },
+        "without_cg cp": {
+            "tp": 32,
+            "fp": 1,
+            "tn": 165,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 32,
+            "fp": 1,
+            "tn": 165,
+            "fn": 0
+        },
+        "original": {
+            "tp": 32,
+            "fp": 0,
+            "tn": 166,
+            "fn": 0
+        }
+    },
+    "CVE-2017-4995": {
+        "without_cg": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 211,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 211,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 211,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 211,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 211,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 211,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 211,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 211,
+            "fn": 0
+        },
+        "original": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 211,
+            "fn": 0
+        }
+    },
+    "CVE-2016-7051": {
+        "without_cg": {
+            "tp": 75,
+            "fp": 0,
+            "tn": 77,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 75,
+            "fp": 0,
+            "tn": 77,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 75,
+            "fp": 0,
+            "tn": 77,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 75,
+            "fp": 0,
+            "tn": 77,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 75,
+            "fp": 4,
+            "tn": 73,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 75,
+            "fp": 0,
+            "tn": 77,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 75,
+            "fp": 0,
+            "tn": 77,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 75,
+            "fp": 0,
+            "tn": 77,
+            "fn": 0
+        },
+        "original": {
+            "tp": 75,
+            "fp": 0,
+            "tn": 77,
+            "fn": 0
+        }
+    },
+    "CVE-2022-22978": {
+        "without_cg": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 176,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 176,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 176,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 176,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 176,
+            "fn": 22
+        },
+        "without_all cp": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 176,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 176,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 176,
+            "fn": 0
+        },
+        "original": {
+            "tp": 22,
+            "fp": 0,
+            "tn": 176,
+            "fn": 0
+        }
+    },
+    "CVE-2018-1000844": {
+        "without_cg": {
+            "tp": 1,
+            "fp": 13,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 1,
+            "fp": 13,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 1,
+            "fp": 13,
+            "tn": 0,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 1,
+            "fp": 13,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 1,
+            "fp": 13,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 1,
+            "fp": 13,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 1,
+            "fp": 13,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 1,
+            "fp": 13,
+            "tn": 0,
+            "fn": 0
+        },
+        "original": {
+            "tp": 1,
+            "fp": 13,
+            "tn": 0,
+            "fn": 0
+        }
+    },
+    "CVE-2018-1000632": {
+        "without_cg": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 5,
+            "fp": 4,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        },
+        "original": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 4,
+            "fn": 0
+        }
+    },
+    "CVE-2023-42276": {
+        "without_cg": {
+            "tp": 188,
+            "fp": 6,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 188,
+            "fp": 6,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 6,
+            "fn": 188
+        },
+        "intra_1": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 6,
+            "fn": 188
+        },
+        "without_unixcoder": {
+            "tp": 188,
+            "fp": 6,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 6,
+            "fn": 188
+        },
+        "without_cg cp": {
+            "tp": 188,
+            "fp": 6,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 188,
+            "fp": 6,
+            "tn": 0,
+            "fn": 0
+        },
+        "original": {
+            "tp": 188,
+            "fp": 6,
+            "tn": 0,
+            "fn": 0
+        }
+    },
+    "CVE-2019-11343": {
+        "without_cg": {
+            "tp": 5,
+            "fp": 10,
+            "tn": 1,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 11,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 11,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 11,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 11,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 11,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 5,
+            "fp": 10,
+            "tn": 1,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 11,
+            "fn": 0
+        },
+        "original": {
+            "tp": 5,
+            "fp": 0,
+            "tn": 11,
+            "fn": 0
+        }
+    },
+    "CVE-2022-23082": {
+        "without_cg": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 5,
+            "fn": 3
+        },
+        "without_unixcoder": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        },
+        "original": {
+            "tp": 3,
+            "fp": 0,
+            "tn": 5,
+            "fn": 0
+        }
+    },
+    "CVE-2016-4465": {
+        "without_cg": {
+            "tp": 9,
+            "fp": 8,
+            "tn": 25,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 9,
+            "fp": 8,
+            "tn": 25,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 9,
+            "fp": 8,
+            "tn": 25,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 9,
+            "fp": 8,
+            "tn": 25,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 8,
+            "fp": 4,
+            "tn": 29,
+            "fn": 1
+        },
+        "without_all cp": {
+            "tp": 9,
+            "fp": 8,
+            "tn": 25,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 9,
+            "fp": 8,
+            "tn": 25,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 9,
+            "fp": 8,
+            "tn": 25,
+            "fn": 0
+        },
+        "original": {
+            "tp": 9,
+            "fp": 8,
+            "tn": 25,
+            "fn": 0
+        }
+    },
+    "CVE-2022-25867": {
+        "without_cg": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 3,
+            "fn": 8
+        },
+        "without_ref": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 3,
+            "fn": 12
+        },
+        "without_all": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 3,
+            "fn": 12
+        },
+        "intra_1": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 3,
+            "fn": 12
+        },
+        "without_unixcoder": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 3,
+            "fn": 12
+        },
+        "without_cg cp": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 3,
+            "fn": 8
+        },
+        "without_ref cp": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 3,
+            "fn": 12
+        },
+        "original": {
+            "tp": 12,
+            "fp": 0,
+            "tn": 3,
+            "fn": 0
+        }
+    },
+    "CVE-2022-24898": {
+        "without_cg": {
+            "tp": 349,
+            "fp": 0,
+            "tn": 110,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 349,
+            "fp": 0,
+            "tn": 110,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 349,
+            "fp": 0,
+            "tn": 110,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 110,
+            "fn": 349
+        },
+        "without_unixcoder": {
+            "tp": 349,
+            "fp": 0,
+            "tn": 110,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 349,
+            "fp": 0,
+            "tn": 110,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 349,
+            "fp": 0,
+            "tn": 110,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 349,
+            "fp": 0,
+            "tn": 110,
+            "fn": 0
+        },
+        "original": {
+            "tp": 349,
+            "fp": 0,
+            "tn": 110,
+            "fn": 0
+        }
+    },
+    "CVE-2016-4977": {
+        "without_cg": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 39,
+            "fn": 6
+        },
+        "without_ref": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 39,
+            "fn": 6
+        },
+        "without_all": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 39,
+            "fn": 6
+        },
+        "intra_1": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 39,
+            "fn": 6
+        },
+        "without_unixcoder": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 39,
+            "fn": 6
+        },
+        "without_all cp": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 39,
+            "fn": 6
+        },
+        "without_cg cp": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 39,
+            "fn": 6
+        },
+        "without_ref cp": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 39,
+            "fn": 6
+        },
+        "original": {
+            "tp": 10,
+            "fp": 0,
+            "tn": 39,
+            "fn": 6
+        }
+    },
+    "CVE-2018-1259": {
+        "without_cg": {
+            "tp": 19,
+            "fp": 110,
+            "tn": 87,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 19,
+            "fp": 82,
+            "tn": 115,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 19,
+            "fp": 110,
+            "tn": 87,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 197,
+            "fn": 19
+        },
+        "without_unixcoder": {
+            "tp": 19,
+            "fp": 110,
+            "tn": 87,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 19,
+            "fp": 110,
+            "tn": 87,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 19,
+            "fp": 110,
+            "tn": 87,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 19,
+            "fp": 82,
+            "tn": 115,
+            "fn": 0
+        },
+        "original": {
+            "tp": 19,
+            "fp": 0,
+            "tn": 197,
+            "fn": 0
+        }
+    },
+    "CVE-2018-15756": {
+        "without_cg": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 225,
+            "fn": 7
+        },
+        "without_ref": {
+            "tp": 31,
+            "fp": 23,
+            "tn": 202,
+            "fn": 7
+        },
+        "without_all": {
+            "tp": 38,
+            "fp": 100,
+            "tn": 125,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 38,
+            "fp": 100,
+            "tn": 125,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 38,
+            "fp": 28,
+            "tn": 197,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 38,
+            "fp": 100,
+            "tn": 125,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 31,
+            "fp": 0,
+            "tn": 225,
+            "fn": 7
+        },
+        "without_ref cp": {
+            "tp": 31,
+            "fp": 23,
+            "tn": 202,
+            "fn": 7
+        },
+        "original": {
+            "tp": 38,
+            "fp": 100,
+            "tn": 125,
+            "fn": 0
+        }
+    },
+    "CVE-2013-2055": {
+        "without_cg": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 101,
+            "fn": 28
+        },
+        "without_ref": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 101,
+            "fn": 28
+        },
+        "without_all": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 101,
+            "fn": 28
+        },
+        "intra_1": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 101,
+            "fn": 28
+        },
+        "without_unixcoder": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 101,
+            "fn": 28
+        },
+        "without_all cp": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 101,
+            "fn": 28
+        },
+        "without_cg cp": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 101,
+            "fn": 28
+        },
+        "without_ref cp": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 101,
+            "fn": 28
+        },
+        "original": {
+            "tp": 8,
+            "fp": 0,
+            "tn": 101,
+            "fn": 28
+        }
+    },
+    "CVE-2022-24197": {
+        "without_cg": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 8,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 29,
+            "fp": 8,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 8,
+            "fn": 29
+        },
+        "intra_1": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 8,
+            "fn": 29
+        },
+        "without_unixcoder": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 8,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 8,
+            "fn": 29
+        },
+        "without_cg cp": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 8,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 29,
+            "fp": 8,
+            "tn": 0,
+            "fn": 0
+        },
+        "original": {
+            "tp": 29,
+            "fp": 0,
+            "tn": 8,
+            "fn": 0
+        }
+    },
+    "CVE-2021-33609": {
+        "without_cg": {
+            "tp": 67,
+            "fp": 0,
+            "tn": 180,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 67,
+            "fp": 0,
+            "tn": 180,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 180,
+            "fn": 41
+        },
+        "intra_1": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 180,
+            "fn": 41
+        },
+        "without_unixcoder": {
+            "tp": 67,
+            "fp": 0,
+            "tn": 180,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 26,
+            "fp": 0,
+            "tn": 180,
+            "fn": 41
+        },
+        "without_cg cp": {
+            "tp": 67,
+            "fp": 0,
+            "tn": 180,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 67,
+            "fp": 0,
+            "tn": 180,
+            "fn": 0
+        },
+        "original": {
+            "tp": 67,
+            "fp": 0,
+            "tn": 180,
+            "fn": 0
+        }
+    },
+    "CVE-2022-22979": {
+        "without_cg": {
+            "tp": 15,
+            "fp": 37,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 37,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        },
+        "intra_1": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        },
+        "without_unixcoder": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        },
+        "without_all cp": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 37,
+            "fn": 1
+        },
+        "without_cg cp": {
+            "tp": 15,
+            "fp": 37,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 37,
+            "fn": 0
+        },
+        "original": {
+            "tp": 15,
+            "fp": 0,
+            "tn": 37,
+            "fn": 0
+        }
+    },
+    "CVE-2024-22257": {
+        "without_cg": {
+            "tp": 210,
+            "fp": 2,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 210,
+            "fp": 2,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 210,
+            "fp": 2,
+            "tn": 2,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 210,
+            "fp": 2,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 210,
+            "fp": 2,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 210,
+            "fp": 2,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 210,
+            "fp": 2,
+            "tn": 2,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 210,
+            "fp": 2,
+            "tn": 2,
+            "fn": 0
+        },
+        "original": {
+            "tp": 210,
+            "fp": 2,
+            "tn": 2,
+            "fn": 0
+        }
+    },
+    "CVE-2017-8045": {
+        "without_cg": {
+            "tp": 49,
+            "fp": 0,
+            "tn": 120,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 49,
+            "fp": 0,
+            "tn": 120,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 120,
+            "fn": 45
+        },
+        "intra_1": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 120,
+            "fn": 45
+        },
+        "without_unixcoder": {
+            "tp": 49,
+            "fp": 0,
+            "tn": 120,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 4,
+            "fp": 0,
+            "tn": 120,
+            "fn": 45
+        },
+        "without_cg cp": {
+            "tp": 49,
+            "fp": 0,
+            "tn": 120,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 49,
+            "fp": 0,
+            "tn": 120,
+            "fn": 0
+        },
+        "original": {
+            "tp": 49,
+            "fp": 0,
+            "tn": 120,
+            "fn": 0
+        }
+    },
+    "CVE-2020-11974": {
+        "without_cg": {
+            "tp": 0,
+            "fp": 8,
+            "tn": 37,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 0,
+            "fp": 4,
+            "tn": 41,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 0,
+            "fp": 10,
+            "tn": 35,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 0,
+            "fp": 10,
+            "tn": 35,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 0,
+            "fp": 7,
+            "tn": 38,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 0,
+            "fp": 10,
+            "tn": 35,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 0,
+            "fp": 8,
+            "tn": 37,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 0,
+            "fp": 4,
+            "tn": 41,
+            "fn": 0
+        },
+        "original": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 45,
+            "fn": 0
+        }
+    },
+    "CVE-2020-5421": {
+        "without_cg": {
+            "tp": 124,
+            "fp": 0,
+            "tn": 139,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 105,
+            "fp": 0,
+            "tn": 139,
+            "fn": 19
+        },
+        "without_all": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 139,
+            "fn": 124
+        },
+        "intra_1": {
+            "tp": 124,
+            "fp": 139,
+            "tn": 0,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 3,
+            "fp": 71,
+            "tn": 68,
+            "fn": 121
+        },
+        "without_all cp": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 139,
+            "fn": 124
+        },
+        "without_cg cp": {
+            "tp": 124,
+            "fp": 0,
+            "tn": 139,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 105,
+            "fp": 0,
+            "tn": 139,
+            "fn": 19
+        },
+        "original": {
+            "tp": 124,
+            "fp": 0,
+            "tn": 139,
+            "fn": 0
+        }
+    },
+    "CVE-2022-24897": {
+        "without_cg": {
+            "tp": 251,
+            "fp": 0,
+            "tn": 207,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 251,
+            "fp": 0,
+            "tn": 207,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 251,
+            "fp": 0,
+            "tn": 207,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 251,
+            "fp": 0,
+            "tn": 207,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 251,
+            "fp": 0,
+            "tn": 207,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 251,
+            "fp": 0,
+            "tn": 207,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 251,
+            "fp": 0,
+            "tn": 207,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 251,
+            "fp": 0,
+            "tn": 207,
+            "fn": 0
+        },
+        "original": {
+            "tp": 251,
+            "fp": 0,
+            "tn": 207,
+            "fn": 0
+        }
+    },
+    "CVE-2021-44228": {
+        "without_cg": {
+            "tp": 45,
+            "fp": 0,
+            "tn": 17,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 17,
+            "fn": 45
+        },
+        "without_all": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 17,
+            "fn": 45
+        },
+        "intra_1": {
+            "tp": 45,
+            "fp": 16,
+            "tn": 1,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 17,
+            "fn": 45
+        },
+        "without_all cp": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 17,
+            "fn": 45
+        },
+        "without_cg cp": {
+            "tp": 45,
+            "fp": 0,
+            "tn": 17,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 17,
+            "fn": 45
+        },
+        "original": {
+            "tp": 45,
+            "fp": 0,
+            "tn": 17,
+            "fn": 0
+        }
+    },
+    "CVE-2023-51080": {
+        "without_cg": {
+            "tp": 138,
+            "fp": 12,
+            "tn": 3,
+            "fn": 41
+        },
+        "without_ref": {
+            "tp": 138,
+            "fp": 12,
+            "tn": 3,
+            "fn": 41
+        },
+        "without_all": {
+            "tp": 138,
+            "fp": 12,
+            "tn": 3,
+            "fn": 41
+        },
+        "intra_1": {
+            "tp": 138,
+            "fp": 12,
+            "tn": 3,
+            "fn": 41
+        },
+        "without_unixcoder": {
+            "tp": 0,
+            "fp": 0,
+            "tn": 15,
+            "fn": 179
+        },
+        "without_all cp": {
+            "tp": 138,
+            "fp": 12,
+            "tn": 3,
+            "fn": 41
+        },
+        "without_cg cp": {
+            "tp": 138,
+            "fp": 12,
+            "tn": 3,
+            "fn": 41
+        },
+        "without_ref cp": {
+            "tp": 138,
+            "fp": 12,
+            "tn": 3,
+            "fn": 41
+        },
+        "original": {
+            "tp": 138,
+            "fp": 12,
+            "tn": 3,
+            "fn": 41
+        }
+    },
+    "CVE-2019-16771": {
+        "without_cg": {
+            "tp": 14,
+            "fp": 1,
+            "tn": 214,
+            "fn": 0
+        },
+        "without_ref": {
+            "tp": 14,
+            "fp": 1,
+            "tn": 214,
+            "fn": 0
+        },
+        "without_all": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        },
+        "intra_1": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        },
+        "without_unixcoder": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        },
+        "without_all cp": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        },
+        "without_cg cp": {
+            "tp": 14,
+            "fp": 1,
+            "tn": 214,
+            "fn": 0
+        },
+        "without_ref cp": {
+            "tp": 14,
+            "fp": 1,
+            "tn": 214,
+            "fn": 0
+        },
+        "original": {
+            "tp": 14,
+            "fp": 0,
+            "tn": 215,
+            "fn": 0
+        }
+    }
+}

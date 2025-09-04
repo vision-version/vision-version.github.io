@@ -1,0 +1,44 @@
+{
+    "org.apache.commons.compress.archivers.examples.Expander.expand(ArchiveEntrySupplier supplier, EntryWriter writer, File targetDirectory)": {
+        "deleteLines": [
+            "78368b"
+        ],
+        "vul_syn": [
+            "78368b",
+            "b87048",
+            "b99307"
+        ],
+        "vul_sem": [
+            [
+                "78368b",
+                "b87048",
+                "data"
+            ],
+            [
+                "78368b",
+                "b99307",
+                "data"
+            ],
+            [
+                "b87048",
+                "b99307",
+                "data"
+            ]
+        ],
+        "pat_syn": [
+            "51ab35"
+        ],
+        "pat_sem": [
+            [
+                "51ab35",
+                "b87048",
+                "data"
+            ],
+            [
+                "51ab35",
+                "b99307",
+                "data"
+            ]
+        ]
+    }
+}

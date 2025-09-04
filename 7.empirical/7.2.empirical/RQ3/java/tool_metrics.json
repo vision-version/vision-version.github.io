@@ -1,0 +1,62 @@
+{
+    "our_tool": {
+        "precision": 0.9,
+        "recall": 0.95,
+        "f1": 0.93,
+        "total_tp": 2463,
+        "total_fp": 280,
+        "total_tn": 4323,
+        "total_fn": 119,
+        "cve_count": 67
+    },
+    "nvd": {
+        "precision": 0.69,
+        "recall": 0.79,
+        "f1": 0.74,
+        "total_tp": 2018,
+        "total_fp": 907,
+        "total_tn": 3674,
+        "total_fn": 535,
+        "cve_count": 67
+    },
+    "github": {
+        "precision": 0.62,
+        "recall": 0.85,
+        "f1": 0.72,
+        "total_tp": 2117,
+        "total_fp": 1300,
+        "total_tn": 3170,
+        "total_fn": 381,
+        "cve_count": 64
+    },
+    "gitlab": {
+        "precision": 0.64,
+        "recall": 0.86,
+        "f1": 0.74,
+        "total_tp": 2143,
+        "total_fp": 1186,
+        "total_tn": 3272,
+        "total_fn": 350,
+        "cve_count": 63
+    },
+    "veracode": {
+        "precision": 0.87,
+        "recall": 0.83,
+        "f1": 0.85,
+        "total_tp": 2085,
+        "total_fp": 319,
+        "total_tn": 4233,
+        "total_fn": 426,
+        "cve_count": 64
+    },
+    "snyk": {
+        "precision": 0.72,
+        "recall": 0.85,
+        "f1": 0.78,
+        "total_tp": 2098,
+        "total_fp": 822,
+        "total_tn": 3383,
+        "total_fn": 380,
+        "cve_count": 63
+    }
+}
